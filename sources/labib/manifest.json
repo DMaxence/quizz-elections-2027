@@ -1,0 +1,35 @@
+{
+  "slug": "labib",
+  "sources": [
+    {
+      "id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+      "label": "Tract 4 pages de campagne présidentielle 2027 « C'est aux travailleurs et aux travailleuses de diriger la société ! »",
+      "publisher": "NPA-Révolutionnaires (site officiel)",
+      "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+      "final_url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:21:15+00:00",
+      "sha256": "2ee56502dbba87b73784b7b01a351f1a375e8e9d63aa09bc956db861c290edbb",
+      "raw": "sources/labib/raw/tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502.pdf",
+      "text": "sources/labib/text/tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502.txt",
+      "text_chars": 16301
+    },
+    {
+      "id": "d-claration-de-la-liste-npa-pour-un-monde-sans-patrons-ni-fr-6ae96fca",
+      "label": "Déclaration de la liste NPA « Pour un monde sans patrons ni frontières, urgence révolution ! » — européennes 2024 (conduite par Selma Labib)",
+      "publisher": "NPA-Révolutionnaires (site officiel)",
+      "url": "https://npa-revolutionnaires.org/articles/pour-un-monde-sans-patrons-ni-frontieres-urgence-revolution",
+      "final_url": "https://npa-revolutionnaires.org/articles/pour-un-monde-sans-patrons-ni-frontieres-urgence-revolution",
+      "year": "2024",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:21:50+00:00",
+      "sha256": "6ae96fcaeb876037580ca8d68aed6d6673ebb76b9f99a063e59fcd35642de39b",
+      "raw": "sources/labib/raw/d-claration-de-la-liste-npa-pour-un-monde-sans-patrons-ni-fr-6ae96fca.html",
+      "text": "sources/labib/text/d-claration-de-la-liste-npa-pour-un-monde-sans-patrons-ni-fr-6ae96fca.txt",
+      "text_chars": 3857
+    }
+  ]
+}

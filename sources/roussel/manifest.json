@@ -1,0 +1,80 @@
+{
+  "slug": "roussel",
+  "sources": [
+    {
+      "id": "site-de-campagne-pr-sidentielle-2027-texte-vivre-5b6ba459",
+      "label": "Site de campagne présidentielle 2027 — texte « Vivre ! »",
+      "publisher": "Fabien Roussel 2027 (site de campagne officiel)",
+      "url": "https://www.fabienroussel2027.fr/",
+      "final_url": "https://www.fabienroussel2027.fr/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:23:42+00:00",
+      "sha256": "5b6ba459eb42d088b54f25a2cb46de9f4b4e1c10a83f4cb97a19cc7d49c0bdae",
+      "raw": "sources/roussel/raw/site-de-campagne-pr-sidentielle-2027-texte-vivre-5b6ba459.html",
+      "text": "sources/roussel/text/site-de-campagne-pr-sidentielle-2027-texte-vivre-5b6ba459.txt",
+      "text_chars": 3173
+    },
+    {
+      "id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+      "label": "Plan jeunesse 2027-2032 (campagne Fabien Roussel)",
+      "publisher": "Fabien Roussel 2027 (site de campagne officiel)",
+      "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+      "final_url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:23:43+00:00",
+      "sha256": "c965f6cec631529adcb22d024862d7e7218f3a4358801ff692df984ef918c8e9",
+      "raw": "sources/roussel/raw/plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce.pdf",
+      "text": "sources/roussel/text/plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce.txt",
+      "text_chars": 17041
+    },
+    {
+      "id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+      "label": "Tract de campagne « Services publics : notre richesse, notre avenir »",
+      "publisher": "Fabien Roussel 2027 (site de campagne officiel)",
+      "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf?1791210591",
+      "final_url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf?1791210591",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:23:43+00:00",
+      "sha256": "ebe5d25c30081796195a10dd636252478b4ba347028d20f44bc16fc65ec57592",
+      "raw": "sources/roussel/raw/tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c.pdf",
+      "text": "sources/roussel/text/tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c.txt",
+      "text_chars": 2054
+    },
+    {
+      "id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+      "label": "Programme de la liste « Gauche unie pour le monde du travail » (conduite par le PCF) — européennes 2024 : « Reprenons la main en France et en Europe »",
+      "publisher": "PCF (site officiel, fichiers hébergés sur assets.nationbuilder.com/pcf)",
+      "url": "https://assets.nationbuilder.com/pcf/pages/18559/attachments/original/1713533597/document_PROGRAMME.pdf",
+      "final_url": "https://assets.nationbuilder.com/pcf/pages/18559/attachments/original/1713533597/document_PROGRAMME.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:23:46+00:00",
+      "sha256": "0b109da56e58a52d23d760742af8c456acc06808353d63e01e6ca47b4d5e67a1",
+      "raw": "sources/roussel/raw/programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5.pdf",
+      "text": "sources/roussel/text/programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5.txt",
+      "text_chars": 150682
+    },
+    {
+      "id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+      "label": "Programme du Nouveau Front populaire — législatives 2024 (commun LFI, PS, Écologistes, PCF…)",
+      "publisher": "PCF (site officiel, fichiers hébergés sur assets.nationbuilder.com/pcf)",
+      "url": "https://assets.nationbuilder.com/pcf/pages/20091/attachments/original/1718381909/PROGRAMME_FRONT_POPULAIRE_V6.pdf",
+      "final_url": "https://assets.nationbuilder.com/pcf/pages/20091/attachments/original/1718381909/PROGRAMME_FRONT_POPULAIRE_V6.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:23:47+00:00",
+      "sha256": "1889625f46e3aa69608b84e9126e7532ddab2cb0e2e60426724adfe71551df13",
+      "raw": "sources/roussel/raw/programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f.pdf",
+      "text": "sources/roussel/text/programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f.txt",
+      "text_chars": 35632
+    }
+  ]
+}

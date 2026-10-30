@@ -1,0 +1,407 @@
+[
+  {
+    "id": "becht-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Créer un fonds souverain français, le « Fonds Marianne », alimenté par l'épargne des Français",
+    "quote": "Pour financer ces chantiers colossaux autrement que par la dette de l’État, nous créerons un fonds souverain français, le « Fonds Marianne ».",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "becht-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer la moitié des normes et des procédures en deux ans",
+    "quote": "Il en existe aujourd’hui plus de 400 000, et il s’en trouve toujours une, quelque part, pour empêcher d’agir. […] La moitié de ces normes et des procédures sera supprimée en 2 ans.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "becht-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Interdire le rachat des entreprises stratégiques françaises par des puissances étrangères",
+    "quote": "nous interdirons le rachat de nos entreprises stratégiques par des puissances étrangères",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Imposer des mesures miroirs : tout produit importé doit respecter les normes imposées aux producteurs français",
+    "quote": "Chaque loi devra comporter des mesures miroirs : tout produit qui entre sur notre territoire doit respecter les normes que nous imposons à nos propres producteurs.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "becht-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Instaurer un « bouclier travail » : 60 % de toute hausse de revenu revient en net au salarié",
+    "quote": "Nous instaurerons aussi un « bouclier travail » : toute augmentation de revenu devra bénéficier en net pour 60 % au salarié, et non 40 % comme aujourd’hui",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "becht-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Créer un CDI universel, portable d'une entreprise à l'autre, garantissant un revenu permanent au moins égal au salaire minimum",
+    "quote": "je propose un contrat à durée indéterminée, portable d’une entreprise à l’autre, garantissant un revenu permanent tout au long de la vie active.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Instaurer une retraite par points avec âge de départ choisi, soumise à référendum",
+    "quote": "je propose une voie d’apaisement, qui sera négociée avec les partenaires sociaux puis soumise à référendum et qui marierait la liberté et la responsabilité. Le système serait simple : chaque euro cotisé donne un point. Chacun choisit l’âge de son départ après un certain nombre de trimestres cotisés.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "becht-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Garantir une retraite d'au moins 1 200 euros par mois pour une carrière complète",
+    "quote": "Surtout, un complément de dignité garantira qu’aucune retraite, pour une carrière complète ou un travail mené jusqu’à un âge avancé, ne soit inférieure à 1 200 euros par mois",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "becht-09",
+    "theme": "Protection sociale et famille",
+    "measure": "Remplacer l'assurance chômage, le RSA et les aides au logement par le CDI universel",
+    "quote": "Rompre ce contrat, ou le perdre pour faute grave, n’ouvre droit à aucune autre prestation, car le CDI universel remplace justement l’assurance chômage, le revenu de solidarité et les aides au logement.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "becht-10",
+    "theme": "Protection sociale et famille",
+    "measure": "Verser les allocations familiales dès le premier enfant, plafonnées au-delà du cinquième",
+    "quote": "Nous soutiendrons la natalité par des allocations familiales dès le premier enfant, mais plafonnées au-delà du cinquième, pour qu’elles n’aient jamais à devenir un revenu.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "becht-11",
+    "theme": "Protection sociale et famille",
+    "measure": "Prolonger l'aide sociale à l'enfance jusqu'à 25 ans",
+    "quote": "L’aide sociale à l’enfance sera prolongée jusqu’à vingt-cinq ans",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "becht-12",
+    "theme": "Santé",
+    "measure": "Supprimer les agences régionales de santé et confier leurs missions aux préfets",
+    "quote": "Les agences régionales de santé, elles, seront supprimées, leurs missions confiées aux préfets en lien avec les élus",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "becht-13",
+    "theme": "Santé",
+    "measure": "Garantir à chacun un médecin traitant à moins de 30 minutes, consultable sous 48 heures",
+    "quote": "Chacun doit pouvoir consulter un médecin traitant à moins de 30 minutes de chez lui, sous 48 heures.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "becht-14",
+    "theme": "Santé",
+    "measure": "Augmenter de 20 % les quotas d'étudiants en santé et créer une faculté de médecine dans presque chaque département",
+    "quote": "il faudra encore augmenter de 20 % les quotas d’étudiants en santé, et cesser d’envoyer les nôtres étudier en Roumanie faute de places en France. Je veux une faculté de médecine dans presque chaque département, adossée à un hôpital",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "becht-15",
+    "theme": "Santé",
+    "measure": "Intégrer la carte Vitale à la carte d'identité pour lutter contre la fraude",
+    "quote": "Nous intégrerons par ailleurs la carte Vitale à la carte d’identité, dans le cadre du plan France Identité, pour lutter efficacement contre la fraude.",
+    "source_id": "le-projet-france-2027-les-5-refondations-la-sant-4adc3b88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "becht-16",
+    "theme": "École et jeunesse",
+    "measure": "Supprimer Parcoursup et le remplacer par une épreuve complémentaire au baccalauréat conditionnant l'entrée dans le supérieur",
+    "quote": "Parcoursup sera supprimé et remplacé par une épreuve complémentaire au baccalauréat, propre à chaque spécialité, conditionnant l’entrée à l’université, en grande école, en IUT ou en BTS",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "becht-17",
+    "theme": "École et jeunesse",
+    "measure": "Porter le salaire des enseignants débutants à 1,8 SMIC (professeur des écoles) et 2,3 SMIC (agrégé)",
+    "quote": "Pour revaloriser la profession, leurs salaires retrouveront l’écart au salaire minimum d’il y a 30 ans, 1,8 SMIC pour un professeur des écoles et 2,3 pour un agrégé",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "becht-18",
+    "theme": "École et jeunesse",
+    "measure": "Remplacer le brevet des collèges par un brevet primaire",
+    "quote": "le brevet des collèges laissera place à un brevet primaire, garantissant que nul ne sorte du primaire sans savoir lire, écrire, compter et connaître les valeurs de la République.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "becht-19",
+    "theme": "École et jeunesse",
+    "measure": "Généraliser un prêt étudiant garanti par l'État d'environ 50 000 euros, remboursable selon les revenus",
+    "quote": "Chaque étudiant qui le souhaite pourra emprunter de l’ordre de 50 000 euros sur cinq ans, à taux très réduit, remboursable sur 15 ans après les études selon ses revenus.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-20",
+    "theme": "Immigration",
+    "measure": "Ramener le nombre de titres de séjour à cinq catégories",
+    "quote": "Le code de l’entrée et du séjour sera entièrement remanié, et le nombre de titres ramené à cinq catégories.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-21",
+    "theme": "Immigration",
+    "measure": "Limiter le regroupement familial hors Union européenne",
+    "quote": "Les titres de vie familiale seront encadrés, le regroupement familial limité hors Union européenne.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-22",
+    "theme": "Immigration",
+    "measure": "Faire déposer les demandes d'asile dans des centres à l'étranger et instruire en centres fermés celles faites en France",
+    "quote": "L’asile, enfin, sera limité dans le temps […] Toute demande devra d’abord être déposée dans un centre à l’étranger, recours compris ; et les personnes déjà présentes ou se présentant à la frontière ne verront leur demande instruite que dans des centres fermés",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-23",
+    "theme": "Immigration",
+    "measure": "Ne pas sanctionner pénalement le séjour illégal mais reconduire les personnes en situation irrégulière",
+    "quote": "Il n’y aura pas de peine pénale pour le séjour illégal : une personne en situation irrégulière doit être reconduite, non remplir des prisons réservées à ceux qui menacent la société.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-24",
+    "theme": "Sécurité et justice",
+    "measure": "Recruter 10 000 policiers supplémentaires",
+    "quote": "Nous recruterons 10 000 policiers supplémentaires, pour renforcer une présence sur le terrain aujourd’hui insuffisante face à la demande de protection des Français.",
+    "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "becht-25",
+    "theme": "Sécurité et justice",
+    "measure": "Créer des centres de redressement encadrés par des militaires pour les délinquants les plus durs",
+    "quote": "Nous mettrons également en place des centres de redressement encadrés par des militaires, afin de permettre aux délinquants les plus durs de rembourser les dégâts causés à la société",
+    "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "becht-26",
+    "theme": "Sécurité et justice",
+    "measure": "Juger toute affaire en 18 mois maximum par niveau d'instance",
+    "quote": "Tribunaux et cours seront renforcés pour que toute affaire soit jugée en 18 mois au maximum par niveau d’instance.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "becht-27",
+    "theme": "Sécurité et justice",
+    "measure": "Protéger par la loi les policiers en légitime défense et les enseignants face aux élèves violents",
+    "quote": "la loi protégera les policiers en légitime défense et les enseignants face aux élèves violents, pour qu’ils ne soient pas condamnés plus durement que leurs agresseurs",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer un référendum d'initiative citoyenne déclenché par 2 % du corps électoral",
+    "quote": "Mais la plus grande réforme sera l’instauration d’un référendum d’initiative citoyenne. […] Un tel référendum pourra porter sur tout sujet de l’article 34 de la Constitution, dès lors qu’il aura recueilli, en six mois, les signatures de 2 % du corps électoral, vérifiées par une autorité indépendante.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "becht-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Reconnaître le vote blanc et annuler l'élection s'il atteint la moitié des votants",
+    "quote": "Pour les autres scrutins, le vote blanc sera enfin reconnu : lorsqu’il atteint la moitié des votants, l’élection sera annulée et rejouée dans les trois mois",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Limiter le droit de dissolution et confier l'essentiel de l'initiative des lois aux parlementaires",
+    "quote": "le droit de dissolution sera limité aux crises graves et à l’après-présidentielle, et l’initiative des lois reviendra pour l’essentiel aux parlementaires, hors textes budgétaires.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-31",
+    "theme": "Logement et territoires",
+    "measure": "Permettre aux départements de fusionner en Provinces",
+    "quote": "Dans cette logique, les départements pourront fusionner en Provinces, pour joindre leurs efforts et leurs moyens et gagner en efficacité.",
+    "source_id": "le-projet-france-2027-les-5-refondations-le-pacte-d-mocratiq-8ad359c5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "becht-32",
+    "theme": "Logement et territoires",
+    "measure": "Instaurer une garantie de 15 services de proximité accessibles partout",
+    "quote": "nous instaurerons la garantie des 15 services de proximité. Cette garantie assurera à chacun, où qu’il habite, le même niveau de service",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "becht-33",
+    "theme": "Logement et territoires",
+    "measure": "Déroger à la règle du zéro artificialisation nette pour installer de nouvelles activités",
+    "quote": "Et là où il faudra installer de nouvelles activités, nous saurons déroger à la règle du zéro artificialisation nette, qui ne doit pas devenir le prétexte à tout interdire",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "becht-34",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Investir près de 150 Md€ sur 20 ans pour produire en masse des carburants de synthèse",
+    "quote": "Ces carburants de synthèse sont aujourd’hui trop chers car il n’y a pas de production de masse. […] Il faut donc massifier. C’est un effort colossal, qui mobilisera la Nation pendant 20 ans, près de 150 milliards d’investissement et un développement massif de notre production électrique, nucléaire et renouvelable.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "becht-35",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Atteindre la neutralité carbone dès 2045",
+    "quote": "Nous atteindrions aussi la neutralité carbone dès 2045, 5 ans avant l’échéance que s’est fixée le monde à Paris.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "becht-36",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Lancer un plan national de 30 Md€ pour protéger les Français du changement climatique",
+    "quote": "Le Pacte des Territoires s’accompagnera, dans toute la France, d’un plan national de 30 milliards d’euros pour protéger les Français du changement climatique.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "becht-37",
+    "theme": "Agriculture et alimentation",
+    "measure": "Lancer un plan « Ambition Phyto Zéro » pour se passer des pesticides d'ici 10 ans",
+    "quote": "nous lancerons, avec les agriculteurs, un grand plan « Ambition Phyto Zéro », visant à se passer des pesticides d’ici 10 ans",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "becht-38",
+    "theme": "Agriculture et alimentation",
+    "measure": "Généraliser l'étiquetage de l'origine des produits alimentaires",
+    "quote": "et de généraliser l’étiquetage de l’origine pour que le consommateur sache enfin ce qu’il achète.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "becht-39",
+    "theme": "Europe, international et défense",
+    "measure": "Porter l'armée de Terre à 150 000 hommes et doter la Marine d'un deuxième porte-avions",
+    "quote": "l’armée de Terre sera portée à 150 000 hommes, 300 chars lourds et 400 blindés Jaguar, l’armée de l’Air à 300 avions de combat, et la Marine dotée d’un deuxième porte-avions de nouvelle génération",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "becht-40",
+    "theme": "Europe, international et défense",
+    "measure": "Créer un engagement citoyen de 10 mois au service de la protection de la Nation pour chaque Français",
+    "quote": "chaque Français consacrera, au cours de sa vie active, 10 mois à la protection de la Nation, d’un bloc au sein des armées ou par séquences aux côtés de la gendarmerie, de la police, des pompiers ou de la sécurité civile.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "becht-41",
+    "theme": "Europe, international et défense",
+    "measure": "Refonder l'Europe autour d'un noyau dur organisé en confédération",
+    "quote": "Un nouveau modèle de rayonnement défendra nos intérêts et nos valeurs dans le monde, et refondera l’Europe autour d’un noyau dur bâti comme une véritable confédération, pour réduire l’influence de l’Europe technocratique de Bruxelles",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-8adb9099",
+    "page": 10,
+    "concrete": false
+  },
+  {
+    "id": "becht-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Créer une agence indépendante de vérification de l'information financée par 1 € par an et par abonné",
+    "quote": "Une agence de vérification de l’information, indépendante, fera la part du vrai et du faux à l’ère des fake news et des deep fakes, à la demande d’un citoyen ou d’un média. Elle sera financée par une contribution d’un euro par an et par abonné téléphonique ou internet",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "becht-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Fusionner la CNIL, la HATVP et la CADA en une Haute Autorité inscrite dans la Constitution",
+    "quote": "nous introduirons dans la Constitution, une Haute Autorité pour la transparence publique et le respect de la vie privée, née de la fusion de la CNIL, de la Haute Autorité pour la transparence de la vie publique et de la commission d’accès aux documents administratifs",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "becht-44",
+    "theme": "Société et libertés",
+    "measure": "Interdire tout financement étranger des cultes et financer les lieux de culte par une contribution des fidèles",
+    "quote": "Leur financement et celui des lieux de culte passeront par une contribution des fidèles, déductible sous plafond. […] Tout financement venu de l’étranger sera strictement interdit.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "becht-45",
+    "theme": "Société et libertés",
+    "measure": "Imposer que les tenues religieuses dans l'espace public soient compatibles avec les valeurs de la République",
+    "quote": "Nous imposerons que les tenues portées au nom de la religion dans l’espace public soient compatibles avec les valeurs et coutumes de la République.",
+    "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "page": 10,
+    "concrete": true
+  }
+]

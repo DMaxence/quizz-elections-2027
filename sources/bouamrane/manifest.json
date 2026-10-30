@@ -1,0 +1,20 @@
+{
+  "slug": "bouamrane",
+  "sources": [
+    {
+      "id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+      "label": "Manifeste de Karim Bouamrane pour 2027 — « Une France humaine. Une France forte. »",
+      "publisher": "Karim Bouamrane 2027 (karimbouamrane2027.org, mouvement La France humaine et forte)",
+      "url": "https://www.karimbouamrane2027.org/output/pdf/manifeste-karim-bouamrane-2027-v2.pdf",
+      "final_url": "https://www.karimbouamrane2027.org/output/pdf/manifeste-karim-bouamrane-2027-v2.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:24:33+00:00",
+      "sha256": "4cdd196fb04925ee78f15cca34a2f446cf80afc20841f9078f16b8764b6f9a2f",
+      "raw": "sources/bouamrane/raw/manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f.pdf",
+      "text": "sources/bouamrane/text/manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f.txt",
+      "text_chars": 12199
+    }
+  ]
+}

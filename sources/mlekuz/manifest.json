@@ -1,0 +1,35 @@
+{
+  "slug": "mlekuz",
+  "sources": [
+    {
+      "id": "programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823",
+      "label": "Programme détaillé de Trajectoire 2027 — livre blanc « Nouvelle démocratie. Chemin pour changer les règles du jeu politique dès 2027 » (Démocratie Ouverte, publié par Trajectoire)",
+      "publisher": "Trajectoire (trajectoire2027.fr)",
+      "url": "https://trajectoire2027.fr/docs/programme-detaille-trajectoire.pdf",
+      "final_url": "https://trajectoire2027.fr/docs/programme-detaille-trajectoire.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:19:26+00:00",
+      "sha256": "94f628237c316449edf61dcb32bf930b55c5126a8c9c922e057b6f5a0f75ec5d",
+      "raw": "sources/mlekuz/raw/programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823.pdf",
+      "text": "sources/mlekuz/text/programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823.txt",
+      "text_chars": 51865
+    },
+    {
+      "id": "programme-trajectoire-2027-e557f7ad",
+      "label": "Programme — Trajectoire 2027",
+      "publisher": "trajectoire2027.fr",
+      "url": "https://trajectoire2027.fr/programme",
+      "final_url": "https://trajectoire2027.fr/programme",
+      "year": "2027",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:28:08+00:00",
+      "sha256": "e557f7adeedc2b7cf5a092e10af6396351c491d0376638421cb0c3e60495bbf0",
+      "raw": "sources/mlekuz/raw/programme-trajectoire-2027-e557f7ad.html",
+      "text": "sources/mlekuz/text/programme-trajectoire-2027-e557f7ad.txt",
+      "text_chars": 4789
+    }
+  ]
+}

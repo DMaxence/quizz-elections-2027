@@ -1,0 +1,20 @@
+{
+  "slug": "durif",
+  "sources": [
+    {
+      "id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+      "label": "Le projet de Sylvain Durif — 50 engagements, programme présidentiel 2027-2032 — durif2027.com (copie archivée du 07/09/2026)",
+      "publisher": "durif2027.com (site de campagne officiel, via Internet Archive)",
+      "url": "https://web.archive.org/web/20260907031428id_/https://durif2027.com/le-projet",
+      "final_url": "https://web.archive.org/web/20260907031428id_/https://durif2027.com/le-projet",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:29:05+00:00",
+      "sha256": "05a18eeaa8ac045b594845a9383e534f0a0d947bd66f3975077dadc1dee395a7",
+      "raw": "sources/durif/raw/le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea.html",
+      "text": "sources/durif/text/le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea.txt",
+      "text_chars": 8471
+    }
+  ]
+}

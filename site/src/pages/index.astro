@@ -1,0 +1,365 @@
+---
+import Base from "../layouts/Base.astro";
+import candidates from "../data/candidates.json";
+import questions from "../data/questions.json";
+import results from "../data/results.json";
+
+const STATUS = {
+  officiel: "Programme 2027 publié",
+  partiel: "Pas de programme 2027 : documents antérieurs",
+  aucun: "Aucun programme publié",
+} as const;
+type Status = keyof typeof STATUS;
+
+const groups = (["officiel", "partiel", "aucun"] as Status[]).map((s) => ({
+  status: s,
+  people: candidates.filter((c) => c.status === s),
+}));
+const nDocs = candidates.reduce((n, c) => n + c.sources.length, 0);
+const stances = results.stances as Record<string, Record<string, { stance: string; quotes: unknown[] }>>;
+const nQuotes = Object.values(stances).reduce(
+  (n, st) => n + Object.values(st).reduce((m, s) => m + s.quotes.length, 0), 0);
+const nQuestions = questions.length;
+
+// the sample proposition for the live block: the first quiz question, with anonymous counts only
+const sample = questions[0];
+const counts = { pour: 0, contre: 0, rien: 0 };
+if (sample) {
+  for (const c of candidates) {
+    if (c.status === "aucun") continue;
+    const s = stances[c.slug]?.[sample.id]?.stance;
+    if (s === "pour") counts.pour++;
+    else if (s === "contre") counts.contre++;
+    else counts.rien++;
+  }
+}
+const nWithProgram = candidates.filter((c) => c.status !== "aucun").length;
+const words = ["zéro", "un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix", "onze", "douze", "treize", "quatorze", "quinze", "seize", "dix-sept", "dix-huit", "dix-neuf", "vingt", "vingt et un", "vingt-deux", "vingt-trois", "vingt-quatre", "vingt-cinq", "vingt-six", "vingt-sept", "vingt-huit", "vingt-neuf", "trente", "trente et un", "trente-deux", "trente-trois", "trente-quatre", "trente-cinq", "trente-six", "trente-sept", "trente-huit", "trente-neuf", "quarante"];
+const say = (n: number) => words[n] ?? String(n);
+const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
+---
+<Base title="Isoloir — le quiz des programmes de la présidentielle 2027" bar={false}>
+  <main id="top">
+    <section class="board" aria-label="Présentation">
+      <div class="board__top">
+        <a class="tile tile--ink board__mark" href="/" aria-label="Isoloir, accueil">
+          <svg viewBox="0 0 40 40" width="28" height="28" aria-hidden="true"><path d="M8 6h24v3H8zM10 9h3v25h-3zM27 9h3v25h-3zM13 9c3 6 3 14 0 25h7c2-9 2-17 0-25z" fill="currentColor"/></svg>
+        </a>
+        <nav class="tile tile--paper board__links" aria-label="Navigation principale">
+          <a href="#principe">Le principe</a>
+          <a href="#candidats">Les candidats</a>
+          <a href="/methode">La méthode</a>
+          <a href="#questions">Questions</a>
+        </nav>
+        <a class="tile tile--ink board__action" href="/quiz">Commencer le quiz</a>
+      </div>
+      <div class="board__grid">
+        <div class="tile tile--paper board__name">
+          <h1><span class="board__word">Isoloir</span><span class="board__sub lead">Le quiz des programmes de la présidentielle 2027, sans nom ni visage.</span></h1>
+        </div>
+        <figure class="tile board__photo board__photo--a shutter">
+          <img src="/img/isoloirs-1919.jpg" width="1376" height="932" alt="Trois électeurs devant des isoloirs à rideau dans un bureau de vote parisien, 1919." fetchpriority="high" />
+        </figure>
+        <figure class="tile board__photo board__photo--b">
+          <img src="/img/bulletins-1932.jpg" width="1376" height="952" alt="Électeurs penchés sur une table où sont alignées les piles de bulletins de vote, 1932." />
+        </figure>
+        <div class="board__pair">
+          <div class="tile tile--ink board__go">
+            <p>{cap(say(nQuestions || 30))} propositions tirées des programmes officiels. Vous ne savez pas qui les porte.</p>
+            <a class="btn btn--paper" href="/quiz">Commencer</a>
+          </div>
+          <p class="tile tile--field">Au dépouillement, les noms apparaissent. Premier tour le 18 avril 2027.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="principe" class="stairs wrap" aria-labelledby="stairs-1">
+      <ol class="stairs__list">
+        <li data-rise="0"><h2 id="stairs-1">D'abord, vous lisez.</h2><p>Une proposition à la fois, tirée des programmes officiels. Ni nom, ni parti, ni visage.</p></li>
+        <li data-rise="1"><h3>Puis vous tranchez, seul.</h3><p>D'accord, pas d'accord ou sans avis. Marquez « important » ce qui compte pour vous.</p></li>
+        <li data-rise="2"><h3>Ensuite, on dépouille.</h3><p>Les noms apparaissent : qui défend vos réponses, qui s'y oppose, qui n'en dit rien.</p></li>
+        <li data-rise="3"><h3>Enfin, vous vérifiez.</h3><p>Chaque position renvoie à la phrase exacte et au document officiel d'où elle vient.</p></li>
+      </ol>
+    </section>
+
+    {sample && (
+      <section class="trial" aria-labelledby="trial-h">
+        <div class="trial__inner wrap">
+          <div class="trial__text">
+            <h2 id="trial-h" class="head" data-rise="0">Essayez, sur une seule proposition</h2>
+            <p class="lead" data-rise="1">Elle figure dans au moins un programme. Répondez : vous verrez combien de candidats la défendent, sans savoir lesquels.</p>
+          </div>
+          <form class="slip" data-sample={sample.id} data-rise="2" aria-describedby="slip-theme">
+            <p class="slip__text">{sample.text}</p>
+            {sample.help && <p class="slip__help">{sample.help}</p>}
+            <p id="slip-theme" class="slip__theme small">Thème : {sample.theme.toLowerCase()}</p>
+            <fieldset class="slip__choices">
+              <legend class="sr-only">Votre avis</legend>
+              <button type="button" class="btn" value="accord">D'accord</button>
+              <button type="button" class="btn" value="desaccord">Pas d'accord</button>
+              <button type="button" class="btn btn--quiet" value="neutre">Sans avis</button>
+            </fieldset>
+            <div class="slip__count" aria-live="polite" hidden
+              data-pour={counts.pour} data-contre={counts.contre} data-rien={counts.rien} data-total={nWithProgram}>
+              <p class="slip__tally nums">
+                <span><strong>{counts.pour}</strong> la défendent</span>
+                <span><strong>{counts.contre}</strong> s'y opposent</span>
+                <span><strong>{counts.rien}</strong> n'en parlent pas</span>
+              </p>
+              <p class="small">Sur {nWithProgram} candidats dont au moins un document est archivé. Votre réponse est gardée pour la suite.</p>
+              <a class="btn btn--paper" href="/quiz?suite=1">Continuer avec les {Math.max(nQuestions - 1, 0)} autres</a>
+            </div>
+          </form>
+        </div>
+      </section>
+    )}
+
+    <section id="candidats" class="roll wrap" aria-labelledby="roll-h">
+      <h2 id="roll-h" class="roll__h" data-rise="0">Où en sont les programmes</h2>
+      <div class="roll__body">
+        <aside class="roll__side">
+          <p class="small" data-rise="1">Candidatures déclarées au 30 octobre 2026, par ordre alphabétique. La liste officielle sera arrêtée par le Conseil constitutionnel au printemps 2027, après le recueil des 500 parrainages.</p>
+          <ul class="roll__legend small" data-rise="2">
+            <li><span class="dot dot--officiel"></span>Programme 2027 publié, même partiellement</li>
+            <li><span class="dot dot--partiel"></span>Pas encore de programme 2027 : propositions de 2024 ou du site officiel</li>
+            <li><span class="dot dot--aucun"></span>Rien de publié à ce jour, absent du quiz</li>
+          </ul>
+          <figure class="roll__photo">
+            <img src="/img/panneaux-1932.jpg" width="1376" height="958" loading="lazy" alt="Deux passants lisent les affiches des candidats sur les panneaux électoraux numérotés, à Paris en 1932." />
+          </figure>
+        </aside>
+        <div class="roll__table">
+          {groups.map((g) => g.people.length > 0 && (
+            <ul class="roll__group" aria-label={STATUS[g.status]}>
+              {g.people.map((c) => (
+                <li class="roll__row">
+                  <span class="roll__who"><span class={`dot dot--${c.status}`} aria-hidden="true"></span>{c.name}</span>
+                  <span class="roll__party">{c.party}</span>
+                  <span class="sr-only">, {STATUS[g.status]}</span>
+                </li>
+              ))}
+            </ul>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="facts wrap" aria-labelledby="facts-h">
+      <h2 id="facts-h" class="head" data-rise="0">Rien que les programmes</h2>
+      <p class="lead facts__lead" data-rise="1">Aucune phrase de ce quiz ne vient de la presse, d'une interview ou d'un réseau social. Chaque position est une citation exacte d'un document publié par le candidat ou son parti.</p>
+      <div class="facts__mosaic">
+        <figure class="facts__photo">
+          <img src="/img/urne-1932.jpg" width="1376" height="952" loading="lazy" alt="File d'électeurs devant l'urne en bois d'un bureau de vote, 1932." />
+          <p class="facts__note small">Un sujet qu'un programme n'aborde pas ne compte ni pour ni contre son candidat. Les scores indiquent toujours sur combien de questions ils reposent.</p>
+        </figure>
+        <div class="facts__tile">
+          <p class="facts__big nums">{nQuotes || "—"}</p>
+          <p>citations vérifiées, une à une, contre le texte source archivé.</p>
+        </div>
+        <dl class="facts__pairs small">
+          <div><dt>Candidats suivis</dt><dd class="nums">{candidates.length}</dd></div>
+          <div><dt>Documents archivés</dt><dd class="nums">{nDocs}</dd></div>
+          <div><dt>Questions</dt><dd class="nums">{nQuestions}</dd></div>
+          <div><dt>Données collectées</dt><dd class="nums">0</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <section id="questions" class="faq wrap" aria-labelledby="faq-h">
+      <div class="faq__row"><h2 id="faq-h" class="faq__q faq__title">Vos questions</h2><p>Les réponses courtes sont ici ; chaque étape est détaillée, avec ses limites, sur la page <a class="link" href="/methode">Méthode</a>.</p></div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Pourquoi cacher les noms ?</h3>
+        <p>Parce qu'un nom, un visage ou une étiquette décident souvent avant l'idée. Ici, chaque proposition est jugée pour elle-même ; les noms n'apparaissent qu'au dépouillement.</p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">D'où viennent les propositions ?</h3>
+        <p>Des documents publiés par les candidats ou leurs partis sur leurs sites officiels : le programme 2027 quand il existe, sinon les programmes de 2024 et les propositions en ligne. La liste complète des documents est donnée avec les résultats.</p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Comment le score est-il calculé ?</h3>
+        <p>Pour chaque question où vous avez un avis et où le candidat a une position écrite, on compte un accord ou un désaccord. Les questions marquées « importantes » comptent double. Une question que son programme n'aborde pas est simplement écartée.</p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Qui a écrit les questions ?</h3>
+        <p>Elles ont été rédigées à partir des programmes avec l'aide d'une intelligence artificielle, en alternant formulations pour et contre. Chaque citation est ensuite vérifiée automatiquement, mot pour mot, dans le document d'origine. <a class="link" href="/methode">Voir la méthode</a></p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Mes réponses sont-elles enregistrées ?</h3>
+        <p>Non. Elles restent dans votre navigateur et ne sont envoyées nulle part. Pas de compte, pas de cookie, pas de mesure d'audience. Vous pouvez tout effacer depuis la page des résultats.</p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Est-ce une consigne de vote ?</h3>
+        <p>Non. Un programme ne dit pas tout d'un candidat, et le quiz ne couvre qu'une partie des programmes. C'est un point de départ pour lire, comparer et se faire son propre avis.</p>
+      </div>
+    </section>
+  </main>
+</Base>
+
+<script>
+  const KEY = "isoloir:v1";
+  const form = document.querySelector<HTMLFormElement>(".slip");
+  if (form) {
+    const qid = form.dataset.sample!;
+    const box = form.querySelector<HTMLElement>(".slip__count")!;
+    form.querySelectorAll<HTMLButtonElement>(".slip__choices button").forEach((b) => {
+      b.addEventListener("click", () => {
+        let state: { answers: Record<string, { a: string; imp: boolean }> } = { answers: {} };
+        try { state = JSON.parse(localStorage.getItem(KEY) || "") || state; } catch {}
+        state.answers ??= {};
+        state.answers[qid] = { a: b.value, imp: false };
+        try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {}
+        form.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+        box.hidden = false;
+      });
+    });
+  }
+</script>
+
+<style>
+  /* ---------- hero board ---------- */
+  .board { padding: 8px; display: grid; gap: 8px; min-height: 100svh; grid-template-rows: 60px 1fr; }
+  .tile { margin: 0; border-radius: var(--radius); overflow: hidden; }
+  .tile--ink { background: var(--night); color: var(--night-ink); }
+  .tile--paper { background: var(--sheet); }
+  .tile--field { background: var(--field); }
+  .board__top { display: grid; grid-template-columns: 60px 1fr auto; gap: 8px; }
+  .board__mark { display: grid; place-items: center; }
+  .board__links { display: flex; align-items: center; gap: clamp(1rem, 2.4vw, 2.5rem); padding-left: calc(50% - 68px); }
+  .board__links a { text-decoration: none; }
+  .board__links a:hover { text-decoration: underline; }
+  .board__action { display: flex; align-items: center; padding: 0 1.75rem; text-decoration: none; transition: background var(--t-hover); }
+  .board__action:hover { background: #2c2c2a; }
+  .board__action:active { transform: scale(0.99); }
+  .board__grid { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 8px; min-height: 0; }
+  .board__name { display: flex; align-items: flex-end; padding: 24px; }
+  .board__word { display: block; font-size: var(--step-display); line-height: 0.86; letter-spacing: -0.045em; font-weight: 500; margin-left: -0.04em; }
+  .board__sub { display: block; margin-top: 1.25rem; max-width: 24ch; font-weight: 400; letter-spacing: 0; }
+  .board__photo img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+  .board__photo--a img { object-position: 45% 55%; }
+  .board__photo--b img { object-position: 60% 40%; }
+  .board__pair { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .board__pair > p, .board__go { padding: 24px; }
+  .board__pair p { font-size: clamp(1.25rem, 1rem + 0.8vw, 1.5rem); line-height: 1.3; max-width: none; }
+  .board__go { display: flex; flex-direction: column; gap: 1.5rem; align-items: flex-start; }
+
+  .shutter img { animation: shutter 1.15s var(--ease-expo) both; }
+  @keyframes shutter {
+    from { clip-path: inset(0 0 100% 0); transform: scale(1.12); }
+    to { clip-path: inset(0 0 0 0); transform: scale(1); }
+  }
+
+  @media (max-width: 52em) {
+    .board { min-height: 0; grid-template-rows: auto; gap: 6px; padding: 6px; }
+    .board__top { grid-template-columns: 56px 1fr; height: 56px; }
+    .board__links, .board__action { display: none; }
+    .board__top { grid-template-columns: 56px; }
+    .board__grid { grid-template-columns: 1fr; grid-template-rows: auto; gap: 6px; }
+    .board__name { min-height: 34svh; padding: 18px; }
+    .board__word { font-size: 22vw; }
+    .board__photo { aspect-ratio: 4 / 3; }
+    .board__photo--b { display: none; }
+    .board__pair { gap: 6px; }
+    .board__pair > p, .board__go { min-height: 44vw; padding: 16px; }
+    .board__pair p { font-size: 1.125rem; }
+  }
+
+  /* ---------- staircase ---------- */
+  .stairs { padding-top: var(--section); }
+  .stairs__list { display: flex; flex-direction: column; gap: 56px; }
+  .stairs__list li:nth-child(2) { margin-left: 16.666%; }
+  .stairs__list li:nth-child(3) { margin-left: 33.333%; }
+  .stairs__list li:nth-child(4) { margin-left: 50%; }
+  .stairs h2, .stairs h3 { font-size: clamp(2.25rem, 4.6vw, 4.75rem); line-height: 1; letter-spacing: -0.02em; white-space: nowrap; }
+  .stairs p { margin-top: 12px; max-width: 34ch; font-size: 1.125rem; color: var(--muted); }
+  @media (max-width: 52em) {
+    .stairs__list { gap: 40px; }
+    .stairs__list li:nth-child(2) { margin-left: 6vw; }
+    .stairs__list li:nth-child(3) { margin-left: 12vw; }
+    .stairs__list li:nth-child(4) { margin-left: 18vw; }
+    .stairs h2, .stairs h3 { font-size: 8.4vw; white-space: normal; }
+    .stairs p { font-size: 1rem; }
+  }
+
+  /* ---------- live trial ---------- */
+  .trial { background: var(--night); color: var(--night-ink); margin-top: var(--section); padding-block: clamp(4.5rem, 9vw, 8rem); }
+  .trial__inner { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); align-items: start; }
+  .trial__text { grid-column: 1 / span 5; }
+  .trial__text .lead { margin-top: 1.5rem; color: var(--night-muted); max-width: 30ch; }
+  .slip {
+    grid-column: 7 / -1; background: var(--sheet); color: var(--ink);
+    padding: clamp(1.5rem, 3vw, 3rem); aspect-ratio: auto; min-height: 22rem;
+    display: flex; flex-direction: column; gap: 1.5rem;
+  }
+  .slip__theme { color: var(--muted); margin-top: -0.75rem; }
+  .slip__help { font-size: 1.0625rem; line-height: 1.5; max-width: 52ch; padding-left: 1rem; border-left: 3px solid var(--field); }
+  .slip__text { font-size: clamp(1.375rem, 1.1rem + 1.1vw, 2rem); line-height: 1.2; max-width: 28ch; }
+  .slip__choices { border: 0; padding: 0; margin: auto 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .slip__choices .btn[aria-pressed="true"] { outline: 2px solid var(--ink); outline-offset: 3px; }
+  .slip__count { background: var(--night); color: var(--night-ink); margin: 0 calc(clamp(1.5rem, 3vw, 3rem) * -1) calc(clamp(1.5rem, 3vw, 3rem) * -1); padding: clamp(1.5rem, 3vw, 3rem); display: grid; gap: 1rem; justify-items: start; animation: rise 600ms var(--ease-out) both; }
+  .slip__count .small { color: var(--night-muted); }
+  .slip__tally { display: flex; flex-wrap: wrap; gap: 0.5rem 2rem; font-size: var(--step-lead); }
+  .slip__tally strong { font-weight: 500; font-size: 1.6em; margin-right: 0.2em; }
+  @keyframes rise { from { opacity: 0; transform: translateY(16px); } }
+  @media (max-width: 52em) {
+    .trial__text, .slip { grid-column: 1 / -1; }
+    .slip { margin-top: 2.5rem; min-height: 0; }
+  }
+
+  /* ---------- candidate roll ---------- */
+  .roll { padding-top: var(--section); }
+  .roll__h { font-size: clamp(2.5rem, 4.5vw, 4.25rem); line-height: 0.98; letter-spacing: -0.02em; text-indent: 3vw; max-width: 16ch; }
+  .roll__body { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); margin-top: 96px; }
+  .roll__side { grid-column: 1 / span 4; display: flex; flex-direction: column; gap: 2rem; }
+  .roll__side > .small { color: var(--muted); max-width: 36ch; }
+  .roll__legend { display: grid; gap: 0.8rem; max-width: 34ch; }
+  .roll__legend li { display: flex; gap: 0.7rem; align-items: baseline; }
+  .roll__photo { margin-top: auto; }
+  .roll__photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 30% 50%; filter: grayscale(1) contrast(1.05); }
+  .roll__table { grid-column: 6 / -1; columns: 2; column-gap: var(--gutter); }
+  .roll__group { display: contents; }
+  .roll__group + .roll__group .roll__row:first-child { margin-top: 28px; }
+  .roll__row { display: grid; gap: 0.1rem; padding-block: 9px; break-inside: avoid; }
+  .roll__who { display: flex; gap: 0.7rem; align-items: baseline; font-size: 1.1875rem; }
+  .roll__party { color: var(--muted); font-size: 1rem; padding-left: 1.32rem; }
+  @media (max-width: 60em) {
+    .roll__h { text-indent: 0; font-size: 9.5vw; }
+    .roll__body { margin-top: 48px; }
+    .roll__side, .roll__table { grid-column: 1 / -1; }
+    .roll__photo { width: 60%; margin-left: auto; order: 3; }
+    .roll__table { margin-top: 3rem; }
+    .roll__table { columns: 1; }
+  }
+
+  /* ---------- facts mosaic ---------- */
+  .facts { padding-top: var(--section); }
+  .facts__lead { margin-top: 24px; max-width: 46ch; }
+  .facts__mosaic { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 16px var(--gutter); margin-top: 72px; align-items: start; }
+  .facts__photo { grid-column: 1 / span 8; position: relative; }
+  .facts__photo img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+  .facts__note { position: absolute; top: 0; right: 0; width: min(320px, 60%); padding: 20px; background: var(--sheet); font-size: 1rem; }
+  .facts__tile { grid-column: 9 / -1; background: var(--night); color: var(--night-ink); aspect-ratio: 1 / 1.1; padding: 24px; display: flex; flex-direction: column; justify-content: space-between; }
+  .facts__big { font-size: clamp(4.5rem, 9vw, 9rem); line-height: 0.9; letter-spacing: -0.04em; }
+  .facts__tile p:last-child { max-width: 22ch; }
+  .facts__pairs { grid-column: 9 / -1; display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem var(--gutter); margin-top: 8px; }
+  .facts__pairs dt { color: var(--muted); }
+  .facts__pairs dd { font-size: var(--step-lead); }
+  @media (max-width: 60em) {
+    .facts__photo, .facts__tile, .facts__pairs { grid-column: 1 / -1; }
+    .facts__photo img { aspect-ratio: 4 / 3; }
+    .facts__note { position: static; width: auto; padding: 16px 0 0; background: none; }
+    .facts__tile { aspect-ratio: 3 / 2; }
+  }
+
+  /* ---------- faq ---------- */
+  .faq { padding-top: var(--section); display: grid; gap: 80px; }
+  .faq__row { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); align-items: baseline; }
+  .faq__q { grid-column: 1 / span 6; font-size: clamp(1.625rem, 2.6vw, 2.5rem); line-height: 1.1; font-weight: 500; letter-spacing: -0.015em; }
+  .faq__title { color: var(--muted); font-weight: 400; }
+  .faq__row > p { grid-column: 8 / -1; font-size: 1.125rem; line-height: 1.55; max-width: 40ch; }
+  @media (max-width: 52em) {
+    .faq { gap: 56px; }
+    .faq__q, .faq__row > p { grid-column: 1 / -1; }
+    .faq__q { font-size: 1.5rem; }
+    .faq__row > p { margin-top: 12px; font-size: 1.0625rem; max-width: none; }
+  }
+</style>

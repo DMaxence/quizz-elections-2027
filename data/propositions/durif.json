@@ -1,0 +1,407 @@
+[
+  {
+    "id": "durif-01",
+    "theme": "Europe, international et défense",
+    "measure": "Transformer le ministère des Armées en ministère de la Paix et de la Défense",
+    "quote": "Ministère de la Paix : Transformer le ministère des Armées en Ministère de la Paix et de la Défense, chargé de prévenir les conflits, de développer la diplomatie et de protéger la France.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-02",
+    "theme": "Europe, international et défense",
+    "measure": "Lancer une initiative internationale de réduction progressive des arsenaux militaires mondiaux",
+    "quote": "Initiative française pour le désarmement : Lancer une grande initiative internationale visant à réduire progressivement les arsenaux militaires mondiaux",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-03",
+    "theme": "Europe, international et défense",
+    "measure": "Créer à Paris une conférence annuelle pour résoudre les grands conflits internationaux",
+    "quote": "Paris, capitale mondiale de la paix : Créer une conférence annuelle réunissant États, scientifiques, ONG et citoyens pour résoudre les grands conflits internationaux.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-04",
+    "theme": "Europe, international et défense",
+    "measure": "Dialoguer avec tous les gouvernements, sans distinction idéologique",
+    "quote": "Diplomatie universelle : La France dialoguera avec tous les peuples et tous les gouvernements, sans distinction idéologique.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-05",
+    "theme": "Europe, international et défense",
+    "measure": "Inscrire dans la Constitution qu'aucun peuple n'est ennemi de la France",
+    "quote": "Aucun peuple ennemi : Principe constitutionnel : un gouvernement peut être adversaire de la France, jamais son peuple.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-06",
+    "theme": "Europe, international et défense",
+    "measure": "Créer une fonction diplomatique chargée des enjeux spatiaux et de la coopération scientifique",
+    "quote": "Ambassadeur de l'humanité : Créer une fonction diplomatique française chargée des grands enjeux liés à l'espace et à la coopération scientifique internationale.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-07",
+    "theme": "Europe, international et défense",
+    "measure": "Créer un Conseil de l'Humanité, instance internationale consultative",
+    "quote": "Conseil de l'Humanité : Créer une instance internationale consultative réunissant scientifiques, philosophes, artistes, citoyens et représentants des peuples.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-08",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Faire de la protection des écosystèmes une priorité constitutionnelle",
+    "quote": "Pacte national avec la Terre : Faire de la protection des écosystèmes une priorité constitutionnelle.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-09",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Maintenir et développer le nucléaire tout en accélérant les renouvelables pertinentes",
+    "quote": "100 % d'électricité bas-carbone : Maintenir et développer le nucléaire français tout en accélérant les renouvelables lorsque celles-ci sont pertinentes.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-10",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Lancer un plan France Verte 2032 : reboisement, sols, rivières et transports propres",
+    "quote": "Plan France Verte 2032 : Reboisement, restauration des sols, protection des rivières et développement massif des transports propres.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-11",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Réduire massivement le gaspillage alimentaire, industriel et énergétique",
+    "quote": "Objectif zéro gaspillage : Réduction massive du gaspillage alimentaire, industriel et énergétique.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-12",
+    "theme": "Agriculture et alimentation",
+    "measure": "Aider les agriculteurs à restaurer les sols, réduire les pesticides et développer les circuits courts",
+    "quote": "Agriculture régénérative : Aider les agriculteurs à restaurer les sols, réduire les pesticides et développer les circuits courts.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-13",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Conditionner davantage les aides publiques à la création d'emplois et de production en France",
+    "quote": "Produire français : Conditionner davantage les aides publiques à la création d'emplois et de capacités de production en France.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-14",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Relocaliser les secteurs stratégiques via un Plan Industrie 2032",
+    "quote": "Plan Industrie 2032 : Relocaliser les secteurs stratégiques : médicaments, semi-conducteurs, énergie, alimentation, défense, technologies et composants électroniques.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-15",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Faire de la France un des principaux pôles mondiaux de l'intelligence artificielle",
+    "quote": "Révolution de l'IA française : Faire de la France l'un des principaux pôles mondiaux de recherche et d'application de l'intelligence artificielle.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-16",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Simplifier drastiquement la création et la gestion des entreprises",
+    "quote": "Entreprendre sans enfer administratif : Simplifier drastiquement la création et la gestion des entreprises.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-17",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer ou simplifier plusieurs normes anciennes pour chaque nouvelle norme importante",
+    "quote": "Simplification administrative : Pour chaque nouvelle norme importante, plusieurs normes anciennes devront être supprimées ou simplifiées.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-18",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Permettre la suppression de toute dépense publique inefficace",
+    "quote": "Fin des dépenses inutiles : Toute dépense publique inefficace devra pouvoir être supprimée, quelle que soit l'administration concernée.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-19",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Augmenter fortement les investissements dans le spatial, les satellites et la recherche astronomique",
+    "quote": "France, puissance spatiale : Augmenter fortement les investissements français dans le spatial, les satellites et la recherche astronomique.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-20",
+    "theme": "Institutions et démocratie",
+    "measure": "Évaluer systématiquement les grandes politiques publiques",
+    "quote": "Chaque euro public doit produire un résultat : Évaluation systématique des grandes politiques publiques.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-21",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer un tableau de bord national en ligne du suivi des objectifs du quinquennat",
+    "quote": "Tableau de bord national : Les Français pourront suivre en ligne les principaux objectifs du quinquennat et leur réalisation.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-22",
+    "theme": "Institutions et démocratie",
+    "measure": "Organiser le gouvernement autour des problèmes à résoudre plutôt que des étiquettes politiques",
+    "quote": "Dépasser le clivage gauche-droite : Le gouvernement sera organisé autour des problèmes à résoudre, pas des étiquettes politiques.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-23",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer une convention citoyenne permanente",
+    "quote": "Convention citoyenne permanente : Donner aux citoyens un rôle régulier dans l'élaboration et l'évaluation de certaines politiques publiques.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-24",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer un référendum d'initiative citoyenne encadré par des règles constitutionnelles strictes",
+    "quote": "Référendum d'initiative citoyenne encadré : Permettre aux citoyens de proposer certaines évolutions législatives selon des règles constitutionnelles strictes.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-25",
+    "theme": "Institutions et démocratie",
+    "measure": "Renforcer la transparence sur les dépenses, rémunérations et intérêts des responsables publics",
+    "quote": "Transparence totale : Renforcer la transparence sur les dépenses, les rémunérations et les intérêts des responsables publics.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-26",
+    "theme": "Numérique, médias et culture",
+    "measure": "Ne plus demander plusieurs fois la même information au citoyen dans ses démarches administratives",
+    "quote": "État numérique : Un citoyen ne devrait plus avoir à fournir plusieurs fois la même information à l'administration.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-27",
+    "theme": "Numérique, médias et culture",
+    "measure": "Automatiser par l'IA les tâches administratives répétitives",
+    "quote": "Administration augmentée par l'IA : Automatiser les tâches administratives répétitives pour permettre aux fonctionnaires de consacrer davantage de temps aux citoyens.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-28",
+    "theme": "Numérique, médias et culture",
+    "measure": "Créer un grand programme scientifique national « Terre vers Cosmos »",
+    "quote": "Programme Terre vers Cosmos : Créer un grand programme scientifique consacré à l'étude de l'univers, de la vie et des origines de l'humanité.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-29",
+    "theme": "Numérique, médias et culture",
+    "measure": "Développer le libre accès aux résultats de la recherche financée sur fonds publics",
+    "quote": "La connaissance comme patrimoine commun : Développer l'accès libre aux résultats de la recherche financée par l'argent public lorsque cela est juridiquement et scientifiquement possible.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-30",
+    "theme": "École et jeunesse",
+    "measure": "Faire des fondamentaux (lecture, écriture, mathématiques…) les priorités absolues du primaire",
+    "quote": "Retour aux fondamentaux : Lecture, écriture, mathématiques, sciences, histoire et raisonnement deviennent les priorités absolues du primaire.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-31",
+    "theme": "École et jeunesse",
+    "measure": "Instaurer une heure de lecture chaque jour à l'école",
+    "quote": "Une heure quotidienne de lecture : Développer une véritable culture de la lecture chez les enfants.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-32",
+    "theme": "École et jeunesse",
+    "measure": "Éduquer les élèves au numérique et à l'intelligence artificielle",
+    "quote": "Éducation au numérique et à l'IA : Apprendre aux élèves à utiliser l'intelligence artificielle sans en devenir dépendants.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-33",
+    "theme": "École et jeunesse",
+    "measure": "Enseigner la philosophie dès le collège",
+    "quote": "Philosophie dès le collège : Développer l'esprit critique, la logique, la connaissance de soi et le débat démocratique.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-34",
+    "theme": "École et jeunesse",
+    "measure": "Réhabiliter l'apprentissage, les métiers techniques et l'artisanat",
+    "quote": "Valoriser tous les talents : Réhabiliter l'apprentissage, les métiers techniques, l'artisanat et les formations professionnelles.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-35",
+    "theme": "École et jeunesse",
+    "measure": "Créer des pôles universitaires réunissant astrophysique, IA, biologie, philosophie et sciences cognitives",
+    "quote": "Universités du futur : Créer des pôles réunissant astrophysique, intelligence artificielle, biologie, philosophie et sciences cognitives.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-36",
+    "theme": "Logement et territoires",
+    "measure": "Construire davantage de logements dans les zones où les besoins sont les plus importants",
+    "quote": "Plan national du logement : Construire davantage de logements dans les zones où les besoins sont les plus importants.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-37",
+    "theme": "Logement et territoires",
+    "measure": "Simplifier les procédures de permis de construire",
+    "quote": "Accélération des permis de construire : Simplifier les procédures tout en maintenant les exigences environnementales essentielles.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-38",
+    "theme": "Logement et territoires",
+    "measure": "Transformer les bâtiments vacants et les friches en logements",
+    "quote": "Réhabilitation des logements abandonnés : Transformer les bâtiments vacants et les friches en logements lorsque cela est pertinent.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-39",
+    "theme": "Logement et territoires",
+    "measure": "Développer massivement les espaces verts et les mobilités douces en ville",
+    "quote": "Droit à une ville respirable : Développer massivement les espaces verts et les mobilités douces.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-40",
+    "theme": "Santé",
+    "measure": "Donner la priorité à la prévention (dépistage, nutrition, activité physique, santé mentale)",
+    "quote": "Priorité à la prévention : Dépistage, nutrition, activité physique, santé mentale et prévention plutôt que traitement tardif.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-41",
+    "theme": "Santé",
+    "measure": "Faciliter l'installation des professionnels de santé dans les zones sous-dotées",
+    "quote": "Médecins dans les territoires : Faciliter l'installation des professionnels de santé dans les zones sous-dotées.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-42",
+    "theme": "Santé",
+    "measure": "Créer un système numérique donnant au patient un accès facile à ses informations médicales",
+    "quote": "Simplification du parcours médical : Un système numérique permettant au patient de retrouver facilement ses informations médicales.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "durif-43",
+    "theme": "Santé",
+    "measure": "Renforcer la recherche sur les effets de la pollution et de l'environnement sur la santé",
+    "quote": "Santé environnementale : Renforcer la recherche sur les effets de la pollution, de la qualité de l'air et de l'environnement sur la santé.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-44",
+    "theme": "Protection sociale et famille",
+    "measure": "Développer le maintien à domicile et améliorer la prise en charge de la dépendance",
+    "quote": "Vieillir dignement : Développer le maintien à domicile et améliorer la prise en charge de la dépendance.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "durif-45",
+    "theme": "Société et libertés",
+    "measure": "Lutter contre les violences, le harcèlement et les discriminations en priorisant la prévention",
+    "quote": "République du respect : Lutte contre les violences, le harcèlement et les discriminations, avec une priorité donnée à la prévention et à la responsabilisation.",
+    "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "page": null,
+    "concrete": false
+  }
+]

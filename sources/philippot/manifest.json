@@ -1,0 +1,35 @@
+{
+  "slug": "philippot",
+  "sources": [
+    {
+      "id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+      "label": "« Grandes orientations pour un projet patriote + le Frexit en 10 questions » — Les Patriotes, édition 2026-2027 (Projet pour la France 2026 v2)",
+      "publisher": "Les Patriotes (les-patriotes.fr)",
+      "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "final_url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:20:44+00:00",
+      "sha256": "90d0748445644a433b594864cf553a03245739e07cb65672f01c1c0b49be6f83",
+      "raw": "sources/philippot/raw/projet-pour-la-france-2026-v2-les-patriotes-90d07484.pdf",
+      "text": "sources/philippot/text/projet-pour-la-france-2026-v2-les-patriotes-90d07484.txt",
+      "text_chars": 79405
+    },
+    {
+      "id": "profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff",
+      "label": "Profession de foi de la liste « L'Europe ça suffit ! » (Les Patriotes) — européennes 2024",
+      "publisher": "Les Patriotes (les-patriotes.fr)",
+      "url": "https://les-patriotes.fr/wp-content/uploads/2024/05/PF_europe%CC%81ennes.pdf",
+      "final_url": "https://les-patriotes.fr/wp-content/uploads/2024/05/PF_europe%CC%81ennes.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:21:19+00:00",
+      "sha256": "ffdf84ff17f0bca38630b0a20aa2d542f2f31449472b5e03639c27112e7bdda3",
+      "raw": "sources/philippot/raw/profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff.pdf",
+      "text": "sources/philippot/text/profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff.txt",
+      "text_chars": 3755
+    }
+  ]
+}

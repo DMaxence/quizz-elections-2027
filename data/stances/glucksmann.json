@@ -1,0 +1,229 @@
+{
+  "slug": "glucksmann",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer un droit d’initiative citoyenne, permettant de déclencher des séquences démocratiques avec des référendums à l’échelle locale et nationale",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 47
+        }
+      ]
+    },
+    "q03": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Défendre l’aide médicale d’État (AME)",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Conforter le rôle du nucléaire, énergie pilotable et décarbonée, en assurant la sûreté des centrales existantes et la construction à temps de nouvelles unités.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 17
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Effort fiscal nouveau, ciblé sur les très hauts patrimoines et les grands groupes, pour contrer leur optimisation fiscale",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 85
+        }
+      ]
+    },
+    "q06": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 11
+        }
+      ]
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Encadrer les loyers dans les zones en grande tension pour garantir l’accès au logement aux ménages modestes.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 64
+        }
+      ]
+    },
+    "q10": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Renforcer le pilier européen de l’OTAN, dans l’objectif de construire une nouvelle architecture de sécurité collective du continent européen",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-9495bd2e",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q11": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Face aux offensives du patronat en faveur de la retraite par capitalisation, nous réaffirmons le rôle central du régime par répartition, pilier de notre République sociale.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-9495bd2e",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Opérer une nationalisation des autoroutes à travers la création d’un établissement public national (de type EPIC) – « Routes de France » – pour gérer les autoroutes et les routes nationales qui reprendrait progressivement les 9 000 km d’autoroutes concédées, à l’expiration des contrats actuels.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-9495bd2e",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point. Reprise progressive à l'expiration des concessions."
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lancer un grand plan d’investissement pluriannuel dans toutes les énergies renouvelables. Élaborer des plans d’investissement à l’échelle régionale basés sur les besoins et richesses naturelles du territoire : soleil, vent, rivière",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 17
+        }
+      ],
+      "note": "L'éolien est désigné par « vent » parmi les énergies renouvelables à financer."
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Faciliter les démarches de régularisation des travailleurs sans papiers",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 82
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer immédiatement la proportionnelle, de préférence par circonscriptions régionales avec un fléchage départemental des candidats.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 46
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "s’opposer aux traités comme le Mercosur qui placent nos éleveurs dans une situation injuste et intenable.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 34
+        }
+      ]
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lutter contre les déserts médicaux en régulant l’installation des médecins libéraux – flécher leur installation dans les zones sous-dotées, la rendre impossible dans les zones déjà bien pourvues",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "L’urgence est donc de développer nos capacités de défense, nationales et européennes.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 9
+        },
+        {
+          "quote": "Augmenter drastiquement la réserve opérationnelle, la mettant au cœur de la défense nationale.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 10
+        }
+      ],
+      "note": "Pas d'objectif chiffré en % du PIB."
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Éliminer les produits chimiques dangereux en interdisant les pesticides les plus néfastes, glyphosate, néonicotinoïdes tueurs d’abeilles",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 35
+        }
+      ]
+    },
+    "q25": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Réviser la loi SRU pour améliorer et équilibrer l’offre de logements sociaux, avec de véritables sanctions dissuasives pour les villes carencées.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lancer en parallèle une grande convention citoyenne qui jettera les bases d’une assemblée constituante pour changer la Constitution.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 46
+        }
+      ]
+    },
+    "q27": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "renforcer les services déconcentrés de l’État (préfectures, rectorats, ARS)",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+          "page": null
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Intégrer les établissements privés sous contrat à la carte scolaire pour garantir une répartition équitable des élèves et renforcer la mixité sociale.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 68
+        }
+      ]
+    },
+    "q32": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Interdire les réseaux sociaux pour les moins de 15 ans",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 21
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "branco",
+  "name": "Juan Branco",
+  "party": "Les Ruches",
+  "party_short": "Les Ruches",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 19 décembre 2025 sur Sud Radio ; portée par le mouvement citoyen « Les Ruches » (ruches.org), qui mène campagne pour les parrainages (page « Parrainages » active au 30 octobre 2026).",
+  "declaration_source": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle",
+  "official_sites": [
+    "https://ruches.org/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Programme 2027 complet (« La Voie »), publié en PDF.",
+  "blocked": [],
+  "notes": "Source archivée : le PDF https://ruches.org/projet-1784217879253.pdf (métadonnées : 27 mai 2026 ; 59 pages, ~144 000 car.). La page https://ruches.org/le-projet reprend le même texte (« telle que publiée dans La Voie ») mais l'extraction HTML perd les listes de mesures : non archivée car redondante avec le PDF. La page /documents annonce le guide, le projet et le kit parrainages (guide : https://media.ruches.org/guide-1784217820347.pdf, document d'organisation du mouvement, non programmatique, non archivé). Domaines écartés : juanbranco.fr est un blog de fan sur Over-blog (non officiel), lesruches.fr est un domaine parqué, lesruches.com est une boutique de bougies sans rapport. Le statut de mouvement de ruches.org (« Mouvement citoyen pour Juan Branco en 2027 ») est explicite sur le site ; pas de parti politique au sens strict."
+}

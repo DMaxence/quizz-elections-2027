@@ -1,0 +1,65 @@
+{
+  "slug": "le-pen",
+  "sources": [
+    {
+      "id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "label": "Programme du Rassemblement national — législatives 2024",
+      "publisher": "Rassemblement national (rassemblementnational.fr)",
+      "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "final_url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:17:20+00:00",
+      "sha256": "8bc4d891a6011ab2f219bfefbdbd2b9eb75e2c47f8182a74ab64faf09b7e8ed4",
+      "raw": "sources/le-pen/raw/programme-du-rassemblement-national-l-gislatives-2024-8bc4d891.pdf",
+      "text": "sources/le-pen/text/programme-du-rassemblement-national-l-gislatives-2024-8bc4d891.txt",
+      "text_chars": 24860
+    },
+    {
+      "id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+      "label": "Programme du Rassemblement national — européennes 2024",
+      "publisher": "Rassemblement national (rassemblementnational.fr)",
+      "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "final_url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:17:22+00:00",
+      "sha256": "d8ca9c4af92be12b9ee9a1876742c9e0d578dfc2134b4bf63ce126624dd3fe80",
+      "raw": "sources/le-pen/raw/programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a.pdf",
+      "text": "sources/le-pen/text/programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a.txt",
+      "text_chars": 34926
+    },
+    {
+      "id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+      "label": "Contre-budget 2026 du groupe Rassemblement national",
+      "publisher": "Rassemblement national (rassemblementnational.fr)",
+      "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "final_url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+      "year": "2025",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:17:22+00:00",
+      "sha256": "800c6620d215ee12ad7166e3ad2e25da6c5b4de79e141e572118341e4f92a24b",
+      "raw": "sources/le-pen/raw/contre-budget-2026-du-groupe-rassemblement-national-800c6620.pdf",
+      "text": "sources/le-pen/text/contre-budget-2026-du-groupe-rassemblement-national-800c6620.txt",
+      "text_chars": 9792
+    },
+    {
+      "id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+      "label": "Projet de Marine Le Pen — livret entreprise (programme présidentiel 2022 mis à jour, groupe RN, 2025)",
+      "publisher": "Rassemblement national (rassemblementnational.fr)",
+      "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+      "final_url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+      "year": "2025",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:17:24+00:00",
+      "sha256": "84fcdf9546e870b286a36a0103fc8e90d5870eac1fa5b2f31cc8123ae2f3becd",
+      "raw": "sources/le-pen/raw/livret-entreprise-du-groupe-rassemblement-national-84fcdf95.pdf",
+      "text": "sources/le-pen/text/livret-entreprise-du-groupe-rassemblement-national-84fcdf95.txt",
+      "text_chars": 63540
+    }
+  ]
+}

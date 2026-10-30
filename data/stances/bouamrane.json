@@ -1,0 +1,26 @@
+{
+  "slug": "bouamrane",
+  "stances": {
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Une politique migratoire juste repose sur trois exigences : accueillir dignement ceux qui ont le droit de rester, agir à la source des migrations par le développement et la coopération, et reconduire ceux qui se maintiennent irrégulièrement sur notre territoire.",
+          "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+          "page": 4
+        }
+      ],
+      "note": "Prévoit la reconduite des personnes en situation irrégulière ; ne se prononce pas sur des régularisations."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Une France forte, c’est une France qui investit dans sa défense, pour éviter la guerre. […] J’augmenterai l’effort de défense.",
+          "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+          "page": 5
+        }
+      ]
+    }
+  }
+}

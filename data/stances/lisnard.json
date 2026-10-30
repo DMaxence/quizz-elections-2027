@@ -1,0 +1,203 @@
+{
+  "slug": "lisnard",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Le référendum d’initiative populaire sera vraiment institué et rendu praticable, avec un seuil de signatures atteignable et, au terme du délai, un vote garanti.",
+          "source_id": "discours-de-david-lisnard-bayeux-17-juin-2026-institutions-6d03dc17",
+          "page": 9
+        }
+      ],
+      "note": "Référendum d'initiative populaire avec seuil de signatures atteignable et vote garanti."
+    },
+    "q02": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "la norme de l’âge légal de 65 ans est un impératif national urgent pour des raisons d’équilibre financier",
+          "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+          "page": 1
+        }
+      ],
+      "note": "Propose de porter l'âge légal à 65 ans."
+    },
+    "q03": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer l’Aide Médicale d’État (AME) et la remplacer par une aide d’urgence",
+          "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+          "page": 1
+        }
+      ]
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "construction d’EPR de nouvelle génération, déploiement de mini-réacteurs nucléaires",
+          "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+          "page": 1
+        }
+      ]
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "conditionner le regroupement familial à des critères de ressources et des tests d’intégration",
+          "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+          "page": 1
+        }
+      ],
+      "note": "Durcit les conditions du regroupement familial (ressources, tests d'intégration)."
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous voulons doubler le nombre d’étudiants en médecine d’ici 2030, supprimer Parcoursup",
+          "source_id": "programme-de-david-lisnard-sant-40f57772",
+          "page": 1
+        }
+      ]
+    },
+    "q11": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "faire évoluer tous les autres régimes vers la capitalisation, à partir des cotisations obligatoires des salariés et des employeurs.",
+          "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+          "page": 1
+        }
+      ],
+      "note": "Socle minimal par répartition, le reste des régimes évoluant vers la capitalisation."
+    },
+    "q13": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous voulons abaisser la majorité pénale à 16 ans, inverser le principe de l’excuse de minorité dès 13 ans",
+          "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+          "page": 1
+        }
+      ]
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "la France a développé ces dernières années une stratégie d’« énergies renouvelables » dérogatoires aux prix du marché et aux règles d’urbanisme. Il faut mettre un terme à cette gabegie",
+          "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+          "page": 1
+        }
+      ],
+      "note": "Propose de mettre fin aux conditions dérogatoires des renouvelables et de réinvestir les sommes dans le nucléaire ; l'éolien n'est pas nommé."
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "supprimer toute possibilité d’être régularisé après être entré clandestinement sur le territoire.",
+          "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+          "page": 1
+        },
+        {
+          "quote": "Rétablir le délit de séjour irrégulier",
+          "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+          "page": 1
+        }
+      ]
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous proposons l’instauration d’un certificat de fin de primaire, dont la validation conditionnera l’entrée au collège.",
+          "source_id": "programme-de-david-lisnard-ducation-763a671c",
+          "page": 1
+        }
+      ]
+    },
+    "q20": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Nous n’avons pas vocation à sortir de l’Europe.",
+          "source_id": "discours-de-david-lisnard-bayeux-17-juin-2026-institutions-6d03dc17",
+          "page": 10
+        }
+      ]
+    },
+    "q21": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir la liberté d’installation des médecins et instaurer un conventionnement différencié",
+          "source_id": "les-carnets-sant-2026-nouvelle-nergie-12d49608",
+          "page": 8
+        }
+      ],
+      "note": "Privilégie un conventionnement différencié plutôt que la contrainte."
+    },
+    "q22": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Conditionner les prestations sociales non contributives aux étrangers résidant régulièrement sur le territoire national depuis au moins cinq ans",
+          "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+          "page": 1
+        }
+      ]
+    },
+    "q25": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "une mesure essentielle sera la suppression de l’article 55 de la loi SRU du 13 décembre 2000 obligeant les communes à disposer de 20% et bientôt 25% de logements sociaux",
+          "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+          "page": 1
+        }
+      ]
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous voulons supprimer les ARS, transférer les responsabilités aux préfets et aux élus",
+          "source_id": "programme-de-david-lisnard-sant-40f57772",
+          "page": 1
+        }
+      ]
+    },
+    "q29": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Il faut abroger la carte scolaire qui enferme les familles dans leur quartier",
+          "source_id": "programme-de-david-lisnard-ducation-763a671c",
+          "page": 1
+        },
+        {
+          "quote": "L’enseignement privé n’est pas le problème. Il est souvent la réponse à une école publique disqualifiée. Plutôt que de lui imposer une « mixité sociale » arbitraire, il faut élever le niveau général de l’enseignement, partout.",
+          "source_id": "programme-de-david-lisnard-ducation-763a671c",
+          "page": 1
+        }
+      ],
+      "note": "Propose aussi un chèque-éducation."
+    },
+    "q31": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "interdiction du voile à l’université",
+          "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+          "page": 1
+        }
+      ],
+      "note": "Vise le voile à l'université."
+    }
+  }
+}

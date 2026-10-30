@@ -1,0 +1,146 @@
+[
+  {
+    "id": "bouamrane-01",
+    "theme": "Europe, international et défense",
+    "measure": "Augmenter l'effort de défense",
+    "quote": "Une France forte, c'est une France qui investit dans sa défense, pour éviter la guerre. La dissuasion ne dissuade que si elle est crédible et nos soldats méritent les moyens de leur mission. J'augmenterai l'effort de défense.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "bouamrane-02",
+    "theme": "Protection sociale et famille",
+    "measure": "Faire de la protection des enfants contre les violences la grande cause nationale",
+    "quote": "Notre grande cause nationale sera celle de la protection des enfants alors que plus de 160 000 enfants sont victimes de violences physiques, morales et sexuelles et dont 80% sont commises pour inceste.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "bouamrane-03",
+    "theme": "Société et libertés",
+    "measure": "Protéger les femmes victimes de violences conjugales ou sexuelles",
+    "quote": "Elle est indissociable de celle de la protection des femmes victimes des violences conjugales ou sexuelles.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 6,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Simplifier l'action publique, réduire les doublons administratifs et alléger les normes",
+    "quote": "Nous simplifierons l'action publique. Nous réduirons les doublons administratifs. Nous mettrons fin aux superpositions inutiles. Nous allégerons les normes qui paralysent l'initiative et l'efficacité.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "bouamrane-05",
+    "theme": "Immigration",
+    "measure": "Accueillir ceux qui ont le droit de rester, agir à la source et reconduire les personnes en situation irrégulière",
+    "quote": "Une politique migratoire juste repose sur trois exigences : accueillir dignement ceux qui ont le droit de rester, agir à la source des migrations par le développement et la coopération, et reconduire ceux qui se maintiennent irrégulièrement sur notre territoire.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "bouamrane-06",
+    "theme": "Immigration",
+    "measure": "Maintenir la France comme terre d'asile",
+    "quote": "La France est de longue date une terre d’asile et elle doit le rester.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 4,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-07",
+    "theme": "Agriculture et alimentation",
+    "measure": "Ne pas imposer aux agriculteurs français des règles non exigées des produits importés",
+    "quote": "Je veux une transition juste : qui rénove les logements des familles modestes, qui crée des emplois durables dans nos territoires, et qui protège nos agriculteurs, sans leur imposer des règles que nous refusons d'exiger de ceux qui nous nourrissent depuis l'étranger.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "bouamrane-08",
+    "theme": "Agriculture et alimentation",
+    "measure": "Garantir la sécurité alimentaire pour tous en faisant travailler les filières agricoles",
+    "quote": "Une France où manger sainement n’est pas un privilège mais un droit fondamental. Une France qui garantit la sécurité alimentaire pour tous et fait travailler nos filières agricoles.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 3,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-09",
+    "theme": "Santé",
+    "measure": "Lutter contre les déserts médicaux et préparer le système de santé au vieillissement",
+    "quote": "Une France qui lutte contre les déserts médicaux et qui prépare notre système de santé aux défis du vieillissement et des maladies chroniques.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-10",
+    "theme": "Sécurité et justice",
+    "measure": "Combattre le narcotrafic et faire respecter l'autorité de la République sur tout le territoire",
+    "quote": "Une France où chacun peut se sentir en sécurité, où les enfants peuvent rentrer chez eux sans traverser des points de deal, où le narcotrafic est combattu avec détermination, où l'autorité de la République s'exerce sur tout le territoire.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-11",
+    "theme": "Société et libertés",
+    "measure": "Défendre une laïcité « fraternelle » et combattre racisme et discriminations",
+    "quote": "Une France humaine, c’est une France fraternellement laïque, qui combat le racisme, les discriminations et toutes les formes de violences.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 3,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-12",
+    "theme": "Numérique, médias et culture",
+    "measure": "Garder la maîtrise souveraine de l'intelligence artificielle et en fixer les règles",
+    "quote": "Je veux que la France en garde la maîtrise, pour notre souveraineté, qu'elle en fixe les règles, qu’elle soit orientée pour le bien humain et celui de notre planète.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 5,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-13",
+    "theme": "Logement et territoires",
+    "measure": "Construire et rénover des logements, en accompagnant les plus fragiles",
+    "quote": "Une France humaine, c’est une France qui loge. Une France qui permet à chacun de vivre dignement, qui construit, qui rénove, qui accompagne les plus fragiles, les familles, les jeunes actifs, les personnes âgées.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-14",
+    "theme": "École et jeunesse",
+    "measure": "Garantir à chaque jeune l'accès à une formation menant à un emploi choisi",
+    "quote": "Je veux que chaque jeune puisse accéder à une formation qui mène à un emploi choisi et non subi.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 3,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-15",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Faire en sorte que le travail paie et permette de vivre dignement",
+    "quote": "Je veux que travailler paye et permette de vivre dignement.",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 4,
+    "concrete": false
+  },
+  {
+    "id": "bouamrane-16",
+    "theme": "Europe, international et défense",
+    "measure": "Construire une Europe qui protège, aux frontières gardées",
+    "quote": "Une France forte qui construit une Europe qui nous protège. Cette Europe concrète des peuples défendus, des frontières gardées, des crises surmontées ensemble",
+    "source_id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "page": 5,
+    "concrete": false
+  }
+]

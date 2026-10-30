@@ -1,0 +1,290 @@
+[
+  {
+    "id": "attal-01",
+    "theme": "École et jeunesse",
+    "measure": "Rétablir les mesures du « Choc des savoirs »",
+    "quote": "Comme ministre de l’Éducation nationale, j’ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l’une de mes premières décisions sera d’en rétablir les mesures.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-02",
+    "theme": "École et jeunesse",
+    "measure": "Viser moins de 20 élèves par classe en primaire grâce à la baisse démographique",
+    "quote": "Je n’y vois pas une source d’économies mais au contraire une opportunité pour avoir moins d’élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-03",
+    "theme": "École et jeunesse",
+    "measure": "Utiliser les moyens dégagés par la baisse démographique pour mieux rémunérer professeurs et AESH",
+    "quote": "Ces moyens supplémentaires dégagés par cette baisse démographique devront aussi servir à mieux rémunérer nos professeurs et nos personnels tels que les accompagnants d'élèves en situation de handicap.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-04",
+    "theme": "École et jeunesse",
+    "measure": "Reprendre en dix ans l'une des premières places du classement PISA",
+    "quote": "Je fixe pour notre système éducatif un objectif simple : reprendre en dix ans l’une des premières places du classement PISA.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "attal-05",
+    "theme": "École et jeunesse",
+    "measure": "Démassifier l'enseignement supérieur et réduire la durée initiale des études",
+    "quote": "Pour résorber cet écart, je propose de démassifier l’enseignement supérieur, de valoriser les métiers manuels, techniques et industriels et de réduire la durée initiale des études.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-06",
+    "theme": "Numérique, médias et culture",
+    "measure": "Interdire les réseaux sociaux aux moins de 15 ans",
+    "quote": "Alors je veux aussi libérer notre jeunesse de l’addiction aux réseaux sociaux. […] C’est pour cela que nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-07",
+    "theme": "Numérique, médias et culture",
+    "measure": "Rendre la formation à l'IA universelle et obligatoire, du primaire à la reconversion professionnelle",
+    "quote": "Je veux donc former l’ensemble des Français à l’IA, du primaire à la reconversion professionnelle. La formation à l’IA doit devenir une nouvelle forme d’alphabétisation : universelle, obligatoire, exigeante.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-intelligence-ar-ff07f35f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-08",
+    "theme": "Numérique, médias et culture",
+    "measure": "Maîtriser toute la chaîne de l'IA, avec préférence européenne dans les marchés publics et soutien aux acteurs souverains",
+    "quote": "nous devons maîtriser toute la chaîne de l’IA. Cela exige de nous une véritable stratégie globale, qui va de la production énergétique, […] aux data centers, en passant par la sécurisation des approvisionnements et des infrastructures critiques, la préférence européenne dans les marchés publics et le soutien aux acteurs souverains comme Mistral.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-intelligence-ar-ff07f35f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-09",
+    "theme": "Europe, international et défense",
+    "measure": "Continuer à soutenir l'Ukraine",
+    "quote": "Nous allons continuer sans relâche à soutenir l’Ukraine.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "attal-10",
+    "theme": "Europe, international et défense",
+    "measure": "Poursuivre et amplifier le réarmement de la France",
+    "quote": "Nous avons commencé notre réarmement avec des hausses historiques en matière de défense depuis 2017. Il faut poursuivre et amplifier ce réarmement.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-11",
+    "theme": "Europe, international et défense",
+    "measure": "Faire de la dissuasion nucléaire un outil de puissance via la doctrine de dissuasion avancée",
+    "quote": "Notre dissuasion nucléaire doit être un outil de puissance, à travers notamment la doctrine de dissuasion nucléaire avancée proposée par le président de la République.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-12",
+    "theme": "Europe, international et défense",
+    "measure": "Contrôler strictement les investissements chinois dans les infrastructures sensibles",
+    "quote": "un contrôle strict des investissements chinois dans nos infrastructures les plus sensibles (ports, réseaux de télécommunications, centres de données)",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-13",
+    "theme": "Europe, international et défense",
+    "measure": "Étendre automatiquement à toute l'UE l'exclusion des marchés publics d'une entreprise chinoise trop subventionnée",
+    "quote": "(lorsqu’une entreprise chinoise est interdite de marchés publics dans un pays car elle bénéficie trop fortement de subvention d’État, elle doit être automatiquement interdite dans tous les autres)",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-14",
+    "theme": "Europe, international et défense",
+    "measure": "Mener des investissements technologiques européens communs avec les pays volontaires, sans unanimité des 27",
+    "quote": "Cela suppose des investissements massifs, menés en commun, au niveau européen, en s'appuyant sur les pays membres les plus déterminés, sans attendre l'accord unanime des 27.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-15",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer des taxes à l'importation ciblées sur les produits chinois vendus à perte",
+    "quote": "Se protéger, c'est accepter de mettre en place des barrières commerciales claires : des taxes à l'importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires)",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-16",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Relocaliser une partie de la production critique (matières premières rares, composants, médicaments)",
+    "quote": "Il faut aussi réduire notre dépendance aux approvisionnements chinois dans des domaines critiques, comme les matières premières rares, les composants électroniques ou les médicaments, en relocalisant une partie de la production et en diversifiant nos fournisseurs à l'échelle européenne.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-17",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Atteindre zéro déficit public en dix ans maximum",
+    "quote": "L’objectif est clair : zéro déficit en 10 ans maximum.",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-de-l-tat-ec16a486",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-18",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Faire porter l'effort de réduction de la dette d'abord sur la dépense sociale",
+    "quote": "Nous devons commencer par enrayer cette spirale de la dette. Pour cela, l’effort devra d’abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France. Réformer le modèle social pour inciter davantage à l’activité et réduire son coût budgétaire",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-de-l-tat-ec16a486",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-19",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Fixer trois priorités budgétaires : éducation, écologie et défense",
+    "quote": "Trois priorités claires seront fixées : l’éducation, l’écologie et la défense.",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-de-l-tat-ec16a486",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "attal-20",
+    "theme": "Immigration",
+    "measure": "Réduire le regroupement familial et privilégier l'immigration de travail",
+    "quote": "Notre ligne est claire, ce que nous voulons, c’est accueillir moins pour accueillir mieux, privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-21",
+    "theme": "Immigration",
+    "measure": "Instaurer une immigration choisie par système à points, sur le modèle canadien",
+    "quote": "Ce que nous voulons, c’est la préférence travail, où l’on accueille les compétences, les talents dont nous avons besoin sur la base d’un système à points comme au Canada, fondé sur des critères simples, une offre d’emploi stable, un logement, parler français, connaître nos valeurs et les respecter.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-22",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réduire les charges salariales pour augmenter le salaire net",
+    "quote": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net. Nos dépenses sociales ne peuvent plus reposer autant sur les Français qui travaillent.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-23",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réécrire le Code du travail en une « Constitution du travail », le reste relevant des branches et entreprises",
+    "quote": "Je propose que le Gouvernement, des experts et les partenaires sociaux réécrivent un code plus simple, structuré autour de quelques articles fondamentaux, une Constitution du travail, le reste relevant des branches et des entreprises.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-24",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Faire de la durée de cotisation, plutôt que l'âge de départ, l'enjeu des retraites",
+    "quote": "Pour augmenter le taux d’emploi des seniors, l’enjeu ne sera plus l’âge de départ à la retraite, mais la durée de cotisation.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "attal-25",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Supprimer le plafond légal d'heures supplémentaires (220 heures par an)",
+    "quote": "Je proposerai de supprimer le plafond d’heures supplémentaires fixé par le Code du travail, aujourd’hui fixé, à défaut d’accord collectif, à deux cent vingt heures par an et par salarié.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-26",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réformer l'assurance chômage pour inciter au travail",
+    "quote": "C’est pourquoi je porte une réforme de l’assurance chômage qui incite au travail et qui créerait 100 000 emplois supplémentaires.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-27",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Promouvoir la semaine de quatre jours là où c'est possible, à heures mensuelles constantes",
+    "quote": "Cela passe par la promotion, là où c’est possible, de la semaine en quatre jours et une meilleure adaptation des horaires entre l’employeur et le salarié […] tout en maintenant le nombre d’heures mensuelles et le bon fonctionnement de l’entreprise.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-28",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer un livret d'épargne, sur le modèle du livret A, pour financer des places en crèche",
+    "quote": "Je propose un nouveau livret d’épargne, sur le modèle du livret A, pour orienter l’épargne des Français vers le financement de nouvelles places en crèche.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-29",
+    "theme": "Protection sociale et famille",
+    "measure": "Former 200 000 professionnels de la petite enfance d'ici 2030",
+    "quote": "Je propose également de former 200 000 professionnels de la petite enfance d’ici 2030.",
+    "source_id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-30",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Tripler le rythme annuel de réduction des émissions d'ici 2030 (de 1,8 % à 5 % par an)",
+    "quote": "Pour respecter nos engagements climatiques, nous devons tripler notre rythme annuel de réduction des émissions entre maintenant et 2030 : passer de 1,8 % à 5 % par an.",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-cologique-cc5c91d8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "attal-31",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Sortir de la dépendance aux énergies fossiles",
+    "quote": "Cet effort, nous devons aller plus loin. En sortant notamment de notre dépendance aux énergies fossiles.",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-cologique-cc5c91d8",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "attal-32",
+    "theme": "Logement et territoires",
+    "measure": "Mener une rénovation thermique massive des logements et développer massivement l'électrique",
+    "quote": "Je veux une France qui continue à montrer la voie : une rénovation thermique massive pour que chaque foyer soit protégé des canicules comme du froid, l’électrique développé massivement et accessible à tous, une industrie décarbonée qui crée les emplois de demain sur notre territoire.",
+    "source_id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-cologique-cc5c91d8",
+    "page": null,
+    "concrete": false
+  }
+]

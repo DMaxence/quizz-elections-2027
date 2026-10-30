@@ -1,0 +1,16 @@
+{
+  "slug": "cazeneuve",
+  "name": "Bernard Cazeneuve",
+  "party": "La Convention",
+  "party_short": "LC",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 28 avril 2026 dans un entretien au Figaro ; a décliné la primaire socialiste. Lettre-programme « Tenir la promesse de la France » publiée le 15 juillet 2026.",
+  "declaration_source": "https://www.europe1.fr/politique/presidentielle-2027-bernard-cazeneuve-annonce-sa-candidature-le-barrage-a-jean-luc-melenchon-se-precise-929339",
+  "official_sites": [
+    "https://www.la-convention.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Lettre aux Français de juillet 2026 et sa synthèse, qui se terminent par une liste de mesures.",
+  "blocked": [],
+  "notes": "Jugement à valider : le texte se présente comme une lettre exposant des « priorités » plutôt qu'un catalogue de mesures, mais il se termine par une liste numérotée de mesures et la synthèse est intitulée « Synthese_mesures » ; classé officiel 2027 pour cette raison. Les PDF sont hébergés sur assets.nationbuilder.com (CDN de la plateforme NationBuilder du site la-convention.fr, liens directs depuis la page d'accueil). Statut de déclaration : un article LCP du 20 juillet 2026 écrivait qu'il « n'a pas encore officialisé » sa candidature, alors qu'il s'est déclaré candidat au Figaro le 28 avril 2026. laconvention.fr / www.laconvention.fr et bernardcazeneuve.fr sont des domaines parqués ou sans rapport (non officiels). La Convention n'a pas présenté de programme propre aux élections de 2024."
+}

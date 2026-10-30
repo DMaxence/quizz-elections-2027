@@ -1,0 +1,89 @@
+{
+  "slug": "kazib",
+  "stances": {
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ],
+      "note": "Propose 60 ans (55 ans pour les métiers pénibles)."
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Expropriation des logements vides, plafonnement et gel des loyers.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ]
+    },
+    "q08": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ],
+      "note": "Le texte défend la liberté de circulation et d'installation, sans mentionner le regroupement familial."
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé, …) et placement sous contrôle des travailleur·ses.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ]
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ]
+    },
+    "q23": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ]
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ],
+      "note": "Le texte ne précise pas le mode d'écriture d'une nouvelle constitution."
+    },
+    "q31": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+          "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+          "page": null
+        }
+      ],
+      "note": "Propose d'abroger la loi de 2004, sans la nommer autrement."
+    }
+  }
+}

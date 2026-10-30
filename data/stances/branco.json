@@ -1,0 +1,168 @@
+{
+  "slug": "branco",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "RIC et mandats impératifs et révocables",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 6
+        },
+        {
+          "quote": "Création d’un RIC en toutes matières.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 8
+        }
+      ],
+      "note": "Le RIC serait instauré par un référendum fondé sur l'article 11 de la Constitution."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 52
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 29
+        }
+      ]
+    },
+    "q06": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Arrêt des livraisons d’armes à l’Ukraine.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 25
+        }
+      ]
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Fin des MIG (ex-SNU) et de Parcoursup.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 37
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nationalisation du marché de l’électricité, de l’eau, de la santé, des télécoms et des autoroutes",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 6
+        },
+        {
+          "quote": "Expropriation des compagnies d’autoroutes.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 54
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Blocage de négociations de traités de libre-échange.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 54
+        }
+      ]
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Création d’un examen d’entrée national en sixième.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 39
+        }
+      ]
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sortie du marché européen de l’électricité.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 52
+        }
+      ]
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Fusion des dispositifs de lutte contre les déserts médicaux […] accompagnés d’obligations d’exercice en zones sous-dotées, d’une régulation de l’installation décennale",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 40
+        }
+      ]
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Création de manufactures d’armes nationales et mise en place d’un plan d’urgence de production et de stockage de munitions pour faire face à une guerre de haute intensité.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 24
+        }
+      ],
+      "note": "Plan d'urgence de production et de stockage de munitions, sans objectif budgétaire global."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Référendum fondé sur l’article 11 de la Constitution proposant la convocation d’une assemblée constituante dotée d’un mandat de 12 mois, composée d’élus sur liste proportionnelle au deux-tiers et sur tirage au sort au tiers",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 9
+        }
+      ],
+      "note": "Assemblée constituante convoquée par référendum, élue aux deux tiers et tirée au sort au tiers."
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Suppression des Agences régionales de santé.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 41
+        }
+      ]
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Refonte de la carte scolaire et absorption du parc scolaire privé, fin du système issue de « l’école libre ».",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 38
+        }
+      ]
+    },
+    "q30": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Dégressivité des allocations chômage à partir de la première année",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 30
+        }
+      ]
+    }
+  }
+}

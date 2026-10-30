@@ -1,0 +1,128 @@
+[
+  {
+    "id": "egger-01",
+    "theme": "Institutions et démocratie",
+    "measure": "Permettre à 700 000 citoyens de proposer une révision de la Constitution (RIC constituant)",
+    "quote": "La présente proposition vise à ce que les changements constitutionnels soient : - proposés par le président de la République, par les parlementaires ou par 700 000 citoyens ;",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-02",
+    "theme": "Institutions et démocratie",
+    "measure": "Rendre le référendum obligatoire pour toute révision de la Constitution, en supprimant la voie du Congrès",
+    "quote": "Nous souhaitons que le référendum soit remis au cœur de nos institutions en abrogeant la possibilité (déjà conçue comme dérogatoire) de ratifier les changements constitutionnels par voie parlementaire.",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-03",
+    "theme": "Institutions et démocratie",
+    "measure": "Fixer à 18 mois le délai de collecte des 700 000 signatures d'une initiative citoyenne",
+    "quote": "La proposition de révision d’initiative citoyenne doit recueillir 700 000 signatures d’électeurs dans un délai de 18 mois à compter de sa publication officielle.",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-04",
+    "theme": "Institutions et démocratie",
+    "measure": "Confier à la Cour de cassation le contrôle des signatures d'une initiative, en 4 mois maximum",
+    "quote": "La validité des signatures est contrôlée par la Cour de cassation dans un délai qui ne peut dépasser une durée maximale de 4 mois.",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-05",
+    "theme": "Institutions et démocratie",
+    "measure": "Organiser le référendum dans un délai de 3 mois à 1 an après validation d'une initiative",
+    "quote": "Une fois validée ou le délai expiré, le président soumet la proposition de révision au référendum dans un délai compris entre 3 mois et 1 an. Aucun référendum ne peut être tenu pendant les 90 jours qui suivent la tenue d’un référendum.",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-06",
+    "theme": "Institutions et démocratie",
+    "measure": "Garantir une campagne de débats contradictoires avant chaque référendum",
+    "quote": "Les référendums sont précédés d’une campagne garantissant la diffusion de débats contradictoires et de toutes les informations nécessaires à un choix éclairé.",
+    "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-07",
+    "theme": "Institutions et démocratie",
+    "measure": "Soumettre les deux réformes institutionnelles à référendum par l'article 11 dès le début du mandat",
+    "quote": "Le gouvernement propose au président de soumettre deux textes portant sur l’organisation des pouvoirs publics à référendum conformément à l’article 11 de la Constitution.",
+    "source_id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-08",
+    "theme": "Institutions et démocratie",
+    "measure": "Nommer un gouvernement de transition dont la seule mission est de lancer le référendum",
+    "quote": "Le président nomme un Premier ministre chargé de former un gouvernement de transition, dont la seule mission est de permettre le lancement du référendum.",
+    "source_id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-09",
+    "theme": "Institutions et démocratie",
+    "measure": "S'engager devant notaire, sur tous ses biens, à appliquer le calendrier de réforme",
+    "quote": "Il se sera au préalable engagé sur tous ses biens devant notaire au cours de la campagne à appliquer ce calendrier.",
+    "source_id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-10",
+    "theme": "Institutions et démocratie",
+    "measure": "Exercer une présidence d'arbitre, au-dessus des partis et neutre idéologiquement",
+    "quote": "C’est pourquoi le seul programme capable de porter la France vers la modernité et d’empêcher sa régression est celui d’un président arbitre, au-dessus des partis, neutre idéologiquement, qui vise uniquement à permettre aux Français de mettre les institutions à leur service.",
+    "source_id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "egger-11",
+    "theme": "Logement et territoires",
+    "measure": "Obliger l'État à déléguer une compétence à toute collectivité qui en fait la demande",
+    "quote": "La principale révision consiste à transformer le caractère facultatif de l’attribution de compétences par l’État en caractère obligatoire. Ainsi, l’État doit (et non peut) déléguer une compétence à une collectivité qui lui en fait la demande.",
+    "source_id": "proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-12",
+    "theme": "Logement et territoires",
+    "measure": "Permettre aux collectivités délégataires de déroger à des règles de la loi ou du règlement",
+    "quote": "Deuxièmement, nous souhaitons que les collectivités puissent être habilitées à déroger à des règles relevant du domaine de la loi ou du règlement lorsqu’elles obtiennent une délégation des compétences.",
+    "source_id": "proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-13",
+    "theme": "Logement et territoires",
+    "measure": "Donner la priorité à l'échelon territorial le plus petit en cas de conflit de compétences",
+    "quote": "En cas de conflit de compétences, l’échelon territorial le plus petit est privilégié.",
+    "source_id": "proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "egger-14",
+    "theme": "Institutions et démocratie",
+    "measure": "Permettre à chaque commune de fixer ses propres règles électorales et d'introduire la démocratie directe",
+    "quote": "chaque commune pourra prendre en main la constitution de son propre code électoral. La procédure peut durer au maximum un an à compter de la transmission de sa demande. Dès lors que cette compétence est transférée au niveau communal, la commune pourra introduire la démocratie directe (mais aussi d’autres mesures, si elle le souhaite, comme la proportionnelle) par une simple délibération.",
+    "source_id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "page": null,
+    "concrete": true
+  }
+]

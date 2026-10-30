@@ -1,0 +1,80 @@
+{
+  "slug": "egger",
+  "sources": [
+    {
+      "id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+      "label": "Présidentielle 2027 : programme de Clara Egger (deux réformes institutionnelles et calendrier d'application)",
+      "publisher": "Solution démocratique (site officiel du parti)",
+      "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/",
+      "final_url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:26:52+00:00",
+      "sha256": "1b5e12139446e5fcf044b01633f6ba9709f2e97ae1652f2ecb10a1dbf2005f9b",
+      "raw": "sources/egger/raw/pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213.html",
+      "text": "sources/egger/text/pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213.txt",
+      "text_chars": 24529
+    },
+    {
+      "id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+      "label": "Proposition de révision constitutionnelle (RIC constituant) — texte de la réforme n° 1 du programme 2027",
+      "publisher": "Solution démocratique (site officiel du parti)",
+      "url": "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/",
+      "final_url": "https://solutiondemocratique.fr/notre-solution/proposition-de-revision-constitutionnelle-controle-constitution/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:26:55+00:00",
+      "sha256": "839d80b74ccd856f5877b46d10898ba091862ee90bbdc4ae0e818ed7d43f3510",
+      "raw": "sources/egger/raw/proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7.html",
+      "text": "sources/egger/text/proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7.txt",
+      "text_chars": 15526
+    },
+    {
+      "id": "proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb",
+      "label": "Proposition de révision législative (démocratie directe dans les communes) — texte de la réforme n° 2 du programme 2027",
+      "publisher": "Solution démocratique (site officiel du parti)",
+      "url": "https://solutiondemocratique.fr/proposition-de-revision-legislative-pour-instaurer-la-democratie-directe-dans-les-communes/",
+      "final_url": "https://solutiondemocratique.fr/notre-solution/proposition-de-revision-legislative-pour-instaurer-la-democratie-directe-dans-les-communes/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:26:57+00:00",
+      "sha256": "8cf924eb10bec3694ed667ae0139fd7267fdc9d2b071a81b2194b813d246da54",
+      "raw": "sources/egger/raw/proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb.html",
+      "text": "sources/egger/text/proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb.txt",
+      "text_chars": 10868
+    },
+    {
+      "id": "pr-sidentielle-2027-pour-une-candidature-citoyenne-en-2027-d-71910182",
+      "label": "Présidentielle 2027 — « Pour une candidature citoyenne en 2027 » (document de présentation du projet, PDF)",
+      "publisher": "Solution démocratique (site officiel du parti)",
+      "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/05/presidentielle2027-projet.pdf",
+      "final_url": "https://solutiondemocratique.fr/wp-content/uploads/2026/05/presidentielle2027-projet.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:26:58+00:00",
+      "sha256": "719101825565f66f6b4ff54f41f8c2a2fde660d7d269d673d54b398dd782a43d",
+      "raw": "sources/egger/raw/pr-sidentielle-2027-pour-une-candidature-citoyenne-en-2027-d-71910182.pdf",
+      "text": "sources/egger/text/pr-sidentielle-2027-pour-une-candidature-citoyenne-en-2027-d-71910182.txt",
+      "text_chars": 3935
+    },
+    {
+      "id": "le-dernier-droit-manifeste-pour-le-ric-constituant-de-soluti-3f45f4fa",
+      "label": "« Le dernier droit » — Manifeste pour le RIC constituant de Solution démocratique (2026, PDF)",
+      "publisher": "Solution démocratique (site officiel du parti)",
+      "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/07/manifeste-solution-democratique2026.pdf",
+      "final_url": "https://solutiondemocratique.fr/wp-content/uploads/2026/07/manifeste-solution-democratique2026.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:26:58+00:00",
+      "sha256": "3f45f4fafb854077e3c1f5c4d533d922613d6e462352a206525d645a896fad5b",
+      "raw": "sources/egger/raw/le-dernier-droit-manifeste-pour-le-ric-constituant-de-soluti-3f45f4fa.pdf",
+      "text": "sources/egger/text/le-dernier-droit-manifeste-pour-le-ric-constituant-de-soluti-3f45f4fa.txt",
+      "text_chars": 15052
+    }
+  ]
+}

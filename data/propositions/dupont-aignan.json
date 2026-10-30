@@ -1,0 +1,407 @@
+[
+  {
+    "id": "dupont-aignan-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser de 40 centimes le prix des carburants (suppression des CEE et de la TVA sur la taxe, plafonnement des marges des raffineurs)",
+    "quote": "Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes ; suppression de la TVA sur la taxe (6 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles",
+    "quote": "Supprimer les droits de succession sur la résidence principale et sur les 100 premiers hectares de terres agricoles, doubler les plafonds d’exonération des donations, exonérer de 90 % la valeur des titres d’une entreprise transmise (75 % actuellement).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Permettre à l'État d'emprunter directement auprès de la Banque de France en rapatriant le pouvoir monétaire",
+    "quote": "Rapatrier le pouvoir monétaire, bancaire et financier en France (actuellement à Francfort et à la BCE) et réviser le fonctionnement des lois bancaires et financières (1973, 1984, traités de Maastricht et de Lisbonne de 1992 et 2008) pour emprunter directement auprès de la Banque de France, redevenue autonome.",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Doter chaque nouveau-né d'un capital de 10 000 € bloqué jusqu'à la retraite, géré par un fonds public de capitalisation",
+    "quote": "Doter chaque nouveau-né français d’un capital de 10 000 euros qui sera bloqué jusqu’à sa retraite et qui sera géré par un fonds public de capitalisation français, inspiré du modèle du fonds souverain norvégien.",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l'inflation",
+    "quote": "Réindexer les pensions de retraite et les traitements des fonctionnaires sur l’inflation, car l’État doit respecter son engagement vis-à-vis des Français qui ont cotisé toute leur vie professionnelle.",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Défiscaliser les heures supplémentaires au-delà de 1 607 h/an, dans la limite de 100 heures par an",
+    "quote": "Défiscaliser les heures supplémentaires : au-delà de 1 607 h/an pour un temps plein, chaque heure effectuée sera défiscalisée dans la limite de 100 heures/an. Cette défiscalisation concernera les cotisations salariales (le net sera égal au brut).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-07",
+    "theme": "Santé",
+    "measure": "Arrêter les fermetures de maternités et garantir à chacun un hôpital avec urgences à moins de 45 minutes",
+    "quote": "Arrêt immédiat des fermetures de maternités et réouverture de lits d’hôpitaux dans les départements qui ont été sacrifiés. Faire en sorte que chaque français dispose d’un hôpital à moins de 45 minutes en voiture, doté d’un service d’urgence, d’un scanner et d’un IRM.",
+    "source_id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-08",
+    "theme": "Santé",
+    "measure": "Supprimer les Agences régionales de santé (ARS)",
+    "quote": "Supprimer les Agences Régionales de Santé et répartir leurs compétences entre les directions départementales de la santé et le ministère compétent.",
+    "source_id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-09",
+    "theme": "Santé",
+    "measure": "Créer une bourse pour les étudiants en médecine en échange d'une installation de trois ans en zone sous-dotée",
+    "quote": "Créer une bourse pour les étudiants en médecine, pour mettre fin aux déserts médicaux, en échange de laquelle, ils s’engageront à s’installer dans une zone sous-dotée pendant leurs trois premières années.",
+    "source_id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-10",
+    "theme": "École et jeunesse",
+    "measure": "Rendre l'uniforme obligatoire à l'école",
+    "quote": "Uniforme obligatoire, niveau de langage minimum et vouvoiement.",
+    "source_id": "projet-2027-de-debout-la-france-ducation-instruction-publiqu-d97d5516",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-11",
+    "theme": "École et jeunesse",
+    "measure": "Augmenter de 15 % en 4 ans les salaires nets des professeurs",
+    "quote": "Augmenter de 15 % en 4 ans les salaires nets des professeurs.",
+    "source_id": "projet-2027-de-debout-la-france-ducation-instruction-publiqu-d97d5516",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-12",
+    "theme": "École et jeunesse",
+    "measure": "Instaurer un service national civique obligatoire de trois mois, avec option militaire d'un an",
+    "quote": "Instaurer un service national civique obligatoire de trois mois avec option militaire d’une année pour retisser le lien armée-nation et développer un esprit de défense parmi les jeunes.",
+    "source_id": "projet-2027-de-debout-la-france-d-fense-nationale-3d4d8c27",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-13",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Diviser par 2 le prix de l'électricité en sortant du marché européen et en fixant un tarif national de 10 centimes/kWh",
+    "quote": "Diviser par 2 le prix de l’électricité dès la première année en : […] Sortant du marché européen de fixation du prix de l’électricité. […] Fixant un tarif réglementé national (un tarif de 10 centimes d’euro/kWh, soit 100 € le MWh, sera garanti contractuellement).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-14",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Accélérer la construction d'EPR2 et de petits réacteurs modulaires",
+    "quote": "Les programmes de construction des EPR2 et de déploiement des petits réacteurs modulaires français pour remplacer nos centrales en fin de vie seront accélérés.",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Supprimer les aides de l'État à l'installation d'éoliennes et de panneaux solaires",
+    "quote": "Supprimer les aides de l’État à l’installation des éoliennes et des panneaux solaires en annulant le décret sur la PPE3 (12 milliards d’euros économisés).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Supprimer l'interdiction des véhicules thermiques à l'horizon 2035",
+    "quote": "Supprimer l’interdiction des véhicules thermiques à l’horizon 2035 imposée par l’UE.",
+    "source_id": "projet-2027-de-debout-la-france-automobilistes-et-motards-4b9039b5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-17",
+    "theme": "Agriculture et alimentation",
+    "measure": "Sortir de la Politique agricole commune et rétablir une politique agricole nationale",
+    "quote": "Sortir de la Politique Agricole Commune en rétablissant une politique agricole nationale, à l’exemple de la Suisse ou du Canada.",
+    "source_id": "projet-2027-de-debout-la-france-agriculture-a47d3658",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-18",
+    "theme": "Agriculture et alimentation",
+    "measure": "Supprimer les cotisations sociales agricoles et les remplacer par une taxe sur la grande distribution",
+    "quote": "Supprimer les cotisations sociales agricoles qui pèsent sur nos exploitations afin de rendre nos productions plus compétitives face à la concurrence européenne et remplacer leurs produits par une très légère taxe sur la grande distribution.",
+    "source_id": "projet-2027-de-debout-la-france-agriculture-a47d3658",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-19",
+    "theme": "Immigration",
+    "measure": "Rétablir le délit de séjour irrégulier puni de prison ferme",
+    "quote": "Rétablir le délit de séjour irrégulier puni d’emprisonnement ferme.",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-20",
+    "theme": "Immigration",
+    "measure": "Supprimer l'aide médicale d'État (AME) et créer un dispensaire d'urgence par département",
+    "quote": "Supprimer l’Aide Médicale d’État (AME) et mettre en place dans chaque département un dispensaire d’urgence pour les étrangers en situation irrégulière, avant leur expulsion.",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-21",
+    "theme": "Immigration",
+    "measure": "Supprimer le droit du sol par référendum, en maintenant la naturalisation",
+    "quote": "Supprimer le droit du sol via un référendum, tout en maintenant la possibilité de devenir Français par naturalisation.",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-22",
+    "theme": "Immigration",
+    "measure": "Expulser automatiquement tout étranger condamné à de la prison ferme, quelle que soit sa situation familiale",
+    "quote": "Instaurer une double peine automatique quelle que soit la situation familiale. Tout étranger condamné à une prison ferme sera expulsé dès sa sortie, avec retrait définitif de son titre de séjour",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-23",
+    "theme": "Immigration",
+    "measure": "Limiter strictement le regroupement familial",
+    "quote": "Limiter strictement le regroupement familial et supprimer le régime d’exception accordé aux Algériens",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-24",
+    "theme": "Sécurité et justice",
+    "measure": "Recruter 10 000 policiers et gendarmes supplémentaires nets en 5 ans",
+    "quote": "Renforcer les effectifs et augmenter nettement le taux de présence sur la voie publique des forces de l’ordre afin de reconquérir le terrain à travers une loi d’orientation et de programmation inédite : […] 10 000 policiers et gendarmes supplémentaires nets en 5 ans.",
+    "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-25",
+    "theme": "Sécurité et justice",
+    "measure": "Instaurer une présomption de légitime défense pour les policiers",
+    "quote": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs. Il s’agit de considérer un policier ayant fait usage de son arme comme ayant agi en légitime défense jusqu’à preuve du contraire.",
+    "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-26",
+    "theme": "Sécurité et justice",
+    "measure": "Créer 40 000 nouvelles places de prison",
+    "quote": "Créer 40 000 places de prison nouvelles et favoriser la dignité et la sécurité des conditions de détention",
+    "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-27",
+    "theme": "Sécurité et justice",
+    "measure": "Soumettre à référendum le rétablissement de la peine de mort pour les meurtres d'enfants",
+    "quote": "Instaurer une peine de perpétuité réelle et non modifiable et soumettre à référendum le rétablissement de la peine de mort pour les meurtres d’enfants.",
+    "source_id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-28",
+    "theme": "Sécurité et justice",
+    "measure": "Abaisser la majorité pénale à 16 ans",
+    "quote": "Baisser la majorité pénale à 16 ans.",
+    "source_id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne (RIC) dès un million de signatures",
+    "quote": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution. Les Français pourront soumettre au référendum une modification de la loi ou de la Constitution dès qu’un million d’inscrits sur les listes électorales soutiendra leur pétition.",
+    "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Revenir au septennat avec un référendum révocatoire d'initiative citoyenne à mi-mandat",
+    "quote": "Revenir au septennat avec la possibilité d’un référendum révocatoire d’initiative citoyenne à mi-mandat.",
+    "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Conditionner l'activation de la carte Vitale à la participation au vote",
+    "quote": "Favoriser la participation des citoyens aux scrutins en conditionnant l’activation de la carte Vitale à la participation au vote.",
+    "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-32",
+    "theme": "Institutions et démocratie",
+    "measure": "Réduire le nombre de parlementaires (500 députés, 300 sénateurs) et leurs indemnités de 25 %",
+    "quote": "Diminuer le nombre de parlementaires et réduire leurs indemnités de 25 % : […] Passer de 577 à 500 députés. […] Passer de 348 à 300 sénateurs.",
+    "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-33",
+    "theme": "Europe, international et défense",
+    "measure": "Organiser un référendum sur l'appartenance de la France à l'Union européenne",
+    "quote": "Organiser un référendum sur l’appartenance de la France à l’Union européenne.",
+    "source_id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-34",
+    "theme": "Europe, international et défense",
+    "measure": "Sortir de l'espace Schengen et rétablir les frontières nationales",
+    "quote": "Rétablir nos frontières nationales en sortant de l’espace Schengen.",
+    "source_id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-35",
+    "theme": "Europe, international et défense",
+    "measure": "Sortir du commandement intégré de l'OTAN",
+    "quote": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique",
+    "source_id": "projet-2027-de-debout-la-france-d-fense-nationale-3d4d8c27",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-36",
+    "theme": "Europe, international et défense",
+    "measure": "Mettre fin aux aides à l'Ukraine",
+    "quote": "Mettre fin aux aides à l’Ukraine (7 milliards d’euros par an en comptant les aides de la France et la quote-part des aides de l’UE dues par la France).",
+    "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-37",
+    "theme": "Logement et territoires",
+    "measure": "Abandonner l'interdiction de louer des logements sur la base du DPE",
+    "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+    "source_id": "projet-2027-de-debout-la-france-logement-28d24a15",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-38",
+    "theme": "Logement et territoires",
+    "measure": "Mettre fin à l'objectif de Zéro artificialisation nette (ZAN)",
+    "quote": "Réformer intégralement la loi Climat et Résilience pour mettre fin à l’objectif de Zéro Artificialisation Nette (ZAN)",
+    "source_id": "projet-2027-de-debout-la-france-logement-28d24a15",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-39",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les régions et revenir au couple commune-département",
+    "quote": "Simplifier le mille-feuille territorial en supprimant les régions et en revenant au couple commune-département.",
+    "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-40",
+    "theme": "Protection sociale et famille",
+    "measure": "Revaloriser les allocations familiales et les indexer sur l'inflation",
+    "quote": "Revaloriser immédiatement les allocations familiales et les indexer sur l’inflation.",
+    "source_id": "projet-2027-de-debout-la-france-famille-ff6079fc",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-41",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer 100 000 places de crèches en 5 ans",
+    "quote": "Lancer un plan national de création de 100 000 places de crèches en 5 ans.",
+    "source_id": "projet-2027-de-debout-la-france-famille-ff6079fc",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-42",
+    "theme": "Protection sociale et famille",
+    "measure": "Revaloriser l'allocation aux adultes handicapés (AAH) d'environ 300 € pour les handicaps lourds",
+    "quote": "Revaloriser l’Allocation aux Adultes Handicapés (AAH) d’environ 300 euros pour les personnes en situation de handicap lourd",
+    "source_id": "projet-2027-de-debout-la-france-handicap-9beee1c9",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Supprimer le « Digital Services Act » (DSA) européen",
+    "quote": "Supprimer le « Digital Services Act » et l’ensemble des mesures liberticides imposées par la Commission européenne (réseaux sociaux, presse, lanceurs d’alerte).",
+    "source_id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-44",
+    "theme": "Société et libertés",
+    "measure": "Interdire tous les signes religieux visibles dans le service public, y compris universités et hôpitaux",
+    "quote": "Interdire tous les signes religieux visibles dans le service public, notamment dans les universités et les hôpitaux, et refuser tout accommodement.",
+    "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "dupont-aignan-45",
+    "theme": "Société et libertés",
+    "measure": "Interdire les transitions de genre médicales chez les mineurs",
+    "quote": "Interdire définitivement les transitions de genre médicales chez les mineurs.",
+    "source_id": "projet-2027-de-debout-la-france-famille-ff6079fc",
+    "page": null,
+    "concrete": true
+  }
+]

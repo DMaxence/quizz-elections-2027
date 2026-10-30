@@ -1,0 +1,130 @@
+{
+  "slug": "philippe",
+  "stances": {
+    "q02": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ],
+      "note": "Propose 65 ans, avec maintien des départs anticipés (santé, carrières longues)."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus)",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+          "page": null
+        }
+      ]
+    },
+    "q05": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ]
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Suspendre le regroupement familial pour la durée du quinquennat.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+          "page": null
+        }
+      ]
+    },
+    "q09": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Faut-il réformer Parcoursup ? L'améliorer, oui ; revenir en arrière, non",
+          "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+          "page": null
+        }
+      ]
+    },
+    "q11": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Généraliser à tous les salariés la retraite par capitalisation collective, qui existe déjà pour les fonctionnaires, et ouvrir un plan d'épargne retraite à chaque Français",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ]
+    },
+    "q18": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Le collège commun doit rester : mêmes programmes, même socle pour tous.",
+          "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+          "page": null
+        },
+        {
+          "quote": "Faut-il des classes ou des groupes de niveau ? Pas des groupes de niveau : des réponses sur mesure.",
+          "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+          "page": null
+        }
+      ],
+      "note": "Propose davantage d’autonomie des établissements et des petits groupes de soutien."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lancer une nouvelle LPM (Loi de programmation militaire) de la massification",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+          "page": null
+        },
+        {
+          "quote": "Porter le nombre de réservistes de 45 000 à 250 000",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+          "page": null
+        }
+      ],
+      "note": "Hausse des effectifs et des équipements, sans objectif budgétaire chiffré."
+    },
+    "q29": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Pas de guerre scolaire : l'école privée fonctionne et la liberté scolaire doit être défendue.",
+          "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+          "page": null
+        }
+      ],
+      "note": "Ne se prononce pas explicitement sur la carte scolaire ni sur les financements du privé."
+    },
+    "q30": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ]
+    },
+    "q32": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Édouard Philippe est favorable à l'interdiction des réseaux sociaux aux moins de 15 ans.",
+          "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+          "page": null
+        }
+      ],
+      "note": "Propose de réécrire la loi et, si nécessaire, de la soumettre à référendum."
+    }
+  }
+}

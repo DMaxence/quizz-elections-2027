@@ -1,0 +1,17 @@
+{
+  "slug": "le-pen",
+  "name": "Marine Le Pen",
+  "party": "Rassemblement national",
+  "party_short": "RN",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 7 juillet 2026 sur TF1, après la décision de la cour d'appel ; équipe de campagne confirmée par le RN (communiqué du directeur de campagne Julien Sanchez, 27 octobre 2026).",
+  "declaration_source": "https://rassemblementnational.fr/communiques/communique-de-presse-de-julien-sanchezdirecteur-de-campagne-de-marine-le-pen",
+  "official_sites": [
+    "https://marinelepen.com",
+    "https://rassemblementnational.fr"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Pas de programme 2027 à ce jour : programmes 2024 du RN, contre-budget 2026 et livret « entreprises ».",
+  "blocked": [],
+  "notes": "Status: declaration press coverage = parismatch.be 2026-07-07 (TF1 announcement the day of the appeal ruling); eligibility after the appeal ruling was reported as compatible with a candidacy (cassation appeal pending) — lead may want to double-check. marinelepen.com is the 2027 campaign site (title 'Présidentielles 2027 : Marine Le Pen, Site Officiel de Campagne') but currently only a supporter sign-up page, no program. marinelepen.fr is NOT official (domain squatted by a Belgian company, July 2026). mlafrance.fr/programme and rassemblementnational.fr/22-mesures + /livrets-thematiques (projet-*.pdf, created Feb 2022) are the 2022 presidential program — not archived (older than the 2024 substitutes); the livret entreprise archived here explicitly says it is the 2022 program updated as a working base for upcoming national elections. RN Congress (Orléans, 24-25 Oct 2026) elected Jordan Bardella RN president; no candidate designation vote in the results PDF. Extraction caveat: législatives/européennes 2024 PDFs are two-column layouts, so pdfplumber text interleaves columns in places — verbatim quote matching may need care."
+}

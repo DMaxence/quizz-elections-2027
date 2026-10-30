@@ -1,0 +1,67 @@
+---
+import images from "../data/images.json";
+---
+<footer class="foot">
+  <p class="foot__name" aria-hidden="true">Isoloir</p>
+  <div class="foot__row">
+    <ul class="foot__main">
+      <li><a href="/quiz">Faire le quiz</a></li>
+      <li><a href="/#candidats">Les candidats</a></li>
+      <li><a href="/methode">La méthode</a></li>
+    </ul>
+    <div class="foot__cols small">
+      <div>
+        <h2 class="foot__h">Engagements</h2>
+        <p>Aucun parti, aucun candidat, aucun financement politique.</p>
+        <p>Vos réponses restent dans votre navigateur. Ni compte, ni cookie, ni mesure d'audience.</p>
+      </div>
+      <div>
+        <h2 class="foot__h">Données</h2>
+        <p>Chaque position est une citation exacte d'un document officiel, archivé avec son empreinte numérique.</p>
+        <p><a class="link" href="/methode#sources">Liste des documents</a></p>
+      </div>
+      <div>
+        <h2 class="foot__h">Images</h2>
+        <ul class="foot__credits">
+          {Object.entries(images).map(([, im]) => (
+            <li><a href={im.page}>{im.title}</a>, {im.creator}, {im.licence}</li>
+          ))}
+        </ul>
+        <p>Portraits des candidats : Wikimedia Commons, crédits sur la page des résultats.</p>
+      </div>
+    </div>
+  </div>
+  <div class="foot__legal small">
+    <p>Isoloir, présidentielle 2027. Outil indépendant d'aide à la réflexion ; il ne donne aucune consigne de vote.</p>
+    <a class="link" href="#top">Haut de page</a>
+  </div>
+</footer>
+
+<style>
+  .foot {
+    background: var(--night); color: var(--night-ink);
+    padding: clamp(3rem, 6vw, 5rem) var(--margin) 2rem;
+    margin-top: var(--section); overflow: hidden;
+  }
+  .foot a { text-decoration: none; }
+  .foot a:hover { text-decoration: underline; }
+  .foot__name {
+    font-size: clamp(5rem, 24vw, 26rem); line-height: 0.8; letter-spacing: -0.045em;
+    margin-left: -0.04em; max-width: none;
+  }
+  .foot__row { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: var(--gutter); margin-top: 4.5rem; }
+  .foot__main { grid-column: 1 / span 5; font-size: clamp(1.625rem, 1.2rem + 1.2vw, 2.25rem); line-height: 1.3; }
+  .foot__cols { grid-column: 7 / -1; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--gutter); color: var(--night-muted); }
+  .foot__cols p + p { margin-top: 0.7em; }
+  .foot__h { font-size: var(--step-small); color: var(--night-ink); margin-bottom: 0.6em; letter-spacing: 0; }
+  .foot__credits { display: grid; gap: 0.45em; margin-bottom: 0.7em; }
+  .foot__legal { display: flex; justify-content: space-between; gap: 1rem; margin-top: 6rem; color: var(--night-muted); }
+  @media (max-width: 60em) {
+    .foot__main { grid-column: 1 / -1; }
+    .foot__cols { grid-column: 1 / -1; grid-template-columns: 1fr 1fr; margin-top: 2.5rem; }
+  }
+  @media (max-width: 34em) {
+    .foot__cols { grid-template-columns: 1fr; }
+    .foot__legal { flex-direction: column; }
+  }
+</style>

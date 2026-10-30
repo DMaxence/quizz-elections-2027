@@ -1,0 +1,18 @@
+{
+  "slug": "ruffin",
+  "name": "François Ruffin",
+  "party": "Debout !",
+  "party_short": "Debout",
+  "declared": true,
+  "declaration_note": "Candidat déclaré ; lancement officiel de sa campagne présidentielle le 25 avril 2026 à Lyon. Non admis à la primaire « Choisir 2027 » (PS/Place publique) en septembre 2026, il maintient sa candidature hors primaire (source : presse).",
+  "declaration_source": "https://www.lyoncapitale.fr/actualite/a-lyon-francois-ruffin-passera-un-entretien-dembauche-pour-lelysee-le-25-avril",
+  "official_sites": [
+    "https://nouspresident.fr",
+    "https://francoisruffin.fr",
+    "https://debout.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Cahiers de campagne et plans d'action « programme 2027 », publiés par étapes.",
+  "blocked": [],
+  "notes": "Toutes les sources viennent de la rubrique « Notre programme » de nouspresident.fr (site de campagne, dons via don.debout.fr). Le programme est encore en cours de publication (un cahier par thème, le dernier daté d'octobre 2026) : revérifier la page pour de nouveaux cahiers. Le cahier n°1 (travailleurs essentiels) a quelques lignes dupliquées dans l'extraction (mise en page), le contenu reste lisible. Manifeste de Debout ! (debout.fr/notre-manifeste/) non archivé car le programme 2027 suffit."
+}

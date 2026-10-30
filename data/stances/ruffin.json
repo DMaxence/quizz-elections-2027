@@ -1,0 +1,135 @@
+{
+  "slug": "ruffin",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les idées de référendum devront aussi et surtout venir des citoyens, avec le Référendum d’initiative citoyenne (RIC), enfin.",
+          "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+          "page": 28
+        }
+      ]
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous avons besoin d’un programme ancré dans la continuité des acquis du Nouveau Front Populaire. […] Des mesures fortes, concrètes, comme le SMIC à 1 600€ ou la retraite à 60 ans, qui revalorisent le travail.",
+          "source_id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+          "page": 23
+        }
+      ],
+      "note": "Retraite à 60 ans citée dans le mot de la fin du cahier n° 1, signé par la responsable du programme, parmi les acquis du Nouveau Front populaire à reprendre."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous poursuivrons aussi la construction […] des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles",
+          "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+          "page": 40
+        }
+      ],
+      "note": "Six EPR2 ; la construction de huit EPR2 supplémentaires dépendrait du devis d’EDF."
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Proposition 1 : Taxe Zucman (18,5 Md€) : Gabriel Zucman propose une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 M€, après déduction des impôts déjà acquittés.",
+          "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+          "page": 24
+        }
+      ],
+      "note": "Taxe de 2 % sur les patrimoines supérieurs à 100 M€."
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "En plus d’étendre cet encadrement des loyers à l’ensemble des agglomérations, nous proposons de le généraliser à l’ensemble du territoire.",
+          "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+          "page": 27
+        }
+      ]
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "il faut remplacer Parcoursup par un système plus juste, plus transparent, et qui traite les jeunes comme des humains, en prenant le temps de les écouter et de les guider.",
+          "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+          "page": 34
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous baisserons les tarifs des péages grâce à la reprise en main des autoroutes (fin des concessions, tarification publique).",
+          "source_id": "cahier-de-campagne-n-3-renouer-avec-le-temps-des-loisirs-pro-e8120daa",
+          "page": 32
+        },
+        {
+          "quote": "La France ne doit plus jamais revivre de scandale Alstom, quitte à nationaliser certaines entreprises stratégiques.",
+          "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+          "page": 55
+        }
+      ]
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous poursuivrons le développement de l’énergie éolienne, car elle produit davantage en hiver, lorsque nous en avons besoin.",
+          "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+          "page": 41
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Dès notre arrivée au pouvoir, nous mettrons un terme aux négociations pour les accords de libre-échange avec la Malaisie, la Thaïlande, les Emirats Arabes Unis, ou encore les Philippines. Nous refuserons également la ratification du CETA",
+          "source_id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+          "page": 30
+        }
+      ],
+      "note": "Pour l’accord avec le Mercosur, propose de déclencher les mesures de sauvegarde."
+    },
+    "q18": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "La droite et l’extrême droite souhaitent accentuer la ségrégation scolaire en triant les élèves par niveau au plus tôt (groupes de niveau, fin du collège unique, brevet couperet) plutôt que de faire progresser les élèves en difficulté. Ce choix politique est inacceptable",
+          "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+          "page": 36
+        }
+      ]
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous organiserons une sortie progressive du marché de l’électricité. 1 / Nous supprimerons la concurrence sur la vente d’électricité aux consommateurs : fini la spéculation et le démarchage téléphonique abusif, retour à un service public dont les prix de vente seront basés sur les coûts réels de production.",
+          "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+          "page": 40
+        }
+      ],
+      "note": "Sortie progressive ; la France resterait intégrée au marché européen pour les imports-exports."
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Moduler les dotations publiques aux établissements privés en fonction de la mixité sociale : tout établissement sous contrat dont le taux d’élèves favorisés ou celui d’élèves boursiers s’écarte de la moyenne du territoire verra ses subventions réduites en proportion.",
+          "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+          "page": 42
+        }
+      ]
+    }
+  }
+}

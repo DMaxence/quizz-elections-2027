@@ -1,0 +1,68 @@
+{
+  "slug": "arthaud",
+  "stances": {
+    "q08": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "liberté de circulation et d’installation pour chaque être humain de cette planète !",
+          "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+          "page": 16
+        }
+      ],
+      "note": "Défend la liberté d’installation pour tous ; le regroupement familial n’est pas cité."
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Expropriation sans indemnité ni rachat de leurs actionnaires en commençant par ceux de l’industrie pétrolière et des industries de guerre !",
+          "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+          "page": 14
+        }
+      ],
+      "note": "Propose l’expropriation sans indemnité des grandes entreprises, à commencer par le pétrole et l’armement."
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "À bas les barbelés, les traques, les expulsions ! À bas l’Europe-forteresse ! Régularisation de tous les sans-papiers",
+          "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+          "page": 16
+        }
+      ]
+    },
+    "q20": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Sortir de l’Union européenne ne réglera pas les problèmes des travailleurs.",
+          "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-quitter-l-u-13edd05c",
+          "page": null
+        }
+      ],
+      "note": "Rejette la sortie de l’UE comme solution tout en critiquant l’UE."
+    },
+    "q22": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "La « préférence nationale » mise en avant par l’extrême droite consiste à retirer des droits à une partie des travailleurs, mais cela n’en a jamais donné plus aux autres.",
+          "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-travailleur-cc66f0e9",
+          "page": null
+        }
+      ]
+    },
+    "q23": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Confiscation des bénéfices de ces profiteurs de guerre : les milliards pour les hôpitaux, les écoles, pas pour la guerre !",
+          "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+          "page": 14
+        }
+      ]
+    }
+  }
+}

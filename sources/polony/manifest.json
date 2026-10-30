@@ -1,0 +1,35 @@
+{
+  "slug": "polony",
+  "sources": [
+    {
+      "id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+      "label": "« Ma vision pour la France » — Natacha Polony (site de campagne 2027)",
+      "publisher": "Natacha Polony 2027 (site de campagne)",
+      "url": "https://natachapolony2027.fr/natacha-polony/ma-vision",
+      "final_url": "https://natachapolony2027.fr/natacha-polony/ma-vision",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:20:23+00:00",
+      "sha256": "33f3eab1619d5e29a14e801dfe5edac0d0275ab5ae5386e441562923a7e7d822",
+      "raw": "sources/polony/raw/ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1.html",
+      "text": "sources/polony/text/ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1.txt",
+      "text_chars": 9856
+    },
+    {
+      "id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+      "label": "« Mes principes » — Natacha Polony (site de campagne 2027)",
+      "publisher": "Natacha Polony 2027 (site de campagne)",
+      "url": "https://natachapolony2027.fr/natacha-polony/mes-principes",
+      "final_url": "https://natachapolony2027.fr/natacha-polony/mes-principes",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:20:23+00:00",
+      "sha256": "f6dcd82ceb73b9899095083321f82703e4af700ddda59f81aa4360b577bcc685",
+      "raw": "sources/polony/raw/mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c.html",
+      "text": "sources/polony/text/mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c.txt",
+      "text_chars": 8193
+    }
+  ]
+}

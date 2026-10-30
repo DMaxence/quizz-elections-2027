@@ -1,0 +1,409 @@
+---
+import Base from "../layouts/Base.astro";
+import candidates from "../data/candidates.json";
+import questions from "../data/questions.json";
+import results from "../data/results.json";
+
+const withProgram = candidates.filter((c) => c.status !== "aucun");
+const without = candidates.filter((c) => c.status === "aucun");
+const payload = {
+  candidates: withProgram.map(({ slug, name, party, status, photo, sources }) => ({
+    slug, name, party, status, photo,
+    sources: Object.fromEntries(sources.map((s) => [s.id, { label: s.label, year: s.year, url: s.url }])),
+  })),
+  questions,
+  stances: results.stances,
+};
+---
+<Base title="Le dépouillement — Isoloir" description="Vos résultats : quels programmes rejoignent vos réponses, proposition par proposition, avec les citations et leurs sources.">
+  <main id="top">
+    <header class="res-head wrap">
+      <h1 class="head" data-rise="0">Le dépouillement</h1>
+      <p class="lead res-head__lead" data-summary>Chargement de vos réponses…</p>
+      <figure class="res-head__photo">
+        <img src="/img/bureau-1919.jpg" width="1376" height="924" alt="Assesseurs et électeurs autour de la table de vote d'un bureau parisien, 1919." />
+      </figure>
+    </header>
+
+    <section class="empty wrap" data-empty hidden aria-labelledby="empty-h">
+      <h2 id="empty-h" class="head">Rien à dépouiller pour l'instant</h2>
+      <p class="lead">Répondez à quelques propositions d'abord : il en faut au moins quelques-unes pour comparer.</p>
+      <a class="btn" href="/quiz">Commencer le quiz</a>
+    </section>
+
+    <div data-filled hidden>
+      <section class="top wrap" aria-labelledby="top-h">
+        <h2 id="top-h" class="sr-only">Les programmes les plus proches de vos réponses</h2>
+        <div class="top__lead" data-top></div>
+        <ol class="top__rest" data-rest></ol>
+        <p class="top__few small muted" data-few></p>
+      </section>
+
+      <section class="byq wrap" aria-labelledby="byq-h">
+        <h2 id="byq-h" class="head">Proposition par proposition</h2>
+        <p class="lead byq__lead">Pour chaque réponse, qui est d'accord avec vous, qui ne l'est pas, et ce que dit exactement le programme.</p>
+        <ol class="byq__list" data-byq></ol>
+      </section>
+
+      <section class="grid-sec" aria-labelledby="grid-h">
+        <div class="wrap">
+          <h2 id="grid-h" class="head">Le tableau complet</h2>
+          <p class="lead grid-sec__lead">Vos réponses face à celles de chaque programme. Les cases noires marquent le même avis que vous, les grises un avis différent, le point un sujet non abordé. Touchez une case pour lire la citation.</p>
+        </div>
+        <div class="table-scroll" tabindex="0" role="region" aria-labelledby="grid-h">
+          <table class="cmp" data-table></table>
+        </div>
+      </section>
+    </div>
+
+    <section class="docs wrap" aria-labelledby="docs-h">
+      <h2 id="docs-h" class="head">Les documents utilisés</h2>
+      <p class="lead docs__lead">Toutes les citations viennent de ces documents, archivés à la date indiquée. Aucun autre texte n'a été utilisé.</p>
+      <div class="docs__list">
+        {withProgram.map((c) => (
+          <div class="docs__item">
+            <h3 class="docs__who"><span class={`dot dot--${c.status}`} aria-hidden="true"></span>{c.name}<span class="muted small"> — {c.party}</span></h3>
+            {c.status_note && <p class="small muted">{c.status_note}</p>}
+            <ul class="docs__srcs small">
+              {c.sources.map((s) => (
+                <li><a class="link" href={s.url} rel="noopener">{s.label}</a> <span class="muted">({s.year}, archivé le {s.retrieved_at})</span></li>
+              ))}
+            </ul>
+            {c.photo_credit && <p class="docs__credit small muted">Portrait : <a href={c.photo_page ?? undefined}>{c.photo_credit}</a></p>}
+          </div>
+        ))}
+      </div>
+      {without.length > 0 && (
+        <div class="docs__none">
+          <h3 class="docs__who"><span class="dot dot--aucun" aria-hidden="true"></span>Sans programme publié à ce jour</h3>
+          <p class="small muted">Ces candidats déclarés n'ont encore publié aucun document programmatique exploitable. Ils entreront dans le quiz dès qu'ils le feront.</p>
+          <ul class="docs__srcs">
+            {without.map((c) => <li>{c.name} <span class="muted small">— {c.party}</span></li>)}
+          </ul>
+        </div>
+      )}
+      <div class="docs__reset">
+        <a class="btn btn--quiet" href="/quiz">Modifier mes réponses</a>
+        <button class="btn btn--quiet" type="button" data-reset>Effacer mes réponses de ce navigateur</button>
+      </div>
+    </section>
+
+    <dialog class="quote-dlg" data-dialog aria-labelledby="dlg-h">
+      <form method="dialog">
+        <p class="small muted" data-dlg-q></p>
+        <h2 id="dlg-h" class="dlg__who" data-dlg-who></h2>
+        <div data-dlg-body></div>
+        <button class="btn" value="close">Fermer</button>
+      </form>
+    </dialog>
+  </main>
+  <script type="application/json" id="isoloir-data" set:html={JSON.stringify(payload)} />
+</Base>
+
+<script>
+  type Stance = { stance: "pour" | "contre"; quotes: { quote: string; source_id: string; page?: number | null }[]; note?: string };
+  type Cand = { slug: string; name: string; party: string; status: string; photo: string | null; sources: Record<string, { label: string; year: string; url: string }> };
+  type Q = { id: string; theme: string; text: string; short?: string; help?: string };
+  type Answer = { a: "accord" | "desaccord" | "neutre"; imp: boolean };
+  const KEY = "isoloir:v1";
+
+  const data = JSON.parse(document.getElementById("isoloir-data")!.textContent!) as {
+    candidates: Cand[]; questions: Q[]; stances: Record<string, Record<string, Stance>>;
+  };
+  let answers: Record<string, Answer> = {};
+  try { answers = (JSON.parse(localStorage.getItem(KEY) || "") || {}).answers || {}; } catch {}
+
+  const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]!));
+  const initials = (n: string) => n.split(/[\s-]+/).filter(Boolean).map((w) => w[0]).slice(0, 2).join("").toUpperCase();
+  const face = (c: Cand, cls = "") => c.photo
+    ? `<img class="portrait ${cls}" src="${c.photo}" alt="" loading="lazy" width="600" height="600">`
+    : `<span class="initials ${cls}" aria-hidden="true">${esc(initials(c.name))}</span>`;
+  const LABEL = { accord: "D'accord", desaccord: "Pas d'accord", neutre: "Sans avis" } as const;
+
+  const opinionated = data.questions.filter((q) => answers[q.id] && answers[q.id].a !== "neutre");
+  // A short program can't top the ranking by chance: rank only candidates whose program covers
+  // at least 30 % of the questions answered with an opinion (and never fewer than 5).
+  const MIN_COMPARED = Math.max(5, Math.ceil(opinionated.length * 0.3));
+  const agrees = (a: Answer, s?: Stance) => !!s && ((a.a === "accord" && s.stance === "pour") || (a.a === "desaccord" && s.stance === "contre"));
+
+  // ---------- scores ----------
+  const scored = data.candidates.map((c) => {
+    let got = 0, total = 0, n = 0, nAgree = 0;
+    for (const q of opinionated) {
+      const s = data.stances[c.slug]?.[q.id];
+      if (!s) continue;
+      const w = answers[q.id].imp ? 2 : 1;
+      total += w; n++;
+      if (agrees(answers[q.id], s)) { got += w; nAgree++; }
+    }
+    return { c, n, nAgree, pct: total ? Math.round((100 * got) / total) : null };
+  });
+  const ranked = scored.filter((s) => s.n >= MIN_COMPARED && s.pct !== null)
+    .sort((a, b) => b.pct! - a.pct! || b.n - a.n || a.c.name.localeCompare(b.c.name, "fr"));
+  const few = scored.filter((s) => !(s.n >= MIN_COMPARED && s.pct !== null));
+
+  if (opinionated.length < 3) {
+    $("[data-empty]").hidden = false;
+    $("[data-summary]").textContent = "Vous n'avez pas encore donné d'avis sur assez de propositions.";
+  } else {
+    $("[data-filled]").hidden = false;
+    const best = ranked[0]?.pct;
+    const lead = ranked.filter((r) => r.pct === best);
+    $("[data-summary]").textContent =
+      `Vous avez donné votre avis sur ${opinionated.length} proposition${opinionated.length > 1 ? "s" : ""}. ` +
+      (lead.length > 1 ? `${lead.length} programmes arrivent à égalité en tête.` : "Voici le programme qui s'en rapproche le plus, puis tous les autres.");
+
+    const topics = (c: Cand) => {
+      const qs = opinionated.filter((q) => data.stances[c.slug]?.[q.id]);
+      const yes = qs.filter((q) => agrees(answers[q.id], data.stances[c.slug][q.id]));
+      const no = qs.filter((q) => !agrees(answers[q.id], data.stances[c.slug][q.id]));
+      const pos = (q: Q) => data.stances[c.slug][q.id].stance === "pour" ? "Pour" : "Contre";
+      const list = (title: string, l: Q[]) => l.length
+        ? `<div class="match__list"><h4 class="small">${title}</h4><ul>${l.map((q) => `<li><span class="match__pos">${pos(q)}</span> ${esc(q.short || q.text)}</li>`).join("")}</ul></div>` : "";
+      return `<div class="match__lists">${list("Vous êtes du même avis", yes)}${list("Vous divergez (position du programme)", no)}</div>`;
+    };
+    $("[data-top]").innerHTML = lead.map((r) => `
+      <article class="match">
+        ${face(r.c, "match__face")}
+        <div class="match__txt">
+          <p class="match__pct nums">${r.pct}<span>%</span></p>
+          <h3 class="match__name">${esc(r.c.name)}</h3>
+          <p class="match__party">${esc(r.c.party)}</p>
+          <p class="small muted">D'accord avec vous sur ${r.nAgree} des ${r.n} propositions que son programme aborde.</p>
+          ${topics(r.c)}
+        </div>
+      </article>`).join("");
+
+    $("[data-rest]").innerHTML = ranked.filter((r) => r.pct !== best).map((r) => `
+      <li class="rest">
+        ${face(r.c, "rest__face")}
+        <span class="rest__who"><span class="rest__name">${esc(r.c.name)}</span><span class="small muted">${esc(r.c.party)}</span></span>
+        <span class="rest__bar" aria-hidden="true"><span style="transform:scaleX(${(r.pct ?? 0) / 100})"></span></span>
+        <span class="rest__pct nums">${r.pct} %</span>
+        <span class="rest__n small muted nums">sur ${r.n}</span>
+      </li>`).join("");
+
+    const some = few.filter((f) => f.n > 0).sort((a, b) => b.n - a.n || a.c.name.localeCompare(b.c.name, "fr"));
+    const none = few.filter((f) => f.n === 0);
+    $("[data-few]").textContent = [
+      some.length ? `Non classés, car leur programme aborde moins de ${MIN_COMPARED} des sujets sur lesquels vous avez un avis : ${some.map((f) => `${f.c.name} (${f.pct} % sur ${f.n})`).join(", ")}.` : "",
+      none.length ? `Aucune position comparable avec vos réponses : ${none.map((f) => f.c.name).join(", ")}.` : "",
+    ].filter(Boolean).join(" ");
+
+    // ---------- question by question ----------
+    const order = ranked.map((r) => r.c).concat(few.map((f) => f.c));
+    const chip = (c: Cand, q: Q) => `<button type="button" class="chip" data-c="${c.slug}" data-q="${q.id}">${face(c, "chip__face")}<span>${esc(c.name)}</span></button>`;
+    $("[data-byq]").innerHTML = data.questions.filter((q) => answers[q.id]).map((q) => {
+      const a = answers[q.id];
+      const pour = order.filter((c) => data.stances[c.slug]?.[q.id]?.stance === "pour");
+      const contre = order.filter((c) => data.stances[c.slug]?.[q.id]?.stance === "contre");
+      const silent = order.filter((c) => !data.stances[c.slug]?.[q.id]);
+      const mine = a.a === "accord" ? pour : a.a === "desaccord" ? contre : [];
+      const other = a.a === "accord" ? contre : a.a === "desaccord" ? pour : [];
+      const group = (title: string, list: Cand[]) => list.length
+        ? `<div class="byq__group"><h4 class="small">${title}</h4><div class="chips">${list.map((c) => chip(c, q)).join("")}</div></div>` : "";
+      return `<li class="byq__item">
+        <div class="byq__q">
+          <p class="small muted">${esc(q.theme)}</p>
+          <h3 class="byq__text">${esc(q.text)}</h3>
+          ${q.help ? `<p class="byq__help small">${esc(q.help)}</p>` : ""}
+          <p class="byq__you">Vous : <strong>${LABEL[a.a]}</strong>${a.imp ? " · important" : ""}</p>
+        </div>
+        <div class="byq__who">
+          ${a.a === "neutre"
+            ? group("Pour", pour) + group("Contre", contre)
+            : group("D'accord avec vous", mine) + group("Pas d'accord avec vous", other)}
+          ${silent.length ? `<p class="small muted byq__silent">N'en parlent pas : ${silent.map((c) => esc(c.name)).join(", ")}.</p>` : ""}
+        </div>
+      </li>`;
+    }).join("");
+
+    // ---------- full table ----------
+    const asked = data.questions.filter((q) => answers[q.id]);
+    $("[data-table]").innerHTML = `
+      <thead><tr>
+        <th scope="col" class="cmp__qh">Proposition</th>
+        <th scope="col" class="cmp__you">Vous</th>
+        ${order.map((c) => `<th scope="col" class="cmp__c">${face(c, "cmp__face")}<span class="cmp__name">${esc(c.name)}</span><span class="cmp__party">${esc(c.party)}</span></th>`).join("")}
+      </tr></thead>
+      <tbody>${asked.map((q) => {
+        const a = answers[q.id];
+        return `<tr><th scope="row" class="cmp__q">${esc(q.short || q.text)}</th>
+          <td class="cmp__you">${LABEL[a.a]}${a.imp ? " ×2" : ""}</td>
+          ${order.map((c) => {
+            const s = data.stances[c.slug]?.[q.id];
+            if (!s) return `<td class="cmp__cell cmp__cell--none"><span class="sr-only">Non mentionné</span>·</td>`;
+            const hit = a.a !== "neutre" && agrees(a, s);
+            const miss = a.a !== "neutre" && !hit;
+            return `<td class="cmp__cell ${hit ? "is-hit" : ""} ${miss ? "is-miss" : ""}"><button type="button" data-c="${c.slug}" data-q="${q.id}">${s.stance === "pour" ? "Pour" : "Contre"}</button></td>`;
+          }).join("")}
+        </tr>`;
+      }).join("")}</tbody>`;
+  }
+
+  // ---------- entrances for rendered content (content stays visible without motion) ----------
+  if ("IntersectionObserver" in window && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    const items = document.querySelectorAll<HTMLElement>(".match, .rest, .byq__item");
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach((e) => {
+        if (!e.isIntersecting) return;
+        const el = e.target as HTMLElement;
+        const sibs = Array.from(el.parentElement?.children ?? []);
+        setTimeout(() => el.classList.add("risen"), Math.min(sibs.indexOf(el), 8) * 60);
+        io.unobserve(el);
+      });
+    }, { rootMargin: "0px 0px -6% 0px" });
+    items.forEach((el) => { el.classList.add("will-rise"); io.observe(el); });
+  }
+
+  // ---------- quote dialog ----------
+  const dlg = $<HTMLDialogElement>("[data-dialog]");
+  document.addEventListener("click", (e) => {
+    const t = (e.target as HTMLElement).closest<HTMLElement>("[data-c][data-q]");
+    if (!t) return;
+    const c = data.candidates.find((x) => x.slug === t.dataset.c)!;
+    const q = data.questions.find((x) => x.id === t.dataset.q)!;
+    const s = data.stances[c.slug][q.id];
+    $("[data-dlg-q]").textContent = q.text;
+    $("[data-dlg-who]").innerHTML = `${esc(c.name)} <span class="muted">— ${s.stance === "pour" ? "pour" : "contre"}</span>`;
+    $("[data-dlg-body]").innerHTML = s.quotes.map((x) => {
+      const src = c.sources[x.source_id];
+      return `<blockquote class="dlg__quote">« ${esc(x.quote)} »</blockquote>
+        <p class="small">${src ? `<a class="link" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(src.label)}</a> (${esc(src.year)})` : ""}${x.page ? `, page ${x.page}` : ""}</p>`;
+    }).join("") + (s.note ? `<p class="small muted dlg__note">${esc(s.note)}</p>` : "");
+    dlg.showModal();
+  });
+  dlg.addEventListener("click", (e) => { if (e.target === dlg) dlg.close(); });
+
+  $("[data-reset]").addEventListener("click", () => {
+    if (!confirm("Effacer toutes vos réponses de ce navigateur ?")) return;
+    try { localStorage.removeItem(KEY); } catch {}
+    location.href = "/";
+  });
+</script>
+
+<style>
+  .res-head { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); padding-top: clamp(2.5rem, 6vw, 5rem); align-items: end; }
+  .res-head h1 { grid-column: 1 / span 6; font-size: clamp(3rem, 7vw, 7rem); line-height: 0.95; letter-spacing: -0.035em; }
+  .res-head__lead { grid-column: 1 / span 6; margin-top: 1.5rem; max-width: 34ch; }
+  .res-head__photo { grid-column: 8 / -1; grid-row: 1 / span 2; }
+  .res-head__photo img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+
+  .empty { padding-top: var(--section); display: grid; gap: 1.5rem; justify-items: start; }
+
+  .top { padding-top: clamp(4rem, 8vw, 7rem); }
+  .top__lead { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 34rem), 1fr)); gap: var(--gutter); }
+  :global(.match) { display: grid; grid-template-columns: minmax(0, 20rem) minmax(0, 1fr); gap: var(--gutter); background: var(--night); color: var(--night-ink); }
+  :global(.match__face) { width: 100%; height: auto; aspect-ratio: 4 / 5; }
+  :global(.match__txt) { padding: clamp(1.25rem, 2.5vw, 2rem) clamp(1.25rem, 2.5vw, 2rem) clamp(1.25rem, 2.5vw, 2rem) 0; display: flex; flex-direction: column; gap: 0.5rem; }
+  :global(.match__txt .muted) { color: var(--night-muted); margin-top: 1.25rem; }
+  :global(.match__lists) { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); gap: 1rem var(--gutter); margin-top: 1.5rem; }
+  :global(.match__list h4) { font-weight: 400; color: var(--night-muted); margin-bottom: 0.4rem; }
+  :global(.match__list ul) { list-style: none; padding: 0; display: grid; gap: 0.3rem; font-size: 1.0625rem; }
+  :global(.match__list li) { display: grid; grid-template-columns: 3.6em 1fr; }
+  :global(.match__pos) { display: inline-block; min-width: 3.6em; color: var(--night-muted); }
+  :global(.match__pct) { font-size: clamp(4.5rem, 9vw, 8.5rem); line-height: 0.85; letter-spacing: -0.04em; }
+  :global(.match__pct span) { font-size: 0.45em; margin-left: 0.05em; }
+  :global(.match__name) { font-size: var(--step-lead); margin-top: 1rem; }
+  :global(.match__party) { color: var(--night-muted); }
+
+  .top__rest { margin-top: 3.5rem; display: grid; gap: 6px; }
+  :global(.rest) { display: grid; grid-template-columns: 52px minmax(10rem, 1.2fr) minmax(4rem, 2fr) 4.5rem 3.5rem; gap: 1rem; align-items: center; padding: 6px 12px 6px 6px; background: var(--sheet); }
+  :global(.rest__face) { width: 52px; height: 52px; }
+  :global(.rest__who) { display: grid; line-height: 1.2; }
+  :global(.rest__name) { font-size: 1.1875rem; }
+  :global(.rest__bar) { height: 8px; background: var(--surface); overflow: hidden; }
+  :global(.rest__bar span) { display: block; height: 100%; background: var(--ink); transform-origin: left; }
+  :global(.rest__pct) { font-size: var(--step-lead); text-align: right; }
+  .top__few { margin-top: 1.5rem; max-width: 70ch; }
+
+  .byq { padding-top: var(--section); }
+  .byq__lead { margin-top: 1.25rem; max-width: 40ch; }
+  .byq__list { margin-top: 4rem; display: grid; gap: 4rem; }
+  :global(.byq__item) { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); row-gap: 1.25rem; }
+  :global(.byq__q) { grid-column: 1 / span 5; display: grid; gap: 0.6rem; align-content: start; }
+  :global(.byq__help) { color: var(--muted); max-width: 48ch; }
+  :global(.byq__text) { font-size: clamp(1.375rem, 1.1rem + 0.8vw, 1.75rem); line-height: 1.2; }
+  :global(.byq__you strong) { font-weight: 500; }
+  :global(.byq__who) { grid-column: 7 / -1; display: grid; gap: 1.25rem; align-content: start; }
+  :global(.byq__group h4) { font-weight: 400; color: var(--muted); margin-bottom: 0.5rem; }
+  :global(.chips) { display: flex; flex-wrap: wrap; gap: 6px; }
+  :global(.chip) { display: inline-flex; align-items: center; gap: 0.5rem; padding: 4px 12px 4px 4px; background: var(--sheet); font-size: 1rem; transition: background var(--t-hover); }
+  :global(.chip:hover) { background: var(--field); }
+  :global(.chip:active) { transform: scale(0.98); }
+  :global(.chip__face) { width: 32px; height: 32px; font-size: 0.75rem; }
+
+  .grid-sec { padding-top: var(--section); }
+  .grid-sec__lead { margin-top: 1.25rem; max-width: 44ch; }
+  /* The table scrolls inside its own box (both axes) so that the candidate row stays on top
+     and the question + "Vous" columns stay on the left while reading. */
+  .table-scroll {
+    --qw: 16rem; --yw: 7.5rem;
+    position: relative; margin: 3rem var(--margin) 0; max-height: 82svh; overflow: auto;
+    overscroll-behavior-x: contain; background: var(--bg);
+  }
+  :global(.cmp) { border-collapse: separate; border-spacing: 0; font-size: 0.9375rem; }
+  /* gaps between cells are painted in the page colour so sticky cells stay opaque */
+  :global(.cmp th), :global(.cmp td) { padding: 0; text-align: left; vertical-align: middle; border: 2px solid var(--bg); } /* taste-skill-ignore: page-coloured gutters, not rules */
+  :global(.cmp thead th) { position: sticky; top: 0; z-index: 2; background: var(--bg); vertical-align: bottom; }
+  :global(.cmp__qh), :global(.cmp__q) {
+    position: sticky; left: 0; z-index: 3; background: var(--bg);
+    width: var(--qw); min-width: var(--qw); max-width: var(--qw);
+    padding: 0.5rem 0.75rem 0.5rem 0; font-weight: 400; line-height: 1.25;
+  }
+  :global(.cmp__qh) { color: var(--muted); }
+  :global(.cmp__you) {
+    position: sticky; left: var(--qw); z-index: 3;
+    width: var(--yw); min-width: var(--yw); max-width: var(--yw);
+    background: var(--sheet); padding: 0.5rem 0.5rem; text-align: center; font-weight: 500; line-height: 1.2;
+  }
+  :global(.cmp thead .cmp__qh), :global(.cmp thead .cmp__you) { z-index: 4; }
+  :global(.cmp thead .cmp__you) { background: var(--sheet); color: var(--ink); }
+  :global(.cmp__c) { width: 6.5rem; min-width: 6.5rem; font-weight: 400; padding: 0.5rem 0.25rem 0.5rem 0; }
+  :global(.cmp__face) { width: 4rem; height: 4rem; margin-bottom: 0.4rem; }
+  :global(.cmp__name) { display: block; line-height: 1.15; }
+  :global(.cmp__party) { display: block; color: var(--muted); font-size: 0.875rem; line-height: 1.2; margin-top: 0.15rem; }
+  :global(.cmp__cell) { background: var(--surface); text-align: center; height: 2.75rem; }
+  :global(.cmp__cell button) { width: 100%; height: 100%; min-height: 2.75rem; }
+  :global(.cmp__cell button:hover) { text-decoration: underline; }
+  :global(.cmp__cell.is-hit) { background: var(--ink); color: var(--bg); }
+  :global(.cmp__cell.is-miss) { background: var(--surface); color: var(--muted); }
+  :global(.cmp__cell--none) { background: transparent; color: var(--muted); }
+
+  .docs { padding-top: var(--section); }
+  .docs__lead { margin-top: 1.25rem; max-width: 44ch; }
+  .docs__list { margin-top: 3.5rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 24rem), 1fr)); gap: 3rem var(--gutter); }
+  .docs__item { display: grid; gap: 0.6rem; align-content: start; }
+  .docs__who { font-size: 1.375rem; display: flex; gap: 0.6rem; align-items: baseline; flex-wrap: wrap; }
+  .docs__srcs { padding-left: 1.2em; display: grid; gap: 0.35rem; font-size: 1rem; }
+  .docs__credit a { color: inherit; }
+  .docs__none { margin-top: 4rem; display: grid; gap: 0.75rem; max-width: 60ch; }
+  .docs__reset { margin-top: 4rem; display: flex; flex-wrap: wrap; gap: 8px; }
+
+  .quote-dlg { border: 0; padding: 0; max-width: min(40rem, calc(100vw - 2rem)); background: var(--sheet); color: var(--ink); box-shadow: 0 24px 64px rgba(0,0,0,0.25); } /* taste-skill-ignore: modal dialog floats */
+  .quote-dlg::backdrop { background: rgba(18,18,18,0.55); }
+  .quote-dlg form { padding: clamp(1.5rem, 4vw, 2.5rem); display: grid; gap: 1rem; justify-items: start; }
+  .dlg__who { font-size: var(--step-lead); }
+  :global(.dlg__quote) { font-size: 1.25rem; line-height: 1.45; font-style: italic; margin-top: 0.5rem; }
+  :global(.dlg__note) { margin-top: 0.5rem; }
+
+  @media (max-width: 52em) {
+    .res-head h1, .res-head__lead, .res-head__photo { grid-column: 1 / -1; }
+    .res-head__photo { grid-row: auto; margin-top: 2rem; }
+    :global(.match) { grid-template-columns: 1fr; gap: 0; }
+    :global(.match__face) { width: 55%; }
+    :global(.match__txt) { padding: 1.25rem; }
+    :global(.rest) { grid-template-columns: 44px 1fr auto; row-gap: 0.25rem; }
+    :global(.rest__face) { width: 44px; height: 44px; grid-row: span 2; }
+    :global(.rest__bar) { grid-column: 2; }
+    :global(.rest__pct) { grid-column: 3; grid-row: 1; }
+    :global(.rest__n) { grid-column: 3; grid-row: 2; text-align: right; }
+    :global(.byq__q), :global(.byq__who) { grid-column: 1 / -1; }
+    .table-scroll { --qw: 8.5rem; --yw: 4.75rem; margin-inline: 0; max-height: 78svh; }
+    :global(.cmp) { font-size: 0.875rem; }
+    :global(.cmp__c) { width: 5.25rem; min-width: 5.25rem; }
+    :global(.cmp__face) { width: 3rem; height: 3rem; }
+    :global(.cmp__party) { font-size: 0.8125rem; }
+  }
+</style>

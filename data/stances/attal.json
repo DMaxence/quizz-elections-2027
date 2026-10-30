@@ -1,0 +1,21 @@
+{
+  "slug": "attal",
+  "stances": {
+    "q08": {
+      "stance": "pour",
+      "quotes": [{ "quote": "privilégier l’immigration de travail au détriment d’autres types d’immigration comme le regroupement familial, qui doit être mieux encadré et qui doit donc diminuer.", "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892", "page": null }],
+      "note": "Souhaite que le regroupement familial diminue, sans chiffrer la baisse."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        { "quote": "Il faut poursuivre et amplifier ce réarmement.", "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892", "page": null },
+        { "quote": "nous devons continuer à augmenter les moyens de notre défense", "source_id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892", "page": null }
+      ]
+    },
+    "q32": {
+      "stance": "pour",
+      "quotes": [{ "quote": "nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.", "source_id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f", "page": null }]
+    }
+  }
+}

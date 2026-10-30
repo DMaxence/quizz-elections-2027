@@ -1,0 +1,131 @@
+---
+import Base from "../layouts/Base.astro";
+import candidates from "../data/candidates.json";
+import questions from "../data/questions.json";
+
+const themes = [...new Set(questions.map((q) => q.theme))];
+const nDocs = candidates.reduce((n, c) => n + c.sources.length, 0);
+---
+<Base title="La méthode — Isoloir" description="Comment Isoloir choisit ses sources, écrit ses questions, vérifie ses citations et calcule les résultats." current="methode">
+  <main id="top">
+    <header class="m-head wrap">
+      <h1 class="m-title" data-rise="0">La méthode, sans zone d'ombre</h1>
+      <p class="lead m-lead" data-rise="1">Le quiz n'est utile que si l'on peut le vérifier. Voici, étape par étape, comment il est construit, et ce qu'il ne fait pas.</p>
+      <figure class="m-photo">
+        <img src="/img/carte-1945.jpg" width="1400" height="1101" alt="Carte d'électeur de 1945 : « L'électeur ne sera admis à voter qu'après être passé par l'isoloir »." />
+        <figcaption class="small muted">Carte d'électeur, 1945, l'année du premier vote des femmes en France.</figcaption>
+      </figure>
+    </header>
+
+    <section class="m-steps wrap" aria-labelledby="steps-h">
+      <div class="m-steps__side">
+        <h2 id="steps-h" class="head">Cinq règles</h2>
+        <figure class="m-steps__photo">
+          <img src="/img/bulletins-1932.jpg" width="1376" height="952" loading="lazy" alt="Électeurs choisissant leurs bulletins sur une longue table, 1932." />
+        </figure>
+      </div>
+      <div class="m-step" data-rise="0">
+        <h3>Seulement des documents officiels</h3>
+        <p>Pour chaque candidat déclaré, nous avons cherché les documents publiés sur son site de campagne ou celui de son parti : programme 2027, livrets thématiques, pages de propositions. À défaut, les programmes de 2024 (législatives ou européennes) et les propositions encore en ligne. Jamais d'article de presse, d'interview, de discours rapporté ni de réseau social.</p>
+      </div>
+      <div class="m-step" data-rise="0">
+        <h3>Chaque document est archivé</h3>
+        <p>Les {nDocs} documents ont été téléchargés et conservés tels quels, avec leur date de consultation et leur empreinte numérique (SHA-256). Si un candidat modifie son site, on sait exactement sur quelle version repose le quiz.</p>
+      </div>
+      <div class="m-step" data-rise="0">
+        <h3>Une position, c'est une citation</h3>
+        <p>Un candidat n'est classé « pour » ou « contre » une proposition que si son document le dit explicitement. La phrase exacte est conservée et vérifiée automatiquement dans le texte d'origine. Sans citation, le candidat est « non mentionné », ce qui ne compte ni pour ni contre lui.</p>
+      </div>
+      <div class="m-step" data-rise="0">
+        <h3>Des questions issues des programmes</h3>
+        <p>Les propositions concrètes de tous les programmes ont été relevées, puis regroupées : les questions portent sur les sujets où plusieurs candidats prennent position et où leurs réponses divergent. La moitié environ sont formulées « pour », l'autre « contre », pour ne pas pousser vers un même réflexe. Le travail de lecture et de rédaction a été fait avec l'aide d'une intelligence artificielle, encadrée par ces règles, et chaque citation a été contrôlée mot pour mot. Sous chaque question, une courte explication définit les termes (sigles, dispositifs existants) sans argument pour ou contre : c'est le seul texte du quiz qui ne vient pas des programmes.</p>
+      </div>
+      <div class="m-step" data-rise="0">
+        <h3>Un calcul simple et affiché</h3>
+        <p>Pour chaque proposition où vous avez un avis et où le candidat a une position écrite : un accord rapporte un point, un désaccord zéro. Une question « importante » compte double. Le score est la part d'accords, toujours affichée avec le nombre de questions comparées. Pour qu'un programme court ne puisse pas arriver en tête par hasard, un candidat n'est classé que si son programme aborde au moins 30 % des sujets sur lesquels vous avez un avis (et au moins cinq) ; les autres sont affichés à part, avec leur score.</p>
+      </div>
+    </section>
+
+    <section class="m-status wrap" aria-labelledby="status-h">
+      <h2 id="status-h" class="head">Les trois pastilles</h2>
+      <dl class="m-dots">
+        <div data-rise="0"><dt><span class="dot dot--officiel"></span>Programme 2027 publié</dt><dd>Au moins un document présenté par le candidat (ou son parti) comme son programme ou une partie de son programme pour 2027, avec des mesures. Beaucoup sont encore incomplets et publiés par étapes.</dd></div>
+        <div data-rise="0"><dt><span class="dot dot--partiel"></span>Documents antérieurs</dt><dd>Pas encore de programme 2027 : les positions viennent de programmes de 2024, d'un document de parti, ou de textes 2027 sans mesures concrètes (manifeste, principes).</dd></div>
+        <div data-rise="0"><dt><span class="dot dot--aucun"></span>Rien de publié</dt><dd>Aucun document programmatique exploitable à ce jour. Le candidat apparaît dans la liste mais pas dans le quiz.</dd></div>
+      </dl>
+    </section>
+
+    <section class="m-limits" aria-labelledby="limits-h">
+      <div class="wrap m-limits__in">
+        <div class="m-limits__side">
+          <h2 id="limits-h" class="head">Ce que le quiz ne dit pas</h2>
+          <figure><img src="/img/urne-1932.jpg" width="1376" height="952" loading="lazy" alt="Électeurs en file devant l'urne d'un bureau de vote, 1932." /></figure>
+        </div>
+        <ul class="m-limits__list lead">
+          <li data-rise="0">Un programme n'est qu'une promesse : le quiz ne juge ni sa faisabilité, ni son coût, ni la sincérité de ceux qui le portent.</li>
+          <li>Les programmes n'ont pas tous la même taille. Un candidat dont le document est court sera « non mentionné » plus souvent.</li>
+          <li>Les questions simplifient : un « pour » peut cacher des conditions. C'est pourquoi chaque citation est accessible dans les résultats.</li>
+          <li>La liste des candidats est celle des déclarations connues au 30 octobre 2026, pas la liste officielle du Conseil constitutionnel.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="sources" class="m-themes wrap" aria-labelledby="themes-h">
+      <h2 id="themes-h" class="head">Les thèmes abordés</h2>
+      <p class="lead m-themes__lead">{questions.length} questions réparties sur {themes.length} thèmes. Les liens vers les documents sont donnés avec les résultats, pour que personne ne lise un programme avant d'avoir répondu.</p>
+      <ul class="m-themes__list">
+        {themes.map((t) => <li>{t} <span class="muted nums">{questions.filter((q) => q.theme === t).length}</span></li>)}
+      </ul>
+      <figure class="m-themes__photo">
+        <img src="/img/saint-lo-2022.jpg" width="1540" height="660" loading="lazy" alt="Isoloirs à rideaux et urne transparente dans un bureau de vote de Saint-Lô, 2022." />
+      </figure>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .m-head { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); padding-top: clamp(2.5rem, 6vw, 5rem); align-items: start; }
+  .m-title { grid-column: 1 / span 6; font-size: clamp(2.75rem, 5.5vw, 5.5rem); line-height: 0.98; letter-spacing: -0.03em; }
+  .m-lead { grid-column: 1 / span 5; margin-top: 1.5rem; max-width: 34ch; }
+  .m-photo { grid-column: 8 / -1; grid-row: 1 / span 2; display: grid; gap: 0.6rem; }
+  .m-photo img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; object-position: 50% 30%; }
+
+  .m-steps { padding-top: var(--section); display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); row-gap: 3.5rem; }
+  .m-steps__side { grid-column: 1 / span 4; grid-row: 1 / span 6; align-self: start; position: sticky; top: 2rem; display: grid; gap: 2rem; }
+  .m-steps__photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 70% 50%; filter: grayscale(1) contrast(1.05); }
+  .m-step { grid-column: 6 / -1; display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.5fr); gap: var(--gutter); }
+  .m-step h3 { font-size: clamp(1.5rem, 1.2rem + 1vw, 2.125rem); line-height: 1.1; }
+  .m-step p { font-size: 1.125rem; }
+
+  .m-status { padding-top: var(--section); }
+  .m-dots { margin-top: 3rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--gutter); }
+  .m-dots > div { background: var(--sheet); padding: clamp(1.25rem, 2.5vw, 2rem); display: grid; gap: 0.75rem; align-content: start; }
+  .m-dots dt { display: flex; gap: 0.7rem; align-items: baseline; font-size: var(--step-lead); }
+  .m-dots dd { margin: 0; font-size: 1.0625rem; }
+
+  .m-limits { margin-top: var(--section); background: var(--night); color: var(--night-ink); padding-block: clamp(4.5rem, 9vw, 8rem); }
+  .m-limits__in { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); }
+  .m-limits__side { grid-column: 1 / span 5; display: grid; gap: 2rem; align-content: start; }
+  .m-limits__side img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+  .m-limits__list { grid-column: 6 / -1; display: grid; gap: 1.5rem; padding-left: 1.1em; }
+
+  .m-themes { padding-top: var(--section); display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); }
+  .m-themes h2 { grid-column: 1 / span 6; }
+  .m-themes__lead { grid-column: 1 / span 6; margin-top: 1.25rem; max-width: 40ch; }
+  .m-themes__list { grid-column: 8 / -1; grid-row: 1 / span 2; display: grid; gap: 0.5rem; font-size: 1.25rem; }
+  .m-themes__list li { display: flex; justify-content: space-between; gap: 1rem; padding-block: 0.35rem; }
+  .m-themes__photo { grid-column: 1 / -1; margin-top: 4rem; }
+  .m-themes__photo img { width: 100%; aspect-ratio: 21 / 9; object-fit: cover; filter: grayscale(1) contrast(1.05); }
+
+  @media (max-width: 56em) {
+    .m-title, .m-lead, .m-photo, .m-steps__side, .m-step, .m-limits__side, .m-limits__list, .m-themes h2, .m-themes__lead, .m-themes__list { grid-column: 1 / -1; grid-row: auto; }
+    .m-photo { margin-top: 2rem; }
+    .m-steps__side { position: static; }
+    .m-steps__photo { display: none; }
+    .m-step { grid-template-columns: 1fr; gap: 0.75rem; }
+    .m-dots { grid-template-columns: 1fr; }
+    .m-limits__list { margin-top: 2rem; }
+    .m-themes__list { margin-top: 2rem; }
+    .m-themes__photo img { aspect-ratio: 4 / 3; }
+  }
+</style>

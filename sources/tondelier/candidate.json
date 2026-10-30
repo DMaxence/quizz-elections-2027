@@ -1,0 +1,26 @@
+{
+  "slug": "tondelier",
+  "name": "Marine Tondelier",
+  "party": "Les Écologistes",
+  "party_short": "LE",
+  "declared": true,
+  "declaration_note": "Désignée officiellement candidate des Écologistes par un conseil fédéral extraordinaire en septembre 2026, après l'abandon de la primaire unitaire de la gauche ; un vote des adhérents du 10 au 13 décembre 2026 doit trancher entre maintien d'une candidature autonome et retrait au profit d'un autre candidat de gauche.",
+  "declaration_source": "https://www.franceinfo.fr/elections/presidentielle/la-candidate-des-ecologistes-a-la-presidentielle-2027-marine-tondelier-a-accouche-d-un-garcon-prenomme-leon_8205839.html",
+  "official_sites": [
+    "https://marinetondelier.fr",
+    "https://lesecologistes.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "« Projet 2027 » des Écologistes (557 mesures) et livrets thématiques présidentielle 2027.",
+  "blocked": [
+    {
+      "url": "https://marinetondelier.fr/le-programme",
+      "why": "Cloudflare challenge (« Just a moment… ») sur cette page uniquement"
+    },
+    {
+      "url": "https://marinetondelier.fr/manifeste",
+      "why": "Page = court extrait ; le manifeste complet (« Ce que nous vous devons ») n'est téléchargeable que via un formulaire, et il a été écrit pour la primaire de la gauche, abandonnée depuis"
+    }
+  ],
+  "notes": "Une fois le « Projet 2027 » archivé depuis lesecologistes.fr avec un vrai navigateur, le statut peut passer à « officiel ». Les livrets thématiques sont marqués official_2027_program=true (le site les présente comme « Livrets thématiques des Écologistes dans le cadre de la Présidentielle 2027 ») mais ne couvrent que six thèmes. Les pages de propositions associées sur lesecologistes.fr/posts/… sont aussi derrière Cloudflare. Pas de programme 2024 propre archivé (européennes 2024 sur lesecologistes.fr, bloqué). Candidature fragile : vote des adhérents prévu du 10 au 13 décembre 2026. | Programme complet « Projet 2027 » (557 mesures) téléchargé manuellement via navigateur le 30/10/2026 (Cloudflare bloquait curl)."
+}

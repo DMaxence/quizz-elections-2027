@@ -1,0 +1,20 @@
+{
+  "slug": "branco",
+  "sources": [
+    {
+      "id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "label": "Le Projet — programme de Juan Branco pour 2027 (PDF, « La Voie »)",
+      "publisher": "Les Ruches (ruches.org, mouvement de soutien officiel)",
+      "url": "https://ruches.org/projet-1784217879253.pdf",
+      "final_url": "https://ruches.org/projet-1784217879253.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:25:21+00:00",
+      "sha256": "3aa327786a7726072ab2d08b4fd2f74adfa128158156164b54376d71a317ab98",
+      "raw": "sources/branco/raw/le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778.pdf",
+      "text": "sources/branco/text/le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778.txt",
+      "text_chars": 143788
+    }
+  ]
+}

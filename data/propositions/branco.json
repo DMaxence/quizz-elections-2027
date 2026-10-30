@@ -1,0 +1,407 @@
+[
+  {
+    "id": "branco-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer 267 taxes, dont 117 sans rendement connu",
+    "quote": "Suppression de 267 taxes, dont 117 taxes sans rendement connu",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "branco-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Rétablir l'ISF avec un mécanisme de précompte sur les droits de succession",
+    "quote": "Rétablissement de l’ISF avec un mécanisme de précompte sur les droits de succession.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "branco-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer les droits de mutation à titre gratuit (DMTG) pour 90 % des foyers fiscaux",
+    "quote": "Réforme radicale de la fiscalité de l’héritage. Fin des DMTG pour 90% des foyers fiscaux.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "branco-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Reprendre le contrôle de la politique monétaire en instaurant un contrôle des changes et des capitaux",
+    "quote": "Reprise de contrôle de la politique monétaire notamment via l’instauration d’une politique de contrôle des changes et capitaux.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 26,
+    "concrete": true
+  },
+  {
+    "id": "branco-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Déconcentrer le SMIC et relever le seuil minimal national à 1 500 euros net",
+    "quote": "Déconcentration du SMIC, avec réhaussement du seuil minimal national à 1500 euros net.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "branco-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Aligner les régimes de retraite et fixer les taux selon l'espérance de vie par catégorie socioprofessionnelle",
+    "quote": "Alignement des régimes de retraite et des taux de retour intra et intergénérationnel, fixation des taux selon l’espérance de vie par catégorie sociale et professionnelle, avec un taux de couverture régressif, une prise en compte du patrimoine et un renforcement des bas revenus.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "branco-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Rendre les allocations chômage dégressives dès la première année",
+    "quote": "Dégressivité des allocations chômage à partir de la première année, création d’une caisse de sécurité professionnelle remplaçant les UNEDIC/ASSEDIC/France Travail.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "branco-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Soumettre à référendum une réforme unifiant les statuts de travail et créant un licenciement simple avec préavis",
+    "quote": "Référendum proposant une réforme à la suisse unifiant les statuts de travail et créant la possibilité d’un licenciement simple avec préavis.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "branco-09",
+    "theme": "Santé",
+    "measure": "Abolir les complémentaires santé et mutuelles au profit d'un système unique de sécurité sociale intégrale",
+    "quote": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires (CSS, etc).",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "branco-10",
+    "theme": "Santé",
+    "measure": "Organiser un référendum sur la suppression des dépassements d'honoraires",
+    "quote": "Référendum sur la suppression des dépassements d’honoraires.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "branco-11",
+    "theme": "Santé",
+    "measure": "Imposer des obligations d'exercice en zones sous-dotées et réguler l'installation des médecins",
+    "quote": "Fusion des dispositifs de lutte contre les déserts médicaux […] en une politique unique, dirigée par des centres de santé départementaux dotés d’antennes, accompagnés d’obligations d’exercice en zones sous-dotées, d’une régulation de l’installation décennale, et la création d’un corps de médecins généralistes et ambulatoires d’État.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "branco-12",
+    "theme": "École et jeunesse",
+    "measure": "Rétablir la gratuité réelle des études universitaires pour tout résident français",
+    "quote": "Rétablissement de la gratuité réelle des études universitaires pour tout résident Français.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 36,
+    "concrete": true
+  },
+  {
+    "id": "branco-13",
+    "theme": "École et jeunesse",
+    "measure": "Mettre fin aux MIG (ex-SNU) et à Parcoursup",
+    "quote": "Fin des MIG (ex-SNU) et de Parcoursup.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 37,
+    "concrete": true
+  },
+  {
+    "id": "branco-14",
+    "theme": "École et jeunesse",
+    "measure": "Absorber le parc scolaire privé et mettre fin au système de « l'école libre »",
+    "quote": "Refonte de la carte scolaire et absorption du parc scolaire privé, fin du système issue de « l’école libre ».",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 38,
+    "concrete": true
+  },
+  {
+    "id": "branco-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Construire 14 EPR 2 et développer une filière intégrée de réacteurs à neutrons rapides",
+    "quote": "Construction de 14 EPR 2, développement d’une filière intégrée RNR-NA.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "branco-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Nationaliser la distribution d'électricité et sortir du marché européen de l'électricité",
+    "quote": "Expropriation des acteurs privés et nationalisation du marché de la distribution de l'électricité : fin de la concurrence dans le secteur énergétique. - Sortie du marché européen de l’électricité.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "branco-17",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Abolir les Zones à faibles émissions",
+    "quote": "Abolition des Zones à Faibles Émissions.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 54,
+    "concrete": true
+  },
+  {
+    "id": "branco-18",
+    "theme": "Agriculture et alimentation",
+    "measure": "Rétablir des prix planchers garantis et des prix minimum d'entrée",
+    "quote": "Rétablissement des prix planchers garantis et prix minimum d’entrée.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 46,
+    "concrete": true
+  },
+  {
+    "id": "branco-19",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire sous cinq ans les pesticides CMR de catégorie 1 et les perturbateurs endocriniens identifiés",
+    "quote": "Interdiction à horizon quinquennal des pesticides CMR de catégorie 1et perturbateurs endocriniens identifiés, et réduction des CMR de catégorie 2.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 48,
+    "concrete": true
+  },
+  {
+    "id": "branco-20",
+    "theme": "Immigration",
+    "measure": "Conditionner le regroupement familial et traiter les demandes d'asile au niveau consulaire",
+    "quote": "Conditionnalisation du regroupement familial et déconcentration du traitement de l’asile au niveau consulaire.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "branco-21",
+    "theme": "Immigration",
+    "measure": "Créer un système d'asile à deux niveaux, le second lié à l'origine géographique",
+    "quote": "Création d’un système d’asile de deux niveaux (premier niveau lié à la qualité individuelle, préservant l’ensemble des prérogatives actuelles ; deuxième niveau lié à l’origine géographique).",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "branco-22",
+    "theme": "Immigration",
+    "measure": "Régulariser les sans-papiers selon des critères d'intégration objectivables assortis d'obligations de service",
+    "quote": "Mise en place de critères objectivables d’intégration concernant les étrangers, accompagnée d’obligations de service à la nation, dans le cadre des régularisations de personnes dénuées de titres de séjour.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "branco-23",
+    "theme": "Sécurité et justice",
+    "measure": "Municipaliser la police nationale, hors police judiciaire et maintien de l'ordre",
+    "quote": "Municipalisation de la police nationale (hors Police Judiciaire et unités de maintien de l’ordre).",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "branco-24",
+    "theme": "Sécurité et justice",
+    "measure": "Limiter les gardes à vue à 24 heures et à 200 000 mesures par an",
+    "quote": "Limitation des gardes à vues à 24H et à un quantum de 200.000 mesures annuelles.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 19,
+    "concrete": true
+  },
+  {
+    "id": "branco-25",
+    "theme": "Sécurité et justice",
+    "measure": "Amnistier les gilets jaunes, militants des convois des libertés et soignants sanctionnés",
+    "quote": "Adoption d’une loi d’amnistie et création d’une commission de réparation pour les gilets jaunes, les militants des convois des libertés, les soignants sanctionnés et les militants politiques réprimés lors des mandatures précédentes.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "branco-26",
+    "theme": "Sécurité et justice",
+    "measure": "Créer un Tribunal populaire temporaire jugeant les atteintes passées à la probité et aux intérêts de la nation",
+    "quote": "Création d’un Tribunal populaire et d’un Comité de clémence chargés de la transition républicaine, dont l’autorité sera déclinée localement, et doté d’une existence de dix ans.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "branco-27",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer un référendum d'initiative citoyenne (RIC) en toutes matières",
+    "quote": "Référendum fondé sur l’article 11 de la Constitution proposant : - Création d’un RIC en toutes matières.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "branco-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le mandat révocable et la possibilité de mandat impératif à toute échelle",
+    "quote": "Instauration du principe de mandat révocable, et de la possibilité permanente de transformer le mandat représentatif en mandat impératif, à toute échelle",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "branco-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Supprimer le poste de Premier ministre",
+    "quote": "Suppression du poste de Premier Ministre et transformation de Matignon en ministère de la présidence.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "branco-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Porter le mandat présidentiel à 7 ans, limité à trois mandats",
+    "quote": "Changement de la durée du mandat présidentiel (7 ans), avec limitation de trois mandats.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "branco-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Rendre le vote obligatoire et invalider l'élection en cas de majorité de votes blancs",
+    "quote": "vote obligatoire, prise en compte du vote nul et blanc (réduisant proportionnellement le financement public et rendant caduque le mandat électoral en cas de majorité de vote blanc).",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "branco-32",
+    "theme": "Institutions et démocratie",
+    "measure": "Convoquer par référendum une assemblée constituante, élue aux deux tiers et tirée au sort au tiers",
+    "quote": "Référendum fondé sur l’article 11 de la Constitution proposant la convocation d’une assemblée constituante dotée d’un mandat de 12 mois, composée d’élus sur liste proportionnelle au deux-tiers et sur tirage au sort au tiers",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "branco-33",
+    "theme": "Europe, international et défense",
+    "measure": "Organiser un référendum sur la sortie de l'UE, de l'euro, du Conseil de l'Europe et/ou de Schengen",
+    "quote": "Référendum fondé sur l’article 11 de la Constitution proposant : - Sortie de l’Union Européenne, de l’euro, du Conseil de l’Europe et/ou de l’espace Schengen.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "branco-34",
+    "theme": "Europe, international et défense",
+    "measure": "Organiser un référendum sur la sortie de l'OTAN",
+    "quote": "Sortie de l’OTAN (commandement intégré ou du Traité).",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "branco-35",
+    "theme": "Europe, international et défense",
+    "measure": "Arrêter les livraisons d'armes à l'Ukraine",
+    "quote": "Arrêt des livraisons d’armes à l’Ukraine.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "branco-36",
+    "theme": "Europe, international et défense",
+    "measure": "Soumettre à référendum un service obligatoire pour tous, civil ou militaire",
+    "quote": "Référendum proposant un service militaire obligatoire pour tous, avec options civile et militaire (six mois communs à tous, puis le choix entre un service civil de douze mois ou un service militaire de six mois), et fonctionnement d’une réserve sur le modèle suisse.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "branco-37",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les régions et les intercommunalités",
+    "quote": "Suppression des régions, transformées à titre transitoire en commissariats, révocables par le chef de l’exécutif et les maisons du peuple, et des intercommunalités, remplacées par des assemblées composées au tiers d’élus et aux deux tiers de citoyens tirés au sort.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "branco-38",
+    "theme": "Logement et territoires",
+    "measure": "Créer une surtaxe sur les 3 % de Français polypropriétaires",
+    "quote": "Surtaxe sur l’accaparement immobilier visant les 3% de Français polypropriétaires (hors résidence principale et secondaire)",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 53,
+    "concrete": true
+  },
+  {
+    "id": "branco-39",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les APL et autres aides au logement dans le cadre d'un plan contre la spéculation immobilière",
+    "quote": "Grand plan de lutte contre la spéculation immobilière couplé à une suppression des APL, ALF, ALS, primes au déménagement, PAH, Action logement, Garantie VISALE, LOCA-PASS, MOBILI-JEUNE, MOBILI-PASS, Ma prime adapt’…",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 53,
+    "concrete": true
+  },
+  {
+    "id": "branco-40",
+    "theme": "Protection sociale et famille",
+    "measure": "Déconditionnaliser le RSA et attribuer automatiquement les minima sociaux",
+    "quote": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "branco-41",
+    "theme": "Protection sociale et famille",
+    "measure": "Étendre le RSA aux jeunes dès 18 ans, sans condition de ressources",
+    "quote": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources et à condition d’une dissociation du foyer fiscal familial.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "branco-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Exproprier les propriétaires de médias jugés oligarchiques et transformer les médias en SCOP",
+    "quote": "Expropriation des propriétaires de médias oligarchiques, transformation de l’ensemble des médias en SCOP et redistribution du capital aux citoyens, travailleurs et abonnés.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "branco-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Supprimer l'ensemble des aides à la presse existantes",
+    "quote": "Suppression de l’ensemble des aides à la presse existantes.",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "branco-44",
+    "theme": "Société et libertés",
+    "measure": "Soumettre à référendum la dépénalisation de l'usage des drogues avec monopole d'État, ou une justice d'exception anti-narcotrafic",
+    "quote": "Référendum interlocutoire de l’Assemblée constituante proposant alternativement : - Réforme « portugaise » du suivi socio-sanitaire de la consommation de drogues, doublé d’une nationalisation monopolistique du marché de la production et de la distribution proposant des licences sous strict contrôle étatique ; accompagnée d’une dépénalisation de l’usage de toute drogue […] Ou - Mise en place d’une justice d’exception quinquennale, non-renouvelable, concernant le narcotrafic",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "branco-45",
+    "theme": "Société et libertés",
+    "measure": "Soumettre à référendum la légalisation de la prostitution adulte et des maisons closes, ou sa répression",
+    "quote": "Référendum interlocutoire de l’Assemblée constituante proposant alternativement : - Une légalisation de la prostitution adulte, la recréation de maisons closes sur le modèle allemand […] Ou - Une politique de répression à 360 degrés, touchant à l’ensemble des acteurs de la chaine, du client au proxénète en passant par le/la prostituée",
+    "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "page": 11,
+    "concrete": true
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": "arthaud-01",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Exiger un salaire d'au moins 2 200 euros net par mois",
+    "quote": "Aujourd’hui il faut gagner au moins 2 200 euros net par mois pour s’en sortir. Eh bien voilà ce que nous devons exiger !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-02",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter massivement les salaires, les allocations et les pensions",
+    "quote": "Nous devons imposer une augmentation massive des salaires, des allocations et des pensions et leur indexation sur la hausse des prix : quand les prix montent, notre salaire doit suivre !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-03",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Indexer les salaires, allocations et pensions sur la hausse réelle des prix",
+    "quote": "Les salaires doivent suivre la hausse des prix. Pas ceux de l’inflation officielle qui sous-estime toujours la réalité, mais la hausse réelle que nous constatons nous-mêmes au supermarché ou à la pompe à essence.",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Répartir le travail entre tous pour supprimer le chômage",
+    "quote": "Alors, pour que personne ne soit condamné au chômage, il faut recenser les besoins et imposer que le travail soit réparti entre tous.",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Baisser le temps et la charge de travail sans perte de salaire",
+    "quote": "Il faut baisser le temps et la charge de travail sans perte de salaire pour permettre à tous de vivre.",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Lever le secret commercial et le secret des affaires pour rendre publics les comptes des grandes entreprises",
+    "quote": "Levée du secret commercial et du secret des affaires pour rendre publics les comptes de ces grandes entreprises, y compris ceux qui sont cachés !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-07",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Confisquer les bénéfices des entreprises qualifiées de « profiteurs de guerre »",
+    "quote": "Confiscation des bénéfices de ces profiteurs de guerre : les milliards pour les hôpitaux, les écoles, pas pour la guerre !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-08",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Exproprier sans indemnité les grandes entreprises, en commençant par l'industrie pétrolière et les industries de guerre",
+    "quote": "Expropriation sans indemnité ni rachat de leurs actionnaires en commençant par ceux de l’industrie pétrolière et des industries de guerre !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-09",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Rejeter le protectionnisme",
+    "quote": "Le protectionnisme ne protège ni l’emploi ni les salaires, il est une arme des capitalistes dans leur guerre contre d’autres capitalistes.",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 18,
+    "concrete": false
+  },
+  {
+    "id": "arthaud-10",
+    "theme": "Immigration",
+    "measure": "Régulariser tous les sans-papiers",
+    "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d’installation pour chaque être humain de cette planète !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-11",
+    "theme": "Immigration",
+    "measure": "Instaurer la liberté de circulation et d'installation pour tous",
+    "quote": "liberté de circulation et d’installation pour chaque être humain de cette planète !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-12",
+    "theme": "Immigration",
+    "measure": "Mettre fin aux expulsions et à l'« Europe-forteresse »",
+    "quote": "À bas les barbelés, les traques, les expulsions ! À bas l’Europe-forteresse !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-13",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser l'unité nationale et la préparation à la guerre",
+    "quote": "Refusons l’unité nationale derrière les dirigeants irresponsables qui emmènent la société vers la barbarie et derrière les généraux dévoués aux industriels et aux banquiers !",
+    "source_id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "page": 25,
+    "concrete": false
+  },
+  {
+    "id": "arthaud-14",
+    "theme": "Europe, international et défense",
+    "measure": "Rejeter la sortie de l'Union européenne comme solution",
+    "quote": "Sortir de l’Union européenne ne réglera pas les problèmes des travailleurs.",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-quitter-l-u-13edd05c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "arthaud-15",
+    "theme": "Institutions et démocratie",
+    "measure": "Rendre les élus révocables à tout moment par les électeurs",
+    "quote": "Par ailleurs, comme gage de respect des engagements, les élus devraient être révocables à tout moment par les électeurs.",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-l-tat-0c686777",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-16",
+    "theme": "Institutions et démocratie",
+    "measure": "Limiter l'indemnité des élus au salaire d'un travailleur qualifié et raccourcir les mandats",
+    "quote": "Les mandats électifs devraient être courts et ne donner lieu à aucun privilège (pas d’indemnisation supérieure au salaire d’un travailleur qualifié).",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-l-tat-0c686777",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-17",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Ne pas s'opposer au nucléaire ou aux OGM en tant que techniques, mais à leur usage pour le profit",
+    "quote": "nous ne confondons pas la lutte contre les usages qui sont faits aujourd’hui de certaines techniques (énergie nucléaire ou organismes génétiquement modifiés dits OGM, par exemple) avec la lutte contre ces techniques elles-mêmes.",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-cologie-e01c71d2",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "arthaud-18",
+    "theme": "Logement et territoires",
+    "measure": "Recenser les immeubles inoccupés et planifier la construction et la rénovation des logements nécessaires",
+    "quote": "En prenant en main les rênes de l’économie, ils pourront recenser les immeubles inoccupés, planifier la construction ou la rénovation du nombre de logements nécessaires à l’échelle de la société pour garantir à toutes et à tous ce droit élémentaire de disposer d’un toit correct.",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-logement-b33902b9",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "arthaud-19",
+    "theme": "Société et libertés",
+    "measure": "Soutenir les combats contre l'oppression des femmes, des inégalités salariales aux féminicides",
+    "quote": "Nous sommes donc solidaires de tous les combats contre l'oppression des femmes, contre les injustices et les violences à leur encontre, depuis les inégalités salariales jusqu'aux violences sexuelles et aux féminicides.",
+    "source_id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-f-minisme-c0b1ecb3",
+    "page": null,
+    "concrete": false
+  }
+]

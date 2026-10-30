@@ -1,0 +1,407 @@
+[
+  {
+    "id": "markovic-01",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne en toutes matières, avec un seuil d'un million de signatures",
+    "quote": "Instaurer le Référendum d’initiative citoyenne – législatif et abrogatoire – (RIC) en toutes matières et notamment pour les questions relatives à la condition animale, avec un seuil d’un million de signatures.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-02",
+    "theme": "Institutions et démocratie",
+    "measure": "Reconnaître le vote blanc comme suffrage exprimé",
+    "quote": "Reconnaître le vote blanc comme suffrage exprimé.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-03",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer la proportionnelle pour les élections législatives",
+    "quote": "Instaurer un scrutin proportionnel pour les élections législatives.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-04",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer un ministre d'État à la Protection animale indépendant des autres ministères",
+    "quote": "Créer un poste de ministre d’État à la Protection animale, totalement indépendant des autres ministères, et disposant de moyens suffisants.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-05",
+    "theme": "Institutions et démocratie",
+    "measure": "Adosser à la Constitution une Charte de la protection animale reconnaissant les animaux comme êtres sensibles",
+    "quote": "Adosser à la Constitution une Charte de la protection animale reconnaissant le caractère d’êtres sensibles des animaux, leurs intérêts inhérents à cette qualité, et les responsabilités qu’ont l’État et les citoyens à leur égard, et en faire ainsi une valeur fondamentale de notre État de droit.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-06",
+    "theme": "Institutions et démocratie",
+    "measure": "Protéger les lanceurs d'alerte et leur réserver des emplois dans la fonction publique",
+    "quote": "Protéger les lanceurs d’alerte, assurer la protection des sources pour les organisations qui relaient ces alertes, créer des emplois réservés dans la fonction publique pour les lanceurs d’alerte et un droit à la reconversion professionnelle.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-07",
+    "theme": "Agriculture et alimentation",
+    "measure": "Mettre fin à l'élevage intensif et industriel, en interdisant immédiatement les nouvelles constructions et extensions",
+    "quote": "Mettre fin à l’élevage intensif (sans accès au plein air) et industriel (ICPE soumis aux régimes d’enregistrement et d’autorisation) d’ici 2027 : interdiction immédiate des nouvelles constructions, des extensions et des aménagements augmentant la capacité, et fin totale de ces modes d’élevage en 2027",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-08",
+    "theme": "Agriculture et alimentation",
+    "measure": "Réduire de 50 % en 5 ans la production et la consommation de protéines animales",
+    "quote": "Réduire, en France, la production et la consommation de protéines animales de 50 % en 5 ans.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-09",
+    "theme": "Agriculture et alimentation",
+    "measure": "Réorienter les subventions aux productions animales vers l'agriculture végétale",
+    "quote": "Réorienter les subventions aux productions animales vers l’agriculture végétale (sans intrants d’origine animale) et locale à destination directe de l’alimentation humaine.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-10",
+    "theme": "Agriculture et alimentation",
+    "measure": "Abolir le gavage",
+    "quote": "Abolir la pratique du gavage et abroger l’article L. 654-27-1 du Code rural et de la pêche maritime.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-11",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire l'abattage sans étourdissement préalable",
+    "quote": "Interdire l’abattage sans étourdissement préalable.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-12",
+    "theme": "Agriculture et alimentation",
+    "measure": "Installer des caméras de contrôle dans les abattoirs",
+    "quote": "Installer des caméras de contrôle dans les abattoirs sur les postes de déchargement, d’attente, d’amenée et d’abattage des animaux, avec contrôle par une autorité indépendante et transparente",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-13",
+    "theme": "Agriculture et alimentation",
+    "measure": "Servir au moins un jour sur deux un repas végétal dans toute la restauration collective",
+    "quote": "Instaurer l’obligation, dans toute la restauration collective publique et privée, de servir au moins un jour sur deux un repas d’origine végétale.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-14",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire les exportations d'animaux vivants vers les pays tiers",
+    "quote": "Interdire les exportations d’animaux vivants vers les pays tiers.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-15",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire la pêche industrielle, c'est-à-dire les navires de pêche de plus de 12 mètres",
+    "quote": "Interdire à horizon 2027 la pêche industrielle c’est-à-dire interdire les navires de pêche de plus de 12 mètres.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-16",
+    "theme": "Agriculture et alimentation",
+    "measure": "Conditionner les aides publiques à l'agriculture à l'absence d'utilisation de pesticides",
+    "quote": "Conditionner les aides publiques à l’agriculture à l’absence d’utilisation de pesticides.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-17",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Appliquer une TVA à 0 % sur les produits alimentaires végétaux",
+    "quote": "TVA à 0 % pour les produits alimentaires végétaux (céréales, légumineuses, fruits et légumes frais…).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-18",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Taxer les produits importés issus de l'élevage intensif ou industriel selon leurs externalités négatives",
+    "quote": "Taxer, selon un taux intégrant les externalités négatives, tous les produits importés et provenant de l’élevage intensif et / ou industriel.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-19",
+    "theme": "Santé",
+    "measure": "Rembourser intégralement un rendez-vous annuel chez un nutritionniste formé en nutrition végétale",
+    "quote": "Permettre à tout assuré social la prise en charge totale d’un rendez-vous annuel chez un nutritionniste formé en nutrition végétale.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-20",
+    "theme": "Santé",
+    "measure": "Interdire les nitrites et les nitrates dans l'alimentation",
+    "quote": "Interdire l’utilisation des nitrites et des nitrates dans l’alimentation.",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "markovic-21",
+    "theme": "Santé",
+    "measure": "Interdire d'ici 2034 l'expérimentation animale dans la législation sur les produits chimiques",
+    "quote": "Interdire d’ici à 2034 l’expérimentation animale dans le cadre de la législation sur les produits chimiques (REACH, le règlement sur les produits biocides et le règlement sur les produits phytopharmaceutiques).",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "markovic-22",
+    "theme": "École et jeunesse",
+    "measure": "Instaurer des cours de cuisine végétale du CP au baccalauréat",
+    "quote": "Instaurer des cours de cuisine végétale à partir du CP et jusqu’au baccalauréat dans toutes les filières.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-23",
+    "theme": "École et jeunesse",
+    "measure": "Interdire toute dissection d'animaux dans le primaire et le secondaire",
+    "quote": "Interdire toute dissection d’animaux (vertébrés et invertébrés) dans les enseignements primaires et secondaires.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-24",
+    "theme": "École et jeunesse",
+    "measure": "Arrêter l'utilisation d'animaux dans les cursus d'enseignement supérieur d'ici 2029",
+    "quote": "Arrêter l’utilisation d’animaux dans les cursus d’enseignement supérieur d’ici 2029.",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "markovic-25",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Laisser en libre évolution 10 % de la superficie terrestre d'ici 2030",
+    "quote": "Protéger de toute extraction ou pratique invasive 10 % de la superficie terrestre d’ici 2030 et ce, tant en métropole qu’en outre-mer, en les laissant en libre évolution",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-26",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Laisser en libre évolution 30 % de la superficie maritime française d'ici 2030",
+    "quote": "Protéger de toute extraction ou pratique invasive 30 % de la superficie maritime française d’ici 2030 en les laissant en libre évolution.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-27",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Interdire les pesticides dans un périmètre d'un kilomètre autour des zones habitées",
+    "quote": "Augmenter les lieux d’interdiction de pesticides en incluant une interdiction dans un périmètre d’un kilomètre des zones habitées.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-28",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Soumettre à référendum les grands choix énergétiques, dont le nucléaire",
+    "quote": "Soumettre à un grand débat national et référendum les grands choix énergétiques de la France pour ces prochaines années (développement ou objectif de fin du nucléaire, développement des énergies renouvelables, avenir des véhicules thermiques).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-29",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Abroger les listes des espèces susceptibles d'occasionner des dégâts (ESOD)",
+    "quote": "Abroger les listes des Espèces susceptibles d’occasionner des dégâts (ESOD).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-30",
+    "theme": "Sécurité et justice",
+    "measure": "Interdire la détention d'armes à feu, hors personnes chargées de la sécurité publique",
+    "quote": "Interdiction de détention d’armes à feu (hors personnes chargées de mission de sécurité publique).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-31",
+    "theme": "Sécurité et justice",
+    "measure": "Créer des parquets spécialisés dans les infractions commises envers les animaux",
+    "quote": "Créer des parquets spécialisés dans chaque tribunal judiciaire en charge des infractions commises à l’encontre des animaux.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-32",
+    "theme": "Sécurité et justice",
+    "measure": "Correctionnaliser l'ensemble des infractions commises envers les animaux",
+    "quote": "Correctionnaliser l’ensemble des infractions commises à l’encontre des animaux, les contraventions ne produisant pas d’effets suffisamment dissuasifs.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-33",
+    "theme": "Société et libertés",
+    "measure": "Interdire la chasse",
+    "quote": "Interdire la chasse.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-34",
+    "theme": "Société et libertés",
+    "measure": "Interdire la corrida et les combats de coqs",
+    "quote": "Interdire la corrida et les combats de coqs.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-35",
+    "theme": "Société et libertés",
+    "measure": "Interdire la détention d'animaux dans les cirques et autres spectacles",
+    "quote": "Interdire la détention d’animaux dans les cirques et autres spectacles.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-36",
+    "theme": "Société et libertés",
+    "measure": "Interdire la pêche de loisir",
+    "quote": "Interdire la pêche de loisir.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-37",
+    "theme": "Europe, international et défense",
+    "measure": "Interdire par des clauses miroirs l'importation de produits issus de pratiques interdites en France",
+    "quote": "Instaurer des clauses miroirs aux fins d’interdire l’importation de tous produits issus de pratiques interdites en France (élevage intensif et industriel, pêche industrielle…)",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-38",
+    "theme": "Europe, international et défense",
+    "measure": "Adopter des sanctions commerciales contre le Japon, la Norvège, l'Islande et les îles Féroé pour la chasse aux cétacés",
+    "quote": "Adopter des sanctions commerciales à l’encontre du Japon, de la Norvège, de l’Islande et des îles Féroé tant qu’ils poursuivront leurs agissements envers les cétacés (dauphins, baleines…).",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 45,
+    "concrete": true
+  },
+  {
+    "id": "markovic-39",
+    "theme": "Europe, international et défense",
+    "measure": "Donner au Parlement européen le pouvoir d'initiative législative",
+    "quote": "Porter l’attribution au Parlement européen du pouvoir d’initiative législative.",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 46,
+    "concrete": true
+  },
+  {
+    "id": "markovic-40",
+    "theme": "Europe, international et défense",
+    "measure": "Supprimer de l'article 13 du TFUE les dérogations au bien-être animal pour rites religieux et traditions",
+    "quote": "Modifier l’article 13 du Traité sur le fonctionnement de l’Union européenne (TFUE) en supprimant les termes « tout en respectant les dispositions législatives ou administratives et les usages des États membres en matière notamment de rites religieux, de traditions culturelles et de patrimoines régionaux »",
+    "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "page": 44,
+    "concrete": true
+  },
+  {
+    "id": "markovic-41",
+    "theme": "Logement et territoires",
+    "measure": "Rendre gratuit le transport des chiens et des chats dans les transports publics",
+    "quote": "Rendre gratuit le transport des chiens et des chats dans les transports publics",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-42",
+    "theme": "Protection sociale et famille",
+    "measure": "Intégrer les animaux de compagnie identifiés dans le calcul du quotient familial",
+    "quote": "Intégrer dans le calcul du quotient familial (selon un barème à fixer) les animaux de compagnie identifiés (avec un nombre maximum d’animaux).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-43",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer une couverture médicale universelle pour les animaux des personnes à faibles revenus",
+    "quote": "Créer une couverture médicale universelle pour les animaux identifiés (plafond d’actes par an) au profit des personnes ayant un revenu inférieur à un seuil (seuil de progressivité).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-44",
+    "theme": "Protection sociale et famille",
+    "measure": "Admettre les animaux de compagnie dans toutes les structures d'hébergement, dont les EHPAD",
+    "quote": "Admettre les animaux de compagnie dans toutes les structures d’hébergement (EHPAD, hébergements d’urgence…).",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "markovic-45",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Accorder une journée de congé pour deuil à la perte de son animal de compagnie",
+    "quote": "Établir une journée de congé pour deuil pour la perte de son animal de compagnie identifié auprès de l’I-CAD ou de l’I-FAP.",
+    "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "page": null,
+    "concrete": true
+  }
+]

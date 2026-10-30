@@ -1,0 +1,23 @@
+{
+  "slug": "zemmour",
+  "name": "Éric Zemmour",
+  "party": "Reconquête",
+  "party_short": "REC",
+  "declared": true,
+  "declaration_note": "Candidature confirmée le 17 septembre 2026 sur BFMTV (LCP) ; déclaration formelle annoncée par son entourage pour l'automne 2026.",
+  "declaration_source": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871",
+  "official_sites": [
+    "https://www.ericzemmour.fr",
+    "https://www.parti-reconquete.fr",
+    "https://www.zemmour.fr"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Pas de programme 2027 à ce jour : deux tracts récents de Reconquête.",
+  "blocked": [
+    {
+      "url": "https://www.ericzemmour.fr/priorites",
+      "why": "Page « Mes 5 priorités » (déc. 2021) : trafilatura omet le paragraphe « Indépendance » ; contenu ancien et très général, archivage laissé à l'appréciation du lead"
+    }
+  ],
+  "notes": "No 2027 program and no 2024 program found on official domains: parti-reconquete.fr has no program page; the 2022 program site (programme.zemmour2022.fr) now redirects to a NationBuilder login; no Reconquête législatives 2024 program document found (européennes 2024 were run as list 'La France fière' led by Marion Maréchal, since expelled — nothing on official domains). Reconquête is building its program through a participatory platform leprogrammepourlafrance.fr (run by Sarah Knafo, contributions only, no program yet). Only substantive programmatic content: the two party tracts archived (assets.ericzemmour.fr, linked from parti-reconquete.fr/j-agis), both short (~1.5-1.9k chars). Candidate source for the lead to decide on, NOT archived because it's not the candidate's/party's own domain: https://www.budget2027.fr/ — « 140 milliards d'économies par an : le plan de Sarah Knafo » (24 costed measures, Knafo = Reconquête secrétaire générale/MEP; linked from parti-reconquete.fr homepage; the Nov 2025 tract signed 'avec Éric Zemmour et Sarah Knafo' cites its figures via budget2026.fr). Also skipped: petition tracts (sante.pdf, mercosur.pdf), petition microsites, speeches on ericzemmour.fr/discours-*. zemmour.fr is an older WordPress news/video blog (no program). Extraction caveat: tract PDFs end with reversed rotated print-mention text (garbage lines), harmless."
+}

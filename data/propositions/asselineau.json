@@ -1,0 +1,407 @@
+[
+  {
+    "id": "asselineau-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Sortir de l'euro",
+    "quote": "L’euro fait péricliter notre industrie et exploser notre dette : il faut sortir de l’euro !",
+    "source_id": "profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde",
+    "page": 1,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Rétablir un contrôle des changes et des mouvements de capitaux contre l'évasion fiscale et les délocalisations",
+    "quote": "Nous porterons un coup d’arrêt à l’évasion fiscale et aux délocalisations en établissant immédiatement un contrôle des changes et des mouvements de capitaux.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Créer deux tranches d'impôt sur le revenu au-delà de 250 000 € et 500 000 € par an",
+    "quote": "À la création de deux nouvelles tranches d’imposition pour les très hauts revenus (supérieurs à 250 000 € et 500 000 € par an), ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser de 50 % les charges patronales des petites et moyennes entreprises",
+    "quote": "Nous diminuerons les charges patronales de 50% pour les petites et moyennes entreprises et rétablirons le solde commercial de la France en 3 ans.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-05",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Renationaliser ou cesser de privatiser de grandes entreprises de service public (gaz, eau, EDF, La Poste, autoroutes, SNCF)",
+    "quote": "Nous renationaliserons ou cesserons le processus de privatisation rampante et de dégradation de la qualité de service de plusieurs grandes entreprises, en particulier : • des sociétés de production et de distribution de gaz ; • des réseaux d’adduction d’eau ; • d’EDF (où nous mettrons fin au projet « Hercule » de démembrement imposé par la Commission européenne) ; • d’ENEDIS ; • de La Poste ; • des concessionnaires d’autoroutes ; • de Télédiffusion de France ; • de la RATP et de la SNCF.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter le SMIC brut de 24 % sur le quinquennat",
+    "quote": "Nous augmenterons le SMIC brut de +24% sur le quinquennat (soit une moyenne de +4,4% par an cumulés sur 5 ans)",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Permettre la suppression des allocations chômage après deux refus d'offres d'embauche",
+    "quote": "Ainsi, les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Inscrire dans la Constitution le principe des retraites par répartition",
+    "quote": "Nous proposerons ainsi aux Français d’inscrire dans la Constitution le principe selon lequel le régime général de retraites se fait par répartition.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-09",
+    "theme": "Santé",
+    "measure": "Rouvrir 30 000 lits dans l'hôpital public et créer un pôle public de recherche et de production de médicaments",
+    "quote": "Nous rouvrirons 30 000 lits dans l’hôpital public durant le quinquennat et créerons un grand pôle public et transparent de recherche médicale et de production de médicaments en France.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-10",
+    "theme": "Santé",
+    "measure": "Majorer de 20 % les actes des médecins exerçant dans les déserts médicaux",
+    "quote": "nous dresserons une cartographie des déserts médicaux pour lesquels les médecins bénéficieront d’une majoration de 20% sur les actes qu’ils réaliseront, prise en charge par la Sécurité sociale.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-11",
+    "theme": "Santé",
+    "measure": "Interdire la rémunération des médecins de l'hôpital public par des laboratoires pharmaceutiques",
+    "quote": "nous interdirons toute rémunération des médecins et professeurs de l’hôpital public par des laboratoires pharmaceutiques.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-12",
+    "theme": "École et jeunesse",
+    "measure": "Consacrer au moins 80 % du temps scolaire en primaire aux savoirs fondamentaux",
+    "quote": "À l’école primaire, nous rétablirons la transmission des savoirs fondamentaux (français, mathématiques, histoire-géographie et bases scientifiques) en y consacrant au moins 80% du temps scolaire",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-13",
+    "theme": "École et jeunesse",
+    "measure": "Rétablir le cadre de référence national du baccalauréat",
+    "quote": "Dès la première année du quinquennat, nous rétablirons le cadre de référence national du Baccalauréat, vidé de sa substance sous le mandat du Président sortant.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-14",
+    "theme": "École et jeunesse",
+    "measure": "Rétablir le régime déclaratif pour l'instruction en famille",
+    "quote": "Nous garantirons la liberté éducative en rétablissant le régime déclaratif pour l’instruction en famille, étant précisé que tous les contrôles nécessaires seront évidemment effectués.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Développer le ferroutage pour atteindre 70 % de part du rail sur les grands axes de fret",
+    "quote": "Créant un grand plan d’incitations et d’investissement pour favoriser le recours au ferroutage (transport des camions par le rail) dans le transit des marchandises, avec pour objectif d’atteindre 70% de part du rail sur les axes prioritaires Paris-Marseille/Montpellier, Paris-Bordeaux et Paris-Belgique avant la fin du quinquennat",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Geler les tarifs de l'électricité et du gaz au moins deux ans et baisser de 10 % les péages autoroutiers",
+    "quote": "les tarifs de l’électricité et du gaz seront gelés pendant au moins les deux premières années du mandat, et nous imposerons une baisse de 10% des tarifs autoroutiers.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-17",
+    "theme": "Agriculture et alimentation",
+    "measure": "Remplacer la PAC par une politique agricole nationale visant 25 % de revenus en plus pour les agriculteurs",
+    "quote": "Les revenus des agriculteurs, actuellement garantis par la Politique agricole commune de l’Union européenne, seront garantis par une Politique agricole nationale, laquelle accompagnera la transition vers une agriculture durable et vers l’autosuffisance alimentaire. Cette Politique agricole nationale tendra à l’augmentation de 25 % des revenus des agriculteurs sur la durée du quinquennat, en comprenant les retraités.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-18",
+    "theme": "Agriculture et alimentation",
+    "measure": "Cesser les négociations de type TAFTA et dénoncer les traités de libre-échange déjà adoptés comme le CETA",
+    "quote": "Nous cesserons immédiatement l e s négociations d e traités transcontinentaux de type TAFTA et dénoncerons les traités transcontinentaux déjà adoptés tels que le CETA",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-19",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire les pesticides dangereux comme le glyphosate, sans perte de revenus pour les agriculteurs",
+    "quote": "Nous interdirons les pesticides dangereux pour la santé humaine et la biodiversité tels le glyphosate, en nous assurant qu’il n’y ait pas de perte de revenus pour les agriculteurs.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-20",
+    "theme": "Immigration",
+    "measure": "Se retirer de l'espace Schengen et rétablir des contrôles à toutes les frontières",
+    "quote": "Pour ce faire, nous nous retirerons de l’Espace Schengen et établirons des contrôles à toutes les frontières, en tenant compte des accommodements nécessaires, par exemple pour les travailleurs frontaliers.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-21",
+    "theme": "Immigration",
+    "measure": "Dénoncer le Pacte de Marrakech sur les migrations",
+    "quote": "Nous dénoncerons également le Pacte de Marrakech sur les migrations de 2018.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-22",
+    "theme": "Immigration",
+    "measure": "Porter à au moins 75 % le taux d'exécution des expulsions et sanctionner les pays refusant les reconduites",
+    "quote": "Nous améliorerons le suivi des personnes faisant l’objet d’une obligation de quitter le territoire français et sanctionnerons les pays d’origine n’acceptant pas les reconduites à la frontière. Notre objectif sera de porter à 75% minimum le taux effectif des expulsions",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-23",
+    "theme": "Immigration",
+    "measure": "Organiser un référendum sur le regroupement familial et le droit du sol",
+    "quote": "Un référendum organisé avant la fin de l’année 2022 demandera notamment aux Français de trancher : • La politique de regroupement familial ; • Les modifications à apporter au droit du sol",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-24",
+    "theme": "Sécurité et justice",
+    "measure": "Augmenter de 20 % les budgets de la justice et de la police",
+    "quote": "Nous augmenterons de 20% le budget de la justice et de 20% le budget de la police pour renforcer la chaîne pénale, afin que toute condamnation prononcée soit exécutée.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-25",
+    "theme": "Sécurité et justice",
+    "measure": "Emprisonner dès la première atteinte violente et rétablir des peines planchers croissantes pour les récidivistes",
+    "quote": "Nous développerons le recours aux peines d’emprisonnement, même courtes, dès la première atteinte violente aux personnes […] Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-26",
+    "theme": "Sécurité et justice",
+    "measure": "Instaurer la perpétuité incompressible pour les auteurs de crimes terroristes",
+    "quote": "Nous introduirons dans notre droit pénal la peine de perpétuité incompressible pour les auteurs de crimes terroristes.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-27",
+    "theme": "Sécurité et justice",
+    "measure": "Instaurer dans la Constitution la déchéance de nationalité des personnes ayant rejoint une entreprise terroriste à l'étranger",
+    "quote": "Proposer aux Français de modifier la Constitution pour instaurer la déchéance de nationalité française des personnes ayant rejoint à l’étranger une entreprise terroriste portant atteinte aux intérêts fondamentaux de la nation",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer le référendum d'initiative citoyenne (RIC) dans la Constitution",
+    "quote": "Nous proposerons ainsi aux Français de modifier la constitution pour : • Créer le Référendum d’initiative citoyenne (RIC)",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Reconnaître pleinement le vote blanc",
+    "quote": "de reconnaître pleinement et entièrement le vote blanc",
+    "source_id": "pourquoi-le-frexit-est-urgent-upr-ddb9b1c8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Rétablir le septennat présidentiel et réduire le mandat des députés à 4 ans",
+    "quote": "Rétablir le septennat pour le mandat du Président de la République, et passer la durée du mandat des députés de 5 à 4 ans",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Réduire le nombre de députés de 577 à 500 et de sénateurs de 348 à environ 100",
+    "quote": "Réduire de 35% le nombre de parlementaires en portant le nombre de députés de 577 à 500 et le nombre de sénateurs de 348 à environ 100",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-32",
+    "theme": "Europe, international et défense",
+    "measure": "Dénoncer les traités européens et sortir de l'Union européenne (Frexit)",
+    "quote": "Cela impose en premier lieu de dénoncer juridiquement les traités européens, de sortir de l’UE et de l’euro",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-33",
+    "theme": "Europe, international et défense",
+    "measure": "Se retirer de l'OTAN",
+    "quote": "Nous engagerons notre retrait de l’OTAN, indispensable pour retrouver une diplomatie souveraine et respectée dans le monde entier",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-34",
+    "theme": "Europe, international et défense",
+    "measure": "Porter le budget de la défense à au moins 3 % du PIB",
+    "quote": "Nous porterons le budget de la défense à hauteur d’au moins 3% du PIB sur la durée du quinquennat (contre 1,9% en 2019)",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-35",
+    "theme": "Europe, international et défense",
+    "measure": "Mettre fin aux politiques de sanctions, notamment contre la Russie",
+    "quote": "Nous mettrons un terme aux politiques actuelles de sanction, dictées par les États-Unis pour des motifs politiques, inefficaces, contreproductives et discriminatoires (Fédération de Russie, Birmanie, Venezuela, Hong-Kong, Biélorussie, etc.)",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-36",
+    "theme": "Logement et territoires",
+    "measure": "Construire 80 000 logements supplémentaires par an et favoriser l'accession à la propriété",
+    "quote": "Nous construirons 80.000 logements supplémentaires par an et encouragerons les Français à accéder à la propriété.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-37",
+    "theme": "Logement et territoires",
+    "measure": "Porter de 48 heures à 7 jours le délai pour expulser des squatters sur simple recours à la force publique",
+    "quote": "le délai de flagrance pour expulser les squatters sur simple recours à la force publique sera prolongé pour passer de 48 heures à 7 jours.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-38",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les conseils régionaux, remplacés par des établissements publics de coopération",
+    "quote": "Suppression des Conseils régionaux – remplacés par des Établissements publics administratifs de coopération légers – ce qui permettra de supprimer 1 758 postes de Conseillers régionaux",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-39",
+    "theme": "Protection sociale et famille",
+    "measure": "Verser les allocations familiales dès le premier enfant et les revaloriser pour le deuxième et le troisième",
+    "quote": "nous donnerons accès aux allocations familiales dès le premier enfant à charge, revaloriserons de 10% le montant des allocations versées pour le deuxième enfant, et de 15% le montant des allocations versées pour le troisième enfant.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-40",
+    "theme": "Protection sociale et famille",
+    "measure": "Revaloriser de 20 % l'allocation adulte handicapé (AAH) et la déconjugaliser",
+    "quote": "nous revaloriserons de 20% l’allocation adulte handicapé (AAH), actuellement inférieure au seuil de pauvreté, et nous la dé-conjugaliserons",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-41",
+    "theme": "Protection sociale et famille",
+    "measure": "Porter le minimum vieillesse à 950 € par mois",
+    "quote": "d’assurer un minimum vieillesse équivalant à 950 € par mois",
+    "source_id": "pourquoi-le-frexit-est-urgent-upr-ddb9b1c8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Taxer les profits des GAFAM réalisés en France, sous peine d'exclusion du marché",
+    "quote": "Nous taxerons les multinationales géantes du net (en particulier les GAFAM) sur leurs profits réalisés grâce au marché français, sous peine d’exclusion de ce marché.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Interdire la concentration des médias dans les mains de grands groupes",
+    "quote": "Nous reconnaîtrons le rôle et la responsabilité des médias en tant que « quatrième pouvoir », et nous interdirons en conséquence la concentration des médias dans les mains de grands groupes.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-44",
+    "theme": "Société et libertés",
+    "measure": "Interdire dans la Constitution tout confinement ou couvre-feu non strictement limité dans le temps et l'espace",
+    "quote": "dans le cadre des révisions constitutionnelles que nous soumettrons au suffrage des Français, nous proposerons l’interdiction de toute mesure de confinement ou de couvre-feu qui ne soit pas strictement limitée dans le temps et dans l’espace.",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "asselineau-45",
+    "theme": "Société et libertés",
+    "measure": "Interdire tout financement étranger des lieux de culte",
+    "quote": "nous interdirons tout financement étranger des lieux de culte en France",
+    "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "page": null,
+    "concrete": true
+  }
+]

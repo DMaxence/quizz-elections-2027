@@ -1,0 +1,49 @@
+{
+  "slug": "mikolajczak",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer un référendum d’initiative populaire",
+          "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+          "page": null
+        }
+      ],
+      "note": "Programme d'Équinoxe pour les législatives 2024 ; propose un « référendum d'initiative populaire »."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Financer le déploiement à court terme de nouveaux réacteurs nucléaires de troisième génération (EPR, EPR2)",
+          "source_id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+          "page": null
+        }
+      ],
+      "note": "Programme d'Équinoxe pour les législatives 2024."
+    },
+    "q06": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Prolonger notre soutien à l’Ukraine via des aides humanitaires, économiques et de matériel militaire en assurant un contrôle démocratique régulier",
+          "source_id": "programme-l-gislatives-2024-international-quinoxe-afd25292",
+          "page": null
+        }
+      ],
+      "note": "Programme d'Équinoxe pour les législatives 2024."
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Financer le déploiement à court terme de nouveaux réacteurs nucléaires de troisième génération (EPR, EPR2) ainsi que de nouveaux moyens de production d’électricité renouvelable (éolien et solaire).",
+          "source_id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+          "page": null
+        }
+      ],
+      "note": "Programme d'Équinoxe pour les législatives 2024."
+    }
+  }
+}

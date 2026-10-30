@@ -1,0 +1,76 @@
+{
+  "slug": "zemmour",
+  "stances": {
+    "q03": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer l’AME qui soigne les clandestins avec votre argent.",
+          "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+          "page": 2
+        }
+      ]
+    },
+    "q12": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Privatiser l’audiovisuel public",
+          "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+          "page": 2
+        }
+      ],
+      "note": "Propose de privatiser l’audiovisuel public ; ne se prononce pas sur les autres secteurs."
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Supprimer tous les soutiens publics aux énergies renouvelables",
+          "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+          "page": 2
+        }
+      ]
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Expulser les étrangers en situation irrégulière",
+          "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+          "page": 2
+        }
+      ]
+    },
+    "q22": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réserver les aides sociales non-contributives, les allocations familiales et le logement social aux Français.",
+          "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+          "page": 2
+        }
+      ]
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer les ARS, l’Ademe, l’ANAH, le CESE, l’Arcom et France Travail",
+          "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+          "page": 2
+        }
+      ]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Baisser d’un tiers l’accise sur les carburants",
+          "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+          "page": 2
+        }
+      ]
+    }
+  }
+}

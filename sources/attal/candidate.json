@@ -1,0 +1,18 @@
+{
+  "slug": "attal",
+  "name": "Gabriel Attal",
+  "party": "Renaissance",
+  "party_short": "RE",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 22 mai 2026 à Mur-de-Barrez (Aveyron) ; candidature soutenue par le conseil national de Renaissance (12 mai 2026). Toujours candidat au 29-30 octobre 2026 (proposition de primaire du bloc central rejetée par les camps Philippe et Retailleau, sans retrait).",
+  "declaration_source": "https://attalpresident.fr/actualites/annonce-de-candidature",
+  "official_sites": [
+    "https://attalpresident.fr",
+    "https://parti-renaissance.fr",
+    "https://gabrielattal.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Pages « programme » de son site de campagne 2027, publiées thème par thème.",
+  "blocked": [],
+  "notes": "La page d'index https://attalpresident.fr/programme n'a que ~300 caractères de texte (titre + chapeau), non archivée ; les 6 pages thématiques liées ont été archivées intégralement. Programme encore court (~31 000 caractères au total) : de nombreuses propositions ponctuelles (droit au brut, réforme institutionnelle, référendum réseaux sociaux <15 ans, géoénergie, etc.) ne figurent que dans les actualités du site, non archivées (articles de presse/actualités exclus par la consigne). Renaissance publie aussi des restitutions de conventions thématiques (doc.parti.re/Conventions-thematiques_Nouvelle-donne.pdf, doc.parti.re/conventions/Restitution-Regalien-Une-Republique-ferme-une-France-apaisee.pdf) et le programme Ensemble des législatives 2024 (ensemble-2024.fr/notre-projet) — non archivés puisqu'un programme 2027 existe. gabrielattal.fr est l'ancien site de législatives 2024 (profession de foi)."
+}

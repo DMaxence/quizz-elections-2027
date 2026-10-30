@@ -1,0 +1,65 @@
+{
+  "slug": "asselineau",
+  "sources": [
+    {
+      "id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "label": "Programme de libération nationale de l'UPR et de François Asselineau — présidentielle et législatives 2022",
+      "publisher": "Union populaire républicaine (upr.fr)",
+      "url": "https://upr.fr/notre-programme/programme-2022",
+      "final_url": "https://upr.fr/notre-programme/programme-2022",
+      "year": "2022",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:22:50+00:00",
+      "sha256": "2b00218ed04b13a944f57e0244affe75180882f2e0740332da330a79ae9011fe",
+      "raw": "sources/asselineau/raw/programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e.html",
+      "text": "sources/asselineau/text/programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e.txt",
+      "text_chars": 68406
+    },
+    {
+      "id": "nos-fondamentaux-upr-d58e364e",
+      "label": "Nos fondamentaux — UPR",
+      "publisher": "Union populaire républicaine (upr.fr)",
+      "url": "https://upr.fr/nos-fondamentaux",
+      "final_url": "https://upr.fr/nos-fondamentaux",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:22:50+00:00",
+      "sha256": "d58e364e48385d18f3a6fa66d21eacf04b0cb184938cf3b5f2b8480abfd39bec",
+      "raw": "sources/asselineau/raw/nos-fondamentaux-upr-d58e364e.html",
+      "text": "sources/asselineau/text/nos-fondamentaux-upr-d58e364e.txt",
+      "text_chars": 422
+    },
+    {
+      "id": "pourquoi-le-frexit-est-urgent-upr-ddb9b1c8",
+      "label": "Pourquoi le Frexit est urgent — UPR",
+      "publisher": "Union populaire républicaine (upr.fr)",
+      "url": "https://upr.fr/le-frexit",
+      "final_url": "https://upr.fr/le-frexit",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:22:50+00:00",
+      "sha256": "ddb9b1c8c5f0805c49965727f20a7b67c74be88bfd878d2a944ea5209d2ffccb",
+      "raw": "sources/asselineau/raw/pourquoi-le-frexit-est-urgent-upr-ddb9b1c8.html",
+      "text": "sources/asselineau/text/pourquoi-le-frexit-est-urgent-upr-ddb9b1c8.txt",
+      "text_chars": 12360
+    },
+    {
+      "id": "profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde",
+      "label": "Profession de foi de la liste Asselineau-Frexit (UPR) — européennes 2024",
+      "publisher": "Union populaire républicaine (upr.fr)",
+      "url": "https://upr.fr/post-img/uploads/2024/05/Profession-de-foi-Besoin-de-France.pdf",
+      "final_url": "https://upr.fr/post-img/uploads/2024/05/Profession-de-foi-Besoin-de-France.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:22:51+00:00",
+      "sha256": "110ffbdee876d49e146d127b72cdd8ddaabd86d7015a80d3148509eb0724141e",
+      "raw": "sources/asselineau/raw/profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde.pdf",
+      "text": "sources/asselineau/text/profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde.txt",
+      "text_chars": 5726
+    }
+  ]
+}

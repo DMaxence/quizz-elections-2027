@@ -1,0 +1,407 @@
+[
+  {
+    "id": "le-pen-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser la TVA de 20 % à 5,5 % sur l'électricité, le gaz, le fioul et les carburants",
+    "quote": "Baisser la contribution française nette (surplus) versée à l’UE pour participer au financement de la baisse de la TVA de 20 à 5,5% sur les énergies : électricité, gaz, fioul et carburants.",
+    "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer la TVA sur 100 produits de première nécessité",
+    "quote": "Suppression de la TVA sur 100 produits de première nécessité.",
+    "source_id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Remplacer l'impôt sur la fortune immobilière (IFI) par un impôt sur la fortune financière (IFF)",
+    "quote": "Remplacer l’impôt sur la fortune immobilière (IFI) qui entrave la conservation et la transmission des patrimoines et épargne de tout effort contributif les fortunes exclusivement mobilières, par un impôt sur la fortune financière (IFF)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer la CFE, la CVAE et la C3S (impôts de production)",
+    "quote": "Baisse impôt de production: suppression de la CFE Baisse impôt de production: suppression totale de la CVAE Baisse impôt de production: suppression de la C3S",
+    "source_id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-05",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Créer une taxe sur les superdividendes et une taxe sur les rachats d'actions",
+    "quote": "Taxe sur les superdividendes Taxe sur les rachats d'action",
+    "source_id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Réduire la dépense publique pour ramener les prélèvements obligatoires de 46 % à 40 % du PIB à moyen terme",
+    "quote": "Le programme du Rassemblement national prévoit un grand plan de réduction de la dépense publique afin de faire baisser le taux de prélèvements obligatoires de 46 à 40 % du PIB à moyen terme.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif",
+    "quote": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif, qui incite les jeunes à entrer de manière précoce sur le marché du travail et prend en compte la pénibilité réelle des emplois faiblement qualifiés",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Permettre la retraite à 60 ans avec 160 trimestres pour ceux ayant commencé à travailler avant 20 ans",
+    "quote": "Les salariés ayant commencé à travailler avant 20 ans, pour l’essentiel dans des secteurs à plus forte pénibilité, pourront partir à la retraite à 60 ans avec 160 trimestres cotisés.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 23,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Exonérer pendant 3 à 5 ans de cotisations patronales supplémentaires les hausses de salaire de 10 % jusqu'à 3 SMIC",
+    "quote": "Revaloriser les revenus du travail par une incitation forte à l’augmentation des salaires (permettre aux entreprises d’augmenter les salaires de 10 % jusqu’à trois fois le SMIC, en les exonérant de l’augmentation des cotisations patronales pendant trois à cinq ans)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-10",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Appliquer la priorité nationale à l'embauche, à compétence égale, pour l'ensemble des postes en France",
+    "quote": "Appliquer la priorité nationale, à compétence égale, pour l’ensemble des postes à pourvoir en France […] Il sera nécessaire d’inscrire la nationalité parmi les critères de choix d’un candidat",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-11",
+    "theme": "Santé",
+    "measure": "Supprimer les Agences régionales de santé (ARS)",
+    "quote": "Supprimer les Agences Régionales de Santé",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-12",
+    "theme": "Santé",
+    "measure": "Augmenter le nombre d'étudiants en médecine en mettant fin au numerus apertus",
+    "quote": "Augmenter le nombre d’étudiants en médecine (fin du numerus apertus)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-13",
+    "theme": "Santé",
+    "measure": "Plafonner à 10 % les postes administratifs dans les hôpitaux au profit des services opérationnels",
+    "quote": "Réduire le poids des services administratifs dans les hôpitaux et transférer une partie des emplois vers les services opérationnels (plafond de 10 % de postes administratifs)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-14",
+    "theme": "École et jeunesse",
+    "measure": "Faire du brevet un examen d'orientation après la 3e vers les filières générale, technologique, professionnelle ou l'apprentissage",
+    "quote": "le diplôme national du brevet deviendra donc un examen d’orientation post-3e : en fonction des résultats de l’élève, celui-ci sera orienté vers l’enseignement général, technologique ou professionnel, ou vers l’insertion professionnelle par l’apprentissage.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-15",
+    "theme": "École et jeunesse",
+    "measure": "Verser aux étudiants français qui travaillent un complément de revenu de 20 % du salaire (30 % pour les boursiers)",
+    "quote": "Nous instaurerons pour tous les étudiants français qui occupent un emploi un complément de revenu versé par l’État. Il s’élèvera à 20 % de leur salaire, plafonnés à 200 euros mensuels, et à 30 % pour les étudiants boursiers, plafonné à 300 euros mensuels.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Renoncer à l'interdiction de la vente des voitures à moteur thermique en 2035",
+    "quote": "Renoncer à l’interdiction de la vente des voitures à moteur thermique à l’horizon 2035 et inciter les constructeurs français à développer des véhicules propres abordables",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-17",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Supprimer les zones à faibles émissions (ZFE)",
+    "quote": "Supprimer les Zones à Faibles Emissions",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-18",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Prolonger les réacteurs nucléaires actuels, construire 20 EPR2 d'ici 2045 et lancer une filière de SMR",
+    "quote": "Ce plan prévoit notamment la prolongation des réacteurs actuels et leur optimisation (« power up »), le développement de 20 EPR2 d’ici 2045, ainsi que le lancement sans délai d’une filière de SMR et de réacteurs de 4e génération.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-19",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Abandonner le développement de l'énergie éolienne et démanteler certains parcs existants",
+    "quote": "Le développement de l’énergie éolienne sera abandonné. Les parcs actuels iront à leur terme dans des conditions commerciales identiques à l’électricité nucléaire et hydraulique. Certains parcs mettant en cause le patrimoine naturel ou historique seront démantelés.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-20",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Reprendre le contrôle des règles de formation des prix de l'électricité et baisser son prix de 30 %",
+    "quote": "Nous reprendrons le contrôle de notre souveraineté énergétique, y compris les règles de formation des prix. […] Nous baisserons immédiatement le prix de l’électricité de 30 %, en alignant les prix facturés sur les coûts réels de production du parc électrique financé par les Français.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-21",
+    "theme": "Agriculture et alimentation",
+    "measure": "Obliger les cantines à utiliser 80 % de produits agricoles français (plan « Manger français »)",
+    "quote": "Lancer un grand plan « Manger français » obligeant les cantines à utiliser 80 % de produits agricoles français à l’horizon 2027",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-22",
+    "theme": "Agriculture et alimentation",
+    "measure": "Négocier une « exception agriculturelle » excluant l'agriculture des accords de libre-échange",
+    "quote": "nous lancerons plusieurs négociations sur les questions agricoles (défense d’une « exception agriculturelle », consistant à exclure l’agriculture des accords de libre-échange)",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-23",
+    "theme": "Immigration",
+    "measure": "Supprimer le droit du sol",
+    "quote": "Suppression du droit du sol",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-24",
+    "theme": "Immigration",
+    "measure": "Remplacer l'aide médicale d'État (AME) par une aide d'urgence vitale",
+    "quote": "Remplacement de l’Aide Médicale d’Etat par une Aide d’Urgence Vitale",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-25",
+    "theme": "Immigration",
+    "measure": "Rétablir le délit de séjour irrégulier",
+    "quote": "Retour du délit de séjour irrégulier",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-26",
+    "theme": "Immigration",
+    "measure": "Restreindre le regroupement familial en durcissant ses conditions (emploi stable, ressources)",
+    "quote": "Restriction du regroupement familial par le durcissement des conditions (emploi stable, ressources précisément définies, etc.)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-27",
+    "theme": "Immigration",
+    "measure": "Obliger à déposer les demandes d'asile dans les ambassades et consulats",
+    "quote": "Instaurer l’obligation de dépôt des demandes d’asile dans les ambassades et consulats",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-28",
+    "theme": "Immigration",
+    "measure": "Mettre fin à l'accord franco-algérien de 1968",
+    "quote": "Fin de l'accord de 1968 avec l'Algérie",
+    "source_id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-29",
+    "theme": "Sécurité et justice",
+    "measure": "Instaurer des peines planchers pour les récidivistes, les atteintes aux agents publics et le trafic de drogue",
+    "quote": "Mise en place des peines planchers pour les récidivistes, les atteintes aux personnes dépositaires d’une mission de services publics et le trafic de drogue",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-30",
+    "theme": "Sécurité et justice",
+    "measure": "Abaisser la majorité pénale à 16 ans",
+    "quote": "Réformer une partie de la justice des mineurs (abaissement de la majorité pénale à 16 ans, possibilité de comparution immédiate…)",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-31",
+    "theme": "Sécurité et justice",
+    "measure": "Instituer une présomption de légitime défense pour les forces de l'ordre",
+    "quote": "Instituer une présomption de légitime défense pour les forces de l’ordre",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-32",
+    "theme": "Sécurité et justice",
+    "measure": "Rendre obligatoire une police municipale dans les communes de plus de 10 000 habitants",
+    "quote": "Rendre obligatoire la création d’une police municipale pour les communes de plus de 10 000 habitants",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-33",
+    "theme": "Institutions et démocratie",
+    "measure": "Inscrire dans la Constitution un référendum d'initiative citoyenne (RIC) législatif",
+    "quote": "Instaurer dans la Constitution un RIC législatif",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-34",
+    "theme": "Institutions et démocratie",
+    "measure": "Réserver au seul référendum le pouvoir de modifier la Constitution",
+    "quote": "Réserver au peuple seul, par référendum, le pouvoir de modifier la Constitution",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-35",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser tout transfert de compétences de défense et de diplomatie vers l'Union européenne",
+    "quote": "Refuser tout transfert de compétences vers l’Union européenne dans les domaines de la défense et de la diplomatie",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-36",
+    "theme": "Europe, international et défense",
+    "measure": "Transformer la Commission européenne en secrétariat général du Conseil sans pouvoir de décision ni d'initiative législative",
+    "quote": "Transformer la Commission en un Secrétariat général du Conseil sans pouvoir décisionnaire ni initiative législative.",
+    "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-37",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser l'élargissement de l'UE aux Balkans, à la Turquie et à l'Ukraine",
+    "quote": "Refuser l’élargissement de l’UE aux Balkans, à la Turquie et à l’Ukraine, qui ruinerait notre agriculture et exercerait une pression à la baisse sur le salaire des Français.",
+    "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-38",
+    "theme": "Europe, international et défense",
+    "measure": "Réserver la libre circulation de l'espace Schengen aux seuls ressortissants des pays membres",
+    "quote": "Restreindre la libre-circulation de l’Espace Schengen aux seuls ressortissants des pays membres.",
+    "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-39",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser tout impôt européen et arrêter les nouveaux emprunts de la Commission européenne",
+    "quote": "Refuser tout impôt prélevé par l’Union européenne, qui pénaliserait les États membres et les consommateurs. […] Arrêter les nouvelles souscriptions d’emprunts réalisées par la Commission européenne",
+    "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-40",
+    "theme": "Logement et territoires",
+    "measure": "Abroger les interdictions et obligations liées au DPE (travaux, mise en location)",
+    "quote": "Abroger toutes les interdictions et obligations liées aux DPE (travaux, mise en location...) et mettre en place un accompagnement pragmatique des rénovations de logements en lien avec les professionnels",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-41",
+    "theme": "Logement et territoires",
+    "measure": "Instaurer une priorité nationale dans l'accès au logement social",
+    "quote": "Instaurer la priorité nationale dans l’accès au logement social pour que le logement cesse d’être un frein à l’emploi",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-42",
+    "theme": "Protection sociale et famille",
+    "measure": "Accorder une part fiscale complète dès le deuxième enfant",
+    "quote": "Instituer une part fiscale complète dès le deuxième enfant",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-43",
+    "theme": "Protection sociale et famille",
+    "measure": "Réserver les prestations familiales aux familles dont un parent est français et conditionner le RSA à cinq ans d'activité",
+    "quote": "Les prestations familiales seront réservées aux familles dont au moins un parent est français, et les prestations non contributives (comme le RSA) seront conditionnées à l’exercice d’une activité à temps plein pendant cinq ans.",
+    "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-44",
+    "theme": "Numérique, médias et culture",
+    "measure": "Privatiser l'audiovisuel public",
+    "quote": "Privatiser l’audiovisuel public",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "le-pen-45",
+    "theme": "Société et libertés",
+    "measure": "Adopter une législation spécifique visant les idéologies islamistes",
+    "quote": "Mettre en place une législation spécifique visant les idéologies islamistes, véritable menace totalitaire des temps modernes",
+    "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "page": 11,
+    "concrete": true
+  }
+]

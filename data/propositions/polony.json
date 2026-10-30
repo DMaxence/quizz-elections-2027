@@ -1,0 +1,128 @@
+[
+  {
+    "id": "polony-01",
+    "theme": "Institutions et démocratie",
+    "measure": "Encadrer strictement les passages entre fonctions publiques stratégiques et intérêts privés",
+    "quote": "Nous lutterons contre les conflits d’intérêts. Nous protégerons les lanceurs d’alerte. Nous encadrerons strictement les passages entre fonctions publiques stratégiques et intérêts privés.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "polony-02",
+    "theme": "Institutions et démocratie",
+    "measure": "Ouvrir un chantier majeur contre la corruption et les conflits d'intérêts",
+    "quote": "Je veux ouvrir un chantier majeur contre la corruption et les conflits d’intérêts.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-03",
+    "theme": "Institutions et démocratie",
+    "measure": "Protéger les lanceurs d'alerte",
+    "quote": "Je veux un État impartial, des responsables qui rendent des comptes, des conflits d’intérêts combattus et des lanceurs d’alerte protégés.",
+    "source_id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-04",
+    "theme": "Institutions et démocratie",
+    "measure": "Consulter régulièrement le peuple par référendum",
+    "quote": "Le peuple doit être consulté régulièrement par voie référendaire comme le demande notre constitution.",
+    "source_id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-05",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Retrouver la puissance industrielle de la France en dix ans",
+    "quote": "Dans dix ans, la France doit avoir retrouvé sa puissance industrielle.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Faire de l'État un stratège qui planifie les investissements essentiels et protège les filières vitales",
+    "quote": "L’État doit redevenir stratège. Planifier les investissements essentiels. Protéger nos infrastructures et nos filières vitales.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-07",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Orienter l'argent public vers ceux qui investissent, forment et produisent en France",
+    "quote": "L’argent public doit servir ceux qui investissent, forment et produisent en France.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-08",
+    "theme": "Santé",
+    "measure": "Rendre la France capable de produire ses médicaments essentiels",
+    "quote": "Cela suppose une France capable de produire son énergie, son alimentation, ses médicaments, ses technologies essentielles.",
+    "source_id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-09",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Produire en France l'énergie dont le pays a besoin",
+    "quote": "Produire son énergie. Ses médicaments essentiels. Les machines et les technologies dont dépend notre souveraineté.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-10",
+    "theme": "Agriculture et alimentation",
+    "measure": "Conserver les terres agricoles, les paysages, le patrimoine et la biodiversité",
+    "quote": "Je veux conserver ce qui mérite de l’être : nos paysages, notre patrimoine, nos terres agricoles, notre biodiversité, nos savoir-faire, notre langue, notre culture",
+    "source_id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-11",
+    "theme": "École et jeunesse",
+    "measure": "Recentrer l'école sur la transmission des connaissances, de la langue, de l'histoire et du raisonnement",
+    "quote": "L’école doit redevenir le lieu où l’enfant s’émancipe de ce qui le détermine à la naissance. Elle doit transmettre des connaissances, une langue, une histoire, une capacité à raisonner.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-12",
+    "theme": "Europe, international et défense",
+    "measure": "Mener une diplomatie indépendante, sans alignement sur aucune puissance",
+    "quote": "La France n’a pas vocation à être le supplétif d’un empire, quel qu’il soit. Elle doit être libre. Libre de parler aux États-Unis, à la Chine, à la Russie, à l’Inde, au Brésil, à l’Afrique, au monde arabe.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-13",
+    "theme": "Europe, international et défense",
+    "measure": "Œuvrer à la paix tout en se préparant à défendre les intérêts du pays",
+    "quote": "Ma France œuvre à la Paix dans le monde et n’attise pas la guerre – mais elle se prépare à se défendre si ses intérêts sont attaqués.",
+    "source_id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "polony-14",
+    "theme": "Sécurité et justice",
+    "measure": "Appliquer les mêmes droits, devoirs et la même loi à tous",
+    "quote": "Je crois à une règle simple trop souvent oubliée : les mêmes droits, les mêmes devoirs et la même loi pour tous.",
+    "source_id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "page": null,
+    "concrete": false
+  }
+]

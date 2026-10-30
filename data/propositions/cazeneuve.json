@@ -1,0 +1,407 @@
+[
+  {
+    "id": "cazeneuve-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Taxer réellement les très grandes fortunes, les plus hauts revenus du capital et les rentes financières",
+    "quote": "Une fiscalité qui atteint réellement les très grandes fortunes, les plus hauts revenus du capital, les rentes financières qui s’accumulent sans contribuer au financement de l’innovation et à l’investissement productif relève de l’équité et non de la démagogie.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 35,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser les impôts de production en réduisant les aides fiscales",
+    "quote": "baisse des impôts de production financée par une réduction des aides fiscales, au bénéfice de toute la chaîne productive (ETI, PME, TPE)",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 81,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Lancer un plan de réindustrialisation sur dix ans avec des incitations fiscales ciblées sur la recherche et l'investissement productif",
+    "quote": "Produire : plan de réindustrialisation sur dix ans : filières stratégiques sécurisées par l’État, règles stables, incitations fiscales ciblées sur la recherche et les investissements productifs",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 82,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Allonger de façon négociée la durée de cotisation plutôt que reculer encore l'âge légal de la retraite",
+    "quote": "Plutôt que de reculer encore l’âge légal au prix d’un débat sans issue, il faut reprendre, sur des bases nouvelles et négociées, la trajectoire d’allongement engagée en 2014.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Rétablir un droit au départ anticipé pour les métiers pénibles (postures, charges, vibrations, risques chimiques)",
+    "quote": "Les travailleurs exposés aux postures contraignantes, au port de charges, aux vibrations, aux risques chimiques, doivent retrouver le droit à un départ anticipé.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Rendre sa cohérence au dispositif de retraite anticipée pour carrières longues",
+    "quote": "celles et ceux entrés dans la vie active à seize ou dix-huit ans doivent pouvoir partir avant ceux qui ont étudié jusqu’à vingt-cinq. Le dispositif des carrières longues, durci sans nécessité, doit retrouver sa cohérence.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Encadrer le recours abusif aux stages et refaire du CDI la norme pour les jeunes",
+    "quote": "encadrer le recours abusif aux stages, redonner au CDI sa place de norme pour les jeunes.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-08",
+    "theme": "Protection sociale et famille",
+    "measure": "Compenser à l'euro près à la Sécurité sociale toute exonération de cotisations, rétroactivement depuis 2019 (loi Veil)",
+    "quote": "D’abord, le rétablissement plein et entier de la loi Veil. Toute exonération de cotisation décidée par l’État serait compensée à l’euro près à la Sécurité sociale, et indexée sur les salaires pour que le temps ne l’érode pas, qu’elle porte sur la part salariale ou patronale, sur les heures supplémentaires comme sur les primes, et à titre rétroactif, pour réparer les pertes accumulées depuis 2019.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-09",
+    "theme": "Protection sociale et famille",
+    "measure": "Exiger l'équilibre des branches maladie, vieillesse et autonomie sur un cycle de cinq ans (règle d'or sociale)",
+    "quote": "Ensuite, l’équilibre ne serait plus exigé chaque année, mais sur un cycle de cinq ans : une crise majeure pourrait justifier qu’on s’en écarte, à condition d’y revenir au bout de dix ans au plus. En troisième lieu, la règle ne vaudrait que pour les branches assurantielles (maladie, vieillesse, autonomie)",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-10",
+    "theme": "Protection sociale et famille",
+    "measure": "Simplifier, unifier et automatiser le versement des aides sociales fondamentales",
+    "quote": "Simplifier, unifier, automatiser les aides fondamentales relève désormais de l’urgence.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 23,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-11",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer un cadre national unifié pour l'accueil de la petite enfance, avec inspections régulières et dispositif national de signalement",
+    "quote": "la petite enfance : cadre national unifié, nul ne peut être au contact d’enfants sans compétences vérifiées, formation assurée et suivi organisé ; personnels en nombre suffisant, rémunérations revalorisées ; inspection régulière de tout établissement accueillant des enfants, selon des critères publics tenant grand compte de la parole des familles ; dispositif national de signalement, avec réponse obligatoire sous délai fixe et traçabilité des suites.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 78,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-12",
+    "theme": "Santé",
+    "measure": "Faire de la santé mentale une grande cause nationale et former les personnels de santé et d'éducation",
+    "quote": "Faire de la prise en charge des problèmes de santé mentale une grande cause nationale, former les personnels de santé et de l’éducation, relève d’un devoir de protection et de solidarité à l’égard des jeunes générations.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 19,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-13",
+    "theme": "Santé",
+    "measure": "Restaurer le sens des métiers du soin et la reconnaissance des soignants dans tous les territoires",
+    "quote": "la santé : restauration du sens des métiers du soin et reconnaissance de la Nation aux soignants, dans tous les territoires",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 78,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-14",
+    "theme": "École et jeunesse",
+    "measure": "Verser au moins 2 000 € d'aide supplémentaire à chaque étudiant boursier pendant ses deux premières années",
+    "quote": "au moins 2 000 € d’aide supplémentaire pour chaque étudiant boursier au cours de ses deux premières années",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 83,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-15",
+    "theme": "École et jeunesse",
+    "measure": "Créer une avance jeunesse de 3 000 € pour les 18-24 ans sans diplôme ni emploi, sous conditions de ressources",
+    "quote": "avance jeunesse de 3 000 € pour les 18-24 ans sans diplôme ni emploi, sous conditions de ressources, que les collectivités territoriales pourront compléter.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 83,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-16",
+    "theme": "École et jeunesse",
+    "measure": "Enseigner l'éthique des données et l'esprit critique dès le collège, et la philosophie dès la seconde",
+    "quote": "les savoirs du siècle, éthique des données, esprit critique dès le collège, philosophie dès la Seconde ; retour aux Humanités et effort égal pour les sciences et les mathématiques",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 83,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-17",
+    "theme": "École et jeunesse",
+    "measure": "Mieux former, mieux payer et mieux considérer les enseignants",
+    "quote": "Transmettre : des enseignants mieux formés, mieux payés, mieux considérés",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 83,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-18",
+    "theme": "École et jeunesse",
+    "measure": "Généraliser l'apprentissage dès le premier cycle universitaire",
+    "quote": "Généraliser l’apprentissage dès le premier cycle universitaire",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-19",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Assumer la filière nucléaire, planifier le renouvellement du parc et rationaliser les investissements dans les renouvelables",
+    "quote": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification, et une rationalisation des investissements dans les énergies renouvelables, pour rendre attractive l’électrification des usages.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-20",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Lancer un plan École-Climat-Solidarité sur dix ans pour rénover écologiquement les établissements scolaires",
+    "quote": "C’est l’objet du plan École-Climat-Solidarité : un engagement sur dix ans qui fera des établissements scolaires des bâtiments rénovés, écologiques et modernes, pensés depuis chaque territoire.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 44,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-21",
+    "theme": "Agriculture et alimentation",
+    "measure": "Garantir des prix dignes aux producteurs et préserver le foncier agricole",
+    "quote": "souveraineté alimentaire ; prix dignes pour les producteurs ; préservation du foncier nourricier et accès garanti à ceux qui veulent en vivre",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 82,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-22",
+    "theme": "Agriculture et alimentation",
+    "measure": "Accompagner la mutation des exploitations vers des modèles plus sobres, en sortant de la production intensive",
+    "quote": "C’est admettre, aussi, que la production intensive qui détruit l’environnement et la biodiversité est une impasse. Les producteurs eux-mêmes en ont conscience, qui demandent à être accompagnés dans la mutation vers des exploitations plus sobres et plus sûres.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 42,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-23",
+    "theme": "Immigration",
+    "measure": "Maintenir le droit d'asile comme engagement constitutionnel",
+    "quote": "Le droit d’asile, hérité de la Révolution et inscrit dans notre Constitution, n’est pas un vestige, mais un engagement de civilisation.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 55,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-24",
+    "theme": "Immigration",
+    "measure": "Conditionner l'intégration à l'apprentissage du français et au respect des lois communes et de l'égalité femmes-hommes",
+    "quote": "L’intégration, ensuite, sans laquelle l’accueil ne peut pas durer. Elle suppose d’apprendre le français, de respecter les lois communes, et cette égalité entre les femmes et les hommes qui ne se négocie pas.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 55,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-25",
+    "theme": "Immigration",
+    "measure": "Lutter contre l'immigration irrégulière et démanteler les filières criminelles",
+    "quote": "La fermeté, enfin. L’État doit lutter sans faiblesse contre l’immigration irrégulière et démanteler les filières criminelles qui l’exploitent : c’est un devoir régalien.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 55,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-26",
+    "theme": "Sécurité et justice",
+    "measure": "Rétablir une police de proximité dotée d'effectifs dédiés et formés",
+    "quote": "La police de proximité, celle à laquelle les populations des quartiers aspirent, ne peut devenir une réalité que si la Nation dispose d’effectifs dédiés et formés pour créer la nécessaire relation de confiance avec les citoyens.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-27",
+    "theme": "Sécurité et justice",
+    "measure": "Lutter contre le trafic de drogue par des unités spécialisées, un Parquet européen élargi et le gel des avoirs",
+    "quote": "unités spécialisées, peines réellement exécutées, coopération européenne renforcée, Parquet européen aux compétences élargies, gel des avoirs, traque des financements qui alimentent les réseaux.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-28",
+    "theme": "Sécurité et justice",
+    "measure": "Sortir du « tout-comparution immédiate » et de la prison comme réponse par défaut",
+    "quote": "sortie du tout-comparution immédiate et de la prison par défaut.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 81,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-29",
+    "theme": "Sécurité et justice",
+    "measure": "Rappeler des magistrats retraités volontaires pour traiter les plaintes pour violences sur enfants",
+    "quote": "aucune plainte pour violences faites à un enfant ne restera sans réponse ; rappel des magistrats retraités volontaires, autant qu’il le faudra, pour reprendre les dossiers en souffrance",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 78,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Rétablir le septennat",
+    "quote": "Il faut pour cela rétablir le septennat, et redonner au Premier ministre un rôle conforme à l’esprit et à la lettre de la Constitution.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Faire engager systématiquement par le Premier ministre sa responsabilité devant le Parlement à son entrée en fonction",
+    "quote": "Cela suppose que le chef du gouvernement engage systématiquement sa responsabilité devant le Parlement lorsque les circonstances l’exigent, et d’abord à son entrée en fonction",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-32",
+    "theme": "Institutions et démocratie",
+    "measure": "Introduire une dose de proportionnelle aux élections législatives",
+    "quote": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-33",
+    "theme": "Europe, international et défense",
+    "measure": "Rester dans l'OTAN et contribuer à l'Europe de la défense",
+    "quote": "Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-34",
+    "theme": "Europe, international et défense",
+    "measure": "Réarmer à proportion de la menace et consolider l'industrie de défense en privilégiant les productions nationales et européennes",
+    "quote": "Cela suppose de réarmer, à proportion de la menace. De consolider notre industrie de défense et de planifier nos coopérations européennes, en privilégiant les productions nationales et continentales.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-35",
+    "theme": "Europe, international et défense",
+    "measure": "Engager une réflexion, y compris avec le Royaume-Uni, sur l'apport de la dissuasion française à la sécurité européenne",
+    "quote": "Engager ensuite, y compris avec le Royaume-Uni, une réflexion sur ce que notre dissuasion peut y apporter. Et coordonner la protection antimissile du continent.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 52,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-36",
+    "theme": "Europe, international et défense",
+    "measure": "Élargir la réserve citoyenne des armées",
+    "quote": "Je veux une réserve citoyenne plus ambitieuse, ouverte à davantage de Français : non pour militariser la société, mais pour rappeler que la défense engage plus que le seul gouvernement.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-37",
+    "theme": "Europe, international et défense",
+    "measure": "Remplacer la règle de l'unanimité par des décisions à la majorité dans l'Union européenne",
+    "quote": "Il faudra qu’enfin l’Europe accepte de décider à la majorité ce qui peut l’être. L’unanimité, pourtant de moins en moins imposée par les traités, est devenue le levier de ceux qui veulent paralyser le continent depuis l’intérieur. La règle doit évoluer.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 54,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-38",
+    "theme": "Europe, international et défense",
+    "measure": "Exiger un État pour les Palestiniens tout en défendant la sécurité d'Israël",
+    "quote": "Elle ne renoncera ni à vouloir la sécurité pour Israël ni à exiger un État pour les Palestiniens.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 13,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-39",
+    "theme": "Logement et territoires",
+    "measure": "Lancer un grand plan de constructions et de rénovations de logements, social et écologique",
+    "quote": "Pour que les prix baissent enfin, un grand plan de constructions et de rénovations, à la fois social et écologique, devra être engagé, soutenu par des mécanismes innovants d’accession à la propriété.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-40",
+    "theme": "Logement et territoires",
+    "measure": "Créer une « DATAR du climat » rattachée au Premier ministre",
+    "quote": "il faudra rétablir une délégation à l’aménagement du territoire, une DATAR du climat, rattachée au Premier ministre, chargée de cartographier les vulnérabilités de chaque région et d’y ordonner, dans la durée, l’effort public",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 44,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-41",
+    "theme": "Numérique, médias et culture",
+    "measure": "Limiter par la loi la concentration capitalistique des médias",
+    "quote": "La République a donc le devoir de fixer des limites à la concentration capitalistique des médias.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 32,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Garantir un recours humain contre toute décision administrative de refus prise avec l'aide d'une IA",
+    "quote": "Je veux donc rendre ces garanties effectives et les étendre : qu’aucun refus d’aide, de place ou de titre ne tombe sans qu’un agent l’examine, l’explique et en réponde, dans un délai opposable.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 59,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Transformer l'INESIA en autorité dotée d'un pouvoir contraignant d'évaluation des systèmes d'IA",
+    "quote": "La France a créé pour cela l’INESIA, son institut d’évaluation et de sécurité de l’intelligence artificielle, mais sans statut propre, sans moyens dédiés ni pouvoir contraignant. Il faut en faire une véritable autorité, capable d’examiner ces systèmes avant leur déploiement et de les suivre ensuite",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 59,
+    "concrete": true
+  },
+  {
+    "id": "cazeneuve-44",
+    "theme": "Société et libertés",
+    "measure": "Lutter contre les violences faites aux femmes et les féminicides et résorber les écarts de salaire",
+    "quote": "le féminisme érigé en inspiration des grandes politiques publiques — lutte contre les violences et les féminicides, résorption des écarts de salaire, correction des retraites pénalisées par les carrières interrompues, plafonds de verre à briser.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 78,
+    "concrete": false
+  },
+  {
+    "id": "cazeneuve-45",
+    "theme": "Société et libertés",
+    "measure": "Défendre la laïcité comme principe de liberté et de séparation des Églises et de l'État",
+    "quote": "la laïcité n’est pas une religion civile contre les religions, mais un principe de liberté et de séparation entre les églises et l’État.",
+    "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "page": 8,
+    "concrete": false
+  }
+]

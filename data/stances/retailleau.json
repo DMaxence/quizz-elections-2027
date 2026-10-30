@@ -1,0 +1,178 @@
+{
+  "slug": "retailleau",
+  "stances": {
+    "q02": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Notre système superpose un âge légal de 62 ans et 9 mois […] Partir dès 63 ans sera un droit, et chacun connaîtra à l'avance le montant de sa pension selon l'âge qu'il choisit. À 65 ans, le taux plein sera garanti à tous",
+          "source_id": "projet-pr-sidentiel-2027-retraites-mesure-14-01-partir-d-s-6-6e090076",
+          "page": null
+        }
+      ],
+      "note": "Âge minimal de départ porté à 63 ans (62 ans et 9 mois selon le texte), taux plein à 65 ans, puis évolution avec l’espérance de vie."
+    },
+    "q03": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "aide médicale d’État réduite aux soins essentiels",
+          "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+          "page": 11
+        }
+      ]
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "La souveraineté énergétique passe d'abord par le nucléaire : relance des six EPR2, prolongation du parc existant, investissement dans les petits réacteurs modulaires.",
+          "source_id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+          "page": null
+        }
+      ]
+    },
+    "q07": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Les dispositifs d’encadrement des loyers issus de la loi ELAN seront supprimés ;",
+          "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+          "page": 31
+        }
+      ]
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Dès 2027, à droit constant : regroupement familial divisé par deux",
+          "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+          "page": 11
+        }
+      ]
+    },
+    "q11": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Chaque salarié, du privé comme du public, aura un capital à son nom pour sa retraite, sur un compte individuel bloqué jusqu'à son départ et protégé par la Constitution. […] Le compte est alimenté par une cotisation de 1 % du salaire",
+          "source_id": "projet-pr-sidentiel-2027-retraites-mesure-14-06-capital-retr-447d102b",
+          "page": null
+        }
+      ],
+      "note": "Compte individuel alimenté par 1 % du salaire ; la répartition reste le socle."
+    },
+    "q13": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "peines minimales obligatoires pour les infractions les plus graves, majorité pénale abaissée à quinze ans",
+          "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+          "page": 15
+        }
+      ],
+      "note": "Propose 15 ans."
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Nous mettrons fin aux soutiens publics aux nouvelles capacités solaires et éoliennes",
+          "source_id": "projet-pr-sidentiel-2027-industrie-et-entreprises-livret-6b5f80d5",
+          "page": 22
+        },
+        {
+          "quote": "Nous abrogerons immédiatement le volet électricité de la PPE 3, déclarerons infructueux les appels d’offres non encore attribués en matière de photovoltaïque et d’éolien en mer, et n’en lancerons plus",
+          "source_id": "projet-pr-sidentiel-2027-lectricit-livret-81bb7677",
+          "page": 21
+        }
+      ],
+      "note": "Vise la France métropolitaine ; le livret juge l’éolien pertinent dans certains territoires non interconnectés."
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Reprendre le contrôle : quotas migratoires votés chaque année par le Parlement, conditions durcies pour l'accès aux prestations sociales, exécution effective des mesures d'éloignement.",
+          "source_id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+          "page": null
+        }
+      ],
+      "note": "Prévoit l’exécution effective des mesures d’éloignement ; ne se prononce pas sur des régularisations."
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Un examen d’entrée en sixième, des groupes selon le niveau dont on change dès que l’on progresse.",
+          "source_id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+          "page": 7
+        }
+      ]
+    },
+    "q20": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "ou qui affirment que nous voudrions un « Frexit », le font soit par idéologie, soit par calcul.",
+          "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+          "page": 5
+        }
+      ],
+      "note": "Rejette l’idée d’un Frexit tout en voulant contrôler le respect des compétences de l’Union."
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Le projet mise sur la régulation de l'installation là où l'offre manque",
+          "source_id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+          "page": null
+        }
+      ]
+    },
+    "q22": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "prestations sociales conditionnées à cinq ans de séjour régulier et de travail",
+          "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+          "page": 15
+        }
+      ],
+      "note": "Cinq ans de séjour régulier et de travail."
+    },
+    "q25": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les quotas de 20 % et 25 % seront supprimés pour redonner aux maires la liberté de construire.",
+          "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+          "page": 8
+        }
+      ]
+    },
+    "q30": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "une réduction de la durée maximale d’indemnisation (de 18 à 15 mois) […] le refus d’une troisième offre raisonnable doit mettre fin à l’indemnisation.",
+          "source_id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+          "page": 31
+        }
+      ]
+    },
+    "q31": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "La neutralité du service public pourra être étendue aux usagers",
+          "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+          "page": 15
+        }
+      ],
+      "note": "La Constitution permettrait d’étendre la neutralité aux usagers ; neutralité étendue aux accompagnateurs de sorties scolaires."
+    }
+  }
+}

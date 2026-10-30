@@ -1,0 +1,18 @@
+{
+  "slug": "melenchon",
+  "name": "Jean-Luc Mélenchon",
+  "party": "La France insoumise",
+  "party_short": "LFI",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 3 mai 2026 sur TF1, validée par les instances de La France insoumise.",
+  "declaration_source": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851",
+  "official_sites": [
+    "https://melenchon2027.fr/",
+    "https://lafranceinsoumise.fr/",
+    "https://programme.lafranceinsoumise.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Plans thématiques « édition 2027 » et « L'Avenir en commun » (2025). La nouvelle édition du programme est annoncée pour novembre 2026.",
+  "blocked": [],
+  "notes": "À RE-VÉRIFIER APRÈS LE 6-7 NOVEMBRE 2026 : melenchon2027.fr/programme/decouvrir/ annonce la 5e édition de L'Avenir en commun (« Disponible le 6 novembre en librairie ») et un meeting de présentation le 7 novembre ; si elle est mise en ligne (PDF ou pages), l'archiver et passer le statut à « officiel ». Les pages chapitres de l'édition 2025 sur melenchon2027.fr/programme2025/livre/chapitreN renvoient 404 ; le PDF complet de l'édition 2025 (A5-PROGRAMME-SITE.pdf, févr. 2025) a été archivé à la place. Les cinq plans 2026 (ruralités, enseignement supérieur, comptes publics, BTP-logement, automobile) portent la mention « Élection présidentielle – 18 avril 2027 / Édition 2027 » et sont archivés avec official_2027 = yes, mais ce sont des compléments thématiques, pas le programme. ATTENTION : le PDF de L'Avenir en commun 2025 est mis en page en doubles pages/colonnes et pdfplumber entrelace les deux colonnes ligne par ligne ; les citations multi-lignes ne seront pas retrouvées telles quelles — une ré-extraction par colonnes serait utile. Le PDF du NFP contient du texte de marge à l'envers (« erialupoP tnorF uaevuoN ») sans incidence sur le corps. Non archivés : dossiers de presse (pôle public bancaire, dossiers de presse 2026), plans et livrets 2022-2024, programme FALC abrégé, « Lettre au peuple de France »."
+}

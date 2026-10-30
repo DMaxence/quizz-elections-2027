@@ -1,0 +1,407 @@
+[
+  {
+    "id": "glucksmann-01",
+    "theme": "Europe, international et défense",
+    "measure": "Mettre en place un fonds européen de défense de 500 milliards d'euros financé par emprunt commun",
+    "quote": "Oeuvrer à la mise en place rapide d’un fonds européen de défense de 500 milliards d’euros via un emprunt commun.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-02",
+    "theme": "Europe, international et défense",
+    "measure": "Proposer d'étendre la dissuasion nucléaire française aux autres pays de l'UE, la France gardant la décision d'emploi",
+    "quote": "Proposer à nos partenaires de l’UE d’étendre la dissuasion nucléaire française aux autres pays de l’Union européenne, en conservant la souveraineté française sur la décision d’emploi, pour en faire le pilier d’un grand pacte de sécurité européen.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-03",
+    "theme": "Europe, international et défense",
+    "measure": "Augmenter drastiquement l'aide militaire à l'Ukraine",
+    "quote": "Augmenter drastiquement l’aide militaire à l’Ukraine qui est notre première ligne de défense et notre soutien aux alliés européens comme la Moldavie et l’Arménie.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-04",
+    "theme": "Europe, international et défense",
+    "measure": "Porter d'ici 2030 un traité européen généralisant la majorité qualifiée et l'initiative législative du Parlement européen",
+    "quote": "Porter d’ici 2030 un grand traité de réunification européenne qui sera aussi un traité de refondation institutionnelle, clarifiant et démocratisant le fonctionnement de l’Union passant à la majorité qualifiée au Conseil européen, donnant le pouvoir d’initiative législative au Parlement européen et facilitant les Initiatives Citoyennes Européennes.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-05",
+    "theme": "Europe, international et défense",
+    "measure": "Reconnaître un État palestinien aux côtés d'Israël",
+    "quote": "Défendre le respect du droit international et humanitaire, des droits humains, reconnaître enfin un Etat Palestinien aux côtés d’Israël.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 83,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Porter une loi « Acheter européen » priorisant les productions européennes dans les marchés publics",
+    "quote": "Porter une loi « Acheter européen » (un “Buy European Act”) dans les institutions européennes pour prioriser les productions européennes dans les marchés publics.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-07",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer un effort fiscal nouveau ciblé sur les très hauts patrimoines et les grands groupes",
+    "quote": "Effort fiscal nouveau, ciblé sur les très hauts patrimoines et les grands groupes, pour contrer leur optimisation fiscale, afin qu’ils contribuent équitablement à la solidarité nationale.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 85,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-08",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Plafonner le crédit d'impôt recherche pour les grands groupes et le recentrer sur les PME et ETI",
+    "quote": "Refonder le Crédit d’Impôt Recherche en le plafonnant pour les grands groupes et en le recentrant sur ceux qui investissent vraiment dans la recherche, notamment les PME, ETI industrielles et les jeunes entreprises innovantes.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter le SMIC à 1 600 euros net dans les deux ans",
+    "quote": "Augmenter le SMIC à 1600 euros net dans les deux ans qui suivent notre accession au pouvoir.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-10",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Intégrer des représentants des salariés dans les conseils d'administration dès 100 salariés et créer un « chèque syndical »",
+    "quote": "Intégrer davantage les représentants des salariés dans les conseils d’administration des entreprises, dès 100 salariés, instaurer un « chèque syndical » pour renforcer la liberté syndicale.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 41,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-11",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Abroger la réforme des retraites de 2023",
+    "quote": "Notre système de retraites, pilier de la solidarité entre générations, est un trésor national. […] La réforme de 2023, imposée contre les partenaires sociaux et l’écrasante majorité des citoyens, est injuste. Elle doit être abrogée.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 43,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-12",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Permettre à certains de partir à 60 ans selon conditions et espérance de vie, d'autres travaillant davantage",
+    "quote": "cesser la focalisation sur le seul âge légal qui produit l’injustice et fonder notre philosophie sur les inégalités de conditions et d’espérance de vie : certains doivent pouvoir partir à la retraite à 60 ans, d’autres devront travailler davantage.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 43,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-13",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Abroger la réforme de l'assurance chômage",
+    "quote": "Abroger la réforme Macron de l’assurance chômage, injuste et inefficace.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 53,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-14",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer immédiatement la proportionnelle aux élections législatives",
+    "quote": "Instaurer immédiatement la proportionnelle, de préférence par circonscriptions régionales avec un fléchage départemental des candidats.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 46,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-15",
+    "theme": "Institutions et démocratie",
+    "measure": "Investir le Premier ministre par un vote de l'Assemblée et instaurer la censure constructive pour mettre fin au 49.3",
+    "quote": "Investir le premier ministre par un vote de confiance de l’Assemblée nationale (sur proposition préalable du Président de la République) et instaurer la motion de censure “constructive” (censurer un gouvernement exigera de proposer un successeur), ce qui permettra de mettre fin au 49.3.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 46,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-16",
+    "theme": "Institutions et démocratie",
+    "measure": "Ouvrir le droit de vote à 16 ans et aux étrangers extra-communautaires aux élections locales",
+    "quote": "Ouvrir le droit de vote à 16 ans et pour les étrangers extra-communautaires aux élections locales, généraliser l’inscription automatique sur les listes électorales.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 47,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-17",
+    "theme": "Santé",
+    "measure": "Mettre fin à la tarification à l'acte à l'hôpital au profit d'un financement global et pluriannuel",
+    "quote": "Contrer la financiarisation du système de santé, en finir avec la tarification à l’acte à l’hôpital, proposer un financement global, territorial et pluri-annuel",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-18",
+    "theme": "Santé",
+    "measure": "Faire de la santé mentale des jeunes une priorité nationale avec dépistage précoce",
+    "quote": "Faire de la santé mentale des jeunes une priorité nationale, avec dépistage précoce des troubles psychiques et addictologiques et suivi continu, notamment durant la scolarité.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-19",
+    "theme": "Protection sociale et famille",
+    "measure": "Aller vers une Sécurité sociale unique fusionnant tous les régimes",
+    "quote": "Ouvrir un grand chantier afin d’aller vers une Sécurité sociale unique, simple et juste, qui fusionne tous les régimes pour garantir une couverture universelle, éliminer les inégalités et simplifier les démarches.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 53,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-20",
+    "theme": "Protection sociale et famille",
+    "measure": "Aller vers un minimum social unique, ouvert aussi aux moins de 25 ans",
+    "quote": "Ouvrir une grande conférence sociale pour aller vers un minimum social unique, accessible à toutes et tous, y compris pour les moins de 25 ans",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 53,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-21",
+    "theme": "Protection sociale et famille",
+    "measure": "Démarchandiser les EHPAD et les crèches",
+    "quote": "Nous démarchandiserons les EHPAD et les crèches.",
+    "source_id": "lettre-aux-fran-ais-de-rapha-l-glucksmann-d-claration-de-can-7b614b46",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-22",
+    "theme": "Sécurité et justice",
+    "measure": "Recréer une police de proximité centrée sur la prévention et la médiation",
+    "quote": "Faire renaître une police de proximité moderne, ancrée localement, centrée sur la prévention, la médiation et la résolution de conflits.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 60,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-23",
+    "theme": "Sécurité et justice",
+    "measure": "Organiser une convention citoyenne sur les drogues, dont la légalisation du cannabis",
+    "quote": "Organiser une convention citoyenne sur la politique vis-à-vis des drogues, notamment la question de la légalisation du cannabis.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 60,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-24",
+    "theme": "Sécurité et justice",
+    "measure": "Généraliser les récépissés de contrôle d'identité",
+    "quote": "Généraliser les récépissés de contrôle d’identité.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 80,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-25",
+    "theme": "Immigration",
+    "measure": "Abroger la loi immigration de 2024",
+    "quote": "Abroger la loi immigration de 2024.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 82,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-26",
+    "theme": "Immigration",
+    "measure": "Ouvrir le droit au travail aux demandeurs d'asile dès l'enregistrement de leur demande",
+    "quote": "ouvrir le droit au travail, sans autorisation spécifique, dès l’enregistrement de la demande d’asile.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 82,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-27",
+    "theme": "Immigration",
+    "measure": "Faciliter la régularisation des travailleurs sans papiers",
+    "quote": "Faciliter les démarches de régularisation des travailleurs sans papiers",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 82,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-28",
+    "theme": "Immigration",
+    "measure": "Remplacer le système de Dublin par un mécanisme européen de répartition des demandeurs d'asile",
+    "quote": "Harmoniser au sein de l’Union Européenne les procédures d’asile et établir un mécanisme européen de répartition cohérent qui mettra fin au système de Dublin, refuser l’externalisation de nos politiques migratoires et d’asile.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 82,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-29",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Conforter le nucléaire, dont la construction à temps de nouveaux réacteurs",
+    "quote": "Conforter le rôle du nucléaire, énergie pilotable et décarbonée, en assurant la sûreté des centrales existantes et la construction à temps de nouvelles unités.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-30",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Indexer une partie des factures d'électricité sur les coûts de production nucléaire et renouvelable",
+    "quote": "Fixer une partie de la facture des ménages, entreprises, industriels et collectivités sur le coût de production de notre électricité nucléaire et renouvelable, et non plus sur un prix de marché très volatile et soumis aux aléas géopolitiques.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-31",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Adopter une grande loi Climat visant –90 % d'émissions en 2040 et la neutralité en 2050",
+    "quote": "Faire une grande loi Climat engageant tous les ministères, permettant l’adaptation et l’accompagnement des politiques publiques pour qu’elles ne dépassent plus les limites planétaires avec la trajectoire de –90 % en 2040, pour la France comme pour l’UE, et la neutralité climat en 2050.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 28,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-32",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Taxer le kérosène, étendre l'interdiction des vols intérieurs et taxer jets privés, yachts et SUV",
+    "quote": "Mettre fin aux privilèges actuels des transports polluants : suppression des exonérations de TVA et de taxe sur le kérosène, étendre l’interdiction des vols intérieurs avec alternative ferroviaire viable, taxation des plus gros pollueurs individuels (jets privés, yachts, SUV…)",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-33",
+    "theme": "Agriculture et alimentation",
+    "measure": "Réformer la PAC en sortant des aides à l'hectare et en plafonnant les aides",
+    "quote": "Réformer la PAC pour soutenir l’emploi et le revenu agricole, l’utilité écologique et l’agriculture familiale, en rompant avec le modèle des aides à l’hectare qui accroît les inégalités de revenus, en soutenant la conversion au bio, en plafonnant les aides comme en Espagne pour rediriger les fonds vers les petites fermes",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-34",
+    "theme": "Agriculture et alimentation",
+    "measure": "Imposer des mesures miroirs aux importations agricoles et s'opposer au traité avec le Mercosur",
+    "quote": "Imposer des mesures miroirs aux importations agricoles, contre le dumping social, sanitaire et environnemental, harmoniser les normes en Europe pour mettre fin à la concurrence déloyale au sein du marché unique, s’opposer aux traités comme le Mercosur qui placent nos éleveurs dans une situation injuste et intenable.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-35",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire le glyphosate, les néonicotinoïdes et les objets du quotidien contenant des PFAS",
+    "quote": "Éliminer les produits chimiques dangereux en interdisant les pesticides les plus néfastes, glyphosate, néonicotinoïdes tueurs d’abeilles et objets du quotidien contenant des PFAS, tout en soutenant les alternatives non polluantes.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 35,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-36",
+    "theme": "Logement et territoires",
+    "measure": "Encadrer les loyers dans les zones en grande tension",
+    "quote": "Encadrer les loyers dans les zones en grande tension pour garantir l’accès au logement aux ménages modestes.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 64,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-37",
+    "theme": "Logement et territoires",
+    "measure": "Abroger la loi Kasbarian au profit d'un dispositif combinant indemnisation des bailleurs et accompagnement des locataires",
+    "quote": "abroger la loi Kasbarian au profit d’un dispositif plus équilibré, combinant indemnisation rapide des bailleurs en cas d’impayés et accompagnement renforcé des locataires.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 64,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-38",
+    "theme": "École et jeunesse",
+    "measure": "Intégrer les établissements privés sous contrat à la carte scolaire",
+    "quote": "Intégrer les établissements privés sous contrat à la carte scolaire pour garantir une répartition équitable des élèves et renforcer la mixité sociale.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 68,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-39",
+    "theme": "École et jeunesse",
+    "measure": "Revaloriser le salaire de tous les enseignants sur 5 ans",
+    "quote": "Revaloriser le salaire de tous les enseignants de manière continue et planifiée sur 5 ans.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 68,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-40",
+    "theme": "École et jeunesse",
+    "measure": "Repenser en profondeur Parcoursup",
+    "quote": "Repenser en profondeur Parcoursup à travers une concertation réunissant parents, étudiants, universités et acteurs de l’éducation.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-41",
+    "theme": "Numérique, médias et culture",
+    "measure": "Interdire les réseaux sociaux aux moins de 15 ans",
+    "quote": "Interdire les réseaux sociaux pour les moins de 15 ans",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Bannir TikTok",
+    "quote": "Bannir Tik Tok, plateforme qui concentre les pires dérives des réseaux sociaux, menace notre souveraineté et déstabilise nos démocraties.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-43",
+    "theme": "Société et libertés",
+    "measure": "Inscrire dans la loi une définition du viol fondée sur le consentement",
+    "quote": "Inscrire dans la loi que tout acte de pénétration sexuelle non consenti constitue un viol et soutenir la définition européenne du viol basée sur le consentement.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 78,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-44",
+    "theme": "Société et libertés",
+    "measure": "Aligner les droits à la filiation des couples LGBTQIA+ sur ceux des couples hétérosexuels",
+    "quote": "Aligner les droits à la filiation des couples LGBTQIA+ sur ceux des couples hétérosexuels en universalisant les droits",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 79,
+    "concrete": true
+  },
+  {
+    "id": "glucksmann-45",
+    "theme": "Société et libertés",
+    "measure": "Abolir progressivement les régimes dérogatoires à la loi de 1905",
+    "quote": "Garantir la laïcité à l’école, renforcer la prévention et la répression des pratiques sectaires, en redonnant les moyens et le champ d’action octroyés à la MIVILUDES et abolir progressivement les différents régimes dérogatoires à la loi de 1905 et aux lois laïques scolaires.",
+    "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "page": 73,
+    "concrete": true
+  }
+]

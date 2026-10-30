@@ -1,0 +1,17 @@
+{
+  "slug": "lalanne",
+  "name": "Francis Lalanne",
+  "party": "France Libre",
+  "party_short": "FL",
+  "declared": true,
+  "declaration_note": "Candidature annoncée par communiqué le 19 août 2026, en duo avec Dieudonné (pressenti Premier ministre) ; premier meeting le 21/22 août 2026 au théâtre Galabru (Paris).",
+  "declaration_source": "https://www.lalibre.be/international/europe/2026/08/19/francis-lalanne-officiellement-candidat-a-la-presidentielle-2027-IYHINYS4IJG43AHUFIS2XZVX54/",
+  "official_sites": [
+    "https://dieudolalanne2027.com",
+    "https://france-libre.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Page « Le Projet 2027 », complétée par les thèmes de France Libre (2024).",
+  "blocked": [],
+  "notes": "Party label: the official campaign site (dieudolalanne2027.com, footer « Site officiel de la campagne présidentielle de Francis Lalanne pour l'élection de 2027 ») never uses « Front antirépublicain » (the Wikipedia label); it refers to the association France Libre, which ran the Lalanne list (Lalanne #1, Dieudonné #3) at the européennes 2024 and 11 candidates at the législatives 2024 — so I used 'France Libre' as party; lead may prefer 'Sans étiquette' or the Wikipedia label. Program page is a short bullet list (~3.4k chars, 9 numbered themes); trafilatura dropped most theme headings (e.g. '1. Souveraineté !', '8. Terroir !') but kept every proposal line; the page itself duplicates the 'Sortie de l'OTAN' bullet. The program page links to france-libre.fr/nos-themes-et-valeurs/ (« Tout ceci n'est pas nouveau… ») — archived as a 2024 substitute/complement (8.4k chars). lalanne2027.com (cited in press) and francislalanne.com are parked domains, not official. Status caveats: press reports a Conseil d'État ineligibility (unfiled 2024 campaign accounts) running until Oct 2026, and a 6-month suspended sentence for 'abandon de famille' (Oct 2026, under appeal); parrainages not yet gathered."
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "durif",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Référendum d'initiative citoyenne encadré : Permettre aux citoyens de proposer certaines évolutions législatives selon des règles constitutionnelles strictes.",
+          "source_id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+          "page": 1
+        }
+      ],
+      "note": "RIC législatif « encadré »."
+    }
+  }
+}

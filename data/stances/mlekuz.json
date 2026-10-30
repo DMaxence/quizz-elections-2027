@@ -1,0 +1,32 @@
+{
+  "slug": "mlekuz",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Revoir la procédure de modification de la Vème République en ajoutant la possibilité de la réviser à l’avenir par référendum d’initiative citoyenne.",
+          "source_id": "programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823",
+          "page": 8
+        }
+      ],
+      "note": "RIC constituant prévu comme « cliquet de sécurité » en cas d'échec du processus constituant (un million de signatures)."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Changement de régime. Fin de la Ve République et promulgation de la VIe République.",
+          "source_id": "programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823",
+          "page": 7
+        },
+        {
+          "quote": "L’assemblée citoyenne : 200 citoyen·nes tiré·es au sort, qui conçoivent et décident du nouveau système politique à installer en France",
+          "source_id": "programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823",
+          "page": 17
+        }
+      ],
+      "note": "Assemblée constituante de 200 citoyens tirés au sort, nouvelle constitution soumise à référendum."
+    }
+  }
+}

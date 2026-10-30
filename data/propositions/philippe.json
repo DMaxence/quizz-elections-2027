@@ -1,0 +1,407 @@
+[
+  {
+    "id": "philippe-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser de 50 Md€ les impôts de production en contrepartie de 50 Md€ d'aides publiques en moins",
+    "quote": "Conclure un pacte fiscal inédit avec les entreprises : 50 Md€ de baisses d'impôts de production contre 50 Md€ d'aides publiques improductives en moins, le plus grand choc de compétitivité jamais réalisé.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Ne créer aucune nouvelle norme ni aucun nouvel impôt pendant le quinquennat",
+    "quote": "Sceller un moratoire normatif et fiscal : pas de nouvelle norme et de nouvel impôt sur le quinquennat.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Inscrire une règle d'or des déficits dans la Constitution par référendum et ramener le déficit à 2 % du PIB",
+    "quote": "Inscrire dans la Constitution une règle d'or de maîtrise des déficits via un référendum, et ramener le déficit de plus de 5% à 2% du PIB à la fin du quinquennat.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Ne pas remplacer un tiers des fonctionnaires partant à la retraite (plus de 250 000 postes)",
+    "quote": "Supprimer un tiers des fonctionnaires partant à la retraite, soit plus de 250 000 postes sur le quinquennat.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Permettre aux entreprises de fixer librement le temps de travail, sans cotisation patronale au-delà de la 37e heure",
+    "quote": "Permettre aux entreprises de fixer librement le temps de travail pour sortir des 35h, de la manière la plus adaptée à leur activité, avec zéro cotisation patronale au-delà de la 37ème heure.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter progressivement l'âge de départ à la retraite à 65 ans et la durée de cotisation à 45 ans",
+    "quote": "Sauver nos retraites sans hausse des cotisations ni baisse générale des pensions : porter progressivement l'âge de départ à 65 ans et la durée de cotisation à 45 ans en moins de dix ans, pour ceux qui le peuvent.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Généraliser la retraite par capitalisation collective à tous les salariés, avec un versement de l'État de 500 €",
+    "quote": "Généraliser à tous les salariés la retraite par capitalisation collective, qui existe déjà pour les fonctionnaires, et ouvrir un plan d'épargne retraite à chaque Français, avec un premier versement de l'État de 500€ dès le premier emploi.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Limiter à 12 mois la durée d'indemnisation chômage pour les moins de 50 ans",
+    "quote": "Réduire à 12 mois maximum la durée d'indemnisation chômage pour les moins de 50 ans, contre 18 mois aujourd'hui, sur le modèle allemand.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Instaurer 3 jours de carence pour les arrêts maladie dans le privé comme dans le public",
+    "quote": "Lutter contre l’open bar des arrêts maladies : 3 jours de carence pour tout le monde, dans le privé comme le public.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-10",
+    "theme": "Santé",
+    "measure": "Stabiliser les dépenses de santé en misant sur la prévention et la technologie",
+    "quote": "Stabiliser les dépenses de santé en dépensant mieux, en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "philippe-11",
+    "theme": "Santé",
+    "measure": "Renforcer la santé à l'école, notamment l'accès à des tiers de confiance en santé mentale",
+    "quote": "Renforcer la santé à l'école, en donnant aux élèves accès à des tiers de confiance, à des conseils et à la détection en matière de santé mentale.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-12",
+    "theme": "École et jeunesse",
+    "measure": "Donner aux chefs d'établissement la liberté d'adapter méthodes, horaires, uniforme et discipline",
+    "quote": "Faire des chefs d'établissements les véritables patrons de l'école : liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, de participer au recrutement et à l’évaluation de leur équipe.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-13",
+    "theme": "École et jeunesse",
+    "measure": "Augmenter de 20 % la rémunération moyenne des enseignants sur le quinquennat",
+    "quote": "Augmenter de 20 % la rémunération moyenne des enseignants sur le quinquennat, pour la porter au moins au niveau de la moyenne européenne, notamment en milieu de carrière.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-14",
+    "theme": "École et jeunesse",
+    "measure": "Recréer des écoles normales pour la formation initiale des professeurs",
+    "quote": "Recréer des écoles normales, plus exigeantes sur les savoirs fondamentaux, pour la formation initiale des professeurs.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-15",
+    "theme": "École et jeunesse",
+    "measure": "Créer un service public universel du soutien scolaire avec assistant IA et brigades de volontaires",
+    "quote": "Créer un service public universel du soutien scolaire, combinant assistant IA personnalisé et brigades d'anciens professeurs et d'étudiants volontaires.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-16",
+    "theme": "École et jeunesse",
+    "measure": "Créer une amende de responsabilisation scolaire pour les parents d'enfants harceleurs, perturbateurs ou absentéistes",
+    "quote": "Créer une « amende de responsabilisation scolaire », inspirée du modèle britannique, pour les parents d'enfants harceleurs, perturbateurs ou absentéistes et les parents violents.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-17",
+    "theme": "École et jeunesse",
+    "measure": "Interdire strictement le téléphone portable à l'école primaire, au collège et au lycée",
+    "quote": "Faut-il interdire le téléphone portable à l'école ? Oui, strictement, à l'école primaire, au collège et au lycée : un téléphone sorti en classe ou dans la cour sera confisqué et rendu aux parents.",
+    "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-18",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Lancer 8 EPR supplémentaires en plus des 6 prévus et développer les renouvelables",
+    "quote": "Assurer notre souveraineté énergétique en relançant le nucléaire (lancement de 8 EPR supplémentaires en plus des 6 déjà prévus), en développant les renouvelables et en électrifiant massivement nos usages.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-19",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Instaurer un prix du carbone aux frontières européennes",
+    "quote": "Instaurer un prix du carbone aux frontières européennes pour protéger nos industries qui décarbonent face à une concurrence déloyale.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-20",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Créer un fonds unique d'adaptation au changement climatique doté de 2 milliards d'euros par an",
+    "quote": "Créer un fonds unique d'adaptation au changement climatique, réunissant le fonds Barnier et le Fonds vert, doté de 2 milliards d'euros par an pour des investissements à impact mesurable.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-21",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire toute surtransposition agricole et créer 100 territoires de souveraineté alimentaire",
+    "quote": "Renforcer la compétitivité de notre agriculture : zéro surtransposition agricole, grand plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-22",
+    "theme": "Agriculture et alimentation",
+    "measure": "Accélérer le stockage de l'eau agricole et atteindre 10 % de réutilisation des eaux usées traitées",
+    "quote": "Accélérer le stockage de l'eau agricole en plaçant « la protection avant la procédure », et atteindre 10 % de réutilisation des eaux usées traitées pour les usages non potables, contre moins de 1 % aujourd'hui.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-23",
+    "theme": "Immigration",
+    "measure": "Diviser par deux l'immigration",
+    "quote": "Un objectif clair : diviser par deux l’immigration dans notre pays.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-24",
+    "theme": "Immigration",
+    "measure": "Dénoncer l'accord franco-algérien de 1968",
+    "quote": "Dénoncer l'accord de 1968 avec l'Algérie pour reprendre le contrôle des flux migratoires.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-25",
+    "theme": "Immigration",
+    "measure": "Suspendre le regroupement familial pendant le quinquennat",
+    "quote": "Suspendre le regroupement familial pour la durée du quinquennat.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-26",
+    "theme": "Immigration",
+    "measure": "Faire voter chaque année par le Parlement une liste de pays sûrs et mettre fin à l'asile à vie",
+    "quote": "Mettre fin au dévoiement de l'asile en faisant voter chaque année par le Parlement une liste de pays sûrs et en mettant fin à l’asile à vie.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-27",
+    "theme": "Immigration",
+    "measure": "Aligner les aides sociales versées aux étrangers sur la moyenne européenne",
+    "quote": "Aligner les aides sociales versées aux étrangers sur la moyenne européenne, pour qu'ils choisissent la France pour y travailler et s'y intégrer, pas pour ses aides.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-28",
+    "theme": "Immigration",
+    "measure": "Suspendre le droit du sol à Mayotte",
+    "quote": "Suspendre le droit du sol à Mayotte.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-29",
+    "theme": "Sécurité et justice",
+    "measure": "Instaurer des peines planchers pour les infractions les plus graves",
+    "quote": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique et des professeurs.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-30",
+    "theme": "Sécurité et justice",
+    "measure": "Supprimer le juge d'application des peines",
+    "quote": "Supprimer le juge d'application des peines afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-31",
+    "theme": "Sécurité et justice",
+    "measure": "Permettre au garde des Sceaux d'adresser des instructions individuelles aux procureurs",
+    "quote": "Renforcer l'autorité du Garde des Sceaux sur le parquet, notamment par la possibilité d'adresser des instructions individuelles aux procureurs.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-32",
+    "theme": "Sécurité et justice",
+    "measure": "Donner aux maires un pouvoir de sanction pénale pour les petites infractions",
+    "quote": "Donner un pouvoir de sanction pénale aux maires afin qu'ils puissent réprimer les petites infractions, ces incivilités qui pourrissent la vie de millions de Français.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-33",
+    "theme": "Sécurité et justice",
+    "measure": "Créer un « état d'urgence narco » permettant notamment l'usage ciblé de la reconnaissance faciale",
+    "quote": "Créer un « état d'urgence narco » avec des moyens juridiques d'exception limités dans le temps et dans l'espace, allant jusqu'à l'utilisation ciblée de la reconnaissance faciale.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-34",
+    "theme": "Sécurité et justice",
+    "measure": "Rendre imprescriptibles les crimes sur mineur",
+    "quote": "Mettre en place l'imprescriptibilité pour les crimes sur mineur afin de faire savoir aux auteurs qu'ils ne seront jamais ni sereins, ni à l'abri.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-35",
+    "theme": "Institutions et démocratie",
+    "measure": "Réformer l'école, la justice et la santé par ordonnances dès l'été 2027",
+    "quote": "L'école est, avec la justice et la santé, l'un des trois services publics à réformer vite et en profondeur, par ordonnances dès l'été 2027.",
+    "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-36",
+    "theme": "Institutions et démocratie",
+    "measure": "Regrouper ou privatiser des agences et opérateurs de l'État",
+    "quote": "Réorganiser massivement l'État en regroupant ou privatisant les agences et opérateurs enchevêtrés, et en simplifiant drastiquement les procédures.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-37",
+    "theme": "Europe, international et défense",
+    "measure": "Porter les réservistes à 250 000 et le service militaire volontaire à 50 000 places par an",
+    "quote": "Porter le nombre de réservistes de 45 000 à 250 000 et le service militaire volontaire de 3 000 à 50 000 places par an.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-38",
+    "theme": "Europe, international et défense",
+    "measure": "Lancer un plan munitions pour dépasser 100 000 obus par an",
+    "quote": "Lancer un grand plan munitions pour dépasser l'objectif actuel de 100 000 obus par an et atteindre l'échelle des 700 000 produits par l'Allemagne.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-39",
+    "theme": "Europe, international et défense",
+    "measure": "Imposer à la Chine transferts de technologie, quotas de production et joint-ventures dans les secteurs stratégiques",
+    "quote": "Protéger le marché européen face à la concurrence déloyale chinoise, en imposant transferts de technologie, quotas de production et joint-ventures dans les secteurs stratégiques et permettre l'émergence de géants capables de sauver notre industrie automobile, sidérurgique et nucléaire.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-40",
+    "theme": "Logement et territoires",
+    "measure": "Accorder un prêt à taux zéro pour chaque naissance afin de faciliter le déménagement des familles",
+    "quote": "Faciliter le déménagement des familles qui s'agrandissent grâce à un prêt à taux zéro pour chaque naissance.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-41",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer une allocation familiale unique de 350 € dès le premier enfant, dégressive avec le revenu",
+    "quote": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-42",
+    "theme": "Protection sociale et famille",
+    "measure": "Supprimer l'impôt sur le revenu des classes moyennes pendant les trois premières années de l'enfant",
+    "quote": "Supprimer l'impôt sur le revenu pendant les trois premières années de l'enfant pour les classes moyennes (4e à 6e déciles, début du 7e), et accorder une réduction d'impôt de 3 000 € par an sur la même période aux familles plus aisées qui travaillent.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Interdire les réseaux sociaux aux moins de 15 ans, si nécessaire par référendum",
+    "quote": "Édouard Philippe est favorable à l'interdiction des réseaux sociaux aux moins de 15 ans. Cette loi a été censurée par le Conseil constitutionnel pour des raisons de rédaction, pas de principe. Édouard Philippe propose de réécrire le texte avec un groupe transpartisan de parlementaires et de juristes et, si nécessaire, de le soumettre à référendum.",
+    "source_id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-44",
+    "theme": "Numérique, médias et culture",
+    "measure": "Doubler en cinq ans la capacité de calcul en intelligence artificielle",
+    "quote": "Développer une infrastructure d'intelligence artificielle européenne souveraine, en soutenant nos champions et en doublant notre capacité de calcul en cinq ans.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "philippe-45",
+    "theme": "Société et libertés",
+    "measure": "Combattre l'islamisme et les organisations affiliées aux Frères musulmans",
+    "quote": "Combattre sans concession l'islamisme et les organisations affiliées aux Frères musulmans, qui veulent imposer des règles religieuses à la République.",
+    "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "page": null,
+    "concrete": false
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "slug": "philippe",
+  "sources": [
+    {
+      "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+      "label": "Priorités pour la présidentielle 2027 — Pour une France plus sûre",
+      "publisher": "Avec Édouard — site de campagne d'Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "final_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:17:35+00:00",
+      "sha256": "dbcc966a652bfee34266f143563964113026caf74eec3cd7c291cd56f4268222",
+      "raw": "sources/philippe/raw/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a.html",
+      "text": "sources/philippe/text/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a.txt",
+      "text_chars": 6261
+    },
+    {
+      "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+      "label": "Priorités pour la présidentielle 2027 — Pour une France plus prospère",
+      "publisher": "Avec Édouard — site de campagne d'Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "final_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:17:35+00:00",
+      "sha256": "e9a8533c99d13aa28f330bb2086f64128a76aea368217c15550d15feb11131df",
+      "raw": "sources/philippe/raw/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c.html",
+      "text": "sources/philippe/text/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c.txt",
+      "text_chars": 4482
+    },
+    {
+      "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+      "label": "Priorités pour la présidentielle 2027 — Pour une France plus attentive à ses enfants",
+      "publisher": "Avec Édouard — site de campagne d'Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "final_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:17:36+00:00",
+      "sha256": "18f636b48d619d2e9c0170eaeae124b754a24d740cc696bb4be9e5b10bdd785c",
+      "raw": "sources/philippe/raw/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4.html",
+      "text": "sources/philippe/text/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4.txt",
+      "text_chars": 4507
+    },
+    {
+      "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+      "label": "Priorités pour la présidentielle 2027 — Pour une France plus conquérante",
+      "publisher": "Avec Édouard — site de campagne d'Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "final_url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:17:36+00:00",
+      "sha256": "4b818d9c84344a5713636292473931152baf5718aa3f3b82283761b57203ec81",
+      "raw": "sources/philippe/raw/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c.html",
+      "text": "sources/philippe/text/priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c.txt",
+      "text_chars": 3558
+    },
+    {
+      "id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+      "label": "L'école : questions et réponses d'Édouard Philippe (campagne 2027, octobre 2026)",
+      "publisher": "Avec Édouard — site de campagne d'Édouard Philippe",
+      "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+      "final_url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:17:36+00:00",
+      "sha256": "417f6b6238bc46c205ec26067717ceb811f166d36f2a9b25e6b1b668add4cbf7",
+      "raw": "sources/philippe/raw/l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62.html",
+      "text": "sources/philippe/text/l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62.txt",
+      "text_chars": 21989
+    }
+  ]
+}

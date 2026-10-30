@@ -1,0 +1,26 @@
+{
+  "slug": "labib",
+  "stances": {
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous devons pour cela exproprier les grandes entreprises et prendre le pouvoir sur l’économie",
+          "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+          "page": 2
+        }
+      ],
+      "note": "Expropriation des grandes entreprises dans tous les secteurs (logement, alimentation, énergie, transport)."
+    },
+    "q23": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "À BAS LE MILITARISME, PAS UNE FEMME, PAS UN HOMME, PAS UN EURO POUR LES GUERRES IMPÉRIALISTES",
+          "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+          "page": 2
+        }
+      ]
+    }
+  }
+}

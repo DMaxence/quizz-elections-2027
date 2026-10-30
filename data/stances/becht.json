@@ -1,0 +1,89 @@
+{
+  "slug": "becht",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mais la plus grande réforme sera l’instauration d’un référendum d’initiative citoyenne. Les citoyens doivent pouvoir soumettre directement une réforme au vote quand ils jugent leurs représentants immobiles.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+          "page": 7
+        }
+      ],
+      "note": "Déclenché par les signatures de 2 % du corps électoral."
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les titres de vie familiale seront encadrés, le regroupement familial limité hors Union européenne.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+          "page": 7
+        }
+      ]
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Parcoursup sera supprimé et remplacé par une épreuve complémentaire au baccalauréat, propre à chaque spécialité, conditionnant l’entrée à l’université, en grande école, en IUT ou en BTS",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+          "page": 12
+        }
+      ]
+    },
+    "q11": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Chacun pourra compléter sa pension par une épargne de capitalisation, que parents et grandsparents pourront abonder en franchise d’impôt.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+          "page": 10
+        }
+      ],
+      "note": "Épargne de capitalisation facultative, en complément d’une retraite par points."
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Il n’y aura pas de peine pénale pour le séjour illégal : une personne en situation irrégulière doit être reconduite, non remplir des prisons réservées à ceux qui menacent la société.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+          "page": 8
+        }
+      ],
+      "note": "Refuse la sanction pénale du séjour irrégulier mais prévoit la reconduite des personnes en situation irrégulière."
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "le brevet des collèges laissera place à un brevet primaire, garantissant que nul ne sorte du primaire sans savoir lire, écrire, compter et connaître les valeurs de la République. Une classe passerelle, après le CM2, donnera à ceux qui en ont besoin une année entière pour entrer au collège sur de bonnes bases.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+          "page": 12
+        }
+      ],
+      "note": "Brevet primaire et classe passerelle avant l’entrée au collège ; la fin du collège unique n’est pas formulée comme telle."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Dans le prolongement des lois de programmation militaire, l’armée de Terre sera portée à 150 000 hommes […] Cet effort, sans équivalent depuis 80 ans, se fera en partie dans un cadre européen.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+          "page": 12
+        }
+      ]
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les agences régionales de santé, elles, seront supprimées, leurs missions confiées aux préfets en lien avec les élus",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
+          "page": 3
+        }
+      ]
+    }
+  }
+}

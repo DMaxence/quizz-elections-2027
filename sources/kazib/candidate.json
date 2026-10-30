@@ -1,0 +1,17 @@
+{
+  "slug": "kazib",
+  "name": "Anasse Kazib",
+  "party": "Révolution permanente",
+  "party_short": "RP",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 1er juin 2026 par Révolution permanente ; programme présenté en septembre 2026 ; collecte des 500 parrainages en cours.",
+  "declaration_source": "https://www.revolutionpermanente.fr/Anasse-Kazib-2027-une-candidature-ouvriere-communiste-et-revolutionnaire-a-la-presidentielle",
+  "official_sites": [
+    "https://anasse2027.fr/",
+    "https://www.revolutionpermanente.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Page « Programme » et tract de campagne 2027.",
+  "blocked": [],
+  "notes": "Programme court (≈ 4 200 caractères, 6 axes, ~30 mesures) mais explicitement intitulé « Programme ». Le texte du dépliant PDF est partiellement désordonné (titres en lettres espacées, encart meeting mêlé au texte, mise en page en colonnes) : préférer la page HTML pour les citations. L'article d'annonce sur revolutionpermanente.fr n'a pas été archivé (extraction trafilatura très pauvre, et contenu redondant avec la page programme)."
+}

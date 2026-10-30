@@ -1,0 +1,50 @@
+{
+  "slug": "batho",
+  "sources": [
+    {
+      "id": "d-claration-de-candidature-de-delphine-batho-page-d-accueil--c92009ae",
+      "label": "Déclaration de candidature de Delphine Batho — page d'accueil du site de campagne",
+      "publisher": "Delphine Batho (delphinebatho.fr)",
+      "url": "https://www.delphinebatho.fr/",
+      "final_url": "https://www.delphinebatho.fr/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:21:20+00:00",
+      "sha256": "c92009ae0bfce856fccf223b939e5d412334f65e126b49792bd5037b940a7a79",
+      "raw": "sources/batho/raw/d-claration-de-candidature-de-delphine-batho-page-d-accueil--c92009ae.html",
+      "text": "sources/batho/text/d-claration-de-candidature-de-delphine-batho-page-d-accueil--c92009ae.txt",
+      "text_chars": 3294
+    },
+    {
+      "id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+      "label": "Vivre autrement ! — motion d'orientation de Génération Écologie (14e convention nationale, déc. 2023)",
+      "publisher": "Génération Écologie (generationecologie.fr)",
+      "url": "https://www.generationecologie.fr/wp-content/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
+      "final_url": "https://www.generationecologie.fr/wp-content/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
+      "year": "2023",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:21:20+00:00",
+      "sha256": "5d57f7835da8fc6b293fda4b1170921b4a7d062bced5aa7a881ac1667d0c8ceb",
+      "raw": "sources/batho/raw/vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783.pdf",
+      "text": "sources/batho/text/vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783.txt",
+      "text_chars": 15886
+    },
+    {
+      "id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+      "label": "Pour un État-Résilience — cahier d'acteur de Génération Écologie (adaptation au changement climatique)",
+      "publisher": "Génération Écologie (generationecologie.fr)",
+      "url": "https://www.generationecologie.fr/wp-content/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+      "final_url": "https://www.generationecologie.fr/wp-content/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:21:22+00:00",
+      "sha256": "f58ed9222cdebcb9907fb01323460af075df4f2fe7327e0dff22ed2cacfe5743",
+      "raw": "sources/batho/raw/pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922.pdf",
+      "text": "sources/batho/text/pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922.txt",
+      "text_chars": 29041
+    }
+  ]
+}

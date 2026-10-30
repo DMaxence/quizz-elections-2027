@@ -1,0 +1,35 @@
+{
+  "slug": "zemmour",
+  "sources": [
+    {
+      "id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+      "label": "Tract Reconquête « Nos priorités pour les Français » (octobre 2026)",
+      "publisher": "Reconquête / Éric Zemmour (assets.ericzemmour.fr, lié depuis parti-reconquete.fr)",
+      "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+      "final_url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:19:51+00:00",
+      "sha256": "a806871c4452095474adeb4ca24821076d5df944cf6580bb9a217f05dc53936a",
+      "raw": "sources/zemmour/raw/tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c.pdf",
+      "text": "sources/zemmour/text/tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c.txt",
+      "text_chars": 1814
+    },
+    {
+      "id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+      "label": "Tract Reconquête « Nos mesures d'économies urgentes » (novembre 2025)",
+      "publisher": "Reconquête / Éric Zemmour (assets.ericzemmour.fr, lié depuis parti-reconquete.fr)",
+      "url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
+      "final_url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
+      "year": "2025",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:19:52+00:00",
+      "sha256": "8483582560c71129346ae6db536c6f56f0f917ac0b1f7cf561374e0043c4a341",
+      "raw": "sources/zemmour/raw/tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825.pdf",
+      "text": "sources/zemmour/text/tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825.txt",
+      "text_chars": 1476
+    }
+  ]
+}

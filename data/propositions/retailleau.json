@@ -1,0 +1,407 @@
+[
+  {
+    "id": "retailleau-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Soumettre au référendum la « règle d'or » d'équilibre des finances publiques adoptée par le Parlement en 2011",
+    "quote": "Demander au Président de la République de soumettre immédiatement au référendum, par l’article 89 de la Constitution, le projet de loi constitutionnelle « relatif à l’équilibre des finances publiques » adopté dans les mêmes termes par l’Assemblée nationale et le Sénat le 13 juillet 2011",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Ne pas remplacer 400 000 départs en retraite d'agents publics sur le quinquennat, sans licenciement",
+    "quote": "400 000 départs en retraite non remplacés sur le quinquennat, trois versants, sans un seul licenciement, concentrés sur l’administration qui administre",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer la C3S et la CVAE, deux impôts de production pesant sur les entreprises",
+    "quote": "Contribution sociale de solidarité des sociétés (C3S, 5,3 milliards d’euros) : suppression intégrale d’un impôt particulièrement nocif ; […] Cotisation sur la valeur ajoutée des entreprises (CVAE, 4,3 milliards d’euros) : suppression définitive d’un impôt pénalisant l’investissement",
+    "source_id": "projet-pr-sidentiel-2027-industrie-et-entreprises-livret-6b5f80d5",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Permettre le départ en retraite dès 63 ans, avec un taux plein garanti à tous à 65 ans",
+    "quote": "Partir dès 63 ans sera un droit, et chacun connaîtra à l'avance le montant de sa pension selon l'âge qu'il choisit. À 65 ans, le taux plein sera garanti à tous, quels que soient les trimestres cotisés ou validés.",
+    "source_id": "projet-pr-sidentiel-2027-retraites-mesure-14-01-partir-d-s-6-6e090076",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Créer pour chaque salarié un compte individuel de retraite par capitalisation, alimenté par 1 % du salaire",
+    "quote": "Chaque salarié, du privé comme du public, aura un capital à son nom pour sa retraite, sur un compte individuel bloqué jusqu'à son départ et protégé par la Constitution. […] Le compte est alimenté par une cotisation de 1 % du salaire, dans la limite du plafond de la Sécurité sociale",
+    "source_id": "projet-pr-sidentiel-2027-retraites-mesure-14-06-capital-retr-447d102b",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Exonérer de cotisations sociales les heures travaillées au-delà de 1 623 heures par an",
+    "quote": "nous proposons d’instaurer un seuil « zéro cotisation ». Fixé à 1 623 heures par an, soit l’équivalent de deux jours de travail supplémentaires rémunérés, ce seuil pose une règle simple et lisible. Au-delà, les heures travaillées sont exonérées de cotisations sociales, salariales comme patronales.",
+    "source_id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réduire la durée maximale d'indemnisation chômage de 18 à 15 mois et y mettre fin après trois refus d'offre raisonnable",
+    "quote": "Mettre en œuvre et compléter les règles de juin 2024 sur l’indemnisation du chômage […] une réduction de la durée maximale d’indemnisation (de 18 à 15 mois) […] le refus d’une troisième offre raisonnable doit mettre fin à l’indemnisation.",
+    "source_id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+    "page": 31,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-08",
+    "theme": "Protection sociale et famille",
+    "measure": "Remplacer RSA, prime d'activité et ASS par un Revenu d'incitation à l'activité (RIA)",
+    "quote": "nous proposons la création d’un Revenu d’incitation à l’activité (RIA), en remplacement de trois dispositifs existants : le RSA, la prime d’activité et l’allocation de solidarité spécifique (ASS).",
+    "source_id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+    "page": 23,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-09",
+    "theme": "Protection sociale et famille",
+    "measure": "Plafonner le cumul des aides sociales non contributives à 70 % du SMIC net par adulte",
+    "quote": "Nous proposons un système, qui n’existe pas aujourd’hui, pour recenser l’ensemble des aides sociales non contributives, et les ajuster afin que leur cumul ne dépasse jamais 70 % du SMIC net par adulte.",
+    "source_id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-10",
+    "theme": "Protection sociale et famille",
+    "measure": "Fusionner 12 aides familiales en un Revenu familial de 240 euros par mois dès le premier enfant",
+    "quote": "Fusionner 12 dispositifs pour les remplacer par un Revenu familial (RF) de 240 euros versé chaque mois à tous, dès le premier enfant, de la naissance jusqu’à 18 ans",
+    "source_id": "projet-pr-sidentiel-2027-famille-livret-92d669ef",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-11",
+    "theme": "Santé",
+    "measure": "Réguler l'installation des médecins là où l'offre de soins manque",
+    "quote": "Aucun territoire ne doit rester sans médecin. Le projet mise sur la régulation de l'installation là où l'offre manque, la revalorisation des carrières hospitalières et le soutien aux maisons de santé pluriprofessionnelles.",
+    "source_id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-12",
+    "theme": "Santé",
+    "measure": "Instaurer dans le privé un jour de carence d'ordre public que ni l'employeur ni la complémentaire ne pourront racheter",
+    "quote": "Un jour de carence d’ordre public dans le secteur privé, que ni l’employeur ni la complémentaire ne pourront racheter",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-13",
+    "theme": "Santé",
+    "measure": "Limiter les arrêts maladie prescrits en téléconsultation à trois jours non renouvelables",
+    "quote": "plafonds de prescription : premier arrêt limité, renouvellement subordonné à un examen, téléconsultation limitée à trois jours non renouvelables.",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-14",
+    "theme": "École et jeunesse",
+    "measure": "Augmenter le traitement des professeurs de 135 euros nets par mois en début de carrière, jusqu'à 300 euros",
+    "quote": "135 euros nets de plus par mois en début de carrière, jusqu’à 300 euros en milieu, sur le traitement des professeurs, pas les primes.",
+    "source_id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-15",
+    "theme": "École et jeunesse",
+    "measure": "Créer un examen d'entrée en sixième et des groupes de niveau au collège, en mettant fin au collège unique",
+    "quote": "Un collège où chacun avance, où personne n’est laissé au bord. Un examen d’entrée en sixième, des groupes selon le niveau dont on change dès que l’on progresse.",
+    "source_id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-16",
+    "theme": "École et jeunesse",
+    "measure": "Ramener les vacances scolaires à la moyenne européenne",
+    "quote": "Reprendre en main le temps scolaire. Des vacances ramenées à la moyenne européenne, plus d’heures pour les fondamentaux, et les diplômes remis chaque année le 14 juillet.",
+    "source_id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-17",
+    "theme": "École et jeunesse",
+    "measure": "Confier la voie professionnelle aux régions et aux entreprises, avec l'apprentissage dès 14 ans",
+    "quote": "Faire de la voie professionnelle une fierté. Confiée aux régions et aux entreprises, avec l’apprentissage dès quatorze ans.",
+    "source_id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-18",
+    "theme": "Logement et territoires",
+    "measure": "Expulser par voie administrative sous dix jours toute occupation illégale de logement",
+    "quote": "GARANTIR LA TOLÉRANCE ZÉRO CONTRE LE SQUAT Toute occupation illégale donnera lieu à une expulsion administrative sous dix jours.",
+    "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-19",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les interdictions de louer fondées sur le diagnostic de performance énergétique (DPE)",
+    "quote": "SUPPRIMER LES INTERDICTIONS DE LOUER FONDÉES SUR LE DPE Mettre fin aux interdictions de louer permettra de préserver ou remettre près de 450 000 logements sur le marché.",
+    "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-20",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer l'encadrement des loyers",
+    "quote": "Les dispositifs d’encadrement des loyers issus de la loi ELAN seront supprimés ;",
+    "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+    "page": 31,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-21",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer les quotas de 20 % et 25 % de logements sociaux imposés aux communes par la loi SRU",
+    "quote": "SUPPRIMER LES QUOTAS IMPOSÉS AUX MAIRES ET ADAPTER LA LOI SRU À LA RÉALITÉ DU TERRAIN Les quotas de 20 % et 25 % seront supprimés pour redonner aux maires la liberté de construire.",
+    "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-22",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Relancer six réacteurs EPR2, prolonger le parc nucléaire existant et investir dans les petits réacteurs modulaires",
+    "quote": "La souveraineté énergétique passe d'abord par le nucléaire : relance des six EPR2, prolongation du parc existant, investissement dans les petits réacteurs modulaires.",
+    "source_id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-23",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Abroger le volet électricité de la PPE 3 et ne plus lancer d'appels d'offres photovoltaïque et éolien en mer",
+    "quote": "Nous abrogerons immédiatement le volet électricité de la PPE 3, déclarerons infructueux les appels d’offres non encore attribués en matière de photovoltaïque et d’éolien en mer, et n’en lancerons plus - tant que la demande n’augmentera pas nettement.",
+    "source_id": "projet-pr-sidentiel-2027-lectricit-livret-81bb7677",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-24",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Supprimer le principe de précaution de la Charte de l'environnement",
+    "quote": "La révision constitutionnelle supprimera également le principe de précaution inscrit dans la Charte de l’environnement.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-25",
+    "theme": "Agriculture et alimentation",
+    "measure": "Supprimer l'Office français de la biodiversité (OFB)",
+    "quote": "l’Office français de la biodiversité (OFB) sera supprimé afin de revenir à une organisation plus lisible et plus efficace",
+    "source_id": "projet-pr-sidentiel-2027-agriculture-livret-5ad1cb0d",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-26",
+    "theme": "Agriculture et alimentation",
+    "measure": "Autoriser automatiquement en France les produits agricoles déjà autorisés en Europe",
+    "quote": "pour l’ANSES, en appliquant strictement le principe de reconnaissance mutuelle : lorsqu’un produit est déjà autorisé en Europe, son autorisation sera automatique en France.",
+    "source_id": "projet-pr-sidentiel-2027-agriculture-livret-5ad1cb0d",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-27",
+    "theme": "Agriculture et alimentation",
+    "measure": "Reconnaître le stockage d'eau comme intérêt général majeur, avec des délais d'instruction où le silence vaut acceptation",
+    "quote": "l’accès aux facteurs de production en reconnaissant le stockage d’eau comme un intérêt général majeur et en imposant des délais d’instruction opposables à l’administration, au-delà desquels le silence vaut acceptation.",
+    "source_id": "projet-pr-sidentiel-2027-agriculture-livret-5ad1cb0d",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-28",
+    "theme": "Immigration",
+    "measure": "Supprimer le droit du sol : on ne deviendrait français que par filiation ou assimilation vérifiée",
+    "quote": "La nationalité : le droit du sol simple sera supprimé. On ne deviendra français que par filiation ou par assimilation vérifiée ;",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-29",
+    "theme": "Immigration",
+    "measure": "Conditionner les prestations sociales des étrangers à cinq ans de séjour régulier et de travail",
+    "quote": "prestations sociales conditionnées à cinq ans de séjour régulier et de travail ; mariage et aide sociale subordonnés à la régularité du séjour.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-30",
+    "theme": "Immigration",
+    "measure": "Rendre obligatoire l'expulsion de tout étranger condamné pénalement ou menaçant l'ordre public",
+    "quote": "expulsion obligatoire de tout étranger condamné pénalement ou menaçant l’ordre public, sans qu’aucune norme puisse y faire obstacle",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-31",
+    "theme": "Immigration",
+    "measure": "Diviser par deux le regroupement familial dès 2027",
+    "quote": "Dès 2027, à droit constant : regroupement familial divisé par deux",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-32",
+    "theme": "Immigration",
+    "measure": "Réduire l'aide médicale d'État (AME) aux soins essentiels",
+    "quote": "aide médicale d’État réduite aux soins essentiels ; hébergement d’urgence fermé aux personnes sous OQTF",
+    "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-33",
+    "theme": "Sécurité et justice",
+    "measure": "Abaisser la majorité pénale à quinze ans",
+    "quote": "peines minimales obligatoires pour les infractions les plus graves, majorité pénale abaissée à quinze ans",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-34",
+    "theme": "Sécurité et justice",
+    "measure": "Soumettre à référendum une politique pénale incluant peines plancher et réforme de l'excuse de minorité",
+    "quote": "Printemps 2028 – Référendum législatif sur la politique pénale : peines plancher, réforme de l’excuse de minorité, rétention de sûreté élargie, surveillance des individus radicalisés.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-35",
+    "theme": "Sécurité et justice",
+    "measure": "Placer en rétention de sûreté les terroristes en fin de peine",
+    "quote": "rétention de sûreté pour les terroristes en fin de peine, interdiction de la consultation des contenus djihadistes",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-36",
+    "theme": "Institutions et démocratie",
+    "measure": "Permettre un référendum législatif sur tout sujet, y compris sécurité, justice et immigration",
+    "quote": "Les sujets qui préoccupent le plus les Français – la sécurité, la justice, l’immigration – sont précisément ceux que l’article 11 de notre Constitution exclut aujourd’hui du champ référendaire. […] Un référendum législatif pourra être organisé sur tout sujet.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-37",
+    "theme": "Institutions et démocratie",
+    "measure": "Abaisser le seuil du référendum d'initiative partagée à environ 2,5 millions de signatures",
+    "quote": "Nous abaisserons le seuil populaire à un vingtième du corps électoral, soit environ deux millions et demi de citoyens.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-38",
+    "theme": "Institutions et démocratie",
+    "measure": "Permettre au peuple ou au Congrès de passer outre une censure du Conseil constitutionnel (« dernier mot démocratique »)",
+    "quote": "Lorsque le Conseil constitutionnel censurera une loi adoptée par le Parlement, le Président de la République pourra en appeler au peuple, ou au Congrès, pour désavouer cette décision et l’autoriser à promulguer la loi.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-39",
+    "theme": "Europe, international et défense",
+    "measure": "Inscrire dans la Constitution une clause permettant de faire primer la loi française sur l'interprétation des traités",
+    "quote": "lorsqu’une interprétation jurisprudentielle d’un traité international fera obstacle à une loi que les Français ont souhaitée, le peuple, par référendum, ou le Parlement, par une loi organique, pourra proposer de faire primer la loi française sur cette interprétation.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-40",
+    "theme": "Europe, international et défense",
+    "measure": "Interdire l'application du droit européen contraire à la Constitution ou excédant les compétences de l'Union",
+    "quote": "Nous ferons interdiction à toute administration, au Parlement et aux juridictions d’appliquer les règlements européens, les directives européennes et les jurisprudences de la Cour de justice de l’Union européenne dans deux cas. Lorsqu’ils sont contraires à la Constitution et lorsqu’ils sortent du champ de compétences que les traités reconnaissent à l’Union européenne.",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-41",
+    "theme": "Europe, international et défense",
+    "measure": "Multiplier par cinq les moyens consacrés à l'intelligence artificielle de défense",
+    "quote": "Nous multiplierons par cinq les moyens consacrés à l’IA de défense, en concentrant l’effort sur quatre priorités : la cybersécurité, les drones et systèmes autonomes, la robotisation et le calcul quantique.",
+    "source_id": "projet-pr-sidentiel-2027-intelligence-artificielle-livret-6c96e249",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Remplacer progressivement les outils numériques extra-européens dans la police, la justice, la défense et l'administration",
+    "quote": "Dans la police, la justice, la défense, le renseignement et l’administration centrale, la dépendance à des outils extra-européens sera progressivement éliminée.",
+    "source_id": "projet-pr-sidentiel-2027-intelligence-artificielle-livret-6c96e249",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Créer pour chaque Français un assistant administratif numérique, « Marianne »",
+    "quote": "Nous créerons, pour chaque Français, un assistant administratif numérique nous l’appellerons « Marianne ». Elle simplifiera les démarches, réduira les délais et rendra l’État plus accessible.",
+    "source_id": "projet-pr-sidentiel-2027-intelligence-artificielle-livret-6c96e249",
+    "page": 28,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-44",
+    "theme": "Société et libertés",
+    "measure": "Permettre d'étendre aux usagers l'obligation de neutralité du service public",
+    "quote": "Nul ne pourra invoquer son origine ou ses convictions religieuses pour s’exonérer de la règle commune. La neutralité du service public pourra être étendue aux usagers",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "retailleau-45",
+    "theme": "Société et libertés",
+    "measure": "Garantir dans la Constitution la possibilité d'organiser des événements de tradition judéo-chrétienne, comme les crèches de Noël",
+    "quote": "la Constitution sécurisera la possibilité d’organiser des évènements festifs s’inscrivant dans la tradition judéo-chrétienne de la France, comme les crèches de Noël",
+    "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "page": 15,
+    "concrete": true
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "slug": "cazeneuve",
+  "sources": [
+    {
+      "id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+      "label": "« Tenir la promesse de la France » — Lettre de Bernard Cazeneuve aux Françaises et aux Français (texte intégral, 15 juillet 2026)",
+      "publisher": "La Convention (mouvement de Bernard Cazeneuve)",
+      "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+      "final_url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:18:12+00:00",
+      "sha256": "00f95d1a6ddf294a6c4a3955906b4fabdfb6581d0e9b2aa7c0385a89bb0f8529",
+      "raw": "sources/cazeneuve/raw/tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a.pdf",
+      "text": "sources/cazeneuve/text/tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a.txt",
+      "text_chars": 123508
+    },
+    {
+      "id": "tenir-la-promesse-de-la-france-synth-se-de-la-lettre-de-bern-86f66a80",
+      "label": "« Tenir la promesse de la France » — Synthèse de la lettre de Bernard Cazeneuve et de ses mesures (juillet 2026)",
+      "publisher": "La Convention (mouvement de Bernard Cazeneuve)",
+      "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+      "final_url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:18:13+00:00",
+      "sha256": "86f66a80a7b91f5fa5419344c17543ab08092234797c5ccc2b1d8a8317eda5ce",
+      "raw": "sources/cazeneuve/raw/tenir-la-promesse-de-la-france-synth-se-de-la-lettre-de-bern-86f66a80.pdf",
+      "text": "sources/cazeneuve/text/tenir-la-promesse-de-la-france-synth-se-de-la-lettre-de-bern-86f66a80.txt",
+      "text_chars": 37585
+    }
+  ]
+}

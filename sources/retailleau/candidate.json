@@ -1,0 +1,17 @@
+{
+  "slug": "retailleau",
+  "name": "Bruno Retailleau",
+  "party": "Les Républicains",
+  "party_short": "LR",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 12 février 2026 dans un message aux élus LR ; désigné candidat par les adhérents des Républicains (73,8 %) en avril 2026 (Public Sénat, LCP).",
+  "declaration_source": "https://www.publicsenat.fr/actualites/politique/je-suis-pret-bruno-retailleau-se-declare-candidat-a-lelection-presidentielle-2027",
+  "official_sites": [
+    "https://www.avecretailleau.fr/",
+    "https://republicains.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Livrets « Mon projet pour la France » de son site de campagne ; plusieurs thèmes sont encore à venir.",
+  "blocked": [],
+  "notes": "Site de campagne avecretailleau.fr, page « Le projet » (« Mon projet pour la France », 120 mesures annoncées). Chaque thème publié renvoie à un livret PDF « source faisant foi » : 10 livrets archivés (institutions/Manifeste du peuple souverain, éducation, travail, industrie, agriculture, logement, famille, électricité, comptes publics, IA). Ces livrets portent la mention « Nos propositions pour la France » et sont aussi publiés sur republicains.fr/nos-propositions (mêmes contenus, logos LR). Le thème Retraites n'a pas de livret : archivé via la page thème + les 7 pages mesures (14.01 à 14.07), d'où 19 sources au total. FAQ du projet archivée (seule la partie rendue côté serveur, ~4 000 caractères ; la FAQ annonce 60 questions, le reste semble chargé en JS). Les thèmes immigration/sécurité « à venir » sont partiellement couverts par le livret Institutions (référendum, quotas migratoires, droit du sol). Les pages de couverture des PDF contiennent des glyphes illisibles (cid:...) — le corps du texte est propre."
+}

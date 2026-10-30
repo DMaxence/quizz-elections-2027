@@ -1,0 +1,425 @@
+[
+  {
+    "id": "mikolajczak-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Relocaliser la production des secteurs critiques (santé, énergie, électronique)",
+    "quote": "Relocaliser la production des secteurs critiques (santé, énergie, électronique).",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-industrie-701016e0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Conditionner les subventions publiques au respect de critères environnementaux",
+    "quote": "Conditionner les subventions publiques au respect de critères environnementaux",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-industrie-701016e0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-03",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter les salaires des personnels soignants",
+    "quote": "Augmenter les salaires des personnels soignants pour reconnaître leur travail essentiel et attirer davantage de jeunes vers ces professions.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-sant-1bea47fb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-04",
+    "theme": "Santé",
+    "measure": "Mettre en œuvre un plan d'urgence pour l'hôpital, avec une hausse des capacités d'accueil",
+    "quote": "Mettre en œuvre un plan d’urgence pour l’hôpital. Ce plan contiendra notamment les axes suivants : […] Augmentation des capacités d’accueil",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-sant-1bea47fb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-05",
+    "theme": "Santé",
+    "measure": "Déployer des unités de soins mobiles dans les zones rurales",
+    "quote": "Mettre en place des unités de soins mobiles (camions de consultation, cliniques mobiles) qui peuvent se déplacer régulièrement dans les zones rurales pour offrir des consultations médicales, des dépistages et des soins de base.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-sant-1bea47fb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-06",
+    "theme": "Santé",
+    "measure": "Aider au logement et à l'installation des praticiens qui s'installent en zones rurales",
+    "quote": "Fournir un soutien logistique et administratif aux praticiens qui s’installent en zones rurales, incluant l’aide au logement, à l’installation du cabinet et à la gestion administrative.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-sant-1bea47fb",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-07",
+    "theme": "École et jeunesse",
+    "measure": "Consacrer les après-midi de l'école primaire à des enseignements alternatifs (sport, arts, travaux manuels, nature)",
+    "quote": "À l’école primaire, revoir le calendrier scolaire pour consacrer les après-midi à des enseignements alternatifs (activités sportives et artistiques, travaux manuels, sorties nature, etc.)",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-ducation-7056dde6",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-08",
+    "theme": "École et jeunesse",
+    "measure": "Limiter drastiquement le recours au numérique de la maternelle au collège",
+    "quote": "De la maternelle au collège, limiter drastiquement le recours au numérique.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-ducation-7056dde6",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-09",
+    "theme": "École et jeunesse",
+    "measure": "Réduire les effectifs par classe",
+    "quote": "Réduire les effectifs par classe pour renforcer la proximité entre les enseignants et les élèves et rendre l’apprentissage plus efficace pour tous les élèves.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-ducation-7056dde6",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-10",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Instaurer une taxe forfaitaire de 50 € sur chaque décollage d'avion depuis la France",
+    "quote": "Mettre en place une taxe forfaitaire de 50 € pour tous les décollages d’avion depuis la France. Cette mesure permettrait de récolter entre 8 et 9 milliards d’€ par an.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-transport-362f3fcd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-11",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Soutenir la taxation du kérosène aux échelles européenne et mondiale",
+    "quote": "Soutenir la taxation du kérosène à l’échelle européenne ainsi qu’à l’échelle mondiale en remettant en cause la convention de Chicago de 1954.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-transport-362f3fcd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-12",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Prolonger l'exploitation des réacteurs nucléaires existants aussi longtemps que possible, sous réserve de sûreté",
+    "quote": "Prolonger l’exploitation des réacteurs nucléaires français aussi longtemps que possible, sous réserve qu’ils continuent de satisfaire les meilleures normes de sécurité.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-13",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Financer de nouveaux réacteurs nucléaires (EPR, EPR2) et de nouvelles capacités éoliennes et solaires",
+    "quote": "Financer le déploiement à court terme de nouveaux réacteurs nucléaires de troisième génération (EPR, EPR2) ainsi que de nouveaux moyens de production d’électricité renouvelable (éolien et solaire).",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-14",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Lancer un plan national de rénovation des bâtiments anciens pour éliminer les passoires thermiques",
+    "quote": "Lancer un plan national de rénovation des bâtiments anciens, visant à améliorer leur efficacité énergétique et à éliminer les passoires thermiques.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Introduire un score carbone, en priorité sur l'énergie domestique et les transports",
+    "quote": "Pour orienter les choix des Français vers les options les plus écologiques, un score carbone explicite et facile à comprendre doit être introduit. […] Ce score doit cibler en priorité l’énergie domestique (gaz, fioul, électricité) et les transports (carburants, billets d’avion, de train, de bus).",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-missions-personnelles-5eba2be1",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-16",
+    "theme": "Agriculture et alimentation",
+    "measure": "Instaurer un protectionnisme contre les importations ne respectant pas les normes européennes",
+    "quote": "Instaurer un protectionnisme pour lutter contre la concurrence déloyale des importations ne respectant pas nos normes européennes.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-agriculture-2c270f14",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-17",
+    "theme": "Agriculture et alimentation",
+    "measure": "Réviser et refuser les traités de libre-échange qui sacrifient l'agriculture",
+    "quote": "Réviser et refuser les traités de libre-échange qui sacrifient notre agriculture.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-agriculture-2c270f14",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-18",
+    "theme": "Agriculture et alimentation",
+    "measure": "Fixer des prix planchers pour les productions agricoles",
+    "quote": "Définir des prix planchers aux productions agricoles pour assurer aux agriculteurs un revenu décent et augmenter l’attractivité de la profession",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-agriculture-2c270f14",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-19",
+    "theme": "Agriculture et alimentation",
+    "measure": "Renforcer les aides aux productions stratégiques (fruits, légumes, viande ovine, protéines végétales)",
+    "quote": "Relocaliser les filières pour assurer une souveraineté alimentaire en améliorant les aides de soutien aux productions stratégiques, en particulier les fruits, légumes, viande ovine et protéines végétales.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-agriculture-2c270f14",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-20",
+    "theme": "Immigration",
+    "measure": "Traiter les demandes d'asile en amont, dans les ambassades, consulats ou aux frontières extérieures de l'UE",
+    "quote": "Défendre la prise en charge des demandeurs d’asile en amont, dans les ambassades, les réseaux consulaires ou aux frontières extérieures de l’UE, afin de prévenir les traversées dangereuses, les trafics d’êtres humains, et l’immigration économique irrégulière.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-immigration-b4cc1660",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-21",
+    "theme": "Immigration",
+    "measure": "Répartir les migrants sur l'ensemble du territoire pour éviter la formation de ghettos",
+    "quote": "Empêcher la formation de ghettos en répartissant les migrants sur l’ensemble du territoire tout en tenant compte des situations locales.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-immigration-b4cc1660",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-22",
+    "theme": "Immigration",
+    "measure": "Rendre les OQTF plus effectives en ciblant l'éloignement des personnes qui troublent l'ordre public",
+    "quote": "Revoir la politique de délivrance des OQTF pour la rendre plus effective en se concentrant sur l’éloignement des personnes qui troublent l’ordre public",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-immigration-b4cc1660",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-23",
+    "theme": "Immigration",
+    "measure": "Ouvrir des discussions sur un statut international de déplacé environnemental",
+    "quote": "Renforcer la coopération internationale pour mieux gérer et anticiper les flux migratoires, notamment en soutenant des politiques de codéveloppement équitables avec les pays du Sud, et en ouvrant des discussions sur la création d’un statut international de déplacé environnemental",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-immigration-b4cc1660",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "mikolajczak-24",
+    "theme": "Sécurité et justice",
+    "measure": "Recréer une police de proximité",
+    "quote": "Recréer une véritable police de proximité, promouvoir les initiatives de dialogue entre les forces de l’ordre et la population.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-25",
+    "theme": "Sécurité et justice",
+    "measure": "Placer des magistrats indépendants à la tête de l'IGPN et de l'IGGN",
+    "quote": "Intégrer des magistrats indépendants à la tête de l’IGPN et l’IGGN, afin de la rendre plus indépendante, plus efficace et renouer le lien de confiance entre la population et les autorités.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-26",
+    "theme": "Sécurité et justice",
+    "measure": "Former davantage de magistrats dans les juridictions traitant les violences intrafamiliales",
+    "quote": "Augmenter les moyens financiers et humains de la justice pour former plus et en plus grand nombre les magistrats et magistrates au sein des juridictions chargées de traiter les violences intrafamiliales, à l’instar de l’investissement espagnol.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-27",
+    "theme": "Sécurité et justice",
+    "measure": "Développer les structures et peines alternatives à l'incarcération",
+    "quote": "Adapter le parcours carcéral aux particularités de chaque détenu pour sortir des cercles vicieux de la récidive et de la radicalisation, et développer les structures et peines alternatives à l’incarcération.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Adopter le jugement majoritaire comme mode de scrutin",
+    "quote": "Adopter le jugement majoritaire comme mode de scrutin",
+    "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer un référendum d'initiative populaire",
+    "quote": "Instaurer un référendum d’initiative populaire",
+    "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Organiser des conventions citoyennes pour réformer les institutions",
+    "quote": "Organiser des conventions citoyennes sur le modèle de la Convention Citoyenne pour le Climat, afin de réformer notre système démocratique et nos institutions.",
+    "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Donner plus de pouvoirs et de moyens aux territoires et réduire le nombre de normes",
+    "quote": "Plus de pouvoirs et de moyens pour les territoires, simplifier le droit et réduire le nombre de normes, développer la démocratie directe et les conventions citoyennes.",
+    "source_id": "tract-de-campagne-pr-sidentielle-2027-renouer-avec-notre-ave-956477af",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "mikolajczak-32",
+    "theme": "Europe, international et défense",
+    "measure": "Poursuivre l'aide humanitaire, économique et militaire à l'Ukraine",
+    "quote": "Prolonger notre soutien à l’Ukraine via des aides humanitaires, économiques et de matériel militaire en assurant un contrôle démocratique régulier",
+    "source_id": "programme-l-gislatives-2024-international-quinoxe-afd25292",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-33",
+    "theme": "Europe, international et défense",
+    "measure": "Harmoniser les capacités de défense des États de l'UE vers une force opérationnelle européenne unifiée",
+    "quote": "Soutenir une harmonisation des capacités industrielles et de défense des Etats membres de l’Union Européenne pour aller vers une force opérationnelle européenne unifiée",
+    "source_id": "programme-l-gislatives-2024-international-quinoxe-afd25292",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "mikolajczak-34",
+    "theme": "Europe, international et défense",
+    "measure": "Utiliser tous les moyens diplomatiques pour contraindre Israël à un cessez-le-feu à Gaza",
+    "quote": "Utiliser l’ensemble des moyens diplomatiques pour contraindre Israël à un cessez-le-feu à Gaza et aider massivement la population civile",
+    "source_id": "programme-l-gislatives-2024-international-quinoxe-afd25292",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "mikolajczak-35",
+    "theme": "Logement et territoires",
+    "measure": "Investir massivement dans la rénovation et la modernisation du réseau ferré",
+    "quote": "Investir massivement dans le réseau ferré en France pour sa rénovation et sa modernisation.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-transport-362f3fcd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-36",
+    "theme": "Logement et territoires",
+    "measure": "Limiter les nouveaux projets autoroutiers",
+    "quote": "Limiter les nouveaux projets autoroutiers et prendre en compte le trafic induit dans leur étude.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-transport-362f3fcd",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-37",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer la niche fiscale LMNP dans les zones tendues",
+    "quote": "Supprimer la niche fiscale LMNP dans les zones tendues pour limiter le développement du parc AirBNB.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-38",
+    "theme": "Logement et territoires",
+    "measure": "Surtaxer les maisons secondaires pour les remettre sur le marché locatif",
+    "quote": "Surtaxer les maisons secondaires pour pousser à les replacer dans le parc locatif.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-39",
+    "theme": "Logement et territoires",
+    "measure": "Limiter fortement les locations de vacances dans les zones tendues",
+    "quote": "Limiter fortement les locations de vacances dans les zones en tensions locatives (grandes métropoles).",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-40",
+    "theme": "Logement et territoires",
+    "measure": "Accélérer les procédures anti-squat tout en préservant la trêve hivernale",
+    "quote": "Accélérer/faciliter les procédures anti-squat tout en préservant la trêve hivernale.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-41",
+    "theme": "Numérique, médias et culture",
+    "measure": "Imposer aux plateformes numériques de vérifier l'âge des utilisateurs",
+    "quote": "Imposer aux plateformes numériques de vérifier l’âge des utilisateurs pour empêcher les mineurs d’accéder à des contenus inappropriés.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-num-rique-68b19e99",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Réguler les contenus numériques dégradants pour les femmes, en particulier la pornographie en ligne",
+    "quote": "Réguler les contenus numériques pour lutter contre les stéréotypes, représentations dégradantes, et traitements inégaux ou violents des femmes, en particulier les contenus pornographiques en ligne.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-43",
+    "theme": "Numérique, médias et culture",
+    "measure": "Garantir des guichets physiques dans les administrations",
+    "quote": "Assurer la présence de guichets physiques dans les administrations pour permettre aux personnes ne maîtrisant pas les outils numériques d’effectuer leurs démarches en personne.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-num-rique-68b19e99",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-44",
+    "theme": "Numérique, médias et culture",
+    "measure": "Instaurer des gouvernances à but non lucratif pour les médias afin de sortir le journalisme de l'actionnariat",
+    "quote": "Mettre en place des gouvernances à but non lucratif pour les médias afin de sortir le journalisme de l’actionnariat",
+    "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-45",
+    "theme": "Numérique, médias et culture",
+    "measure": "Aller vers une interdiction de la publicité dans les grands médias, remplacée par une cotisation des entreprises",
+    "quote": "Aller vers une interdiction de la publicité dans les grands médias et remplacer cette source de financement par une cotisation sur la valeur ajoutée des entreprises",
+    "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-46",
+    "theme": "Société et libertés",
+    "measure": "Encadrer strictement les financements accordés aux associations religieuses",
+    "quote": "Encadrer strictement les financements accordés aux associations religieuses.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mikolajczak-47",
+    "theme": "Société et libertés",
+    "measure": "Repenser l'urbanisme et la carte scolaire pour assurer la mixité sociale, culturelle et religieuse",
+    "quote": "Repenser l’urbanisme et la carte scolaire pour assurer une véritable diversité sociale, culturelle et religieuse dans tous les territoires et éviter la formation de ghettos.",
+    "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "page": null,
+    "concrete": true
+  }
+]

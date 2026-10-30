@@ -1,0 +1,35 @@
+{
+  "slug": "kazib",
+  "sources": [
+    {
+      "id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+      "label": "Programme présidentielle 2027 d'Anasse Kazib (page « Programme » du site de campagne)",
+      "publisher": "Anasse Kazib 2027 (site de campagne officiel)",
+      "url": "https://anasse2027.fr/programme",
+      "final_url": "https://anasse2027.fr/programme",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:20:08+00:00",
+      "sha256": "a38ca32d0a30a29c43208106112502f865dddd4e36486192b4730bf36881e838",
+      "raw": "sources/kazib/raw/programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d.html",
+      "text": "sources/kazib/text/programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d.txt",
+      "text_chars": 4200
+    },
+    {
+      "id": "d-pliant-programme-anasse-2027-57722b44",
+      "label": "Dépliant programme « Anasse 2027 »",
+      "publisher": "Anasse Kazib 2027 (site de campagne officiel)",
+      "url": "https://anasse2027.fr/programme/depliant-anasse-2027.pdf",
+      "final_url": "https://anasse2027.fr/programme/depliant-anasse-2027.pdf",
+      "year": "2026",
+      "kind": "pdf",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:20:09+00:00",
+      "sha256": "57722b44b7912f163590903a62a95e756073900ae273f738f5e2d729eb0a8c8a",
+      "raw": "sources/kazib/raw/d-pliant-programme-anasse-2027-57722b44.pdf",
+      "text": "sources/kazib/text/d-pliant-programme-anasse-2027-57722b44.txt",
+      "text_chars": 7976
+    }
+  ]
+}

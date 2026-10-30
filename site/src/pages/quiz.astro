@@ -1,0 +1,181 @@
+---
+import Base from "../layouts/Base.astro";
+import questions from "../data/questions.json";
+// Only the questions ship to this page: no names, no quotes, no source links.
+---
+<Base title="Le quiz — Isoloir" current="quiz">
+  <main class="quiz wrap" id="top">
+    <div class="quiz__side">
+      <h1 class="quiz__h" data-rise="0">Le quiz</h1>
+      <p class="small muted">Répondez à chaque proposition pour elle-même. Vous pouvez revenir en arrière, passer une question, ou vous arrêter : vos réponses restent dans ce navigateur.</p>
+      <p class="quiz__pos nums" aria-live="polite"><span data-pos>1</span> sur {questions.length}</p>
+      <div class="quiz__meter" aria-hidden="true"><span data-meter></span></div>
+      <figure class="quiz__photo">
+        <img src="/img/isoloirs-1919.jpg" width="1376" height="932" alt="Isoloirs à rideau dans un bureau de vote parisien, 1919." />
+      </figure>
+    </div>
+
+    <form class="ballot" data-questions={JSON.stringify(questions)} onsubmit="return false">
+      <h2 class="sr-only">Proposition <span data-pos2>1</span></h2>
+      <p class="ballot__text" data-text tabindex="-1">{questions[0]?.text}</p>
+      <p class="ballot__help" data-help>{questions[0]?.help}</p>
+      <p class="ballot__theme small">Thème : <span data-theme>{questions[0]?.theme.toLowerCase()}</span></p>
+
+      <fieldset class="ballot__choices">
+        <legend class="sr-only">Votre avis sur cette proposition</legend>
+        <button type="button" class="btn choice" value="accord">D'accord</button>
+        <button type="button" class="btn choice" value="desaccord">Pas d'accord</button>
+        <button type="button" class="btn btn--quiet choice" value="neutre">Sans avis</button>
+      </fieldset>
+
+      <label class="ballot__imp">
+        <input type="checkbox" data-imp />
+        <span>Important pour moi</span>
+        <span class="small muted">compte double</span>
+      </label>
+
+      <div class="ballot__nav">
+        <button type="button" class="link" data-prev>Question précédente</button>
+        <button type="button" class="link" data-skip>Passer</button>
+      </div>
+    </form>
+
+    <section class="done" data-done hidden aria-labelledby="done-h">
+      <h2 id="done-h" class="head" tabindex="-1">C'est l'heure du dépouillement</h2>
+      <p class="lead">Vous avez donné votre avis sur <span data-count>0</span> propositions. Les noms vont apparaître.</p>
+      <div class="done__actions">
+        <a class="btn" href="/resultats">Voir les résultats</a>
+        <button type="button" class="btn btn--quiet" data-review>Revoir mes réponses</button>
+      </div>
+    </section>
+  </main>
+</Base>
+
+<script>
+  type Answer = { a: "accord" | "desaccord" | "neutre"; imp: boolean };
+  type State = { answers: Record<string, Answer>; at?: number };
+  type Q = { id: string; theme: string; text: string; help?: string };
+  const KEY = "isoloir:v1";
+
+  const form = document.querySelector<HTMLFormElement>(".ballot")!;
+  const qs: Q[] = JSON.parse(form.dataset.questions || "[]");
+  const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
+  const load = (): State => { try { return JSON.parse(localStorage.getItem(KEY) || "") || { answers: {} }; } catch { return { answers: {} }; } };
+  const save = (s: State) => { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} };
+
+  let state = load();
+  state.answers ??= {};
+  const params = new URLSearchParams(location.search);
+  let i = 0;
+  if (params.has("suite") || state.at) {
+    // resume at the first unanswered question
+    const first = qs.findIndex((q) => !state.answers[q.id]);
+    i = first === -1 ? qs.length : first;
+  }
+
+  function render(focus = false) {
+    const done = i >= qs.length;
+    form.hidden = done;
+    $("[data-done]").hidden = !done;
+    $("[data-pos]").textContent = String(Math.min(i + 1, qs.length));
+    $("[data-pos2]").textContent = String(Math.min(i + 1, qs.length));
+    const answered = qs.filter((q) => state.answers[q.id]).length;
+    $("[data-meter]").style.transform = `scaleX(${answered / Math.max(qs.length, 1)})`;
+    if (done) {
+      $("[data-count]").textContent = String(qs.filter((q) => state.answers[q.id] && state.answers[q.id].a !== "neutre").length);
+      if (focus) $<HTMLElement>("#done-h").focus();
+      return;
+    }
+    const q = qs[i];
+    const a = state.answers[q.id];
+    $("[data-theme]").textContent = q.theme.toLowerCase();
+    $("[data-text]").textContent = q.text;
+    const help = $("[data-help]");
+    help.hidden = !q.help;
+    help.textContent = q.help || "";
+    form.querySelectorAll<HTMLButtonElement>(".choice").forEach((b) => b.setAttribute("aria-pressed", String(a?.a === b.value)));
+    $<HTMLInputElement>("[data-imp]").checked = !!a?.imp;
+    $<HTMLButtonElement>("[data-prev]").disabled = i === 0;
+    form.classList.remove("ballot--in");
+    void form.offsetWidth;
+    form.classList.add("ballot--in");
+    if (focus) $<HTMLElement>("[data-text]").focus();
+  }
+
+  function go(to: number) {
+    i = Math.max(0, Math.min(qs.length, to));
+    state.at = i;
+    save(state);
+    render(true);
+    window.scrollTo({ top: 0, behavior: "instant" as ScrollBehavior });
+  }
+
+  form.querySelectorAll<HTMLButtonElement>(".choice").forEach((b) =>
+    b.addEventListener("click", () => {
+      const q = qs[i];
+      state.answers[q.id] = { a: b.value as Answer["a"], imp: $<HTMLInputElement>("[data-imp]").checked };
+      go(i + 1);
+    }));
+  $<HTMLInputElement>("[data-imp]").addEventListener("change", (e) => {
+    const q = qs[i];
+    const cur = state.answers[q.id];
+    if (cur) { cur.imp = (e.target as HTMLInputElement).checked; save(state); }
+  });
+  $("[data-prev]").addEventListener("click", () => go(i - 1));
+  $("[data-skip]").addEventListener("click", () => go(i + 1));
+  $("[data-review]").addEventListener("click", () => go(0));
+  document.addEventListener("keydown", (e) => {
+    if (form.hidden || e.altKey || e.ctrlKey || e.metaKey) return;
+    if ((e.target as HTMLElement).tagName === "INPUT") return;
+    const map: Record<string, string> = { "1": "accord", "2": "desaccord", "3": "neutre" };
+    if (map[e.key]) form.querySelector<HTMLButtonElement>(`.choice[value="${map[e.key]}"]`)?.click();
+  });
+  render();
+</script>
+
+<style>
+  .quiz {
+    display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter);
+    padding-top: clamp(2.5rem, 6vw, 5rem); min-height: 78svh; align-items: start;
+  }
+  .quiz__side { grid-column: 1 / span 4; display: grid; gap: 1.25rem; max-width: 32ch; }
+  .quiz__h { font-size: var(--step-lead); }
+  .quiz__pos { font-size: var(--step-head); line-height: 1; letter-spacing: -0.02em; margin-top: 1.5rem; }
+  .quiz__meter { height: 6px; background: var(--surface); overflow: hidden; }
+  .quiz__photo { margin-top: 2.5rem; }
+  .quiz__photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 30% 50%; filter: grayscale(1) contrast(1.05); }
+  .quiz__meter span { display: block; height: 100%; background: var(--ink); transform-origin: left; transform: scaleX(0); transition: transform 500ms var(--ease-out); }
+
+  .ballot { grid-column: 6 / -1; background: var(--sheet); padding: clamp(1.5rem, 4vw, 3.5rem); min-height: 30rem; display: flex; flex-direction: column; gap: 1.75rem; }
+  .ballot--in .ballot__text, .ballot--in .ballot__help, .ballot--in .ballot__theme { animation: in 520ms var(--ease-out) both; }
+  .ballot--in .ballot__help { animation-delay: 120ms; }
+  .ballot--in .ballot__theme { animation-delay: 0ms; }
+  .ballot--in .ballot__text { animation-delay: 60ms; }
+  @keyframes in { from { opacity: 0; transform: translateY(14px); } }
+  .ballot__theme { color: var(--muted); }
+  .ballot__text { font-size: clamp(1.375rem, 1rem + 1.2vw, 2.125rem); max-width: 34ch; line-height: 1.18; letter-spacing: -0.01em; max-width: 30ch; outline: none; text-wrap: pretty; }
+  .ballot__help { font-size: 1.0625rem; line-height: 1.5; max-width: 56ch; padding-left: 1rem; border-left: 3px solid var(--field); }
+  .ballot__theme { margin-top: -0.75rem; }
+  .ballot__choices { border: 0; padding: 0; margin: auto 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+  .choice[aria-pressed="true"] { outline: 2px solid var(--ink); outline-offset: 3px; }
+  .ballot__imp { display: flex; align-items: center; gap: 0.75rem; cursor: pointer; width: fit-content; }
+  .ballot__imp input { width: 1.25rem; height: 1.25rem; accent-color: var(--ink); margin: 0; }
+  .ballot__nav { display: flex; justify-content: space-between; gap: 1rem; font-size: var(--step-small); color: var(--muted); }
+  .ballot__nav button:disabled { opacity: 0.35; cursor: default; text-decoration: none; }
+
+  .done { grid-column: 6 / -1; display: grid; gap: 1.5rem; padding-top: 1rem; }
+  .done h2 { outline: none; }
+  .done__actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 1rem; }
+
+  @media (max-width: 52em) {
+    .quiz { padding-top: 1.5rem; }
+    .quiz__side, .ballot, .done { grid-column: 1 / -1; }
+    .quiz__side { max-width: none; grid-template-columns: 1fr auto; align-items: end; gap: 0.75rem; }
+    .quiz__side > .small, .quiz__photo { display: none; }
+    .quiz__h { grid-column: 1 / -1; }
+    .quiz__pos { margin-top: 0; font-size: 1.5rem; grid-column: 2; grid-row: 2; }
+    .quiz__meter { grid-column: 1; grid-row: 2; align-self: center; }
+    .ballot { margin-top: 1.25rem; min-height: 0; margin-inline: calc(var(--margin) * -0.5); }
+    .ballot__choices .btn { flex: 1 1 auto; justify-content: center; }
+  }
+</style>

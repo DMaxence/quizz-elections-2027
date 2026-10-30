@@ -1,0 +1,65 @@
+---
+import "@fontsource/eb-garamond/400.css";
+import "@fontsource/eb-garamond/400-italic.css";
+import "@fontsource/eb-garamond/500.css";
+import "../styles/global.css";
+import Footer from "../components/Footer.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+  bar?: boolean;
+  current?: string;
+}
+const {
+  title,
+  description = "Un quiz neutre pour la présidentielle 2027 : répondez à des propositions tirées des programmes officiels, sans savoir qui les porte, puis comparez avec leurs citations exactes.",
+  bar = true,
+  current = "",
+} = Astro.props;
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#f3f3f0" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content="fr_FR" />
+  </head>
+  <body>
+    {bar && (
+      <header class="bar">
+        <a class="bar__mark" href="/">Isoloir</a>
+        <nav class="bar__links" aria-label="Navigation principale">
+          <a href="/#candidats" class="hide-sm">Candidats</a>
+          <a href="/methode" aria-current={current === "methode" ? "page" : undefined}>Méthode</a>
+          <a class="btn" href="/quiz" aria-current={current === "quiz" ? "page" : undefined}>Le quiz</a>
+        </nav>
+      </header>
+    )}
+    <slot />
+    <Footer />
+    <script>
+      // Staggered entrance for anything marked [data-rise]; content stays visible if this never runs.
+      const els = document.querySelectorAll<HTMLElement>("[data-rise]");
+      if ("IntersectionObserver" in window && !matchMedia("(prefers-reduced-motion: reduce)").matches) {
+        els.forEach((el) => el.classList.add("will-rise"));
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) {
+            if (!e.isIntersecting) continue;
+            const el = e.target as HTMLElement;
+            const delay = Number(el.dataset.rise || 0) * 80;
+            setTimeout(() => el.classList.add("risen"), delay);
+            io.unobserve(el);
+          }
+        }, { rootMargin: "0px 0px -8% 0px" });
+        els.forEach((el) => io.observe(el));
+      }
+    </script>
+  </body>
+</html>

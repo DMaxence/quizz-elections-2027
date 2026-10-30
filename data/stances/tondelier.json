@@ -1,0 +1,304 @@
+{
+  "slug": "tondelier",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 161
+        }
+      ],
+      "note": "RIC propositionnel ou abrogatif, avec contrôle de constitutionnalité préalable."
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 116
+        }
+      ],
+      "note": "Retour immédiat à 62 ans, objectif de 60 ans."
+    },
+    "q03": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir l’accès à l’Aide Médicale d’État (AME).",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 112
+        }
+      ]
+    },
+    "q04": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 17
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 66
+        },
+        {
+          "quote": "Rétablir l’Impôt sur la Fortune (ISF) en lui ajoutant une composante climatique",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 66
+        }
+      ],
+      "note": "Taxe Zucman et rétablissement de l'ISF."
+    },
+    "q06": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Soutenir militairement l’Ukraine. Fournir du matériel militaire, y compris de capacités de frappe à longue portée et des moyens de défense antiaérienne pour protéger le ciel ukrainien.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 197
+        }
+      ]
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 20
+        }
+      ]
+    },
+    "q08": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Rendre effectif le droit au regroupement familial par une révision des conditions d’octroi des titres de séjour",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 178
+        }
+      ]
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 93
+        }
+      ],
+      "note": "Remplacement par une autre plateforme d'orientation."
+    },
+    "q11": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Refuser toute forme d’évolution vers une retraite par capitalisation en particulier la retraite à points.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 117
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Renationaliser progressivement les autoroutes afin d’investir dans les infrastructures de transport",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 25
+        }
+      ],
+      "note": "Renationalisation progressive des autoroutes."
+    },
+    "q13": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Porter l’âge de la responsabilité pénale à 14 ans, sans dérogation possible et en préservant l’excuse de minorité",
+          "source_id": "livret-th-matique-pr-sidentielle-2027-enfance-les-cologistes-96e566cc",
+          "page": 19
+        }
+      ],
+      "note": "Fixe un âge minimal de responsabilité pénale à 14 ans et maintient l'excuse de minorité."
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Soutenir fiscalement et réglementairement ces entreprises de la fabrication des composants à la maintenance dans les secteurs stratégiques des parcs éoliens offshore et terrestre",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 17
+        }
+      ],
+      "note": "Exclut toutefois les parcs éoliens de certaines zones naturelles protégées."
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Régulariser les travailleur·ses, les étudiant·es et les parents d’enfants scolarisés sur la base de critères objectifs",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 178
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 162
+        }
+      ],
+      "note": "Proportionnelle intégrale, circonscriptions régionales."
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Ne pas ratifier les accords européens en attente qui affectent le climat et la biodiversité notamment les traités avec le Canada (CETA) le Vietnam, Singapour, le Chili, le Mexique, le Mercosur, l’Indonésie et le Japon.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 64
+        }
+      ]
+    },
+    "q18": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Défendre un collège unique",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 91
+        },
+        {
+          "quote": "Abroger le « choc des savoirs » (groupes de niveaux en sixième et cinquième).",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 92
+        }
+      ]
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réguler l’installation des médecins libéraux par une autorisation d’installation des médecins délivrée par l’Agence Régionale de Santé",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 151
+        }
+      ]
+    },
+    "q22": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Revaloriser les APL de 10 % avec un mécanisme empêchant la répercussion sur les montants des loyers. Abroger la discrimination imposée aux étudiant·es extracommunautaires.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 119
+        }
+      ],
+      "note": "Propose d'abroger la restriction des aides au logement visant les étudiants extracommunautaires."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Développer les moyens de l’artillerie, de la cavalerie blindée, du génie et l’équipement en drones.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 193
+        },
+        {
+          "quote": "Si l’objectif d’un accroissement significatif des ressources dédiés à l’effort de défense est souhaitable, il ne peut se faire au détriment de la transition écologique et de la protection sociale.",
+          "source_id": "carnet-de-doctrine-international-l-europe-comme-puissance-co-cb05e1c8",
+          "page": 13
+        }
+      ],
+      "note": "Plus de moyens et d'équipements, sans objectif chiffré ; hausse jugée souhaitable sous condition."
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Planifier une sortie progressive des pesticides de synthèse et des engrais azotés à l’horizon 2050.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 29
+        }
+      ],
+      "note": "Sortie des pesticides de synthèse d'ici 2050 ; le glyphosate n'est pas interdit nommément."
+    },
+    "q25": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Renforcer les sanctions financières et préfectorales en cas de manquement à l’obligation d’atteindre 20 ou 25 % de logements sociaux dans les communes",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 20
+        }
+      ],
+      "note": "Propose aussi un objectif de 30 % dans les communes les plus tendues."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Convoquer un processus constituant transparent, participatif, pluraliste et indépendant pour abolir la monarchie présidentielle et préparer le passage à une Première République écologique et citoyenne",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 159
+        }
+      ],
+      "note": "Processus constituant ; propose aussi de démocratiser la Ve République dans l'intervalle."
+    },
+    "q27": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Établir un nouveau Plan National Santé Environnement avec des moyens réels pour les Agences Régionales de Santé.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 112
+        }
+      ],
+      "note": "Maintient les ARS et leur confie l'autorisation d'installation des médecins."
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Intégrer les établissements privés dans un service public de l’éducation. Réviser la loi Debré de 1959 pour diminuer la part de financement public à 50 % en contrepartie des frais de scolarité et la conditionner à des obligations de mixité sociale.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 92
+        }
+      ]
+    },
+    "q30": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger les réformes régressives adoptées lors des deux derniers quinquennats notamment celle sur le calcul de l’Allocation de Retour à l’Emploi.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 58
+        }
+      ]
+    },
+    "q31": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "La laïcité impose la neutralité au service public et à ses agent·es, pas à ses usagers ni aux habitant·es.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 172
+        }
+      ]
+    }
+  }
+}

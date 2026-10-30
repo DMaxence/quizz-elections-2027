@@ -1,0 +1,155 @@
+[
+  {
+    "id": "zemmour-01",
+    "theme": "Immigration",
+    "measure": "Expulser les étrangers en situation irrégulière, les délinquants étrangers et les étrangers chômeurs de longue durée",
+    "quote": "Expulser les étrangers en situation irrégulière, les délinquants étrangers et les étrangers chômeurs de longue durée.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-02",
+    "theme": "Immigration",
+    "measure": "Arrêter l'immigration",
+    "quote": "Arrêter l’immigration pour que la France retrouve la maîtrise de ses frontières, sa sécurité et sa souveraineté.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-03",
+    "theme": "Protection sociale et famille",
+    "measure": "Réserver aux Français les aides sociales non contributives, les allocations familiales et le logement social",
+    "quote": "Réserver les aides sociales non-contributives, les allocations familiales et le logement social aux Français.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-04",
+    "theme": "Santé",
+    "measure": "Supprimer l'aide médicale d'État (AME)",
+    "quote": "Supprimer l’AME qui soigne les clandestins avec votre argent.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-05",
+    "theme": "Santé",
+    "measure": "Concentrer les moyens pour assurer un accès aux soins partout en France face à la désertification médicale",
+    "quote": "Face à la désertification médicale et pharmaceutique, concentrer les moyens pour assurer un accès au soin partout en France.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "zemmour-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser les impôts et alléger les charges des entreprises",
+    "quote": "Baisser les impôts et alléger les charges des entreprises pour rapprocher le salaire net du salaire brut.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "zemmour-07",
+    "theme": "Numérique, médias et culture",
+    "measure": "Privatiser l'audiovisuel public",
+    "quote": "Privatiser l’audiovisuel public : vous n’avez pas à financer la propagande contre vous.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-08",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Baisser d'un tiers l'accise sur les carburants",
+    "quote": "Baisser d’un tiers l’accise sur les carburants",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Supprimer la CSG sur les revenus du travail",
+    "quote": "supprimer la CSG sur les revenus du travail […] Rendre aux Français le fruit de leur travail",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-10",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer les droits de succession",
+    "quote": "supprimer les droits de succession. Rendre aux Français le fruit de leur travail et faciliter la transmission des entreprises familiales.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-11",
+    "theme": "École et jeunesse",
+    "measure": "Rendre leur autorité aux professeurs et recentrer l'école sur les savoirs fondamentaux",
+    "quote": "Rendre leur autorité aux professeurs et replacer les savoirs fondamentaux au cœur de l’école. Rétablir l’exigence, le mérite et la transmission de notre histoire et de notre culture.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "zemmour-12",
+    "theme": "École et jeunesse",
+    "measure": "Garantir la sécurité dans les classes, les cours et aux abords des établissements",
+    "quote": "Garantir la sécurité dans les classes, dans la cour comme à proximité des établissements, pour les élèves et les enseignants.",
+    "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "zemmour-13",
+    "theme": "Europe, international et défense",
+    "measure": "Supprimer l'aide publique au développement",
+    "quote": "Supprimer l’aide publique au développement 15 milliards €",
+    "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-14",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Supprimer tous les soutiens publics aux énergies renouvelables",
+    "quote": "Supprimer tous les soutiens publics aux énergies renouvelables 8 milliards €",
+    "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-15",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer le soutien public à la « politique de la Ville »",
+    "quote": "Supprimer le soutien public à la « politique de la Ville » 8 milliards €",
+    "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-16",
+    "theme": "Institutions et démocratie",
+    "measure": "Supprimer les ARS, l'Ademe, l'ANAH, le CESE, l'Arcom et France Travail",
+    "quote": "Supprimer les ARS, l’Ademe, l’ANAH, le CESE, l’Arcom et France Travail 8 à 12 milliards €",
+    "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "zemmour-17",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer les subventions aux syndicats, à la presse et aux « associations politisées »",
+    "quote": "Supprimer les subventions aux syndicats, à la presse, aux associations politisées, etc. 16 milliards €",
+    "source_id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "page": 2,
+    "concrete": true
+  }
+]

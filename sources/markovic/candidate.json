@@ -1,0 +1,17 @@
+{
+  "slug": "markovic",
+  "name": "Mira Markovic",
+  "party": "Parti animaliste",
+  "party_short": "PA",
+  "declared": true,
+  "declaration_note": "Désignée candidate du Parti animaliste à la présidentielle 2027, annoncée le vendredi 2 octobre 2026 (communiqué officiel du parti) ; toujours en campagne pour les parrainages au 30 octobre 2026.",
+  "declaration_source": "https://parti-animaliste.fr/news/communique-de-presse/mira-markovic-representera-le-parti-animaliste-a-la-presidentielle",
+  "official_sites": [
+    "https://parti-animaliste.fr/",
+    "https://parti-animaliste.fr/mira-markovic-2027"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Pas de programme 2027 à ce jour : programmes national et européen (2024) du Parti animaliste.",
+  "blocked": [],
+  "notes": "Parti monothématique (cause animale). La page /mira-markovic-2027 n'est qu'un appel aux parrainages (pas de contenu programmatique). Le communiqué de désignation cite quelques mesures phares (ministère de la Condition animale, sortie de l'élevage intensif, fin de la chasse et de la corrida, animaux dans les plans ORSEC) mais n'a pas été archivé (communiqué ponctuel). Le programme national (page /programme-legislatives) renvoie au PDF programme-national-2022.pdf (40 Mo, non archivé : même contenu que la page) ; l'année 2022 indiquée pour cette source est celle du PDF, la page est toujours en ligne comme programme national actuel. Elle se présente aussi sous le nom Douchka Markovic (élue, compte X @douchkamarkovic)."
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "cazeneuve",
+  "stances": {
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Elle suppose d’assumer l’atout que représente pour la Nation la filière électronucléaire. Il serait irresponsable de s’en passer. Le renouvellement du parc impliquera une planification",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 40
+        }
+      ],
+      "note": "Propose un renouvellement planifié du parc nucléaire, sans chiffrer de nouveaux réacteurs."
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Une fiscalité qui atteint réellement les très grandes fortunes, les plus hauts revenus du capital, les rentes financières qui s’accumulent sans contribuer au financement de l’innovation et à l’investissement productif relève de l’équité et non de la démagogie.",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 35
+        }
+      ],
+      "note": "Ne précise pas l’instrument (pas de rétablissement de l’ISF nommément)."
+    },
+    "q10": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Demeurer dans l’OTAN, sans rien y abdiquer, et contribuer à l’Europe de la défense sans prétendre s’y substituer.",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 52
+        }
+      ]
+    },
+    "q11": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Les retraites doivent être consolidées dans le cadre d’un système par répartition que nul ne saurait remettre en cause, car lui seul assure la justice",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 23
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Introduire une dose de proportionnelle dans le mode de scrutin législatif y contribuerait utilement.",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 30
+        }
+      ],
+      "note": "Une dose de proportionnelle, pas la proportionnelle intégrale."
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Cela suppose de réarmer, à proportion de la menace. De consolider notre industrie de défense et de planifier nos coopérations européennes, en privilégiant les productions nationales et continentales. Et de donner enfin à nos forces les moyens qui leur manquent.",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 52
+        }
+      ],
+      "note": "Sans objectif chiffré."
+    },
+    "q26": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Faut-il pour autant précipiter un changement de régime, alors que la Nation, dans son histoire, a si souvent souffert du grand fracas institutionnel ? Mieux vaut, par la loi comme par la pratique, rendre au Président son rôle de garant du pacte républicain",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 30
+        }
+      ],
+      "note": "Propose des réformes dans le cadre actuel (septennat, rôle du Premier ministre)."
+    }
+  }
+}

@@ -1,0 +1,258 @@
+[
+  {
+    "id": "q01",
+    "theme": "Institutions et démocratie",
+    "text": "Créer un référendum d'initiative citoyenne (RIC), permettant aux citoyens de déclencher eux-mêmes un référendum.",
+    "short": "Référendum d'initiative citoyenne (RIC)",
+    "scope": "pour = RIC sous toutes ses formes (législatif, constituant, révocatoire), quel que soit le seuil de signatures. Un simple abaissement du seuil du référendum d'initiative partagée (RIP) n'est pas un RIC : non mentionné, sauf si le texte parle d'initiative citoyenne.",
+    "help": "Un référendum est aujourd'hui lancé par le président de la République, ou par des parlementaires soutenus par une partie des électeurs. Le RIC permettrait à un nombre fixé de citoyens de provoquer eux-mêmes un vote, sur une loi ou sur la Constitution selon les versions."
+  },
+  {
+    "id": "q02",
+    "theme": "Travail, salaires et retraites",
+    "text": "Abaisser l'âge légal de départ à la retraite pour tous.",
+    "short": "Abaisser l'âge légal de la retraite",
+    "scope": "pour = ramener l'âge légal général plus bas (ex. abroger le report à 64 ans, retraite à 60 ou 62 ans pour tous). Une retraite anticipée réservée aux carrières longues ou métiers pénibles ne suffit pas (non mentionné). contre = maintenir l'âge actuel ou le relever (63, 65 ans…).",
+    "help": "L'âge légal est l'âge minimum à partir duquel on peut toucher sa retraite. La question porte sur une baisse pour tout le monde, pas seulement pour les carrières longues ou les métiers pénibles."
+  },
+  {
+    "id": "q03",
+    "theme": "Immigration",
+    "text": "Supprimer l'aide médicale d'État (AME) ou la limiter aux soins urgents.",
+    "short": "Supprimer ou réduire l'AME",
+    "scope": "pour = supprimer l'AME, la remplacer par une aide d'urgence ou la réduire aux soins essentiels/urgents. contre = maintenir ou garantir l'accès à l'AME.",
+    "help": "L'aide médicale d'État (AME) prend en charge les soins des étrangers en situation irrégulière qui ont de faibles ressources. « D'accord » : la supprimer, ou la réduire aux soins urgents ou essentiels."
+  },
+  {
+    "id": "q04",
+    "theme": "Écologie, climat et énergie",
+    "text": "Construire de nouveaux réacteurs nucléaires en France.",
+    "short": "Construire de nouveaux réacteurs",
+    "scope": "pour = construire des EPR/EPR2/SMR ou de nouveaux réacteurs. contre = sortir du nucléaire, abandonner les EPR. Prolonger seulement les réacteurs existants sans parler de nouveaux = non mentionné.",
+    "help": "Il s'agit de construire de nouveaux réacteurs (EPR ou petits réacteurs modulaires), et non seulement de prolonger les centrales existantes."
+  },
+  {
+    "id": "q05",
+    "theme": "Économie, fiscalité et dette",
+    "text": "Rétablir un impôt sur la fortune ou taxer davantage les très grands patrimoines.",
+    "short": "Impôt sur les grandes fortunes",
+    "scope": "pour = ISF, taxe Zucman, impôt sur la fortune financière, effort fiscal ciblé sur les très hauts patrimoines. contre = refuser explicitement tout nouvel impôt sur le patrimoine ou annoncer qu'aucun impôt nouveau ne sera créé.",
+    "help": "Il s'agit d'imposer chaque année le patrimoine des plus fortunés : rétablir un impôt sur la fortune (l'ISF, remplacé en 2018 par un impôt sur la seule fortune immobilière) ou créer une taxe sur les très grands patrimoines."
+  },
+  {
+    "id": "q06",
+    "theme": "Europe, international et défense",
+    "text": "Continuer à fournir une aide militaire à l'Ukraine.",
+    "short": "Aide militaire à l'Ukraine",
+    "scope": "pour = poursuivre ou augmenter l'aide militaire / les livraisons d'armes à l'Ukraine. contre = arrêter les livraisons d'armes ou les aides à l'Ukraine. Refuser seulement certaines armes offensives ou l'envoi de troupes = indiquer « contre » uniquement si le texte s'oppose à l'aide militaire elle-même ; sinon non mentionné avec une note.",
+    "help": "L'aide militaire désigne les livraisons d'armes, de munitions et d'équipements à l'Ukraine, envahie par la Russie en 2022."
+  },
+  {
+    "id": "q07",
+    "theme": "Logement et territoires",
+    "text": "Encadrer les loyers, au moins dans les villes où le logement manque.",
+    "short": "Encadrer les loyers",
+    "scope": "pour = encadrement, plafonnement ou gel des loyers (zones tendues ou partout). contre = supprimer l'encadrement des loyers.",
+    "help": "Encadrer les loyers, c'est fixer un plafond que le propriétaire ne peut pas dépasser quand il loue, calculé à partir de loyers de référence."
+  },
+  {
+    "id": "q08",
+    "theme": "Immigration",
+    "text": "Réduire fortement ou suspendre le regroupement familial des étrangers.",
+    "short": "Restreindre le regroupement familial",
+    "scope": "pour = diviser, limiter, durcir, suspendre ou soumettre à référendum avec l'objectif de le restreindre. contre = défendre ou élargir le regroupement familial, ou liberté d'installation pour tous.",
+    "help": "Le regroupement familial permet à un étranger qui réside légalement en France de faire venir son conjoint et ses enfants mineurs, sous conditions de ressources et de logement."
+  },
+  {
+    "id": "q09",
+    "theme": "École et jeunesse",
+    "text": "Supprimer Parcoursup, la plateforme d'admission dans l'enseignement supérieur.",
+    "short": "Supprimer Parcoursup",
+    "scope": "pour = abroger, supprimer ou remplacer Parcoursup. « Repenser » sans le supprimer = non mentionné.",
+    "help": "Parcoursup est la plateforme nationale où les lycéens formulent leurs vœux d'études supérieures et reçoivent les réponses des formations. « D'accord » : la supprimer ou la remplacer, pas seulement la modifier."
+  },
+  {
+    "id": "q10",
+    "theme": "Europe, international et défense",
+    "text": "Faire sortir la France de l'OTAN, ou au moins de son commandement militaire intégré.",
+    "short": "Sortir de l'OTAN",
+    "scope": "pour = quitter l'OTAN ou son commandement intégré. Organiser seulement un référendum sur la question = non mentionné avec une note. contre = rester dans l'OTAN.",
+    "help": "L'OTAN est l'alliance militaire qui unit notamment les États-Unis, le Canada et la plupart des pays européens. Son commandement intégré est sa structure militaire commune, que la France a quittée en 1966 et rejointe en 2009."
+  },
+  {
+    "id": "q11",
+    "theme": "Travail, salaires et retraites",
+    "text": "Développer une retraite par capitalisation en complément de la répartition, pour tous les salariés.",
+    "short": "Retraite par capitalisation",
+    "scope": "pour = compte ou épargne retraite par capitalisation généralisé, fonds de capitalisation publique pour chacun. contre = défendre la retraite uniquement par répartition, refuser la capitalisation.",
+    "help": "Les retraites françaises reposent surtout sur la répartition : les cotisations des actifs paient les pensions des retraités. La capitalisation consiste à épargner pour sa propre retraite dans un fonds placé sur les marchés financiers."
+  },
+  {
+    "id": "q12",
+    "theme": "Économie, fiscalité et dette",
+    "text": "Nationaliser ou renationaliser des entreprises de secteurs stratégiques (énergie, autoroutes, eau, banques…).",
+    "short": "Nationaliser des secteurs stratégiques",
+    "scope": "pour = nationaliser, renationaliser, exproprier, reprendre en public des entreprises ou concessions (autoroutes, EDF, eau, banques…). contre = privatiser des entreprises publiques ou refuser les nationalisations. Une seule régie locale (eau) suffit pour « pour » si c'est une reprise publique.",
+    "help": "Nationaliser, c'est faire passer une entreprise, ou une activité confiée au privé comme les autoroutes, sous le contrôle de l'État."
+  },
+  {
+    "id": "q13",
+    "theme": "Sécurité et justice",
+    "text": "Abaisser l'âge de la majorité pénale, par exemple à 16 ans.",
+    "short": "Abaisser la majorité pénale",
+    "scope": "pour = abaisser la majorité pénale (16, 15 ans…) ou supprimer l'excuse de minorité de façon générale. contre = maintenir l'excuse de minorité / s'opposer à l'abaissement.",
+    "help": "La majorité pénale est fixée à 18 ans. Avant cet âge, les mineurs relèvent d'une justice spécifique et bénéficient en principe de peines atténuées (« l'excuse de minorité »)."
+  },
+  {
+    "id": "q14",
+    "theme": "Écologie, climat et énergie",
+    "text": "Continuer à développer l'énergie éolienne.",
+    "short": "Développer l'éolien",
+    "scope": "pour = développer / financer l'éolien (terrestre ou en mer) ou les renouvelables en citant l'éolien. contre = moratoire, démantèlement, fin des appels d'offres ou des aides à l'éolien, suppression des soutiens aux renouvelables.",
+    "help": "La question porte sur la poursuite de l'installation d'éoliennes, sur terre ou en mer. « Pas d'accord » correspond à un moratoire, à leur démantèlement ou à la fin des aides publiques à l'éolien."
+  },
+  {
+    "id": "q15",
+    "theme": "Immigration",
+    "text": "Régulariser les travailleurs étrangers sans papiers.",
+    "short": "Régulariser les sans-papiers",
+    "scope": "pour = régulariser (tous, les travailleurs, ou selon critères), faciliter la régularisation. contre = expulser les étrangers en situation irrégulière, rétablir le délit de séjour irrégulier, refuser les régularisations.",
+    "help": "Régulariser, c'est délivrer un titre de séjour à des étrangers qui vivent en France sans autorisation, par exemple parce qu'ils y travaillent."
+  },
+  {
+    "id": "q16",
+    "theme": "Institutions et démocratie",
+    "text": "Élire les députés à la proportionnelle.",
+    "short": "Proportionnelle aux législatives",
+    "scope": "pour = proportionnelle intégrale ou une dose de proportionnelle (préciser dans la note). contre = maintenir le scrutin majoritaire.",
+    "help": "Aux législatives, chaque circonscription élit un député au scrutin majoritaire à deux tours. À la proportionnelle, les sièges sont répartis selon le pourcentage de voix obtenu par chaque liste. Une « dose » de proportionnelle compte comme « d'accord »."
+  },
+  {
+    "id": "q17",
+    "theme": "Agriculture et alimentation",
+    "text": "Refuser les accords de libre-échange, dont l'accord entre l'Union européenne et le Mercosur.",
+    "short": "Refuser les accords de libre-échange",
+    "scope": "pour = s'opposer au Mercosur, refuser/dénoncer/mettre fin aux accords de libre-échange, veto. contre = soutenir ces accords. Des seules « clauses miroirs » ou mesures de sauvegarde sans refus = non mentionné.",
+    "help": "Les accords de libre-échange réduisent les droits de douane entre l'Union européenne et d'autres pays. Celui avec le Mercosur concerne plusieurs pays d'Amérique du Sud (Brésil, Argentine, Uruguay, Paraguay) et porte notamment sur des produits agricoles."
+  },
+  {
+    "id": "q18",
+    "theme": "École et jeunesse",
+    "text": "Mettre fin au collège unique, avec des groupes de niveau, un examen d'entrée ou une orientation plus précoce.",
+    "short": "Fin du collège unique",
+    "scope": "pour = fin du collège unique, examen ou certificat conditionnant l'entrée au collège, groupes de niveau, parcours différenciés/apprentissage dès 14 ans, brevet d'orientation. contre = défendre le collège unique ou refuser les groupes de niveau.",
+    "help": "Le collège unique accueille tous les élèves dans le même parcours, de la 6e à la 3e. Y mettre fin peut passer par des groupes de niveau, un examen d'entrée ou une orientation plus précoce, dès 14 ans."
+  },
+  {
+    "id": "q19",
+    "theme": "Écologie, climat et énergie",
+    "text": "Sortir du marché européen de l'électricité pour fixer un prix national.",
+    "short": "Prix national de l'électricité",
+    "scope": "pour = sortir du marché européen de l'électricité, fixer un prix ou tarif national fondé sur les coûts de production français. contre = rester dans le marché européen de l'électricité.",
+    "help": "Le prix de gros de l'électricité est aujourd'hui fixé en partie sur un marché européen interconnecté. La proposition consiste à en sortir pour fixer un prix national, calculé sur les coûts de production en France."
+  },
+  {
+    "id": "q20",
+    "theme": "Europe, international et défense",
+    "text": "Faire sortir la France de l'Union européenne.",
+    "short": "Sortir de l'Union européenne",
+    "scope": "pour = Frexit. Seulement organiser un référendum sur l'appartenance = non mentionné avec une note. contre = rejeter explicitement la sortie de l'UE.",
+    "help": "Sortir de l'Union européenne (le « Frexit ») mettrait fin à l'application en France des traités et du droit européens, et à la participation aux institutions de l'Union. Proposer seulement un référendum sur la question n'est pas compté."
+  },
+  {
+    "id": "q21",
+    "theme": "Santé",
+    "text": "Obliger les médecins à s'installer là où l'offre de soins manque, en régulant leur liberté d'installation.",
+    "short": "Réguler l'installation des médecins",
+    "scope": "pour = réguler / conditionner / obliger l'installation, obligations d'exercice en zone sous-dotée. Des incitations seulement (bourses, majorations, aides) = non mentionné. contre = défendre la liberté d'installation.",
+    "help": "Il s'agit de limiter les installations de médecins là où ils sont déjà nombreux, ou de les obliger à exercer là où ils manquent. Les seules aides ou primes à l'installation ne sont pas comptées ici."
+  },
+  {
+    "id": "q22",
+    "theme": "Protection sociale et famille",
+    "text": "Réserver certaines aides sociales aux Français, ou les conditionner pour les étrangers à plusieurs années de résidence.",
+    "short": "Aides sociales conditionnées à la nationalité",
+    "scope": "pour = préférence/priorité nationale dans les aides, allocations ou logement social ; conditionner les prestations non contributives des étrangers à X années de séjour. contre = refuser la préférence nationale ou ces conditions.",
+    "help": "Les aides sociales non contributives sont versées sans avoir cotisé (RSA, allocations familiales, aides au logement…). La proposition : les réserver aux Français, ou exiger des étrangers plusieurs années de résidence ou de travail avant d'y avoir droit."
+  },
+  {
+    "id": "q23",
+    "theme": "Europe, international et défense",
+    "text": "Augmenter fortement le budget de la défense.",
+    "short": "Augmenter le budget de la défense",
+    "scope": "pour = hausse du budget militaire, réarmement, objectif chiffré (3 % du PIB…), plus d'effectifs ou d'équipements. contre = réduire le budget militaire, transférer des crédits de la défense ailleurs, « pas un euro pour la guerre ».",
+    "help": "Il s'agit d'augmenter nettement les dépenses militaires : équipements, munitions, effectifs, ou un objectif chiffré de budget."
+  },
+  {
+    "id": "q24",
+    "theme": "Agriculture et alimentation",
+    "text": "Interdire le glyphosate.",
+    "short": "Interdire le glyphosate",
+    "scope": "pour = interdire le glyphosate nommément, ou tous les pesticides de synthèse à une échéance précise. contre = autoriser / maintenir le glyphosate. Des zones sans pesticides autour des habitations seulement = non mentionné.",
+    "help": "Le glyphosate est un herbicide très utilisé en agriculture. « D'accord » : l'interdire, ou fixer une date de sortie de tous les pesticides de synthèse."
+  },
+  {
+    "id": "q25",
+    "theme": "Logement et territoires",
+    "text": "Supprimer l'obligation pour les communes d'avoir 20 à 25 % de logements sociaux (loi SRU).",
+    "short": "Supprimer les quotas de logements sociaux",
+    "scope": "pour = supprimer l'article 55 / les quotas SRU. contre = maintenir, relever ou durcir les quotas SRU.",
+    "help": "La loi SRU impose à la plupart des communes urbaines d'atteindre 20 % ou 25 % de logements sociaux, sous peine de pénalités financières."
+  },
+  {
+    "id": "q26",
+    "theme": "Institutions et démocratie",
+    "text": "Changer de Constitution, par une assemblée constituante, pour passer à une nouvelle République.",
+    "short": "Nouvelle Constitution par une constituante",
+    "scope": "pour = assemblée constituante, 6e République, fin de la Ve République, nouvelle constitution écrite par une assemblée (élue ou tirée au sort). contre = uniquement si le texte défend explicitement la Ve République ou rejette une constituante / une nouvelle République. Proposer des révisions de la Constitution actuelle (RIC, septennat…) ne suffit PAS pour « contre » : non mentionné.",
+    "help": "La Constitution actuelle date de 1958 (la Ve République). Une assemblée constituante, élue ou tirée au sort, serait chargée d'en écrire une nouvelle, généralement soumise ensuite à référendum. Réviser la Constitution actuelle ne compte pas ici."
+  },
+  {
+    "id": "q27",
+    "theme": "Santé",
+    "text": "Supprimer les agences régionales de santé (ARS).",
+    "short": "Supprimer les ARS",
+    "scope": "pour = supprimer les ARS (même avec transfert de leurs missions). contre = les maintenir ou les renforcer explicitement.",
+    "help": "Les agences régionales de santé (ARS), créées en 2010, organisent l'offre de soins et pilotent les hôpitaux dans chaque région pour le compte de l'État."
+  },
+  {
+    "id": "q28",
+    "theme": "Économie, fiscalité et dette",
+    "text": "Faire baisser par décision de l'État le prix des carburants (blocage des prix ou baisse des taxes).",
+    "short": "Baisser le prix des carburants",
+    "scope": "pour = blocage du prix, baisse de la TVA ou de l'accise sur les carburants, taxe flottante stabilisant le prix à la baisse. contre = augmenter la fiscalité des carburants (taxe carbone, TVA verte sur les carburants).",
+    "help": "Les taxes (accise sur l'énergie et TVA) représentent une large part du prix à la pompe. La proposition : faire baisser ce prix par une décision publique, en le bloquant ou en réduisant ces taxes."
+  },
+  {
+    "id": "q29",
+    "theme": "École et jeunesse",
+    "text": "Faire entrer les écoles privées sous contrat dans la carte scolaire, ou moduler leurs financements selon leur mixité sociale.",
+    "short": "Écoles privées et mixité sociale",
+    "scope": "pour = intégrer le privé sous contrat à la carte scolaire, moduler les dotations selon la mixité, absorber le privé dans le public. contre = chèque-éducation, liberté de choix de l'école, suppression de la carte scolaire.",
+    "help": "Les écoles privées sous contrat sont largement financées par l'État, qui paie leurs enseignants, mais elles choisissent leurs élèves en dehors de la carte scolaire, qui affecte les élèves du public selon leur domicile."
+  },
+  {
+    "id": "q30",
+    "theme": "Travail, salaires et retraites",
+    "text": "Réduire la durée d'indemnisation du chômage, ou la supprimer après des refus d'offres d'emploi.",
+    "short": "Durcir l'assurance chômage",
+    "scope": "pour = réduire la durée ou le montant, dégressivité, suppression après refus d'offres. contre = abroger les réformes récentes de l'assurance chômage, rétablir des droits.",
+    "help": "L'assurance chômage verse une allocation aux personnes qui ont perdu leur emploi, pendant une durée liée à leur temps de travail passé. Il s'agit de raccourcir cette durée, de réduire l'allocation avec le temps, ou de la supprimer après des refus d'offres d'emploi."
+  },
+  {
+    "id": "q31",
+    "theme": "Société et libertés",
+    "text": "Interdire les signes religieux visibles aux usagers de certains services publics, comme l'université ou l'hôpital.",
+    "short": "Signes religieux à l'université, à l'hôpital",
+    "scope": "pour = interdire le voile ou les signes religieux aux usagers (université, hôpital, services publics), étendre la neutralité aux usagers. contre = abroger les lois sur les signes religieux, défendre la liberté de porter un signe religieux.",
+    "help": "Depuis 2004, les élèves des écoles, collèges et lycées publics ne peuvent pas porter de signes religieux ostensibles. Les étudiants et les patients des hôpitaux le peuvent. La proposition étendrait l'interdiction à ces usagers."
+  },
+  {
+    "id": "q32",
+    "theme": "Numérique, médias et culture",
+    "text": "Interdire les réseaux sociaux aux moins de 15 ans.",
+    "short": "Réseaux sociaux interdits avant 15 ans",
+    "scope": "pour = interdire l'accès aux réseaux sociaux avant 15 ans (ou un âge proche, à préciser en note). Vérification d'âge seule = non mentionné.",
+    "help": "Il s'agit d'interdire l'inscription et l'usage des réseaux sociaux aux enfants de moins de 15 ans."
+  }
+]

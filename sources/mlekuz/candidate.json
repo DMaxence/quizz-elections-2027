@@ -1,0 +1,25 @@
+{
+  "slug": "mlekuz",
+  "name": "Manolo Mlekuz",
+  "party": "Trajectoire",
+  "party_short": "Trajectoire",
+  "declared": true,
+  "declaration_note": "Candidat déclaré sur les réseaux sociaux (date exacte non trouvée, au plus tard mai 2026 : CNews 27 mai 2026, Sud Radio 24 août 2026) ; toujours en tournée pour les parrainages au 30 octobre 2026 (ICI Isère).",
+  "declaration_source": "https://www.ici.fr/auvergne-rhone-alpes/isere-38/il-y-a-un-vrai-probleme-d-ecoute-a-20-ans-il-est-candidat-a-la-presidentielle-et-cherche-des-parrainages-en-isere-6140683",
+  "official_sites": [
+    "https://trajectoire2027.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Programme limité à un processus constituant, détaillé dans un livre blanc.",
+  "blocked": [
+    {
+      "url": "https://trajectoire2027.fr/programme",
+      "why": "Extraction trafilatura = 461 caractères (seul le 1er bloc) ; la page complète (~5 000 car. : objectifs, calendrier 2027-2029, cohabitation pendant le processus, démission après) est en HTML statique — à archiver avec un vrai navigateur ou une extraction plus complète"
+    },
+    {
+      "url": "https://trajectoire2027.fr/",
+      "why": "Extraction trafilatura = uniquement une citation ; la section « Le projet » (constats, assemblée constituante) n'est pas extraite"
+    }
+  ],
+  "notes": "Le PDF « programme détaillé » (title PDF « Programme Trajectoire ») est le livre blanc « Nouvelle démocratie. Chemin pour changer les règles du jeu politique dès 2027 » de Démocratie Ouverte (C. Cerda Guzman, C. Girard, M. Bonnet, A. Blouët, coord. A. Le Coz), publié par Trajectoire « avec l'accord de ses auteurs » — marqué official-2027 yes car présenté comme le programme détaillé sur le site de campagne, mais à confirmer par le lead. Programme monothématique (pas de mesures socio-économiques). Étiquette : le site se dit « Mouvement citoyen · non partisan » ; Sud Radio le classe « sans étiquette », Public Sénat et ICI « Trajectoire ». Ancien militant PS / LFI / NFP selon sa page équipe."
+}

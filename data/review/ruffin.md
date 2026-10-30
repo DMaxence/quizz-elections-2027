@@ -1,0 +1,8 @@
+# Review — ruffin
+
+Kept 12 / flipped 0 / dropped 2 (of 14).
+
+| Question | Decision | Reason |
+|---|---|---|
+| q25 | DROP | Seule une attaque contre le ministre (« Pire encore, il souhaite abroger la loi SRU ») ; aucune proposition de maintenir ou renforcer les quotas dans les sources. |
+| q28 | DROP | La taxe flottante vise un prix cible croissant (≈ 2 €/l en 2027 → 2,2 €/l en 2032), avec une hausse de taxe quand le prix redescend vers 1,7 €/l : ce n'est pas une baisse des prix décidée par l'État. Ambigu. |

@@ -1,0 +1,263 @@
+[
+  {
+    "id": "kazib-01",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter le SMIC à 2 000 € net",
+    "quote": "SMIC à 2000 € net, revalorisation de toutes les allocations, augmentation des salaires de 500 €, indexation sur l'inflation.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-02",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter tous les salaires de 500 € et les indexer sur l'inflation",
+    "quote": "augmentation des salaires de 500 €, indexation sur l'inflation.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-03",
+    "theme": "Protection sociale et famille",
+    "measure": "Revaloriser toutes les allocations",
+    "quote": "SMIC à 2000 € net, revalorisation de toutes les allocations",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-04",
+    "theme": "École et jeunesse",
+    "measure": "Créer un revenu étudiant égal au SMIC, financé par le patronat",
+    "quote": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Fixer l'âge de la retraite à 60 ans, et à 55 ans pour les métiers pénibles, sans condition d'annuités",
+    "quote": "Retraite à 60 ans et 55 ans pour les métiers pénibles, sans conditions d'annuité.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Investir massivement dans les services publics, placés sous le contrôle des travailleurs",
+    "quote": "Investissements massifs dans les services publics, qui doivent être placés sous le contrôle des travailleur·ses.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "kazib-07",
+    "theme": "Logement et territoires",
+    "measure": "Exproprier les logements vides",
+    "quote": "Expropriation des logements vides, plafonnement et gel des loyers.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-08",
+    "theme": "Logement et territoires",
+    "measure": "Plafonner et geler les loyers",
+    "quote": "Expropriation des logements vides, plafonnement et gel des loyers.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-09",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Exproprier les groupes bancaires, instaurer des prêts à taux zéro et supprimer les agios",
+    "quote": "Expropriation des groupes bancaires, prêts à taux 0 et fin des agios.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-10",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer les aides publiques aux grandes entreprises",
+    "quote": "Suppression des aides publiques aux grandes entreprises.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-11",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Exproprier les secteurs stratégiques (énergie, transports, banques, santé…) et les placer sous contrôle des travailleurs",
+    "quote": "Expropriation des secteurs stratégiques (énergie, transports, banques, santé, …) et placement sous contrôle des travailleur·ses.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-12",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Interdire les licenciements",
+    "quote": "Interdiction des licenciements.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-13",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Passer à la semaine de 28 heures sans baisse de salaire",
+    "quote": "Répartition du travail pour une semaine de 28h sans baisse de salaire.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-14",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Mettre fin à la sous-traitance et généraliser le CDI",
+    "quote": "Fin de la sous-traitance et CDI pour tous·tes. Même travail, même salaire.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-15",
+    "theme": "Immigration",
+    "measure": "Régulariser tous les sans-papiers",
+    "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-16",
+    "theme": "Immigration",
+    "measure": "Instaurer la liberté de circulation et d'installation",
+    "quote": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-17",
+    "theme": "Société et libertés",
+    "measure": "Créer sur les lieux de travail et d'études des commissions contre les VSS indépendantes des directions",
+    "quote": "Commissions de lutte contre les VSS indépendantes des directions sur les lieux de travail et d'études.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-18",
+    "theme": "Société et libertés",
+    "measure": "Rendre l'avortement, la PMA et les transitions libres et gratuits",
+    "quote": "Avortement, PMA, transitions libres et gratuits.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-19",
+    "theme": "Société et libertés",
+    "measure": "Socialiser intégralement le travail domestique",
+    "quote": "Socialisation intégrale du travail domestique.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "kazib-20",
+    "theme": "Société et libertés",
+    "measure": "Abroger les lois qualifiées de « sécuritaires, racistes et islamophobes », à commencer par la loi de 2004",
+    "quote": "Abrogation de toutes les lois sécuritaires, racistes et islamophobes, à commencer par la loi de 2004.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-21",
+    "theme": "Sécurité et justice",
+    "measure": "Amnistier les manifestants, jeunes de quartiers populaires et syndicalistes réprimés",
+    "quote": "Amnistie de tous les manifestants, jeunes de quartiers populaires et syndicalistes réprimés.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-22",
+    "theme": "Sécurité et justice",
+    "measure": "Dissoudre les corps spéciaux de police",
+    "quote": "Dissolution des corps spéciaux de police.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-23",
+    "theme": "Institutions et démocratie",
+    "measure": "Mettre fin à la Ve République, au Sénat et à la fonction présidentielle",
+    "quote": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-24",
+    "theme": "Europe, international et défense",
+    "measure": "Ne consacrer « pas un euro pour la guerre » et démanteler la « machine de guerre française »",
+    "quote": "Pas un euro pour la guerre, démantèlement de la machine de guerre française, 2ème exportateur d'armes mondial.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-25",
+    "theme": "École et jeunesse",
+    "measure": "S'opposer au SNU et à la militarisation des écoles et universités",
+    "quote": "Non au SNU et à la militarisation de nos écoles et de nos facs.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-26",
+    "theme": "Europe, international et défense",
+    "measure": "Retirer les troupes françaises stationnées à l'étranger",
+    "quote": "Retrait des troupes françaises à l'étranger.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-27",
+    "theme": "Europe, international et défense",
+    "measure": "Soutenir la libération de la Palestine, de la Kanaky et l'autodétermination des peuples",
+    "quote": "Lutte pour la libération de la Palestine, de la Kanaky et l'auto-détermination de tous les peuples opprimés.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "kazib-28",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Créer des comités de travailleurs, scientifiques et riverains pour coordonner la dépollution des sols et de l'eau",
+    "quote": "Construire des comités de travailleur·ses, scientifiques et riverains pour coordonner la dépollution des sols et de l'eau.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "kazib-29",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Planifier démocratiquement la production selon les besoins et l'environnement",
+    "quote": "Pour une société dirigée par en bas, où la production est planifiée, démocratique, au service des besoins, et dans le respect de l'environnement.",
+    "source_id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "page": null,
+    "concrete": false
+  }
+]

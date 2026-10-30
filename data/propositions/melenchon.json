@@ -1,0 +1,407 @@
+[
+  {
+    "id": "melenchon-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer la flat tax pour que le capital ne soit pas moins imposé que le travail",
+    "quote": "nous reviendrons sur les mesures fiscales les plus injustes des mandats d’Emmanuel Macron : suppression de la flat tax pour que le capital ne soit pas moins imposé que le travail (9 milliards d’euros)",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Rétablir un impôt sur la fortune renforcé",
+    "quote": "rétablissement d’un impôt sur la fortune renforcé (10 milliards d’euros)",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer la taxe Zucman sur les patrimoines de plus de 100 millions d'euros",
+    "quote": "Cela passera par exemple par l’instauration de la taxe Zucman pour les personnes possédant plus de 100 millions d’euros de patrimoine",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Obtenir de la BCE qu'elle gèle ou annule la part des dettes publiques qu'elle détient",
+    "quote": "La BCE pourrait aller plus loin avec les programmes de rachat qu’elle a effectués : geler ou annuler la part des dettes publiques qu’elle possède. […] C’est la solution privilégiée que nous mettrons en œuvre.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-05",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Bloquer par décret le prix du carburant à 1,70 euro le litre",
+    "quote": "Dans le cadre de l’état d’urgence sociale, un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter le SMIC à 1 700 euros net et indexer les salaires sur l'inflation",
+    "quote": "Ces mesures d’urgence sociale doivent être complétées par une hausse du SMIC à 1 700 euros net. Cette hausse sera accompagnée de la convocation d’une conférence exceptionnelle sur les salaires et d’une indexation généralisée de ceux-ci sur l’inflation.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Abroger le report de l'âge de la retraite à 64 ans et viser la retraite à 60 ans avec 40 annuités",
+    "quote": "C’est pourquoi nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros. Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités, objectif sur un mandat.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Créer une garantie d'emploi au SMIC pour les chômeurs de longue durée",
+    "quote": "Mettra en place une garantie d’emploi : tout·e chômeur·se de longue durée pourra se voir proposer d’être embauché·e au moins au SMIC – revalorisé – dans un secteur utile",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 26,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Rétablir réellement les 35 heures, passer aux 32 heures dans les métiers pénibles ou de nuit",
+    "quote": "Rétablir immédiatement la durée légale hebdomadaire à 35 heures (en majorant les heures supplémentaires, cotisations incluses, à 25 % pour les 4 premières et 50 % au-delà), passer aux 32 heures dans les métiers pénibles ou de nuit, et favoriser leur généralisation par la négociation collective",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 33,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-10",
+    "theme": "Protection sociale et famille",
+    "measure": "Indexer pensions, allocations familiales et APL sur l'inflation et les relever de 10 %",
+    "quote": "en protégeant les milieux populaires et les familles de l’inflation, sur laquelle nous indexerons toutes les pensions, allocations familiales et APL, qui seront rehaussées de 10 % (8 milliards d’euros)",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-11",
+    "theme": "Protection sociale et famille",
+    "measure": "Abroger les réformes de l'assurance chômage des gouvernements Macron",
+    "quote": "les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes pour un coût de 3 milliards d’euros.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-12",
+    "theme": "École et jeunesse",
+    "measure": "Ouvrir 10 000 postes dans l'éducation dès la première année",
+    "quote": "Nous proposons donc d’ouvrir 10 000 postes pour l’année prochaine, ce qui annule les suppressions de postes d’Emmanuel Macron depuis 2017",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-13",
+    "theme": "École et jeunesse",
+    "measure": "Rendre la cantine scolaire gratuite",
+    "quote": "Nous mettrons en place la gratuité de la cantine scolaire, pour 3,6 milliards d’euros.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-14",
+    "theme": "École et jeunesse",
+    "measure": "Abroger Parcoursup et créer 250 000 places dans l'enseignement supérieur public",
+    "quote": "nous abrogerons Parcoursup et engagerons un plan d’ouverture de places massif à l’université […] Créer 250 000 places dans les formations de l’ESR public",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-15",
+    "theme": "École et jeunesse",
+    "measure": "Rendre l'enseignement supérieur gratuit de la licence au doctorat",
+    "quote": "Instaurer la gratuité de l’enseignement supérieur, de la licence au doctorat, en supprimant également la contribution à la vie étudiante et de campus (CVEC)",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-16",
+    "theme": "École et jeunesse",
+    "measure": "Créer une garantie d'autonomie pour qu'aucun jeune ne vive sous le seuil de pauvreté (1 337 euros)",
+    "quote": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté (1 337 euros pour une personne seule)",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-17",
+    "theme": "Santé",
+    "measure": "Augmenter de 3 milliards d'euros le budget des hôpitaux et créer au moins 10 000 postes de soignants",
+    "quote": "Nous proposons une hausse globale de 3 milliards d’euros du budget des hôpitaux avec au moins 10 000 créations de postes de personnel soignant.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-18",
+    "theme": "Santé",
+    "measure": "Réguler l'installation des médecins et recruter des médecins publics contre les déserts médicaux",
+    "quote": "Actionner tous les leviers pour combattre les déserts médicaux : régulation de l’installation des médecins, recrutement de médecins publics, maillage du pays de centres de santé publics en exercice salarié",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-19",
+    "theme": "Santé",
+    "measure": "Rouvrir urgences, maternités et Ehpad publics pour un service de santé à moins de 30 minutes de chacun",
+    "quote": "Garantir un service public de santé de proximité en rouvrant progressivement des services d’urgences, de maternités et des EHPAD publics assurant un service de santé public de proximité à moins de trente minutes de chaque Français·e",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-20",
+    "theme": "Santé",
+    "measure": "Rembourser à 100 % les soins prescrits et intégrer les mutuelles dans la Sécurité sociale",
+    "quote": "Reconstruire le service public hospitalier et instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 55,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-21",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Rénover 700 000 logements par an pour supprimer les passoires thermiques en un mandat",
+    "quote": "Pour résorber les pires passoires et bouilloires thermiques (classes F et G) en un mandat, il faut passer à 700 000 rénovations par an.",
+    "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-22",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Fixer un prix national de l'électricité, détaché du marché européen",
+    "quote": "Une politique sérieuse de réindustrialisation implique de fixer un prix national de l’électricité, émancipé du marché européen libéralisé.",
+    "source_id": "plan-d-investissement-productif-2027-automobile-c97c3dbd",
+    "page": 13,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-23",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Sortir du nucléaire et abandonner les projets d'EPR",
+    "quote": "Sortir du nucléaire : abandonner les projets d’EPR (European Pressurized Reactor – Réacteur pressurisé européen), planifier le démantèlement, la réhabilitation et la reconversion des sites nucléaires",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 49,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-24",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Limiter la taille, le poids et les dimensions des SUV autorisés à la vente",
+    "quote": "Limiter la taille, le poids et les dimensions des SUV autorisés à la vente",
+    "source_id": "plan-d-investissement-productif-2027-automobile-c97c3dbd",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-25",
+    "theme": "Agriculture et alimentation",
+    "measure": "Instaurer une zone tampon sans pesticides autour des habitations, crèches, écoles et hôpitaux",
+    "quote": "Nous instaurerons une zone tampon pour protéger les enfants des pesticides et polluants autour des habitations, des crèches, des écoles et des hôpitaux",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-26",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire immédiatement le glyphosate et les néonicotinoïdes et l'importation de produits qui en contiennent",
+    "quote": "Planifier la réduction progressive des doses d’engrais et de pesticides, interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes) et l’importation de productions qui en contiennent",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 51,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-27",
+    "theme": "Logement et territoires",
+    "measure": "Produire 200 000 logements publics et 30 000 logements jeunes par an",
+    "quote": "Produire 200 000 logements publics par an et 30 000 logements jeunes pendant cinq ans aux normes écologiques les plus ambitieuses",
+    "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-28",
+    "theme": "Logement et territoires",
+    "measure": "Relever à 30 % le seuil de logements sociaux de la loi SRU et durcir les sanctions",
+    "quote": "Rehausser le seuil de logements sociaux dans les villes (loi SRU) à 30 %, le calculer par arrondissement pour les grandes métropoles, et aggraver les sanctions contre les communes hors la loi",
+    "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-29",
+    "theme": "Logement et territoires",
+    "measure": "Limiter les locations de meublés touristiques type Airbnb à 60 jours par an",
+    "quote": "Lutter contre la spéculation sur le logement en limitant les locations des meublés touristiques de type AirBnB à 60 jours par an",
+    "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+    "page": 18,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-30",
+    "theme": "Logement et territoires",
+    "measure": "Plafonner à cinq le nombre de logements transmissibles par héritage, l'excédent étant réquisitionné",
+    "quote": "Limiter la concentration immobilière en instaurant un plafond de cinq logements transmissibles par héritage ; au-delà, les biens sont réquisitionnés par l’État et redistribués entre le parc social et des dispositifs d’accès à la propriété",
+    "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+    "page": 18,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Convoquer par référendum une Assemblée constituante pour passer à la 6e République",
+    "quote": "Convoquer une Constituante pour passer à la 6e République […] Convoquer un référendum (article 11) pour engager le processus constituant",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-32",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne, y compris révocatoire et constitutionnel",
+    "quote": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 12,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-33",
+    "theme": "Institutions et démocratie",
+    "measure": "Élire l'Assemblée nationale à la proportionnelle",
+    "quote": "Élire l’Assemblée nationale au scrutin proportionnel",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-34",
+    "theme": "Immigration",
+    "measure": "Régulariser travailleurs, étudiants et parents d'enfants scolarisés et faire de la carte de dix ans le titre de référence",
+    "quote": "Faciliter l’accès aux visas, régulariser les travailleurs, étudiants, parents d’enfants scolarisés et instituer la carte de séjour de dix ans comme titre de séjour de référence",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 62,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-35",
+    "theme": "Immigration",
+    "measure": "Abroger les dernières lois asile et immigration et garantir l'accès à l'AME",
+    "quote": "Abroger les dernières lois asile et immigration […] Garantir l’accès à l’aide médicale d’État (AME)",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 62,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-36",
+    "theme": "Sécurité et justice",
+    "measure": "Rétablir la police de proximité et démanteler les BAC et les BRAV-M",
+    "quote": "Rétablir la police de proximité et démanteler les BAC (brigades anticriminalité) et les BRAV-M (Brigades de répression des actions violentes motorisées)",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 31,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-37",
+    "theme": "Sécurité et justice",
+    "measure": "Remplacer l'IGPN et l'IGGN par une autorité indépendante rattachée au Défenseur des droits",
+    "quote": "Supprimer l’Inspection générale de la Police nationale (IGPN) et l’Inspection générale de la Gendarmerie nationale (IGGN) et les remplacer par une autorité indépendante incluant des magistrats, des universitaires, des citoyens, rattachée au Défenseur des droits",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 18,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-38",
+    "theme": "Europe, international et défense",
+    "measure": "Quitter immédiatement le commandement intégré de l'OTAN, puis l'organisation par étapes",
+    "quote": "Se retirer immédiatement du commandement intégré de l’OTAN puis, par étapes, de l’organisation elle-même",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 59,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-39",
+    "theme": "Europe, international et défense",
+    "measure": "Proposer une rupture concertée avec les traités européens et désobéir aux règles bloquantes",
+    "quote": "nous proposons aux États et aux peuples européens la rupture concertée avec les traités actuels (plan A). […] nous appliquerons dans tous les cas immédiatement notre programme au niveau national en assumant la confrontation avec les institutions européennes (plan B).",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 64,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-40",
+    "theme": "Europe, international et défense",
+    "measure": "Utiliser le veto de la France contre tout nouvel accord de libre-échange, dont le Mercosur",
+    "quote": "Utiliser le droit de veto de la France, par exemple pour refuser tous les nouveaux accords de libre-échange (avec le Mercosur, y compris révisé, le Chili, le Mexique, l’Inde, l’Indonésie, le Kenya, l’Australie, les Philippines, la Thaïlande, etc.)",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 65,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-41",
+    "theme": "Numérique, médias et culture",
+    "measure": "Adopter une loi anti-concentration dans les médias",
+    "quote": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Achever la couverture en fibre de tout le pays avec des réseaux sous contrôle public",
+    "quote": "Achever la couverture numérique de tout le pays en fibre et garantir une couverture mobile de qualité dans toutes les ruralités, en déployant des réseaux de télécommunication sous contrôle public",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-43",
+    "theme": "Société et libertés",
+    "measure": "Inscrire dans la Constitution le droit de mourir dans la dignité, y compris avec assistance",
+    "quote": "Ajouter le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs dans la Constitution",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-44",
+    "theme": "Société et libertés",
+    "measure": "Légaliser le cannabis récréatif dans le cadre d'un monopole d'État",
+    "quote": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives",
+    "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "page": 56,
+    "concrete": true
+  },
+  {
+    "id": "melenchon-45",
+    "theme": "Société et libertés",
+    "measure": "Garantir un accès effectif à l'IVG à proximité du domicile",
+    "quote": "Nous permettrons à chaque personne d’avoir un accès effectif à l’IVG à proximité de son domicile, y compris via des consultations itinérantes.",
+    "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "page": 23,
+    "concrete": true
+  }
+]

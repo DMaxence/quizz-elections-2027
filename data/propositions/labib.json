@@ -1,0 +1,110 @@
+[
+  {
+    "id": "labib-01",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Obtenir 400 à 500 euros d'augmentation, 2 200 euros net mensuels étant le minimum pour vivre décemment",
+    "quote": "Arracher 400 et même 500 euros d’augmentation, c’est ce qu’il nous faut pour nous en sortir. On ne peut pas vivre décemment aujourd’hui avec moins de 2 200 euros net par mois.",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "labib-02",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter massivement les salaires, pensions et allocations et les indexer sur les prix",
+    "quote": "L’augmentation massive, générale des salaires mais aussi des pensions et des allocations, et leur indexation sur les prix : c’est le premier objectif que doivent se fixer les travailleurs",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "labib-03",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Interdire les licenciements et arrêter toutes les suppressions d'emplois",
+    "quote": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois et la baisse du temps de travail sans perte de salaire, jusqu’à l’extinction du chômage",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "labib-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Réduire le temps de travail sans perte de salaire jusqu'à la disparition du chômage",
+    "quote": "la baisse du temps de travail sans perte de salaire, jusqu’à l’extinction du chômage, c’est la seule manière de mettre fin au chômage de masse, pour les jeunes comme pour les anciens.",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "labib-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Faire recenser et chiffrer par les travailleurs eux-mêmes les besoins d'embauches, y compris dans les écoles et hôpitaux",
+    "quote": "Dans chaque atelier, dans tous les services, dans toutes les écoles et les hôpitaux, c’est à nous-mêmes de recenser et de chiffrer les besoins en embauches",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "labib-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Exproprier les grandes entreprises et prendre le pouvoir sur l'économie",
+    "quote": "Nous devons pour cela exproprier les grandes entreprises et prendre le pouvoir sur l’économie : que produit-on ? Pour qui ?",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "labib-07",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Exproprier les milliardaires",
+    "quote": "Exproprions les milliardaires",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 1,
+    "concrete": true
+  },
+  {
+    "id": "labib-08",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Faire payer les actionnaires et les milliardaires",
+    "quote": "Au pouvoir, les travailleurs commenceraient par faire payer les actionnaires et les milliardaires pour assurer la survie de la majorité la plus pauvre de l’humanité.",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "labib-09",
+    "theme": "Institutions et démocratie",
+    "measure": "Confier la direction de la société aux travailleurs et travailleuses",
+    "quote": "Ce n’est pas au Medef de faire sa loi : C’est aux travailleurs et aux travailleuses de diriger la société !",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 1,
+    "concrete": false
+  },
+  {
+    "id": "labib-10",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser tout soldat et tout euro pour les guerres impérialistes",
+    "quote": "À BAS LE MILITARISME, PAS UNE FEMME, PAS UN HOMME, PAS UN EURO POUR LES GUERRES IMPÉRIALISTES",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "labib-11",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Sortir du capitalisme et des lois du marché pour faire face à la crise climatique",
+    "quote": "Le seul geste qui vaille pour la planète et pour nos vies, c’est de se débarrasser du capitalisme et, avec lui, des lois du marché et du profit !",
+    "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "labib-12",
+    "theme": "Immigration",
+    "measure": "Défendre un monde sans patries, ni patrons ni frontières",
+    "quote": "Pour un monde sans patries, ni patrons ni frontières",
+    "source_id": "d-claration-de-la-liste-npa-pour-un-monde-sans-patrons-ni-fr-6ae96fca",
+    "page": null,
+    "concrete": false
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "slug": "philippot",
+  "name": "Florian Philippot",
+  "party": "Les Patriotes",
+  "party_short": "LP",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 9 mai 2026 sur France 2 (Sud Radio), avec la réserve qu'il se retirerait si Philippe de Villiers se présentait.",
+  "declaration_source": "https://www.sudradio.fr/politique/je-suis-candidat-florian-philippot-se-lance-pour-la-presidentielle-de-2027",
+  "official_sites": [
+    "https://les-patriotes.fr"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "« Projet pour la France », édition 2026-2027 des Patriotes, présenté comme le projet pour 2027.",
+  "blocked": [],
+  "notes": "Status doubt: candidacy is conditional (withdraws if Philippe de Villiers runs; as of late Oct 2026 no de Villiers declaration found) and Les Patriotes' donation page mentions a provisioned 'primaire souverainiste' (no date/organisation found). Program doubt for the lead: the main source is a 19-page party booklet titled « Grandes orientations pour un projet patriote + le Frexit en 10 questions — édition 2026-2027 », uploaded Sept 2026 and presented on les-patriotes.fr/projetpourlafrance/ with « Élections 2027 — Ce projet, aidez-nous à le porter en 2027 ! ». I marked it official_2027_program=false / status 'partiel' because it is a party 'orientations' document, not branded as Philippot's presidential program — but it is explicitly framed for 2027 and could arguably justify 'officiel'; please decide consistently across candidates. Skipped: older 2025 version of the same booklet (wp-content/uploads/2025/09/lespatriotes_projet.pdf, superseded), single-topic tracts/posters, 2024 thematic note on energy. No personal site found: florianphilippot.fr does not resolve and philippot2027.fr redirects to ldh-france.org (not his). Extraction caveat: booklet is a two/three-column layout — pdfplumber interleaves columns, verbatim quote matching may need care."
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "tondelier-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer une taxe Zucman de 2 % au-delà de 100 millions d'euros de patrimoine et rétablir l'ISF avec une composante climatique",
+    "quote": "Rétablir la fiscalité sur la grande fortune. Mettre en place une taxe Zucman de 2 % au-delà de 100 millions d’euros de patrimoine. […] Rétablir l’Impôt sur la Fortune (ISF) en lui ajoutant une composante climatique pour orienter le patrimoine vers des actifs verts.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 66,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Créer une tranche d'impôt sur le revenu à 60 % au-delà de 250 000 € annuels et baisser l'impôt des tranches les plus basses",
+    "quote": "Réformer l’impôt sur le revenu pour préserver la qualité de vie des classes populaires et des classes moyennes. Diminuer l’impôt sur le revenu pour les plus tranches les plus basses. Créer une nouvelle tranche à 60 % au-delà de 250 000€ annuels.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 68,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Porter la taxe sur les transactions financières à 0,7 % et augmenter de 3 points la flat tax et la CSG sur le capital",
+    "quote": "Taxer plus fortement le capital que le travail. Augmenter la taxe sur les transactions financières à 0,7 %. […] Augmenter le taux de CSG sur les revenus du capital de 3 points avec le maintien des exonérations pour les livrets A et Développement Durable. Augmenter la flat tax (Prélèvement Forfaitaire Unique) de 3 points.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 68,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter le salaire minimum à 2 000 € brut par mois dès 2027",
+    "quote": "Passer le salaire minimum à 2000€ brut par mois dès 2027.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 55,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit",
+    "quote": "Franchir une nouvelle étape pour la diminution du temps de travail. Passer aux 32 heures sans perte de salaire dans les métiers pénibles ou de nuit en y conditionnant les aides aux entreprises.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 57,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Abroger la retraite à 64 ans pour revenir à 62 ans et viser la retraite à 60 ans",
+    "quote": "Abroger l’âge légal de départ à la retraite à 64 ans (réforme Borne) pour revenir immédiatement à un âge minimum à 62 ans et viser une retraite à 60 ans",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 116,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Refuser toute évolution vers une retraite par capitalisation ou à points",
+    "quote": "Refuser toute forme d’évolution vers une retraite par capitalisation en particulier la retraite à points.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 117,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-08",
+    "theme": "Santé",
+    "measure": "Créer 2 000 nouveaux centres de santé d'ici 2030",
+    "quote": "Créer 2 000 nouveaux centres de santé d’ici 2030, notamment dans les zones rurales et les quartiers prioritaires.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 114,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-09",
+    "theme": "Santé",
+    "measure": "Soumettre l'installation des médecins libéraux à une autorisation de l'Agence régionale de santé",
+    "quote": "Réguler l’installation des médecins libéraux par une autorisation d’installation des médecins délivrée par l’Agence Régionale de Santé – de droit dans les zones sous-dotées et en lien avec la cessation d’activité d’un·e praticien·ne ailleurs.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 151,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-10",
+    "theme": "Santé",
+    "measure": "Limiter les dépassements d'honoraires des spécialistes à 50 % du tarif de la Sécurité sociale",
+    "quote": "Encadrer les dépassements d’honoraires chez les spécialistes en limitant les dépassements d’honoraires à 50 % du tarif de la Sécurité Sociale et en interdisant les dépassements pour la moitié des ménages les moins aisés.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 111,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-11",
+    "theme": "École et jeunesse",
+    "measure": "Réduire la taille des classes du primaire à 19 élèves en 2032 et à 12 en éducation prioritaire",
+    "quote": "Faire de l’école primaire une priorité absolue en réduisant la taille des classes à 19 élèves en 2032 et à 12 élèves dans les établissements en réseau d’éducation prioritaire (REP et REP+).",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 90,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-12",
+    "theme": "École et jeunesse",
+    "measure": "Augmenter les salaires des enseignants de 15 % en 5 ans",
+    "quote": "Réhabiliter les métiers de l’Education nationale en augmentant les salaires des enseignant·es de 15 % en 5 ans.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 90,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-13",
+    "theme": "École et jeunesse",
+    "measure": "Remplacer Parcoursup et MonMaster par une plateforme d'orientation sans lettre de motivation",
+    "quote": "Réhabiliter le droit à des études supérieures en remplaçant ParcourSup et MonMaster par une vraie plateforme d’orientation permettant de hiérarchiser et de sectoriser des vœux sans lettres de motivation ni mention du lycée d’origine.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 93,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-14",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Planifier la sortie du nucléaire et mettre fin aux nouveaux programmes EPR-2 et SMR",
+    "quote": "Planifier la sortie du nucléaire. Mettre fin aux nouveaux programmes EPR-2 et SMR extrêmement dispendieux. Planifier l’arrêt progressif du parc constitué de centrales vieillissantes dont la mise hors service doit être étalée sur une vingtaine d’années.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Abaisser à 110 km/h la vitesse maximale des véhicules thermiques sur autoroute",
+    "quote": "Diminuer les émissions des transports automobiles en réduisant la vitesse maximale des véhicules thermiques à 110km/h sur autoroute.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 23,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Interdire les vols intra-européens quand une alternative en train de moins de 4 h 30 existe, et les jets privés",
+    "quote": "Réduire le trafic aérien. […] Interdire les vols intra-européens lorsqu’une alternative de moins de 4h30 en train existe. Limiter l’utilisation de l’avion en interdisant l’atterrissage des jets privés pour les particuliers et les entreprises sur les aéroports français puis européens.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-17",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Interdire l'ensemble des PFAS et des perturbateurs endocriniens",
+    "quote": "Interdire l’ensemble des polluants éternels (PFAS) et des perturbateurs endocriniens en application du principe de précaution, - interdiction immédiate pour la nourriture, le textile et les produits de beauté et sous 18 mois pour les autres.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 107,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-18",
+    "theme": "Agriculture et alimentation",
+    "measure": "Atteindre 21 % d'agriculture biologique en 2030 et 25 % en 2032",
+    "quote": "Atteindre l’objectif français de 21 % d’agriculture bio en 2030, 25 % en 2032 et 100 % à la fin du siècle en augmentant l’éco-régime bio et en incitant à la reprise et à la conversion des fermes à l’agriculture biologique.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 49,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-19",
+    "theme": "Agriculture et alimentation",
+    "measure": "Abroger la loi Duplomb et adopter une nouvelle loi d'orientation agricole",
+    "quote": "Adopter une véritable Loi d’Orientation Agricole et abroger la loi Duplomb.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 49,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-20",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire les « nouveaux OGM » (nouvelles techniques génomiques)",
+    "quote": "Interdire les « nouveaux OGM » (Nouvelles Techniques Génomiques ou NGT). Refuser le brevetage du vivant",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-21",
+    "theme": "Immigration",
+    "measure": "Abroger les lois asile et immigration adoptées sous Emmanuel Macron",
+    "quote": "Abroger les lois asile et immigration d’Emmanuel Macron et toutes les mesures prises visant à amoindrir les droits des personnes exilées sous son mandat.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 178,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-22",
+    "theme": "Immigration",
+    "measure": "Régulariser les travailleurs, étudiants et parents d'enfants scolarisés sans papiers selon des critères objectifs",
+    "quote": "Régulariser les travailleur·ses, les étudiant·es et les parents d’enfants scolarisés sur la base de critères objectifs (durée de résidence, effectivité du lien familial, durée ou promesse d’activité professionnelle).",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 178,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-23",
+    "theme": "Immigration",
+    "measure": "Garantir le droit du sol pour les enfants nés en France et supprimer le régime dérogatoire à Mayotte",
+    "quote": "Garantir l’application du droit du sol pour les enfants nés en France indépendamment de la situation des parents. Supprimer le régime dérogatoire à Mayotte.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 178,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-24",
+    "theme": "Immigration",
+    "measure": "Démanteler l'agence Frontex et la remplacer par une agence de protection des droits des migrants",
+    "quote": "Démanteler l’agence Frontex et créer une agence en charge de la protection des droits fondamentaux des personnes migrantes et en particulier du sauvetage en mer et sur terre.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 179,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-25",
+    "theme": "Sécurité et justice",
+    "measure": "Légaliser et encadrer la production, la vente et la consommation de cannabis",
+    "quote": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 184,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-26",
+    "theme": "Sécurité et justice",
+    "measure": "Créer une police nationale de proximité",
+    "quote": "Créer une police nationale de proximité visant à rétablir un lien quotidien et permanent avec la population et à sortir de la politique bureaucratique du chiffre.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 164,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-27",
+    "theme": "Sécurité et justice",
+    "measure": "Remplacer l'IGPN et l'IGGN par un organisme indépendant rattaché à la Défenseure des droits",
+    "quote": "Remplacer l’Inspection Générale de la Police Nationale (IGPN) et l’Inspection Générale de la Gendarmerie Nationale (IGGN) par un nouvel organisme indépendant rattaché à la Défenseure des droits.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 165,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Convoquer un processus constituant pour passer à une « Première République écologique »",
+    "quote": "Convoquer un processus constituant transparent, participatif, pluraliste et indépendant pour abolir la monarchie présidentielle et préparer le passage à une Première République écologique et citoyenne",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 159,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer un septennat présidentiel unique",
+    "quote": "Réinventer la fonction présidentielle en gardienne du temps long. […] Etablir un septennat unique.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 161,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne (RIC) propositionnel ou abrogatif",
+    "quote": "Renforcer la démocratie directe par la mise en œuvre du Référendum d’Initiative Citoyenne (RIC) propositionnel ou abrogatif – sous condition d’un contrôle de constitutionnalité préalable.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 161,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer la proportionnelle intégrale aux élections législatives",
+    "quote": "Instaurer la proportionnelle intégrale sans prime majoritaire aux élections législatives",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 162,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-32",
+    "theme": "Institutions et démocratie",
+    "measure": "Ouvrir le droit de vote à 16 ans",
+    "quote": "Ouvrir le droit de vote à 16 ans.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 126,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-33",
+    "theme": "Europe, international et défense",
+    "measure": "Créer un commandement militaire intégré européen sous la tutelle du Conseil de l'UE",
+    "quote": "Créer un commandement militaire intégré européen sous la tutelle du Conseil de l’Union Européenne sans capacité de mobiliser directement les armées nationales (décision souveraine des Etats).",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 195,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-34",
+    "theme": "Europe, international et défense",
+    "measure": "Envisager l'extension de la garantie nucléaire française à d'autres pays européens et rejoindre le TIAN comme observateur",
+    "quote": "Rejoindre en parallèle le Traité sur l’Interdiction des Armes Nucléaires (TIAN) en tant que membre observateur, sans s’engager à un désarmement unilatéral. […] envisager l’extension de la garantie de sécurité nucléaire française à d’autres pays européens dans une optique de nonprolifération.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 194,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-35",
+    "theme": "Europe, international et défense",
+    "measure": "Fournir à l'Ukraine du matériel militaire, y compris des capacités de frappe à longue portée",
+    "quote": "Soutenir militairement l’Ukraine. Fournir du matériel militaire, y compris de capacités de frappe à longue portée et des moyens de défense antiaérienne pour protéger le ciel ukrainien.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 197,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-36",
+    "theme": "Europe, international et défense",
+    "measure": "Arrêter immédiatement toute importation de gaz, d'uranium et d'engrais russes et biélorusses",
+    "quote": "Soutenir économiquement l’Ukraine en arrêtant immédiatement toute importation de gaz, d’uranium et d’engrais russe et biélorusse.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 197,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-37",
+    "theme": "Logement et territoires",
+    "measure": "Généraliser et pérenniser l'encadrement des loyers",
+    "quote": "Assurer le droit au logement par la généralisation, l’amélioration et la pérennisation de l’encadrement des loyers.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-38",
+    "theme": "Logement et territoires",
+    "measure": "Utiliser le droit de réquisition contre les logements vacants et abroger la loi Kasbarian",
+    "quote": "Utiliser le droit de réquisition pour lutter contre les logements vacants. […] Abroger la loi Kasbarian qui criminalise les locataires.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-39",
+    "theme": "Protection sociale et famille",
+    "measure": "Remplacer le RSA par une garantie d'autonomie à 50 % du Smic, accessible dès 18 ans, sans contrepartie d'activité",
+    "quote": "Créer une garantie d’autonomie qui respecte la dignité et les droits des personnes allocataires en remplacement du Revenu de Solidarité Active (RSA). Augmenter son montant à 50 % du Smic net et l’indexer sur son évolution. Rendre cette garantie accessible dès 18 ans pour les personnes indépendantes fiscalement. En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 119,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-40",
+    "theme": "Protection sociale et famille",
+    "measure": "Verser le même montant d'allocations familiales dès le premier enfant",
+    "quote": "Réformer les allocations familiales pour attribuer un même montant dès le premier enfant.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 124,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-41",
+    "theme": "Numérique, médias et culture",
+    "measure": "Étendre le statut d'éditeur aux grandes plateformes et imposer la neutralité des algorithmes des grands réseaux sociaux",
+    "quote": "Étendre le statut d’éditeur à toutes les grandes plateformes pour les rendre responsables de l’ensemble du contenu qu’elles produisent. Faire respecter des critères de neutralité aux algorithmes de réseaux sociaux dépassant un million d’utilisateurs·trices en France.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 81,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-42",
+    "theme": "Numérique, médias et culture",
+    "measure": "Généraliser les logiciels libres dans les administrations publiques",
+    "quote": "Généraliser l’usage des logiciels libres et open source dans les administrations publiques en évaluant systématiquement les solutions libres dans les appels d’offre (open source first).",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 81,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-43",
+    "theme": "Société et libertés",
+    "measure": "Légaliser l'aide active à mourir et garantir l'accès universel aux soins palliatifs",
+    "quote": "Instaurer un droit à mourir dans la dignité par l’adoption des deux lois sur la fin de vie. Permettre l’accès universel aux soins palliatifs et légaliser l’aide active à mourir",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 130,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-44",
+    "theme": "Société et libertés",
+    "measure": "Rendre le changement de mention de sexe à l'état civil libre, gratuit et sans juge",
+    "quote": "Rendre le changement de mention de sexe à l’état civil libre, gratuit et simple, sans passer devant un juge.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 141,
+    "concrete": true
+  },
+  {
+    "id": "tondelier-45",
+    "theme": "Société et libertés",
+    "measure": "Interdire la corrida, les combats de coqs et le gavage",
+    "quote": "Interdire les pratiques cruelles pour les animaux : corrida, combats de coq, gavage, étourdissement des porcs au CO2… Interdire les écoles taurines.",
+    "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "page": 37,
+    "concrete": true
+  }
+]

@@ -1,0 +1,145 @@
+{
+  "slug": "asselineau",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous proposerons aux Français d’adopter le référendum d’initiative citoyenne et démocratiserons les institutions.",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "ainsi que d’un impôt exceptionnel de solidarité pour les quelques dizaines de très grandes fortunes s’étant accrues pendant la crise de la Covid-19",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Propose un impôt exceptionnel de solidarité sur les très grandes fortunes, pas un impôt permanent sur la fortune."
+    },
+    "q06": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Ils s’opposeront : - au financement d’une guerre folle contre la Russie, 1re puissance nucléaire mondiale.",
+          "source_id": "profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde",
+          "page": 2
+        }
+      ],
+      "note": "Engagement de la liste UPR aux européennes de 2024 ; le programme de 2022 ne traite pas de l’Ukraine."
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous engagerons notre retrait de l’OTAN, indispensable pour retrouver une diplomatie souveraine et respectée dans le monde entier",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Le Frexit nous permettra de mettre un terme à la privatisation rampante de nos services publics (EDF, GDF, SNCF, La Poste) et de renationaliser certains (gestion des sociétés d’autoroutes et d’adduction d’eau, Orange, TF1).",
+          "source_id": "pourquoi-le-frexit-est-urgent-upr-ddb9b1c8",
+          "page": null
+        }
+      ]
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Nous améliorerons le suivi des personnes faisant l’objet d’une obligation de quitter le territoire français et sanctionnerons les pays d’origine n’acceptant pas les reconduites à la frontière. Notre objectif sera de porter à 75% minimum le taux effectif des expulsions",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Introduire un système de proportionnelle partielle aux élections législatives",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Propose une proportionnelle partielle."
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "et cesserons immédiatement les négociations de traités transcontinentaux.",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        },
+        {
+          "quote": "dénoncerons les traités transcontinentaux déjà adoptés tels que le CETA",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Vise les traités de type TAFTA et CETA ; le Mercosur n’est pas nommé."
+    },
+    "q20": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "L’UE nous soumet à une dictature antisociale : il faut sortir de l’Union européenne !",
+          "source_id": "profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde",
+          "page": 1
+        }
+      ]
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous porterons le budget de la défense à 3% du PIB en fin de quinquennat pour garantir notre indépendance",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous interdirons les pesticides dangereux pour la santé humaine et la biodiversité tels le glyphosate",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "À la baisse de la TVA sur une large gamme de produits de consommation courante, et à la fin de la double-taxation des carburants (TVA payée sur les prix déjà augmentés par la TICPE)",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Propose de supprimer la TVA appliquée sur la TICPE."
+    },
+    "q30": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "les allocations-chômage pourront être supprimées après deux refus de propositions d’embauche correspondant aux critères géographiques du demandeur d’emploi",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    }
+  }
+}

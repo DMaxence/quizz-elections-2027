@@ -1,0 +1,17 @@
+{
+  "slug": "labib",
+  "name": "Selma Labib",
+  "party": "NPA – Révolutionnaires",
+  "party_short": "NPA-R",
+  "declared": true,
+  "declaration_note": "Candidature décidée par le comité politique national du NPA-R des 6-7 juin 2026 et annoncée par communiqué le 17 juin 2026 ; collecte des 500 parrainages en cours.",
+  "declaration_source": "https://npa-revolutionnaires.org/articles/communique-presidentielle-2027-selma-labib-une-candidature-ouvriere-et-revolutionnaire-soutenue-par-gael-quirante",
+  "official_sites": [
+    "https://npa-revolutionnaires.org/",
+    "https://npa-revolutionnaires.org/campagnes-presidentielles"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Tract de campagne 2027 de quatre pages, complété par la déclaration européenne de 2024.",
+  "blocked": [],
+  "notes": "Le NPA-R dit défendre « un programme de luttes » sans programme électoral ; le seul document de campagne 2027 est le tract 4 pages (septembre 2026, archivé avec official_2027 = yes). Statut « partiel » retenu car il s'agit d'un tract et non d'un programme — à harmoniser avec Arthaud (brochure LO jugée « officiel ») si le lead le souhaite. ATTENTION : l'extraction des pages 2-4 du tract est en colonnes entrelacées ligne par ligne (pdfplumber) ; les citations multi-lignes ne seront pas retrouvées telles quelles — une ré-extraction par colonnes serait utile. Non archivés : discours de S. Labib à la fête de l'Humanité 2026 (texte intégral, ~27 000 caractères, https://npa-revolutionnaires.org/articles/intervention-de-selma-labib-a-la-fete-de-lhumanite-2026) — riche en positions mais c'est un discours ; tract de la fête de l'Huma 2026 (extraction illisible, lettres doublées). Le NPA-R ne présentait pas de programme propre aux législatives 2024 (candidatures communes avec LO)."
+}

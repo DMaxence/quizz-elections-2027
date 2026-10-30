@@ -1,0 +1,27 @@
+{
+  "slug": "mikolajczak",
+  "name": "Antoine Mikolajczak",
+  "party": "Équinoxe",
+  "party_short": "Équinoxe",
+  "declared": true,
+  "declaration_note": "Candidature annoncée le 27 juin 2026 devant les adhérents d'Équinoxe, après un vote des adhérents au jugement majoritaire (Sud Radio, 24 août 2026 ; page officielle Présidentielle 2027 du parti).",
+  "declaration_source": "https://parti-equinoxe.fr/presidentielle-2027/",
+  "official_sites": [
+    "https://parti-equinoxe.fr/",
+    "https://parti-equinoxe.fr/presidentielle-2027/",
+    "https://parti-equinoxe.fr/qui-est-antoine-mikolajczak/"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Programme 2027 annoncé pour le 2 novembre 2026 : positions tirées du programme législatif 2024 d'Équinoxe.",
+  "blocked": [
+    {
+      "url": "https://parti-equinoxe.fr/programme-legislatives-2024-international/",
+      "why": "Extraction trafilatura = uniquement la bannière cookies ; le contenu (défense, Ukraine, Gaza…) est bien présent dans le HTML statique"
+    },
+    {
+      "url": "https://parti-equinoxe.fr/programme-legislatives-2024-democratie/",
+      "why": "Extraction trafilatura = uniquement la bannière cookies ; le contenu est bien présent dans le HTML statique"
+    }
+  ],
+  "notes": "IMPORTANT : la page /presidentielle-2027/ annonce « Rendez-vous le lundi 2 novembre à 10h pour découvrir le détail du projet d'Équinoxe pour 2027 » → à re-sourcer après le 2 novembre 2026 (statut probablement à passer en « officiel »). Les pages législatives 2024 Cohésion et Éducation renvoient vers une « version plus récente » publiée pour les législatives partielles de janvier 2025 (https://parti-equinoxe.fr/legislative-partielle-2025-isere/ : démocratie, environnement, santé, cohésion ; https://parti-equinoxe.fr/legislative-partielle-2025-hauts-de-seine/programme-education/) — non archivées pour rester sous ~15 sources. Programme européennes 2024 également disponible (pages /europeennes-2024-programme-*), non archivé (législatives 2024 plus récent et plus national). Le tract 2027 n'a que ~1 700 caractères (titre en lettres doublées par l'extraction PDF, corps lisible)."
+}

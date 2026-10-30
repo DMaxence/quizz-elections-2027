@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bertrand-01",
+    "theme": "Immigration",
+    "measure": "Subordonner tout accueil en France à une autorisation préalable",
+    "quote": "« Nous, France ! » assume : nul ne pourra demain bénéficier de la tradition d’accueil de notre maison France sans y avoir été autorisé.",
+    "source_id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "bertrand-02",
+    "theme": "Sécurité et justice",
+    "measure": "Exiger que chacun se soumette sans concessions à l'autorité de l'État et aux lois",
+    "quote": "« Nous, France ! » est l’exigence que chacun se soumette sans concessions à l’autorité de l’Etat et à nos lois.",
+    "source_id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "bertrand-03",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Faire en sorte que le travail paie et soit récompensé",
+    "quote": "Elle croit et transmet à ses enfants la valeur de l’effort et du travail. Un travail qui paye, qui est récompensé, qui permet à chacun de trouver la place qu’il mérite.",
+    "source_id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "bertrand-04",
+    "theme": "Logement et territoires",
+    "measure": "Faire décider l'emploi et l'écologie au plus près des territoires, par ceux qui y vivent",
+    "quote": "Dans la République des territoires qui va naitre, l’emploi ou l’écologie se décideront au plus près et par ceux qui y vivent.",
+    "source_id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "page": null,
+    "concrete": false
+  },
+  {
+    "id": "bertrand-05",
+    "theme": "Société et libertés",
+    "measure": "Garantir à chacun les mêmes droits pour se déplacer, communiquer, vieillir en bonne santé et accéder à l'école",
+    "quote": "chacun doit être considéré, avoir les mêmes droits pour se déplacer, communiquer, vieillir en bonne santé, accéder à l’école de la méritocratie",
+    "source_id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "page": null,
+    "concrete": false
+  }
+]

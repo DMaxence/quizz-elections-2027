@@ -1,0 +1,18 @@
+{
+  "slug": "bouamrane",
+  "name": "Karim Bouamrane",
+  "party": "Parti socialiste",
+  "party_short": "PS",
+  "declared": true,
+  "declaration_note": "Candidature annoncée en juin 2026 sur France Inter ; il a refusé en août 2026 de participer à la primaire « Choisir 2027 » et reste candidat hors primaire. Après la victoire de Glucksmann (11 octobre 2026), il l'a félicité sans se retirer ni le soutenir (« le combat continue »).",
+  "declaration_source": "https://www.europe1.fr/politique/presidentielle-2027-le-socialiste-karim-bouamrane-ne-participera-pas-a-la-primaire-mais-reste-candidat-1035182",
+  "official_sites": [
+    "https://www.karimbouamrane2027.org",
+    "https://parti-socialiste.fr",
+    "https://projet-socialiste.fr"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Manifeste de candidature 2027, sans programme détaillé à ce jour.",
+  "blocked": [],
+  "notes": "Il n'est pas le candidat du PS : le PS soutient Glucksmann, vainqueur de la primaire qu'il a boycottée. karimbouamrane2027.org est publié par l'association « La France humaine et forte », son mouvement, avec Karim Bouamrane comme directeur de la publication : site jugé officiel. Le manifeste (≈12 000 caractères, 5 axes : protéger, loger, soigner, éduquer, redonner de l'espoir) est marqué official_2027_program=false car c'est une déclaration de vision plutôt qu'un programme, mais la frontière est floue. Le Projet socialiste est archivé pour lui parce qu'il est membre du PS, ce qui est discutable vu qu'il fait campagne hors du cadre PS. Statut le plus fragile du lot : il dit vouloir se déterminer d'ici décembre 2026 ou janvier 2027 selon les sondages. karimbouamrane.com et bouamrane2027.com ne sont pas à lui (page vide / parking GoDaddy)."
+}

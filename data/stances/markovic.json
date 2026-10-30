@@ -1,0 +1,37 @@
+{
+  "slug": "markovic",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer le Référendum d’initiative citoyenne – législatif et abrogatoire – (RIC) en toutes matières",
+          "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+          "page": null
+        }
+      ],
+      "note": "Seuil d’un million de signatures."
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer un scrutin proportionnel pour les élections législatives.",
+          "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+          "page": null
+        }
+      ]
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Exiger le non-renouvellement de l’autorisation du glyphosate.",
+          "source_id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+          "page": 19
+        }
+      ],
+      "note": "Mesure du programme européen 2024 du Parti animaliste."
+    }
+  }
+}

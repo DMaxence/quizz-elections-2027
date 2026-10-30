@@ -1,0 +1,19 @@
+{
+  "slug": "glucksmann",
+  "name": "Raphaël Glucksmann",
+  "party": "Place publique (candidat PS–Place publique)",
+  "party_short": "PP",
+  "declared": true,
+  "declaration_note": "Candidature officialisée fin août 2026 (lettre aux Français) ; désigné dès le premier tour, le 11 octobre 2026, avec environ 66 % des voix, à la primaire « Choisir 2027 » organisée par le PS, Place publique et la GRS.",
+  "declaration_source": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66",
+  "official_sites": [
+    "https://glucks2027.fr",
+    "https://place-publique.eu",
+    "https://parti-socialiste.fr",
+    "https://projet-socialiste.fr"
+  ],
+  "program_status": "partiel",
+  "program_status_note": "Pas encore de programme de campagne : « L'Acte I » de Place publique, sa lettre aux Français et le projet du PS adopté en juin 2026.",
+  "blocked": [],
+  "notes": "Aucun programme commun trouvé sur les sites PS/PP : l'accord « Choisir 2027 » prévoit seulement que le candidat désigné proposera ensuite à la gauche de « construire ensemble un programme commun » (parti-socialiste.fr, 25 août 2026). glucks2027.fr ne contient qu'un texte d'appel. Le Projet socialiste (6 parties, projet-socialiste.fr, lié depuis parti-socialiste.fr) est le projet du PS, pas celui de Glucksmann : il est archivé avec un libellé clair, il faudra décider s'il compte pour lui. Le même projet est archivé pour bouamrane. L'extraction PDF de « L'Acte I » mélange deux colonnes sur une même ligne (et contient quelques pages en texte inversé) : les citations courtes restent possibles, mais il vaudrait mieux une ré-extraction qui tient compte des colonnes avant d'en tirer des citations. Programme des européennes 2024 (liste PS–PP « Réveiller l'Europe ») non archivé car on dispose déjà de sources plus récentes."
+}

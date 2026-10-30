@@ -1,0 +1,27 @@
+{
+  "slug": "egger",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "La présente proposition vise à ce que les changements constitutionnels soient : - proposés par le président de la République, par les parlementaires ou par 700 000 citoyens ;",
+          "source_id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+          "page": null
+        }
+      ],
+      "note": "RIC constituant, déclenché par 700 000 signatures."
+    },
+    "q26": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "On vous promettra une assemblée constituante : c’est un moment, pas un mécanisme, et l’on vous demande de faire confiance à un processus dont personne ne connaît l’issue.",
+          "source_id": "le-dernier-droit-manifeste-pour-le-ric-constituant-de-soluti-3f45f4fa",
+          "page": 4
+        }
+      ],
+      "note": "Rejette l’assemblée constituante au profit d’une révision de l’article 89 (RIC constituant) ; passage tiré du manifeste 2026 du parti."
+    }
+  }
+}

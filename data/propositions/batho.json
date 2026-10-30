@@ -1,0 +1,164 @@
+[
+  {
+    "id": "batho-01",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Adopter une loi de programmation pour la résilience nationale, débattue au Parlement",
+    "quote": "La proposition d’une loi de programmation pour la résilience nationale répond donc à la fois à une nécessité démocratique, à savoir la saisine du Parlement et donc un débat national digne de ce nom, et à une nécessité de planification des moyens nécessaires à l’adaptation transformationnelle",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "batho-02",
+    "theme": "Logement et territoires",
+    "measure": "Cofinancer par l'État des chefs de projet résilience dans les intercommunalités et agglomérations",
+    "quote": "capacités de pilotage local grâce au cofinancement par l’État de chefs de projet résilience à l’échelle des intercommunalités rurales et des agglomérations urbaines",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "batho-03",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer une branche de la sécurité sociale couvrant les impacts du changement climatique",
+    "quote": "Génération Écologie appelle à la création d’une nouvelle branche de la sécurité sociale couvrant les impacts du changement climatique.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "batho-04",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Mettre à contribution en priorité les superprofits des énergies fossiles",
+    "quote": "Les moyens nécessaires sont colossaux et appellent la mise en place de financements innovants. Les superprofits sur les énergies fossiles sont les premiers à devoir être mis à contribution.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "batho-05",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Protéger drastiquement les captages d'eau, renaturer les rivières et régénérer les zones humides",
+    "quote": "Ralentir le cycle de l’eau et assurer la sécurité de l’approvisionnement en eau potable passe par des mesures d’ordre public environnemental impliquant la protection drastique des périmètres de captage, la renaturation des rivières, la préservation et la régénération des zones humides, le remaillage des haies et des prairies permanentes, et bien entendu une transformation du modèle agricole.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "batho-06",
+    "theme": "Agriculture et alimentation",
+    "measure": "Consacrer tous les moyens de la PAC à l'agroécologie, au bio et à la sortie de l'élevage industriel",
+    "quote": "Elle implique de consacrer tous les moyens de la politique agricole commune à la transformation agroécologique, à la conversion à l’agriculture biologique, à la sortie des modes d’élevage industriels pour favoriser le pâturage",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "batho-07",
+    "theme": "Agriculture et alimentation",
+    "measure": "Financer par la PAC l'installation de nouveaux agriculteurs, notamment éleveurs et maraîchers",
+    "quote": "Elle implique de consacrer tous les moyens de la politique agricole commune […] à l’installation de nouvelles et nouveaux agricultrices et agriculteurs, notamment éleveurs et maraîchers, aux garanties de sécurité économique à leur assurer.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "batho-08",
+    "theme": "Sécurité et justice",
+    "measure": "Créer un ministère de la Résilience, de la protection civile et des situations d'urgence",
+    "quote": "Génération Écologie porte de longue date la proposition de création d’un ministère de la Résilience, de la protection civile et des situations d’urgence.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "batho-09",
+    "theme": "Sécurité et justice",
+    "measure": "Renforcer considérablement la sécurité civile reposant sur les pompiers volontaires",
+    "quote": "Il devra élaborer et mettre en œuvre la loi de programmation en lien avec les territoires, renforcer considérablement le modèle de sécurité civile à la française qui repose sur nos pompiers-volontaires",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 8,
+    "concrete": false
+  },
+  {
+    "id": "batho-10",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Inscrire dans la loi une trajectoire de réchauffement de référence applicable à toutes les politiques publiques",
+    "quote": "Une trajectoire de référence n’a de sens que si elle a une portée pratique et normative pour tous les acteurs, publics et privés. Elle doit donc être inscrite impérativement dans la loi pour s’appliquer à toutes les politiques publiques",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "batho-11",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Soumettre lois, politiques publiques et aides de l'État à des tests de résistance à +3 °C",
+    "quote": "Les études d’impact des lois, les évaluations de politiques publiques, et à court terme, le conditionnement des aides de l’État, doivent intégrer des tests de résistance à minimum +3 °C de réchauffement mondial et proscrire la maladaptation.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "batho-12",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Mener une politique de relocalisation pour satisfaire les besoins vitaux",
+    "quote": "Prendre au sérieux ces risques devrait conduire à une politique de relocalisation pour satisfaire les besoins vitaux, menée tambour battant.",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 3,
+    "concrete": false
+  },
+  {
+    "id": "batho-13",
+    "theme": "Logement et territoires",
+    "measure": "Organiser la résilience à l'échelle des bassins de vie et des biorégions",
+    "quote": "L’approche doit être renversée. La résilience doit s’organiser à l’echelle des bassins de vie et des biorégions",
+    "source_id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "page": 5,
+    "concrete": false
+  },
+  {
+    "id": "batho-14",
+    "theme": "Institutions et démocratie",
+    "measure": "Abolir le présidentialisme et instaurer de nouvelles institutions démocratiques",
+    "quote": "En France, l’abolition du présidentialisme et la perspective de nouvelles institutions démocratiques sont la pierre angulaire du changement pour sortir du système de la croissance, lever une nouvelle espérance et battre l’extrême-droite.",
+    "source_id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "batho-15",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Plafonner l'empreinte carbone au nom de la justice climatique",
+    "quote": "Elle implique une forte réduction des inégalités qui minent le pacte républicain, notamment par la justice climatique au travers du plafonnement de l’empreinte carbone.",
+    "source_id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "page": 3,
+    "concrete": true
+  },
+  {
+    "id": "batho-16",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Réduire drastiquement la consommation d'énergie et de matières premières",
+    "quote": "Mais elle est désormais dépassée par la gravité des accélérations en cours qui rendent incontournable la réduction drastique de la consommation d’énergie et de matières premières.",
+    "source_id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "batho-17",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Faire de la décroissance le projet économique et politique commun",
+    "quote": "Génération Écologie est le parti de la décroissance. Notre but est celui d’une civilisation harmonieuse qui respecte les limites physiques de la planète en garantissant à chacune et chacun une vie digne, sûre et heureuse",
+    "source_id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "page": 2,
+    "concrete": false
+  },
+  {
+    "id": "batho-18",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Libérer du temps et rééquilibrer vie personnelle et vie professionnelle",
+    "quote": "Reprendre la maîtrise des conditions de vie passe par le combat pour le temps libéré et pour un nouvel équilibre entre vie personnelle et professionnelle permettant d’avoir le temps de vivre.",
+    "source_id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "page": 2,
+    "concrete": false
+  }
+]

@@ -1,0 +1,2073 @@
+[
+ {
+  "slug": "arthaud",
+  "name": "Nathalie Arthaud",
+  "party": "Lutte ouvrière",
+  "party_short": "LO",
+  "status": "officiel",
+  "status_note": "Brochure de campagne 2027, complétée par les positions publiées sur le site de Lutte ouvrière.",
+  "photo": "/photos/arthaud.jpg",
+  "photo_credit": "Kokluts, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Nathalie_Arthaud_(LO)_19-05-2024.jpg",
+  "sources": [
+   {
+    "id": "brochure-de-campagne-nathalie-arthaud-pr-sidentielle-2027-lu-c5d720a8",
+    "label": "Brochure de campagne « Nathalie Arthaud — Présidentielle 2027 » (Lutte ouvrière, mai 2026)",
+    "year": "2026",
+    "url": "https://www.lutte-ouvriere.org/medias/document/fichiers/2026/06/brochure-ete-2026.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c5d720a8cd9e06d7ba7a1229edd6f93294c41ae61c28b70e4f9b52c55052a190"
+   },
+   {
+    "id": "site-de-campagne-pr-sidentielle-2027-le-medef-dicte-son-prog-af37cd38",
+    "label": "Site de campagne présidentielle 2027 — « Le Medef dicte son programme, les travailleurs doivent imposer le leur ! »",
+    "year": "2026",
+    "url": "https://www.nathalie-arthaud.info/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "af37cd386df945c8ef67d9989e18e1dc38c0fe8dc3266d021b6278cd032f790a"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-renverser-l-ad4df7a6",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Renverser le capitalisme",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-renverser-le-capitalisme",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ad4df7a6eba17268316d67c54df4b8cde907c40278ee0007e14494b519d988f4"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-cologie-e01c71d2",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Écologie",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-ecologie",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e01c71d2b6fcfe919bc31039fd5cc3cad61b69ed16ef87dfbc49cb956cee6e5a"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-europe-1df1576e",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Europe",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-europe",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1df1576e538aa42d3936dc14fe67cf94483fa2beec1001b6e460a71b388bd22e"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-quitter-l-u-13edd05c",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Quitter l'Union européenne, une diversion",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-quitter-lunion-europeenne-et-retrouver-de-la-souverainete-une-diversion-et-un-mensonge",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "13edd05c213bec415f11daacf9a6e9d4fd12fa17cad425ab14e3bbf5ca59eb35"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-libre-chang-3c49120f",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Libre-échange et protectionnisme",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/libre-echange-protectionnisme-deux-politiques-bourgeoisie-165657",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "3c49120f6c6d0590668f430be3908eb94e92c10b3e380e4bdd91981d7feb74f9"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-l-tat-0c686777",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : L'État",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-etat",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "0c6867771ab5d460e7d5d2723029553673692bd969e7db4bcd9d06ae35cbe61a"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-f-minisme-c0b1ecb3",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Féminisme",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-feminisme",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c0b1ecb30fca7f73a59efcee58ae08c5beb81ee6311b5e6a6b39b7e060267930"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-logement-b33902b9",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Logement",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-nos-idees-et-positions-politiques-logement-un-droit-fondamental-conquerir",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "b33902b981d14e8e05f1bdd887afa13b35883aa3fcb1abb0913754c020ef0524"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-travailleur-cc66f0e9",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Travailleurs français et immigrés",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/travailleurs-francais-immigres-laissons-diviser-164193",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "cc66f0e9887361b0f841ba297956388efa106abadd3a82c14519e96a045e164f"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-le-capitali-4a3e5760",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Le capitalisme, c'est la guerre",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/capitalisme-cest-guerre-165279",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "4a3e5760c6ec4a9227c331689af68eb6fe494b72f1e8ad66c1c063097d3d1b9a"
+   },
+   {
+    "id": "lutte-ouvri-re-nos-id-es-et-positions-politiques-lutte-ouvri-88302b55",
+    "label": "Lutte ouvrière — Nos idées et positions politiques : Lutte ouvrière et les élections",
+    "year": "s.d.",
+    "url": "https://www.lutte-ouvriere.org/portail/qui-sommes-nous/qui-sommes-nous-LO-et-les-elections",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "88302b555908d8fdef087b1731648748ec90340513e51ec4f9af8620ab261309"
+   }
+  ]
+ },
+ {
+  "slug": "asselineau",
+  "name": "François Asselineau",
+  "party": "Union populaire républicaine",
+  "party_short": "UPR",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : programme 2022 de l'UPR et pages du site, annoncé « prochainement ».",
+  "photo": "/photos/asselineau.jpg",
+  "photo_credit": "Union Populaire Républicaine, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_ASSELINEAU.jpg",
+  "sources": [
+   {
+    "id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+    "label": "Programme de libération nationale de l'UPR et de François Asselineau — présidentielle et législatives 2022",
+    "year": "2022",
+    "url": "https://upr.fr/notre-programme/programme-2022",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2b00218ed04b13a944f57e0244affe75180882f2e0740332da330a79ae9011fe"
+   },
+   {
+    "id": "nos-fondamentaux-upr-d58e364e",
+    "label": "Nos fondamentaux — UPR",
+    "year": "2026",
+    "url": "https://upr.fr/nos-fondamentaux",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d58e364e48385d18f3a6fa66d21eacf04b0cb184938cf3b5f2b8480abfd39bec"
+   },
+   {
+    "id": "pourquoi-le-frexit-est-urgent-upr-ddb9b1c8",
+    "label": "Pourquoi le Frexit est urgent — UPR",
+    "year": "2026",
+    "url": "https://upr.fr/le-frexit",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ddb9b1c8c5f0805c49965727f20a7b67c74be88bfd878d2a944ea5209d2ffccb"
+   },
+   {
+    "id": "profession-de-foi-de-la-liste-asselineau-frexit-upr-europ-en-110ffbde",
+    "label": "Profession de foi de la liste Asselineau-Frexit (UPR) — européennes 2024",
+    "year": "2024",
+    "url": "https://upr.fr/post-img/uploads/2024/05/Profession-de-foi-Besoin-de-France.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "110ffbdee876d49e146d127b72cdd8ddaabd86d7015a80d3148509eb0724141e"
+   }
+  ]
+ },
+ {
+  "slug": "attal",
+  "name": "Gabriel Attal",
+  "party": "Renaissance",
+  "party_short": "RE",
+  "status": "officiel",
+  "status_note": "Pages « programme » de son site de campagne 2027, publiées thème par thème.",
+  "photo": "/photos/attal.jpg",
+  "photo_credit": "Ismail Aissoub, CC BY 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Gabriel_Attal_2025_(close_crop).jpg",
+  "sources": [
+   {
+    "id": "programme-pr-sidentiel-2027-chantier-capital-cole-82b26b8f",
+    "label": "Programme présidentiel 2027 — Chantier capital : École",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/education",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "82b26b8f495326856125846eef51b142977c0d2a2d210445e5f6e1188bf46413"
+   },
+   {
+    "id": "programme-pr-sidentiel-2027-chantier-capital-travail-et-sala-41513d8a",
+    "label": "Programme présidentiel 2027 — Chantier capital : Travail et salaires",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/travail-salaires",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "41513d8aa55ffd24d03df3e53984a786a2dbf4d93674f79b29908bc1276edea4"
+   },
+   {
+    "id": "programme-pr-sidentiel-2027-chantier-capital-fronti-res-a1b2f892",
+    "label": "Programme présidentiel 2027 — Chantier capital : Frontières",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/frontieres",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "a1b2f892226adb049b4d141801bd73e100c4aa53fcf9c433dc9eba613bce6b87"
+   },
+   {
+    "id": "programme-pr-sidentiel-2027-chantier-capital-intelligence-ar-ff07f35f",
+    "label": "Programme présidentiel 2027 — Chantier capital : Intelligence artificielle",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ff07f35f7cd06c12e7d9ba8b84f72dd04b4dd283bd6b5cb91a42ecdc8a9944e5"
+   },
+   {
+    "id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-de-l-tat-ec16a486",
+    "label": "Programme présidentiel 2027 — Dette à résorber : dette de l'État",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/dette-de-letat",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ec16a486681f13673f4405e62cb2efbb0c3f579077a85f3c956361926a5f5bdf"
+   },
+   {
+    "id": "programme-pr-sidentiel-2027-dette-r-sorber-dette-cologique-cc5c91d8",
+    "label": "Programme présidentiel 2027 — Dette à résorber : dette écologique",
+    "year": "2026",
+    "url": "https://attalpresident.fr/programme/dette-ecologique",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "cc5c91d8f603ee9d6a2b76c9e6880005945af97a6bf0e8cc95c44e6690d27d11"
+   }
+  ]
+ },
+ {
+  "slug": "batho",
+  "name": "Delphine Batho",
+  "party": "Génération écologie",
+  "party_short": "GE",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : documents d'orientation de Génération écologie (2023-2024).",
+  "photo": "/photos/batho.jpg",
+  "photo_credit": "DeuxSevres79, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Delphine_Batho_(cropped-2).png",
+  "sources": [
+   {
+    "id": "d-claration-de-candidature-de-delphine-batho-page-d-accueil--c92009ae",
+    "label": "Déclaration de candidature de Delphine Batho — page d'accueil du site de campagne",
+    "year": "2026",
+    "url": "https://www.delphinebatho.fr/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c92009ae0bfce856fccf223b939e5d412334f65e126b49792bd5037b940a7a79"
+   },
+   {
+    "id": "vivre-autrement-motion-d-orientation-de-g-n-ration-cologie-1-5d57f783",
+    "label": "Vivre autrement ! — motion d'orientation de Génération Écologie (14e convention nationale, déc. 2023)",
+    "year": "2023",
+    "url": "https://www.generationecologie.fr/wp-content/uploads/2025/07/VIVRE-AUTREMENT-14eme-convention-nationale.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5d57f7835da8fc6b293fda4b1170921b4a7d062bced5aa7a881ac1667d0c8ceb"
+   },
+   {
+    "id": "pour-un-tat-r-silience-cahier-d-acteur-de-g-n-ration-cologie-f58ed922",
+    "label": "Pour un État-Résilience — cahier d'acteur de Génération Écologie (adaptation au changement climatique)",
+    "year": "2024",
+    "url": "https://www.generationecologie.fr/wp-content/uploads/2025/06/POUR-UN-ETAT-RESILIENCE-cahier-dacteur-de-Generation-Ecologie.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "f58ed9222cdebcb9907fb01323460af075df4f2fe7327e0dff22ed2cacfe5743"
+   }
+  ]
+ },
+ {
+  "slug": "becht",
+  "name": "Olivier Becht",
+  "party": "Sans étiquette (Le Projet France)",
+  "party_short": "SE",
+  "status": "officiel",
+  "status_note": "« Le Projet France » : pages de campagne et livre-programme publié par parties.",
+  "photo": "/photos/becht.jpg",
+  "photo_credit": "Jean-Luc Hauser, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Olivier_Becht_(cropped).jpg",
+  "sources": [
+   {
+    "id": "le-projet-france-2027-les-5-refondations-la-refondation-soci-5f921a3d",
+    "label": "Le Projet France (2027) — Les 5 refondations : la refondation sociale",
+    "year": "2026",
+    "url": "https://becht2027.fr/projet-france/les-5-refondations/refondation-sociale/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5f921a3d914fe5bd45c13cbd435ed3b0527b1d2b2ee545c2bbfc2a8acde0559e"
+   },
+   {
+    "id": "le-projet-france-2027-les-5-refondations-la-sant-4adc3b88",
+    "label": "Le Projet France (2027) — Les 5 refondations : la santé",
+    "year": "2026",
+    "url": "https://becht2027.fr/projet-france/les-5-refondations/refondation-sante/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "4adc3b88e41f198f5fdf4c5cb65a79e3c920ac93f48b026ee91491f5ca0929f7"
+   },
+   {
+    "id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+    "label": "Le Projet France (2027) — Les 5 refondations : la sécurité",
+    "year": "2026",
+    "url": "https://becht2027.fr/projet-france/les-5-refondations/refondation-securite/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "990851954bcc36f3202d63d1beb198e7bac73a956cebad2fbf6ebc848fe34957"
+   },
+   {
+    "id": "le-projet-france-2027-les-5-refondations-l-nergie-743a9fcb",
+    "label": "Le Projet France (2027) — Les 5 refondations : l'énergie",
+    "year": "2026",
+    "url": "https://becht2027.fr/projet-france/les-5-refondations/refondation-energie/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "743a9fcb96ffc9b916bb985debd98c640f1312fb6f4b7e60180b16435bbf7406"
+   },
+   {
+    "id": "le-projet-france-2027-les-5-refondations-le-pacte-d-mocratiq-8ad359c5",
+    "label": "Le Projet France (2027) — Les 5 refondations : le pacte démocratique et territorial",
+    "year": "2026",
+    "url": "https://becht2027.fr/projet-france/les-5-refondations/refondation-democratique-territoriale/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8ad359c5f01bd5189e8629f3b14d2c6086a44261207c8750ef3d654907e95a7e"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-8adb9099",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 3 : De l'espoir à l'action / Fixer le cap et redonner du sens / Le Projet France",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-3-50fc448ee1dcf36f.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8adb90998f00a404fba1c94ac58d7af083e46aff105bdfac543d4de38df243d7"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ea72db12",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 4 : Un nouveau modèle économique",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-4-d23eb5f5d21db80b.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ea72db126d675c0eb6fc08a68122e1b53a911685c0321abff32395bc30f8664d"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 5 : Un nouveau modèle social",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-5-fcaa35990f220f19.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ff675a9ee2a4f8dccde3e9f0f29e12342946d575322e95667dff0d46f1dfd9d9"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 6 : Un nouveau modèle de santé",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-6-4d6eceb640fa0fad.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7d5d766ef83bd864bc2fe5a0962e55a374e8693df30de7edfd0f70cf4f60507e"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 7 : Un nouveau modèle de sécurité",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-7-a99af3a0434069da.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1edc848824108dfe5e3129b8165008e1e52937f29e58222581494e9a497dd5e3"
+   },
+   {
+    "id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-194d6994",
+    "label": "Le Projet France, livre-programme d'Olivier Becht (2026) — Partie 8 : Un nouveau modèle d'organisation de la République et des Libertés",
+    "year": "2026",
+    "url": "https://becht2027.fr/wp-content/uploads/livre/olivier-becht-projet-france-partie-8-51a3e2d478b8f0ba.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "194d69946b4160a1ac04a6f1d1ed1c06403470cd226a6d20d8855dd0ac30b8f1"
+   }
+  ]
+ },
+ {
+  "slug": "bertrand",
+  "name": "Xavier Bertrand",
+  "party": "Nous France",
+  "party_short": "NF",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : texte de vision de Nous France (2021), sans mesures chiffrées.",
+  "photo": "/photos/bertrand.jpg",
+  "photo_credit": "Claudio Centonze / European Union, 2025 / EC - Audiovisual Service, CC BY 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Xavier_Bertrand_-_2025_(cropped).jpg",
+  "sources": [
+   {
+    "id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+    "label": "Nous France — « La vision » (manifeste du mouvement de Xavier Bertrand)",
+    "year": "2021",
+    "url": "https://www.nousfrance.fr/vision/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "df8fe68dc321d33e499ab5b9b406fa925cc96ac5eee62cbe84533ba5aef3d50e"
+   }
+  ]
+ },
+ {
+  "slug": "bouamrane",
+  "name": "Karim Bouamrane",
+  "party": "Parti socialiste",
+  "party_short": "PS",
+  "status": "partiel",
+  "status_note": "Manifeste de candidature 2027, sans programme détaillé à ce jour.",
+  "photo": "/photos/bouamrane.jpg",
+  "photo_credit": "Oumma, CC BY 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Karim_Bouamrane_en_2026_(cropped).jpg",
+  "sources": [
+   {
+    "id": "manifeste-de-karim-bouamrane-pour-2027-une-france-humaine-un-4cdd196f",
+    "label": "Manifeste de Karim Bouamrane pour 2027 — « Une France humaine. Une France forte. »",
+    "year": "2026",
+    "url": "https://www.karimbouamrane2027.org/output/pdf/manifeste-karim-bouamrane-2027-v2.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "4cdd196fb04925ee78f15cca34a2f446cf80afc20841f9078f16b8764b6f9a2f"
+   }
+  ]
+ },
+ {
+  "slug": "branco",
+  "name": "Juan Branco",
+  "party": "Les Ruches",
+  "party_short": "Les Ruches",
+  "status": "officiel",
+  "status_note": "Programme 2027 complet (« La Voie »), publié en PDF.",
+  "photo": "/photos/branco.jpg",
+  "photo_credit": "Web Summit, CC BY 2.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:2019_-_Centre_Stage_-_Day_2_VJR21625_(49024215596).jpg",
+  "sources": [
+   {
+    "id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+    "label": "Le Projet — programme de Juan Branco pour 2027 (PDF, « La Voie »)",
+    "year": "2026",
+    "url": "https://ruches.org/projet-1784217879253.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "3aa327786a7726072ab2d08b4fd2f74adfa128158156164b54376d71a317ab98"
+   }
+  ]
+ },
+ {
+  "slug": "cazeneuve",
+  "name": "Bernard Cazeneuve",
+  "party": "La Convention",
+  "party_short": "LC",
+  "status": "officiel",
+  "status_note": "Lettre aux Français de juillet 2026 et sa synthèse, qui se terminent par une liste de mesures.",
+  "photo": "/photos/cazeneuve.jpg",
+  "photo_credit": "Jérémy Barande, CC BY-SA 2.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Bernard_Cazeneuve,_(42399145362)_(cropped).jpg",
+  "sources": [
+   {
+    "id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+    "label": "« Tenir la promesse de la France » — Lettre de Bernard Cazeneuve aux Françaises et aux Français (texte intégral, 15 juillet 2026)",
+    "year": "2026",
+    "url": "https://assets.nationbuilder.com/laconvention/pages/2515/attachments/original/1784151599/Auxfrancaisversionfinale1507.pdf?1784151599",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "00f95d1a6ddf294a6c4a3955906b4fabdfb6581d0e9b2aa7c0385a89bb0f8529"
+   },
+   {
+    "id": "tenir-la-promesse-de-la-france-synth-se-de-la-lettre-de-bern-86f66a80",
+    "label": "« Tenir la promesse de la France » — Synthèse de la lettre de Bernard Cazeneuve et de ses mesures (juillet 2026)",
+    "year": "2026",
+    "url": "https://assets.nationbuilder.com/laconvention/pages/2513/attachments/original/1784135398/Synthese_mesuresVfinale.pdf?1784135398",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "86f66a80a7b91f5fa5419344c17543ab08092234797c5ccc2b1d8a8317eda5ce"
+   }
+  ]
+ },
+ {
+  "slug": "dupont-aignan",
+  "name": "Nicolas Dupont-Aignan",
+  "party": "Debout la France",
+  "party_short": "DLF",
+  "status": "officiel",
+  "status_note": "Pages « Projet 2027 » du site de Debout la France, en cours de mise à jour.",
+  "photo": "/photos/dupont-aignan.jpg",
+  "photo_credit": "Debout la France, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Nicolas_Dupont-Aignan,_homme_politique_fran%C3%A7ais.jpg",
+  "sources": [
+   {
+    "id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+    "label": "Projet 2027 de Debout la France — Sécurité",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/securite/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "cf1261ae7d25fd3dd20bc0636ebfaf5395ccc002920237490f44b429b2ee1fa6"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-intelligence-artificielle-e0024e23",
+    "label": "Projet 2027 de Debout la France — Intelligence artificielle",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/intelligence-artificielle/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e0024e23bbe44f737ee5e901a677552d85ba4771b4b077e69c623d321fcbdef9"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-produire-en-france-915e01cc",
+    "label": "Projet 2027 de Debout la France — Produire en France",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/produire-en-france/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "915e01cc0543e59dca7c9c17c3f8b7a7f90f8ed66d17e2803220342cd0b25a87"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+    "label": "Projet 2027 de Debout la France — Refonder et moraliser notre démocratie",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/refonder-et-moraliser-notre-democratie/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "78b25a889030938ca787daf4e77fd48632f564927208d10a832738186dc453ff"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+    "label": "Projet 2027 de Debout la France — Affaires européennes",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/affaires-europeennes/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7c3f93d793f16182a26c669e8e802db7b56c22220826585998c4e35ea0615dea"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-affaires-trang-res-28dc8f51",
+    "label": "Projet 2027 de Debout la France — Affaires étrangères",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/affaires-etrangeres/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "28dc8f51b65797f26d9b82abca2131c91bf1543a084a8b6f610c54fe01be19f9"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-fran-ais-de-l-tranger-1e69df81",
+    "label": "Projet 2027 de Debout la France — Français de l'étranger",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/francais-de-l-etranger/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1e69df8176432500660416ccb9daa276f5404577d612c2502c0a407e41b62bb7"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-d-fense-nationale-3d4d8c27",
+    "label": "Projet 2027 de Debout la France — Défense nationale",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/defense/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "3d4d8c277dddfdde5ed0706628f117abb1f9c23e6270c1d87d77068b6b7cace7"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-conomie-5536feca",
+    "label": "Projet 2027 de Debout la France — Économie",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/economie-travail/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5536feca4360c7aa7ee113a09eaf9e5dfadf5a666618326a213368c45e4cbb16"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-agriculture-a47d3658",
+    "label": "Projet 2027 de Debout la France — Agriculture",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/agriculture/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "a47d36582fa09517b8da572f33f9faa0a3c45eaa95bab42215174152471a1544"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+    "label": "Projet 2027 de Debout la France — Justice",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/justice/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "343aa2ff5b33af26a3c2752a7c104d26a2a9513208f0187209aa9539bb664577"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+    "label": "Projet 2027 de Debout la France — Immigration et assimilation",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/immigration-et-assimilation/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "0f092ee596fea50b6907de45a5256906ffe88c9388125c139864219da34a4baa"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-combat-pour-les-femmes-27a3f6ef",
+    "label": "Projet 2027 de Debout la France — Combat pour les femmes",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/combat-pour-les-femmes/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "27a3f6efb1f3cfd991eaf4d3a1a15b52bd53beab0f0d358fde4d7bd8a0f82c4b"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-famille-ff6079fc",
+    "label": "Projet 2027 de Debout la France — Famille",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/famille/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ff6079fc920772b929f2556723c23ca85947da38383aa7d96467e3e2fce4dfe1"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-ducation-instruction-publiqu-d97d5516",
+    "label": "Projet 2027 de Debout la France — Éducation (instruction publique)",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/instruction-publique/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d97d5516fbd6e734b19d31dae709fd62807bdf020567ef04f986dfdfb3c8c804"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-logement-28d24a15",
+    "label": "Projet 2027 de Debout la France — Logement",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/logement/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "28d24a15781e6759f1ac3d28abf3cc0231e6092972119ea87ece3b53c9952204"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-handicap-9beee1c9",
+    "label": "Projet 2027 de Debout la France — Handicap",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/handicap/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "9beee1c9c51a20081f06d44d1fefe0a28ebb1fc4d4d03699f1f6cd1bc52af612"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+    "label": "Projet 2027 de Debout la France — Équilibre du territoire",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/equilibre-territoire-monde-rural/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "9abf8ea04aaba728e77a8d7164a4009b19f5d4bb89b5f9b38be7592b7d4dadcc"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-outre-mer-52a94d76",
+    "label": "Projet 2027 de Debout la France — Outre-mer",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/outre-mer/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "52a94d7602c3c8e91650c19e520460d4a9b46d011bede20599e7296f7fb94e64"
+   },
+   {
+    "id": "projet-2027-de-debout-la-france-automobilistes-et-motards-4b9039b5",
+    "label": "Projet 2027 de Debout la France — Automobilistes et motards",
+    "year": "2026",
+    "url": "https://www.debout-la-france.fr/projet/transport-automobilistes/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "4b9039b5df9af8abc317c0a24a5a68b8afcb47c8b1b672672ec68fff338a8014"
+   }
+  ]
+ },
+ {
+  "slug": "durif",
+  "name": "Sylvain Durif",
+  "party": "Sans étiquette",
+  "party_short": "SE",
+  "status": "officiel",
+  "status_note": "Les 50 engagements de son site de campagne, consultés via une copie archivée (site suspendu depuis).",
+  "photo": "/photos/durif.jpg",
+  "photo_credit": "chatzefratz, CC BY 3.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Sylvain_Durif,_sur_une_aire_d%27autoroute,_en_2013.png",
+  "sources": [
+   {
+    "id": "le-projet-de-sylvain-durif-50-engagements-programme-pr-siden-05a18eea",
+    "label": "Le projet de Sylvain Durif — 50 engagements, programme présidentiel 2027-2032 — durif2027.com (copie archivée du 07/09/2026)",
+    "year": "2026",
+    "url": "https://web.archive.org/web/20260907031428id_/https://durif2027.com/le-projet",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "05a18eeaa8ac045b594845a9383e534f0a0d947bd66f3975077dadc1dee395a7"
+   }
+  ]
+ },
+ {
+  "slug": "egger",
+  "name": "Clara Egger",
+  "party": "Solution démocratique",
+  "party_short": "SD",
+  "status": "officiel",
+  "status_note": "Programme limité volontairement à deux réformes institutionnelles.",
+  "photo": "/photos/egger.jpg",
+  "photo_credit": "Thomas Binet, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:ClaraEgger_2021-12-29_18-16-03.jpg",
+  "sources": [
+   {
+    "id": "pr-sidentielle-2027-programme-de-clara-egger-deux-r-formes-i-1b5e1213",
+    "label": "Présidentielle 2027 : programme de Clara Egger (deux réformes institutionnelles et calendrier d'application)",
+    "year": "2026",
+    "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1b5e12139446e5fcf044b01633f6ba9709f2e97ae1652f2ecb10a1dbf2005f9b"
+   },
+   {
+    "id": "proposition-de-r-vision-constitutionnelle-ric-constituant-te-839d80b7",
+    "label": "Proposition de révision constitutionnelle (RIC constituant) — texte de la réforme n° 1 du programme 2027",
+    "year": "2026",
+    "url": "https://solutiondemocratique.fr/proposition-de-revision-constitutionnelle-controle-constitution/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "839d80b74ccd856f5877b46d10898ba091862ee90bbdc4ae0e818ed7d43f3510"
+   },
+   {
+    "id": "proposition-de-r-vision-l-gislative-d-mocratie-directe-dans--8cf924eb",
+    "label": "Proposition de révision législative (démocratie directe dans les communes) — texte de la réforme n° 2 du programme 2027",
+    "year": "2026",
+    "url": "https://solutiondemocratique.fr/proposition-de-revision-legislative-pour-instaurer-la-democratie-directe-dans-les-communes/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8cf924eb10bec3694ed667ae0139fd7267fdc9d2b071a81b2194b813d246da54"
+   },
+   {
+    "id": "pr-sidentielle-2027-pour-une-candidature-citoyenne-en-2027-d-71910182",
+    "label": "Présidentielle 2027 — « Pour une candidature citoyenne en 2027 » (document de présentation du projet, PDF)",
+    "year": "2026",
+    "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/05/presidentielle2027-projet.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "719101825565f66f6b4ff54f41f8c2a2fde660d7d269d673d54b398dd782a43d"
+   },
+   {
+    "id": "le-dernier-droit-manifeste-pour-le-ric-constituant-de-soluti-3f45f4fa",
+    "label": "« Le dernier droit » — Manifeste pour le RIC constituant de Solution démocratique (2026, PDF)",
+    "year": "2026",
+    "url": "https://solutiondemocratique.fr/wp-content/uploads/2026/07/manifeste-solution-democratique2026.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "3f45f4fafb854077e3c1f5c4d533d922613d6e462352a206525d645a896fad5b"
+   }
+  ]
+ },
+ {
+  "slug": "glucksmann",
+  "name": "Raphaël Glucksmann",
+  "party": "Place publique (candidat PS–Place publique)",
+  "party_short": "PP",
+  "status": "partiel",
+  "status_note": "Pas encore de programme de campagne : « L'Acte I » de Place publique, sa lettre aux Français et le projet du PS adopté en juin 2026.",
+  "photo": "/photos/glucksmann.jpg",
+  "photo_credit": "Librairie Mollat, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_Glucksmann.jpg",
+  "sources": [
+   {
+    "id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+    "label": "L'Acte I — projet de Place publique pour la France",
+    "year": "2025",
+    "url": "https://place-publique.eu/document/6J8wjk3EW8dBCLwKxa7J96/projet-placepublique-acte1.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "3898722a862a3ecef7d5481f7fc04ad7c329cd7e4070ed6f8de7a57cef4b1e7e"
+   },
+   {
+    "id": "lettre-aux-fran-ais-de-rapha-l-glucksmann-d-claration-de-can-7b614b46",
+    "label": "Lettre aux Français de Raphaël Glucksmann — déclaration de candidature à la présidentielle 2027",
+    "year": "2026",
+    "url": "https://place-publique.eu/posts/2fgDdljEIy36rgxBjRyiQZ/raphael-glucksmann-sa-lettre-aux-francais",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7b614b46eff044d4d8b0c24ff5053b76b30fa9163d9c8fe462b7aedb4d8207d6"
+   },
+   {
+    "id": "les-combats-de-place-publique-page-programmatique-du-site-of-431e2e79",
+    "label": "Les combats de Place publique — page programmatique du site officiel",
+    "year": "2026",
+    "url": "https://place-publique.eu/pages/59EfFYTpFlj2lJhQ92PXsy/les-urgences",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "431e2e79587ef4d38a1dcf00698d1448f653a29fe250669f9169138797e0314e"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-9495bd2e",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « Vivre libres »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/vivre-libres/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "9495bd2ec142e08c562e80aee49a719d30e54e73815e4407ce65c4eaf9989cb3"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « Être en sécurités »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/etre-en-securites/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "81c8ca4c3b69ef394baf7c1bc600f2b09910febd1bb3c40991c0a8a1ef42e713"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d7c13a71",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « S'épanouir à égalité »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/sepanouir-a-egalite/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d7c13a71736641f98dd6be29fc9ff090de36ff6ebdd191d58f8a513abfdae9a3"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-78a729f0",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « Vivre avec la nature »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/vivre-avec-la-nature/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "78a729f0e59136840ecb6d3c582f0411bbeaad0a15c81f44c45d8f1ce31a3970"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « Refaire société »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/refaire-societe/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d4fac8d0c1e1fd756bdbe8c290b631fa5431f0c6bc34e3030a19334ce1722138"
+   },
+   {
+    "id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-37d400e2",
+    "label": "Projet socialiste (adopté par les militants PS le 25 juin 2026) — partie « Pacifier le monde »",
+    "year": "2026",
+    "url": "https://projet-socialiste.fr/projet/pacifier-le-monde/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "37d400e25efe19d68810ea1cb61b03947b3362296e939cd019131c86d254394f"
+   }
+  ]
+ },
+ {
+  "slug": "kazib",
+  "name": "Anasse Kazib",
+  "party": "Révolution permanente",
+  "party_short": "RP",
+  "status": "officiel",
+  "status_note": "Page « Programme » et tract de campagne 2027.",
+  "photo": "/photos/kazib.jpg",
+  "photo_credit": "PabloMorao27, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Anasse_Kazib,_d%C3%A9cembre_2021.jpg",
+  "sources": [
+   {
+    "id": "programme-pr-sidentielle-2027-d-anasse-kazib-page-programme--a38ca32d",
+    "label": "Programme présidentielle 2027 d'Anasse Kazib (page « Programme » du site de campagne)",
+    "year": "2026",
+    "url": "https://anasse2027.fr/programme",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "a38ca32d0a30a29c43208106112502f865dddd4e36486192b4730bf36881e838"
+   },
+   {
+    "id": "d-pliant-programme-anasse-2027-57722b44",
+    "label": "Dépliant programme « Anasse 2027 »",
+    "year": "2026",
+    "url": "https://anasse2027.fr/programme/depliant-anasse-2027.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "57722b44b7912f163590903a62a95e756073900ae273f738f5e2d729eb0a8c8a"
+   }
+  ]
+ },
+ {
+  "slug": "labib",
+  "name": "Selma Labib",
+  "party": "NPA – Révolutionnaires",
+  "party_short": "NPA-R",
+  "status": "officiel",
+  "status_note": "Tract de campagne 2027 de quatre pages, complété par la déclaration européenne de 2024.",
+  "photo": null,
+  "photo_credit": null,
+  "photo_page": null,
+  "sources": [
+   {
+    "id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+    "label": "Tract 4 pages de campagne présidentielle 2027 « C'est aux travailleurs et aux travailleuses de diriger la société ! »",
+    "year": "2026",
+    "url": "https://npa-revolutionnaires.org/wp-content/uploads/2026/09/260919_4p-campagne-A4.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2ee56502dbba87b73784b7b01a351f1a375e8e9d63aa09bc956db861c290edbb"
+   },
+   {
+    "id": "d-claration-de-la-liste-npa-pour-un-monde-sans-patrons-ni-fr-6ae96fca",
+    "label": "Déclaration de la liste NPA « Pour un monde sans patrons ni frontières, urgence révolution ! » — européennes 2024 (conduite par Selma Labib)",
+    "year": "2024",
+    "url": "https://npa-revolutionnaires.org/articles/pour-un-monde-sans-patrons-ni-frontieres-urgence-revolution",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6ae96fcaeb876037580ca8d68aed6d6673ebb76b9f99a063e59fcd35642de39b"
+   }
+  ]
+ },
+ {
+  "slug": "lalanne",
+  "name": "Francis Lalanne",
+  "party": "France Libre",
+  "party_short": "FL",
+  "status": "officiel",
+  "status_note": "Page « Le Projet 2027 », complétée par les thèmes de France Libre (2024).",
+  "photo": "/photos/lalanne.jpg",
+  "photo_credit": "Nicolas Richoffer, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Francis_Lalanne_2017.jpg",
+  "sources": [
+   {
+    "id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007",
+    "label": "Le Projet 2027 — programme de la campagne Dieudonné et Francis Lalanne",
+    "year": "2026",
+    "url": "https://dieudolalanne2027.com/programme/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "10c3b007637215f886aa05c83a7b73ebd76dbb8de2732d848b292cdc3c58c87f"
+   },
+   {
+    "id": "nos-th-mes-et-valeurs-france-libre-profession-de-foi-par-th--24079f3c",
+    "label": "Nos thèmes et valeurs — France Libre (profession de foi par thème, élections 2024, liste conduite par Francis Lalanne)",
+    "year": "2024",
+    "url": "https://france-libre.fr/nos-themes-et-valeurs/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "24079f3c4e014f93f213afa282df53c836f9bea1ebf3cd4654ad5e6a8be0f646"
+   }
+  ]
+ },
+ {
+  "slug": "le-pen",
+  "name": "Marine Le Pen",
+  "party": "Rassemblement national",
+  "party_short": "RN",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : programmes 2024 du RN, contre-budget 2026 et livret « entreprises ».",
+  "photo": "/photos/le-pen.jpg",
+  "photo_credit": "Vox España, CC0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Marine_Le_Pen_2025_(cropped).jpg",
+  "sources": [
+   {
+    "id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+    "label": "Programme du Rassemblement national — législatives 2024",
+    "year": "2024",
+    "url": "https://rassemblementnational.fr/documents/202406-programme.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8bc4d891a6011ab2f219bfefbdbd2b9eb75e2c47f8182a74ab64faf09b7e8ed4"
+   },
+   {
+    "id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+    "label": "Programme du Rassemblement national — européennes 2024",
+    "year": "2024",
+    "url": "https://rassemblementnational.fr/documents/202411-programme-europeennes.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d8ca9c4af92be12b9ee9a1876742c9e0d578dfc2134b4bf63ce126624dd3fe80"
+   },
+   {
+    "id": "contre-budget-2026-du-groupe-rassemblement-national-800c6620",
+    "label": "Contre-budget 2026 du groupe Rassemblement national",
+    "year": "2025",
+    "url": "https://rassemblementnational.fr/documents/GRN-CONTRE-BUDGET-2026.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "800c6620d215ee12ad7166e3ad2e25da6c5b4de79e141e572118341e4f92a24b"
+   },
+   {
+    "id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+    "label": "Projet de Marine Le Pen — livret entreprise (programme présidentiel 2022 mis à jour, groupe RN, 2025)",
+    "year": "2025",
+    "url": "https://rassemblementnational.fr/documents/WEB-GRN-LIVRET-ENTREPRISE.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "84fcdf9546e870b286a36a0103fc8e90d5870eac1fa5b2f31cc8123ae2f3becd"
+   }
+  ]
+ },
+ {
+  "slug": "lisnard",
+  "name": "David Lisnard",
+  "party": "Nouvelle Énergie",
+  "party_short": "NE",
+  "status": "officiel",
+  "status_note": "Pages « Notre programme » de Nouvelle Énergie, complétées par des livrets thématiques.",
+  "photo": "/photos/lisnard.jpg",
+  "photo_credit": "Grégor Sauvagère, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:David_Lisnard_en_2026.jpg",
+  "sources": [
+   {
+    "id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "label": "Programme de David Lisnard — Axe 1 : Être maître de notre destin",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/etre-maitre-de-notre-destin/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "bb339483152fc33fe895dabbb438c2fa61b713fa2f8ed29ad8a2092ae4175221"
+   },
+   {
+    "id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "label": "Programme de David Lisnard — Axe 2 : Réussir une nouvelle ambition française",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/reussir-une-nouvelle-ambition-francaise/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "068345e8706bb08da36cd909927939b61a247f63b6e68eff6789e1b88eb3f9f2"
+   },
+   {
+    "id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "label": "Programme de David Lisnard — Axe 3 : Générer un renouveau civique",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/generer-un-renouveau-civique/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "933386057d62dceec04a03b740ab523c62a9fe55aa562cbd68c329a802932cfb"
+   },
+   {
+    "id": "programme-de-david-lisnard-ducation-763a671c",
+    "label": "Programme de David Lisnard — Éducation",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/education/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "763a671c755cfeb343c53b97983ac99754a2a4407926235d9f39c45eea5c8862"
+   },
+   {
+    "id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "label": "Programme de David Lisnard — Sécurité",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d8e06b1abb238f6f79e37ba19649394609d2e974fc764ab8da935e27d92a6af3"
+   },
+   {
+    "id": "programme-de-david-lisnard-sant-40f57772",
+    "label": "Programme de David Lisnard — Santé",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/sante/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "40f5777218394cabd9fdba033bb20dec39fc089a6b2d779852fb5fb97e5bd3b8"
+   },
+   {
+    "id": "programme-de-david-lisnard-agriculture-e27903d3",
+    "label": "Programme de David Lisnard — Agriculture",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/agriculture/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e27903d3a0cefd28c6a271eeccad1f1444fb32269483ea13251138a6848eaf47"
+   },
+   {
+    "id": "programme-de-david-lisnard-immigration-13a3b004",
+    "label": "Programme de David Lisnard — Immigration",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "13a3b004fd7c25077bf42071a94a3eb4ac7ea16a4a29d6635a83bf0839bbee11"
+   },
+   {
+    "id": "discours-de-david-lisnard-bayeux-17-juin-2026-institutions-6d03dc17",
+    "label": "Discours de David Lisnard à Bayeux (17 juin 2026) — institutions",
+    "year": "2026",
+    "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/Discours-de-David-Lisnard-a-Bayeux-17062026.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6d03dc178d1d921a7e1361bd45bee19979617679cb4f097cb7137d718a6e6529"
+   },
+   {
+    "id": "le-livre-noir-en-finir-avec-la-bureaucratie-nouvelle-nergie-a074a500",
+    "label": "Le livre noir — en finir avec la bureaucratie (Nouvelle Énergie)",
+    "year": "2026",
+    "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "a074a50031da9bef4650560bf6d9881ea35864609a896b274586e6ded24b00ca"
+   },
+   {
+    "id": "les-carnets-sant-2026-nouvelle-nergie-12d49608",
+    "label": "Les carnets Santé 2026 (Nouvelle Énergie)",
+    "year": "2026",
+    "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "12d4960813fe48773c018509552e59b3d4acd65d627afae15e0000cc313f40ae"
+   },
+   {
+    "id": "les-carnets-agriculture-2026-nouvelle-nergie-ec3ca528",
+    "label": "Les carnets Agriculture 2026 (Nouvelle Énergie)",
+    "year": "2026",
+    "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ec3ca5281c585919116742b5735fae18bc6ff1b7246afe33d94b46be2acea1dc"
+   }
+  ]
+ },
+ {
+  "slug": "markovic",
+  "name": "Mira Markovic",
+  "party": "Parti animaliste",
+  "party_short": "PA",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : programmes national et européen (2024) du Parti animaliste.",
+  "photo": null,
+  "photo_credit": null,
+  "photo_page": null,
+  "sources": [
+   {
+    "id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+    "label": "Programme du Parti animaliste — élections européennes 2024",
+    "year": "2024",
+    "url": "https://parti-animaliste.fr/wp-content/uploads/2024/05/programme-europeennes-2024.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "179df6159dc662812b19de2d5dda437a5077e3abe42f7a20aab7e7d8d891b5b8"
+   },
+   {
+    "id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+    "label": "Programme national du Parti animaliste — « Sauver les animaux et nous sauver nous-mêmes » (élections nationales)",
+    "year": "2022",
+    "url": "https://parti-animaliste.fr/programme-legislatives",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5e90dd2c255caefe04ad56d2c66a04f67545c589b64c2570a61d3d0b5cc0753d"
+   }
+  ]
+ },
+ {
+  "slug": "mathieu",
+  "name": "Benoît Mathieu",
+  "party": "Sans étiquette",
+  "party_short": "SE",
+  "status": "officiel",
+  "status_note": "Programme centré sur la seule réforme démocratique (RIC, assemblée citoyenne).",
+  "photo": null,
+  "photo_credit": null,
+  "photo_page": null,
+  "sources": [
+   {
+    "id": "programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8",
+    "label": "Programme 2027 de Benoît Mathieu — programme démocratique (RIC et assemblée citoyenne constituante)",
+    "year": "2026",
+    "url": "https://benoitmathieu2027.fr/programme",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "cb4fc3d8a7b36377961cdef489400b6eeeee6afb117477a8fa58af8f18087fb4"
+   },
+   {
+    "id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "label": "Le candidat — constat et démarche de Benoît Mathieu pour 2027",
+    "year": "2026",
+    "url": "https://benoitmathieu2027.fr/le-candidat",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "04253470c31989fd1623442d3690cfe663c99e5dfc30f5446b6964a3e57fc3b1"
+   }
+  ]
+ },
+ {
+  "slug": "melenchon",
+  "name": "Jean-Luc Mélenchon",
+  "party": "La France insoumise",
+  "party_short": "LFI",
+  "status": "officiel",
+  "status_note": "Plans thématiques « édition 2027 » et « L'Avenir en commun » (2025). La nouvelle édition du programme est annoncée pour novembre 2026.",
+  "photo": "/photos/melenchon.jpg",
+  "photo_credit": "Lula Oficial, CC BY-SA 2.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:06.06.2025_JLM_portrait.jpg",
+  "sources": [
+   {
+    "id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+    "label": "L'Avenir en commun — programme de la France insoumise, 4e édition (2025)",
+    "year": "2025",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2025/02/A5-PROGRAMME-SITE.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "da9f73405a5e0f6efc4da9fd4f907de5a0822eeade54e993f8c6e9e60d0c78c8"
+   },
+   {
+    "id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+    "label": "Plan thématique 2027 : « Comment nous allons garantir l'égalité pour des ruralités où il fait bon vivre »",
+    "year": "2026",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_RURALITE_web.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5d386999f86677578f5432d9bb13e25bdaefacfff17b870597234ab230703beb"
+   },
+   {
+    "id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+    "label": "Plan thématique 2027 : « Comment nous allons refonder l'enseignement supérieur, la recherche et la formation continue »",
+    "year": "2026",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/plan_ESR_lowres.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "63312f8dfb7d5beb4cabe467580f6b19aaed7c05c7f5b7d24c50420062fb7c51"
+   },
+   {
+    "id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+    "label": "Plan 2027 : « Comment nous allons remettre de l'ordre dans les comptes publics »",
+    "year": "2026",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/Comment-nous-allons-remettre-de-l-ordre-dans-les-comptes-publics.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "796b2e7a7a3d26e6812498c7ad5e0589134fdb0429918e40975dfa22a67563e7"
+   },
+   {
+    "id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+    "label": "Plan d'investissement productif 2027 : BTP et logement",
+    "year": "2026",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/09/M-27-PLAN-BTP-LOGEMENT.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "39c0f0e8207a9aebc966cdfa9cbac99ed6e0217c987e13f59c24798474fd7874"
+   },
+   {
+    "id": "plan-d-investissement-productif-2027-automobile-c97c3dbd",
+    "label": "Plan d'investissement productif 2027 : automobile",
+    "year": "2026",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/10/PLAN-AUTO_Vf_ST.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c97c3dbd8a49e04f18a23c73cf04d49fb14b4fd3083563abc6e83aa92177441c"
+   },
+   {
+    "id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-e6dd6fbd",
+    "label": "Programme du Nouveau Front populaire — législatives 2024 (commun LFI, PS, Écologistes, PCF…)",
+    "year": "2024",
+    "url": "https://melenchon2027.fr/wp-content/uploads/2026/04/PROGRAMME-FRONT-POPULAIRE.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e6dd6fbd6c4315fbee86c2fcf4d7d008dfd2783d5a5ec1052fd0240c217a6cd3"
+   }
+  ]
+ },
+ {
+  "slug": "mikolajczak",
+  "name": "Antoine Mikolajczak",
+  "party": "Équinoxe",
+  "party_short": "Équinoxe",
+  "status": "partiel",
+  "status_note": "Programme 2027 annoncé pour le 2 novembre 2026 : positions tirées du programme législatif 2024 d'Équinoxe.",
+  "photo": null,
+  "photo_credit": null,
+  "photo_page": null,
+  "sources": [
+   {
+    "id": "pr-sidentielle-2027-candidature-d-antoine-mikolajczak-et-pri-e964154e",
+    "label": "Présidentielle 2027 — candidature d'Antoine Mikolajczak et priorités de campagne d'Équinoxe",
+    "year": "2026",
+    "url": "https://parti-equinoxe.fr/presidentielle-2027/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e964154e1970e715e9771d28d67f1920e79af0d019fcd7acd5e02392edfb09b2"
+   },
+   {
+    "id": "tract-de-campagne-pr-sidentielle-2027-renouer-avec-notre-ave-956477af",
+    "label": "Tract de campagne présidentielle 2027 « Renouer avec notre avenir » — Équinoxe",
+    "year": "2026",
+    "url": "https://parti-equinoxe.fr/wp-content/uploads/2026/07/Parti-equinoxe-Tracts.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "956477af9fb06baa7e0a6480aa883d1936eee50700c7a988bf628d6714f48481"
+   },
+   {
+    "id": "manifeste-d-quinoxe-pour-en-finir-avec-la-d-mesure-12c14dad",
+    "label": "Manifeste d'Équinoxe « Pour en finir avec la démesure »",
+    "year": "2026",
+    "url": "https://parti-equinoxe.fr/wp-content/uploads/2026/08/Manifeste-du-parti-Equinoxe-Pour-en-finir-avec-la-demesure.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "12c14dad03c6fdd04bd42c515c8626384e58dafa28646e57db6a94cb00a359bf"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-agriculture-2c270f14",
+    "label": "Programme d'Équinoxe — législatives 2024 — Agriculture",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-agriculture/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2c270f14f77530c5ce69f430208682ed7c5d521ed316584319b69ac8afd8ea76"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-transport-362f3fcd",
+    "label": "Programme d'Équinoxe — législatives 2024 — Transport",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-transport/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "362f3fcdeadc3bb13813b199aa33ae55c70f16dc42aac8647f282ba31b4fbb9b"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-nergie-24a75264",
+    "label": "Programme d'Équinoxe — législatives 2024 — Énergie",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-energie/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "24a752644651af24a17735e3e818f960a703402323d422910ba73bd06bee7c90"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+    "label": "Programme d'Équinoxe — législatives 2024 — Logement",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-logement/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6222b113244cb55c230c5e6a38e797824c5f28e21a321036996cf5c038aebfff"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+    "label": "Programme d'Équinoxe — législatives 2024 — Cohésion",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-cohesion/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e40c503f3469dcf9cfc2d67cbf43cd36f7ccf34cf975bb2673a4f93d76e703dc"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-num-rique-68b19e99",
+    "label": "Programme d'Équinoxe — législatives 2024 — Numérique",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-numerique/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "68b19e990533b58a723e5e12e576b8e522b50570ade7e86b6295668bc621bd10"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-missions-personnelles-5eba2be1",
+    "label": "Programme d'Équinoxe — législatives 2024 — Émissions personnelles",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-emissions-personnelles/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5eba2be1bdb0e99368dc163fff605380f15d4eb82171a3006c7ecad0c42c4c38"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-ducation-7056dde6",
+    "label": "Programme d'Équinoxe — législatives 2024 — Éducation",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-education/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7056dde63e252ab943fa60d0c0b5318e5927f653d220a36aa5358279c1fb6b91"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-sant-1bea47fb",
+    "label": "Programme d'Équinoxe — législatives 2024 — Santé",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-sante/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1bea47fb8ee982c0373acc1484428cda35aa1e13b930519f5e4a673ef959aa63"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-immigration-b4cc1660",
+    "label": "Programme d'Équinoxe — législatives 2024 — Immigration",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-immigration/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "b4cc1660f37cead105af6d96f5c1524ea0d66a67ae398b98262e067979202fe1"
+   },
+   {
+    "id": "programme-d-quinoxe-l-gislatives-2024-industrie-701016e0",
+    "label": "Programme d'Équinoxe — législatives 2024 — Industrie",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-industrie/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "701016e0e58fe60808116850cff3a1ea7cc9511effe0c1c818a683803188cf1f"
+   },
+   {
+    "id": "programme-l-gislatives-2024-international-quinoxe-afd25292",
+    "label": "Programme législatives 2024 — International (Équinoxe)",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-international/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "afd25292246c3e5abd8371d36f7e61695f091e6dd337abd139cc84be9def33e0"
+   },
+   {
+    "id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+    "label": "Programme législatives 2024 — Démocratie (Équinoxe)",
+    "year": "2024",
+    "url": "https://parti-equinoxe.fr/programme-legislatives-2024-democratie/",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1e8efca0e62e96908188f53593dcd4d6365934ace8189ce39eab9e5a6cd3d593"
+   }
+  ]
+ },
+ {
+  "slug": "mlekuz",
+  "name": "Manolo Mlekuz",
+  "party": "Trajectoire",
+  "party_short": "Trajectoire",
+  "status": "officiel",
+  "status_note": "Programme limité à un processus constituant, détaillé dans un livre blanc.",
+  "photo": null,
+  "photo_credit": null,
+  "photo_page": null,
+  "sources": [
+   {
+    "id": "programme-d-taill-de-trajectoire-2027-livre-blanc-nouvelle-d-94f62823",
+    "label": "Programme détaillé de Trajectoire 2027 — livre blanc « Nouvelle démocratie. Chemin pour changer les règles du jeu politique dès 2027 » (Démocratie Ouverte, publié par Trajectoire)",
+    "year": "2026",
+    "url": "https://trajectoire2027.fr/docs/programme-detaille-trajectoire.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "94f628237c316449edf61dcb32bf930b55c5126a8c9c922e057b6f5a0f75ec5d"
+   },
+   {
+    "id": "programme-trajectoire-2027-e557f7ad",
+    "label": "Programme — Trajectoire 2027",
+    "year": "2027",
+    "url": "https://trajectoire2027.fr/programme",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e557f7adeedc2b7cf5a092e10af6396351c491d0376638421cb0c3e60495bbf0"
+   }
+  ]
+ },
+ {
+  "slug": "philippe",
+  "name": "Édouard Philippe",
+  "party": "Horizons",
+  "party_short": "HOR",
+  "status": "officiel",
+  "status_note": "Premières orientations du programme publiées sur son site de campagne, et un document sur l'école.",
+  "photo": "/photos/philippe.jpg",
+  "photo_credit": "Wasasaq8, CC0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Edouard_Philippe_3x4_crop.jpg",
+  "sources": [
+   {
+    "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+    "label": "Priorités pour la présidentielle 2027 — Pour une France plus sûre",
+    "year": "2026",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "dbcc966a652bfee34266f143563964113026caf74eec3cd7c291cd56f4268222"
+   },
+   {
+    "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+    "label": "Priorités pour la présidentielle 2027 — Pour une France plus prospère",
+    "year": "2026",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e9a8533c99d13aa28f330bb2086f64128a76aea368217c15550d15feb11131df"
+   },
+   {
+    "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+    "label": "Priorités pour la présidentielle 2027 — Pour une France plus attentive à ses enfants",
+    "year": "2026",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "18f636b48d619d2e9c0170eaeae124b754a24d740cc696bb4be9e5b10bdd785c"
+   },
+   {
+    "id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-c-4b818d9c",
+    "label": "Priorités pour la présidentielle 2027 — Pour une France plus conquérante",
+    "year": "2026",
+    "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "4b818d9c84344a5713636292473931152baf5718aa3f3b82283761b57203ec81"
+   },
+   {
+    "id": "l-cole-questions-et-r-ponses-d-douard-philippe-campagne-2027-417f6b62",
+    "label": "L'école : questions et réponses d'Édouard Philippe (campagne 2027, octobre 2026)",
+    "year": "2026",
+    "url": "https://www.edouardphilippe.fr/questions-reponses/ecoles",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "417f6b6238bc46c205ec26067717ceb811f166d36f2a9b25e6b1b668add4cbf7"
+   }
+  ]
+ },
+ {
+  "slug": "philippot",
+  "name": "Florian Philippot",
+  "party": "Les Patriotes",
+  "party_short": "LP",
+  "status": "officiel",
+  "status_note": "« Projet pour la France », édition 2026-2027 des Patriotes, présenté comme le projet pour 2027.",
+  "photo": "/photos/philippot.jpg",
+  "photo_credit": "Thomas Bresson, CC BY 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:2022-04-16_16-49-26_MAM-Paris_02.jpg",
+  "sources": [
+   {
+    "id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+    "label": "« Grandes orientations pour un projet patriote + le Frexit en 10 questions » — Les Patriotes, édition 2026-2027 (Projet pour la France 2026 v2)",
+    "year": "2026",
+    "url": "https://les-patriotes.fr/wp-content/uploads/2026/09/Projet-pour-la-France-2026-v2.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "90d0748445644a433b594864cf553a03245739e07cb65672f01c1c0b49be6f83"
+   },
+   {
+    "id": "profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff",
+    "label": "Profession de foi de la liste « L'Europe ça suffit ! » (Les Patriotes) — européennes 2024",
+    "year": "2024",
+    "url": "https://les-patriotes.fr/wp-content/uploads/2024/05/PF_europe%CC%81ennes.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ffdf84ff17f0bca38630b0a20aa2d542f2f31449472b5e03639c27112e7bdda3"
+   }
+  ]
+ },
+ {
+  "slug": "platret",
+  "name": "Gilles Platret",
+  "party": "Divers droite",
+  "party_short": "DVD",
+  "status": "aucun",
+  "status_note": "Aucun document programmatique publié à ce jour.",
+  "photo": "/photos/platret.jpg",
+  "photo_credit": "Jérémy Viger, CC0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:GPlatret.jpg",
+  "sources": []
+ },
+ {
+  "slug": "polony",
+  "name": "Natacha Polony",
+  "party": "Sans étiquette",
+  "party_short": "SE",
+  "status": "partiel",
+  "status_note": "Textes de vision et de principes sur son site 2027, sans mesures détaillées à ce jour.",
+  "photo": "/photos/polony.jpg",
+  "photo_credit": "Georges Biard, CC BY-SA 3.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Natacha_Polony_Cannes_2015.jpg",
+  "sources": [
+   {
+    "id": "ma-vision-pour-la-france-natacha-polony-site-de-campagne-202-33f3eab1",
+    "label": "« Ma vision pour la France » — Natacha Polony (site de campagne 2027)",
+    "year": "2026",
+    "url": "https://natachapolony2027.fr/natacha-polony/ma-vision",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "33f3eab1619d5e29a14e801dfe5edac0d0275ab5ae5386e441562923a7e7d822"
+   },
+   {
+    "id": "mes-principes-natacha-polony-site-de-campagne-2027-f6dcd82c",
+    "label": "« Mes principes » — Natacha Polony (site de campagne 2027)",
+    "year": "2026",
+    "url": "https://natachapolony2027.fr/natacha-polony/mes-principes",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "f6dcd82ceb73b9899095083321f82703e4af700ddda59f81aa4360b577bcc685"
+   }
+  ]
+ },
+ {
+  "slug": "retailleau",
+  "name": "Bruno Retailleau",
+  "party": "Les Républicains",
+  "party_short": "LR",
+  "status": "officiel",
+  "status_note": "Livrets « Mon projet pour la France » de son site de campagne ; plusieurs thèmes sont encore à venir.",
+  "photo": "/photos/retailleau.jpg",
+  "photo_credit": "Anthonymontardyfr, CC BY 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Bruno_Retailleau_-_Ministre_de_l%27Int%C3%A9rieur_fran%C3%A7ais_(cropped).jpg",
+  "sources": [
+   {
+    "id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+    "label": "Projet présidentiel 2027 — Institutions : Manifeste du peuple souverain (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/Manifeste%20du%20peuple%20souverain%20v280826%20F.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6d564c4274a512720386c91ecfb95f27ce7cc08d5c99274bece6603c82e12377"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-ducation-livret-b7646474",
+    "label": "Projet présidentiel 2027 — Éducation (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Ecole_vF.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "b764647449b7777d549d38e68741f84370d3f082f61ee6d92f7624cb4d0f4bba"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-travail-livret-91ee32bf",
+    "label": "Projet présidentiel 2027 — Travail (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/Livret_Travail.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "91ee32bf0982d4f4823560a8ad3fb68e0c25d49cf96df732b59ce6a54557f38a"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-industrie-et-entreprises-livret-6b5f80d5",
+    "label": "Projet présidentiel 2027 — Industrie et entreprises (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Industrie.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6b5f80d5aa19e0e36d500a4d149950864ddfc4dd121873e10bcc6238ad2144d3"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-agriculture-livret-5ad1cb0d",
+    "label": "Projet présidentiel 2027 — Agriculture (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Agriculture.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5ad1cb0d70a62d464d886e6583fd0338519f9d62fc4b7e0138d428e91868d2f6"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+    "label": "Projet présidentiel 2027 — Logement (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Logement.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c505459dc02e2bc443e931bfe405228ae338c5362bd384bdee2c4ffe433699bc"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-famille-livret-92d669ef",
+    "label": "Projet présidentiel 2027 — Famille (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Famille.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "92d669efac4d69da72ce3d29a09da3402e2c4822ab88d99e68a4f99f3d4d5945"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-lectricit-livret-81bb7677",
+    "label": "Projet présidentiel 2027 — Électricité (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_Electricite_vFF070626-compress%C3%A9.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "81bb7677682dbeaf29fbf91ce8824f7c85329c8166bcda0745be5d4b1be2c2b4"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+    "label": "Projet présidentiel 2027 — Comptes publics (fiches)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/20261011_Fiches_presse_comptes_publics_mise_en_page%20(1).pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "0a56ad9b9bd20c3453230312568ec5d172f5f153ecf2e7e83407b6b4514de0de"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-intelligence-artificielle-livret-6c96e249",
+    "label": "Projet présidentiel 2027 — Intelligence artificielle (livret)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/api/media/file/LR_IA.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6c96e249cd3b988e80cef214c16a264265e14604b902fdc4a93ab4926bda0375"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-page-th-matique-d52a9e89",
+    "label": "Projet présidentiel 2027 — Retraites (page thématique)",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/theme/retraites",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d52a9e896d409b2c11271dda22667d1833a3a54b0820abcab2cdd0b7a7dba488"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-questions-fr-quentes-sur-le-projet-34c3acbd",
+    "label": "Projet présidentiel 2027 — Questions fréquentes sur le projet",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/faq",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "34c3acbd3b420e8e5d84f3a08e187ef997682157e29e70c432d3b5a9710f36d1"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-01-partir-d-s-6-6e090076",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.01 : partir dès 63 ans, taux plein à 65 ans",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/d",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6e090076aec145e820041ca6dc0938c6434c08d4fa8aacb9b2e84eee5622d016"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-02-supprimer-le-8940b425",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.02 : supprimer le couperet des 67 ans",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/supprimer-le-couperet-des-67-ans",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8940b425e3af1837250da17aba6148b3c2e77c2121979c2582a19fab5935fd2f"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-03-carri-res-co-f14c9417",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.03 : carrières commencées tôt",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/rendre-le-travail-toujours-gagnant-pour-ceux-qui-ont",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "f14c941750930fbfbb16996d974a678c1e88b5cb9e26f61ecaf9c432da21b7d1"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-04-travail-gagn-2eec20c3",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.04 : travail gagnant après 65 ans",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/rendre-le-travail-toujours-gagnant-apres-65-ans",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2eec20c39a9f54649717d236781bdafb730711c8c56a9922020259fd4e9dd717"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-05-p-nibilit-m--35b5fcfd",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.05 : pénibilité métier par métier",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/traiter-la-penibilite-metier-par-metier",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "35b5fcfde52a9951c45e5444a7135526ef571d8cbc44f0e5b5644f1b31ca79fd"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-06-capital-retr-447d102b",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.06 : capital retraite pour chaque salarié",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/donner-a-chaque-francais-un-capital-pour-sa-retraite",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "447d102bc2e52415977ec8617efa87c22a84ccc29c63c8129e1a943f9a72ae37"
+   },
+   {
+    "id": "projet-pr-sidentiel-2027-retraites-mesure-14-07-pargne-retra-d6e482bf",
+    "label": "Projet présidentiel 2027 — Retraites, mesure 14.07 : épargne retraite volontaire",
+    "year": "2026",
+    "url": "https://www.avecretailleau.fr/projet/mesure/preserver-et-renforcer-l-epargne-retraite-volontaire",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d6e482bf5a9ad08ad76225016bcdb7354b199b18dc4521a9c7a98398d01c9453"
+   }
+  ]
+ },
+ {
+  "slug": "roussel",
+  "name": "Fabien Roussel",
+  "party": "Parti communiste français",
+  "party_short": "PCF",
+  "status": "officiel",
+  "status_note": "Plan jeunesse 2027-2032 et tracts de campagne, complétés par le programme européen 2024 de la liste PCF.",
+  "photo": "/photos/roussel.jpg",
+  "photo_credit": "Zouhair NAKARA, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Roussel_Fabien_1.jpg",
+  "sources": [
+   {
+    "id": "site-de-campagne-pr-sidentielle-2027-texte-vivre-5b6ba459",
+    "label": "Site de campagne présidentielle 2027 — texte « Vivre ! »",
+    "year": "2026",
+    "url": "https://www.fabienroussel2027.fr/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "5b6ba459eb42d088b54f25a2cb46de9f4b4e1c10a83f4cb97a19cc7d49c0bdae"
+   },
+   {
+    "id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "label": "Plan jeunesse 2027-2032 (campagne Fabien Roussel)",
+    "year": "2026",
+    "url": "https://assets.nationbuilder.com/pcf/pages/44609/attachments/original/1791282014/Plan_Jeunesse_2027-2032.pdf?1791282014",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c965f6cec631529adcb22d024862d7e7218f3a4358801ff692df984ef918c8e9"
+   },
+   {
+    "id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+    "label": "Tract de campagne « Services publics : notre richesse, notre avenir »",
+    "year": "2026",
+    "url": "https://assets.nationbuilder.com/pcf/pages/44585/attachments/original/1791210591/tract_service_public.pdf?1791210591",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ebe5d25c30081796195a10dd636252478b4ba347028d20f44bc16fc65ec57592"
+   },
+   {
+    "id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "label": "Programme de la liste « Gauche unie pour le monde du travail » (conduite par le PCF) — européennes 2024 : « Reprenons la main en France et en Europe »",
+    "year": "2024",
+    "url": "https://assets.nationbuilder.com/pcf/pages/18559/attachments/original/1713533597/document_PROGRAMME.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "0b109da56e58a52d23d760742af8c456acc06808353d63e01e6ca47b4d5e67a1"
+   },
+   {
+    "id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "label": "Programme du Nouveau Front populaire — législatives 2024 (commun LFI, PS, Écologistes, PCF…)",
+    "year": "2024",
+    "url": "https://assets.nationbuilder.com/pcf/pages/20091/attachments/original/1718381909/PROGRAMME_FRONT_POPULAIRE_V6.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1889625f46e3aa69608b84e9126e7532ddab2cb0e2e60426724adfe71551df13"
+   }
+  ]
+ },
+ {
+  "slug": "ruffin",
+  "name": "François Ruffin",
+  "party": "Debout !",
+  "party_short": "Debout",
+  "status": "officiel",
+  "status_note": "Cahiers de campagne et plans d'action « programme 2027 », publiés par étapes.",
+  "photo": "/photos/ruffin.jpg",
+  "photo_credit": "Thinkerview, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Ruffin_(cropped).jpg",
+  "sources": [
+   {
+    "id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+    "label": "Cahier de campagne n°1 — Statut des travailleurs essentiels (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/04/Debout-Livret-Campagne_Web.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "11e7d69800a6ac5afc97c624bdd1feec94b5c33d41784b42b3efd0f9fbe916f9"
+   },
+   {
+    "id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "label": "Cahier de campagne n°2 — Séparer l'argent et l'État (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/07/Debout-Livret-Probite-Web-1.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e1ca022a6c73f0419b99ee06b2a071c5d186400eff068a4e731ffa25db65a21f"
+   },
+   {
+    "id": "cahier-de-campagne-n-3-renouer-avec-le-temps-des-loisirs-pro-e8120daa",
+    "label": "Cahier de campagne n°3 — Renouer avec le temps des loisirs (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Debout-Livret-Campagne-Loisirs-vdef-Web-1.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e8120daaaa6d6f85f5bec3f81300043f1b044b301c9aecbfb41cbf94c242a06c"
+   },
+   {
+    "id": "cahier-de-campagne-n-4-exception-agriculturelle-fran-aise-pr-c5f5e124",
+    "label": "Cahier de campagne n°4 — Exception agriculturelle française (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-Agriculture-vWeb.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c5f5e1248396e0c68b242f94ae5f9d891f0c24d3221bd414035134f9f10e60d1"
+   },
+   {
+    "id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "label": "Cahier de campagne n°5 — Travaillisme écologique (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/09/Livret-Campagne-5-Travaillisme-Ecologique-VDEF.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "1fce6c0756f33488c76cd16a1dd42ed474788897265583f5991763841f1800e8"
+   },
+   {
+    "id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+    "label": "Cahier de campagne n°6 — Crise du logement (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/09/CC_Logement.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "e8568e89702e842076972ad0f6c05f4f3a2d118331ec4e224569e3feadaed372"
+   },
+   {
+    "id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+    "label": "Cahier de campagne n°7 — Industrie, relocaliser 100 produits stratégiques (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-7-Industrie-Vweb.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c1cef6ee7a6e4dfdb76e3ecab65de489f07f15f76d08dcbc925746a92124b735"
+   },
+   {
+    "id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "label": "Cahier de campagne n°8 — Éducation, une école de tous les savoirs (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Debout-Livret-Campagne-8-Education.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "26af004bd8fe4e43f430d2acd7eb289b4e7c555379e1487c32b767618b4c6b3c"
+   },
+   {
+    "id": "plan-d-action-data-centers-programme-2027-174a1614",
+    "label": "Plan d'action — Data centers (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Data_CENTERS_V2.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "174a161451e8f99ec1e527a630574e72556703cb4983d1721e5e05c4658564f2"
+   },
+   {
+    "id": "plan-d-action-urgence-climat-programme-2027-f9a099a1",
+    "label": "Plan d'action — Urgence climat (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/PA_Urgence_Climat_VF.pdf.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "f9a099a12269704212568d7a866aeaeec9dcbd20f55cbf270ec831cd9123b250"
+   },
+   {
+    "id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "label": "Plan d'action — Plan de redressement 2026 (programme 2027)",
+    "year": "2026",
+    "url": "https://nouspresident.fr/wp-content/uploads/2026/10/Plan-de-redressement-2026-mise-en-page.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "75a354b5348f6bcd3b36391fabc022c5e1dd1b9b63a3e8325bea4652e718e1a1"
+   },
+   {
+    "id": "notre-programme-page-de-synth-se-de-la-campagne-2027-d274e950",
+    "label": "Notre programme — page de synthèse de la campagne 2027",
+    "year": "2026",
+    "url": "https://nouspresident.fr/notre-programme/",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "d274e9503ae8ea4193bd035c3bd0f5b1f61e83d21b0096241f141e1022a6f4cc"
+   }
+  ]
+ },
+ {
+  "slug": "tondelier",
+  "name": "Marine Tondelier",
+  "party": "Les Écologistes",
+  "party_short": "LE",
+  "status": "officiel",
+  "status_note": "« Projet 2027 » des Écologistes (557 mesures) et livrets thématiques présidentielle 2027.",
+  "photo": "/photos/tondelier.jpg",
+  "photo_credit": "Greenbox, CC BY-SA 4.0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:20210819_tondelier.m-cr3.jpg",
+  "sources": [
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-transition-de-la-monta-ecb04bc6",
+    "label": "Livret thématique Présidentielle 2027 — Transition de la montagne française (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Livret-montagne.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "ecb04bc64576f7b7108851fefcd050ec94e486888e5e4cb1d3a05cb1ad1e4b0a"
+   },
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-sant-environnementale--6c41e7e8",
+    "label": "Livret thématique Présidentielle 2027 — Santé environnementale (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Livret-sante-environnementale.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "6c41e7e876b3728f3ce252a1025b972a25cc0e43dbd41623acaffcc84ab310b5"
+   },
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-lutter-contre-la-solit-c65a6622",
+    "label": "Livret thématique Présidentielle 2027 — Lutter contre la solitude (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Livret-solitude.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "c65a6622b7c1ecb5c0e065f1a66ddb4c8d49704002f26ae7f2cfaba3a8d8416d"
+   },
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-sant-reproductive-les--7a8260a0",
+    "label": "Livret thématique Présidentielle 2027 — Santé reproductive (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Livret-sante-reproductive.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7a8260a072d50c9ae1d70cd1d48304bda701f9885d06a4e85165be25dae68afd"
+   },
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-littoraux-les-cologist-2f479bb6",
+    "label": "Livret thématique Présidentielle 2027 — Littoraux (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Livret-littoraux.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2f479bb61070d97336b801c1f4b7697a4ab1fc1243ae92f0668b9cb92aaf0126"
+   },
+   {
+    "id": "livret-th-matique-pr-sidentielle-2027-enfance-les-cologistes-96e566cc",
+    "label": "Livret thématique Présidentielle 2027 — Enfance (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/livret-enfance-vf.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "96e566cc7c3f00a4bdbbac8a0d7caf42aabb5372ce1272ab9f6511bbbe81da29"
+   },
+   {
+    "id": "carnet-de-doctrine-international-l-europe-comme-puissance-co-cb05e1c8",
+    "label": "Carnet de doctrine — International : l'Europe comme puissance écologique (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/CARNET-DE-DOCTRINE-INTERNATIONAL.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "cb05e1c817ee69aea55ed77a741251f3966d8a2000950bab9981abf3410b8694"
+   },
+   {
+    "id": "carnet-de-doctrine-num-rique-technodiversit-s-les-cologistes-7d4d73c6",
+    "label": "Carnet de doctrine — Numérique : technodiversités (Les Écologistes)",
+    "year": "2026",
+    "url": "https://marinetondelier.fr/s/Carnet-numerique.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "7d4d73c6d3ee089808c74790b9df0daf48b07c8a8dad21d8b0ba703da0e7a930"
+   },
+   {
+    "id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+    "label": "Projet 2027 — programme des Écologistes (557 mesures)",
+    "year": "2026",
+    "url": "https://lesecologistes.fr/document/3N4JsAEmq6vsx42IITGNZa/vdef-programme-1.pdf",
+    "official_2027": true,
+    "retrieved_at": "2026-10-30",
+    "sha256": "2fafd160291ff6677207c57ce1504ae6e62608cd19d8310e01a522b95beb50fc"
+   }
+  ]
+ },
+ {
+  "slug": "zemmour",
+  "name": "Éric Zemmour",
+  "party": "Reconquête",
+  "party_short": "REC",
+  "status": "partiel",
+  "status_note": "Pas de programme 2027 à ce jour : deux tracts récents de Reconquête.",
+  "photo": "/photos/zemmour.jpg",
+  "photo_credit": "Anh De France, CC0",
+  "photo_page": "https://commons.wikimedia.org/wiki/File:Portrait_d%27%C3%89ric_Zemmour,_avril_2022.jpg",
+  "sources": [
+   {
+    "id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+    "label": "Tract Reconquête « Nos priorités pour les Français » (octobre 2026)",
+    "year": "2026",
+    "url": "https://assets.ericzemmour.fr/ressources/tracts/avenir-est-a-nous.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "a806871c4452095474adeb4ca24821076d5df944cf6580bb9a217f05dc53936a"
+   },
+   {
+    "id": "tract-reconqu-te-nos-mesures-d-conomies-urgentes-novembre-20-84835825",
+    "label": "Tract Reconquête « Nos mesures d'économies urgentes » (novembre 2025)",
+    "year": "2025",
+    "url": "https://assets.ericzemmour.fr/ressources/tracts/verite-pouvoir-achat.pdf",
+    "official_2027": false,
+    "retrieved_at": "2026-10-30",
+    "sha256": "8483582560c71129346ae6db536c6f56f0f917ac0b1f7cf561374e0043c4a341"
+   }
+  ]
+ }
+]

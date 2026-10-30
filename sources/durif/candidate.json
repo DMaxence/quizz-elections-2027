@@ -1,0 +1,16 @@
+{
+  "slug": "durif",
+  "name": "Sylvain Durif",
+  "party": "Sans étiquette",
+  "party_short": "SE",
+  "declared": true,
+  "declaration_note": "Candidature annoncée par vidéo sur les réseaux sociaux fin août 2026 (23 août 2026) ; présenté comme candidat par Sud Radio le 21 octobre 2026. Son site de campagne affiche désormais que la campagne « organisée par le Ministère du Cringe » est suspendue, mais que « la campagne du Grand Monarque se poursuit activement sur les réseaux sociaux ».",
+  "declaration_source": "https://www.sudradio.fr/politique/qui-est-ce-sylvain-durif-le-christ-cosmique-candidat-a-la-presidentielle-2027",
+  "official_sites": [
+    "https://durif2027.com/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Les 50 engagements de son site de campagne, consultés via une copie archivée (site suspendu depuis).",
+  "blocked": [],
+  "notes": "Source archivée : copie Wayback Machine brute (id_) de https://durif2027.com/le-projet du 07/09/2026, antérieure à la suspension (le site affiche le communiqué de suspension dans les captures d'octobre 2026). La page était rendue côté serveur : les 50 engagements (Paix, Écologie, Économie, État, Éducation, Logement, Santé, Réconciliation, Cosmos, Elvita) sont dans le HTML ; texte extrait en mode --html-full (~8 500 car.) car trafilatura n'en gardait que ~950. Non archivé (redondant) : /nos-engagements (capture du 05/09/2026, résumé des 10 chapitres, ~2 000 car.) et /candidature-2027 (capture du 05/09/2026, même liste numérotée de 50 engagements + présentation). Statut de candidat toujours ambigu : le site suspend la campagne « terrestre » organisée par le « Ministère du Cringe » mais dit que la campagne du « Grand Monarque » continue sur les réseaux sociaux. Le programme est donc celui d'avant la suspension ; à décider par le lead si une source archivée (et non plus en ligne) est acceptable. Pas de parti ; se présente comme « Le Grand Monarque »."
+}

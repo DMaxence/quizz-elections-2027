@@ -1,0 +1,407 @@
+[
+  {
+    "id": "roussel-01",
+    "theme": "École et jeunesse",
+    "measure": "Créer 90 000 postes d'enseignants en cinq ans (18 000 par an de 2027 à 2031)",
+    "quote": "Ainsi, 18 000 postes seront créés chaque année de 2027 à 2031 : 9 000 dans le premier degré et 9 000 dans le second degré. Au total, 90 000 postes représentent environ 13% d'enseignants en plus dans l'école publique.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 6,
+    "concrete": true
+  },
+  {
+    "id": "roussel-02",
+    "theme": "École et jeunesse",
+    "measure": "Supprimer Parcoursup et MonMaster et mettre fin à la sélection à l'entrée de l'université",
+    "quote": "Parcoursup et MonMaster seront supprimés et la sélection à l'entrée de l'université prendra fin. Une plateforme publique d'orientation prendra le relais",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "roussel-03",
+    "theme": "École et jeunesse",
+    "measure": "Engager 25 Md€ de prêts à taux zéro sur cinq ans pour rénover les collèges et lycées",
+    "quote": "L'État engagera 5 milliards d’euros par an pendant cinq ans, soit 25 milliards d’euros sur le quinquennat, sous la forme de prêts à taux zéro, en soutien aux régions et des départements, propriétaires des bâtiments.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "roussel-04",
+    "theme": "École et jeunesse",
+    "measure": "Supprimer les spécialités au lycée et rétablir les filières",
+    "quote": "Les spécialités seront supprimées et le lycée retrouvera des filières, comme avant 2019.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "roussel-05",
+    "theme": "École et jeunesse",
+    "measure": "Assurer 32 heures de cours par semaine aux lycéens",
+    "quote": "Les lycéens recevront 32 heures de cours par semaine, assurées par des enseignants.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "roussel-06",
+    "theme": "École et jeunesse",
+    "measure": "Faire passer le bac professionnel de trois à quatre ans",
+    "quote": "Le bac professionnel se déroulera en quatre ans au lieu de trois ans.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 4,
+    "concrete": true
+  },
+  {
+    "id": "roussel-07",
+    "theme": "École et jeunesse",
+    "measure": "Garantir un AESH à chaque élève handicapé qui en a besoin et créer un statut pour les AESH",
+    "quote": "Chaque élève dont la situation le justifie disposera d'un AESH dès le jour de la rentrée. […] Un statut pour les AESH et un plan d’embauche dédié.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 7,
+    "concrete": true
+  },
+  {
+    "id": "roussel-08",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Augmenter de 30 % le point d'indice des fonctionnaires",
+    "quote": "Augmenter de 30 % le point d’indice des fonctionnaires, revaloriser les grilles",
+    "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "roussel-09",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Défendre le droit à la retraite à 60 ans dans un système par répartition",
+    "quote": "En France, nous continuerons ainsi à nous battre pour défendre la Sécurité sociale et le droit à une retraite à 60 ans, dans le cadre d’un système par répartition solidaire pour toutes et tous.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "roussel-10",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Aligner le salaire minimum de chaque État de l'UE sur le plus avancé (60 % du salaire moyen)",
+    "quote": "Cela permettrait, par exemple, la mise en place d’un salaire minimum dans chaque État membre, à hauteur de la législation européenne la plus avancée (aujourd’hui, celle de l’Espagne, avec 60 % du salaire moyen national).",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "roussel-11",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Conditionner les aides publiques aux entreprises à l'emploi, aux salaires et à l'écologie",
+    "quote": "En mettant à contribution les grandes fortunes et les revenus financiers, en combattant la fraude fiscale et en conditionnant les aides publiques aux entreprises à l’emploi, aux salaires et à l’écologie.",
+    "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "roussel-12",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Créer un pôle public bancaire refinancé à taux zéro par la BCE",
+    "quote": "Un pôle public bancaire, refinancé à taux zéro par la BCE, peut permettre de soutenir les dépenses publiques.",
+    "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+    "page": 2,
+    "concrete": true
+  },
+  {
+    "id": "roussel-13",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Renationaliser des entreprises stratégiques (énergie, eau, autoroutes)",
+    "quote": "il convient de relocaliser, renationaliser et socialiser des entreprises stratégiques fondamentales pour notre indépendance (énergie, eau, autoroutes…).",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 14,
+    "concrete": true
+  },
+  {
+    "id": "roussel-14",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Interdire aux entreprises, banques et particuliers de l'UE toute relation financière avec un paradis fiscal",
+    "quote": "Nous nous battons afin que soit interdit aux entreprises, aux banques et aux particuliers résidant dans l’UE, d’entretenir des relations financières avec un paradis fiscal, ou d’y faire transiter des fonds.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 32,
+    "concrete": true
+  },
+  {
+    "id": "roussel-15",
+    "theme": "Europe, international et défense",
+    "measure": "Transférer 3,5 Md€ du budget de la défense vers celui de l'école",
+    "quote": "3,5 Md€ passent du budget de la défense à celui de l'école, une fois les 90 000 postes pourvus.",
+    "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "roussel-16",
+    "theme": "Europe, international et défense",
+    "measure": "Sortir la France du commandement militaire de l'OTAN",
+    "quote": "Dans l’immédiat, pour retrouver la pleine indépendance de ses décisions, la France se doit de sortir du commandement militaire de l’organisation atlantique",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "roussel-17",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser un nouvel élargissement de l'Union européenne",
+    "quote": "Un nouvel élargissement de l’Union européenne à huit pays et à 60 millions d’habitant·es supplémentaires ne ferait qu’aggraver le dumping social.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 8,
+    "concrete": true
+  },
+  {
+    "id": "roussel-18",
+    "theme": "Europe, international et défense",
+    "measure": "Garantir la primauté de la Constitution française sur le droit européen",
+    "quote": "Nous appelons à garantir la primauté de la Constitution française, et celles des autres États membres, sur le droit européen.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "roussel-19",
+    "theme": "Europe, international et défense",
+    "measure": "Dénoncer les traités de libre-échange et suspendre les négociations en cours, dont UE-Mercosur",
+    "quote": "Nous appelons à la dénonciation des traités de libre-échange et à la suspension des négociations en cours (UE-Mercosur, UE-Kenya, UE-Chili, Nouvelle-Zélande…).",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 9,
+    "concrete": true
+  },
+  {
+    "id": "roussel-20",
+    "theme": "Europe, international et défense",
+    "measure": "Refuser de fournir à l'Ukraine des armes offensives capables de frapper la Russie et d'envoyer des troupes au sol",
+    "quote": "C’est pourquoi nous refusons toute escalade, qui prendrait la forme de la fourniture d’armes offensives capables de frapper le territoire russe ou de l’envoi de troupes au sol.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 10,
+    "concrete": true
+  },
+  {
+    "id": "roussel-21",
+    "theme": "Immigration",
+    "measure": "Régulariser les travailleurs migrants sans papiers",
+    "quote": "Les travailleuses et travailleurs migrants dits « sans papiers » doivent être régularisé·es",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "roussel-22",
+    "theme": "Immigration",
+    "measure": "Rejeter le pacte asile-migration et abroger les accords de Dublin",
+    "quote": "Le pacte asile-migration, prochainement soumis au Parlement européen, doit être rejeté et les accords de Dublin abrogés",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "roussel-23",
+    "theme": "Immigration",
+    "measure": "Instaurer des voies légales et sûres d'immigration et protéger le sauvetage en mer",
+    "quote": "Des voies légales et sûres doivent être instaurées, et le sauvetage en mer doit être protégé, afin que nul·le ne meurt plus en Méditerranée ou aux frontières de l’Union",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 11,
+    "concrete": true
+  },
+  {
+    "id": "roussel-24",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Étendre au nucléaire les politiques européennes de taxonomie verte",
+    "quote": "Nous militons pour étendre au nucléaire toutes les politiques de taxonomie verte.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "roussel-25",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Maintenir une filière publique de l'énergie, de la production à la commercialisation",
+    "quote": "Nous défendons le maintien d’une filière publique allant de la production à la distribution et à la commercialisation de l’énergie.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 17,
+    "concrete": true
+  },
+  {
+    "id": "roussel-26",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Doubler la part du fret ferroviaire",
+    "quote": "Nous défendons l’objectif d’un plan de développement du multi-modal et du doublement de la part du fret ferroviaire, le développement du fret fluvial pour mettre fin à la politique du « tout routier » privilégiée par l’UE.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "roussel-27",
+    "theme": "Logement et territoires",
+    "measure": "Porter à 25 Md€ par an le budget des infrastructures de transport (rail, TGV, voies cyclables)",
+    "quote": "Nous proposons, dans cette perspective, de porter à 25 milliards annuels (au lieu de 7 actuellement) le budget alloué au financement, en France, du plan d’infrastructures (réseau TGV, régénération du réseau ferré, investissement métropolitain, réseau de 100 000 km de voies cyclables.)",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "roussel-28",
+    "theme": "Logement et territoires",
+    "measure": "Mettre en place des instruments européens de plafonnement des loyers et de restriction des locations de courte durée",
+    "quote": "De mettre en place des instruments européens de plafonnement des loyers et de restriction sur les locations à court terme",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "roussel-29",
+    "theme": "Agriculture et alimentation",
+    "measure": "Créer un fonds européen d'intervention sur les prix agricoles avec un prix plancher payé au producteur",
+    "quote": "Nous défendons la création d’un fonds communautaire d’intervention sur les prix et les volumes. Il intégrerait un prix plancher (prix minimum payé au producteur)",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 18,
+    "concrete": true
+  },
+  {
+    "id": "roussel-30",
+    "theme": "Agriculture et alimentation",
+    "measure": "Rendre obligatoire l'indication du pays de production et de transformation sur les produits agricoles",
+    "quote": "Le pays de production et de transformation des produits agricoles bruts ou transformés doit figurer sur l’étiquette.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 18,
+    "concrete": true
+  },
+  {
+    "id": "roussel-31",
+    "theme": "Santé",
+    "measure": "Développer un secteur public du médicament, avec la nationalisation des entreprises du secteur",
+    "quote": "il faut développer un secteur public du médicament et des produits de santé. Cela rend notamment indispensable la nationalisation/socialisation des entreprises de ce secteur.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "roussel-32",
+    "theme": "Santé",
+    "measure": "Relocaliser l'industrie pharmaceutique sous cinq ans",
+    "quote": "La relocalisation de l’industrie pharmaceutique devrait s’opérer sous cinq ans.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 22,
+    "concrete": true
+  },
+  {
+    "id": "roussel-33",
+    "theme": "Santé",
+    "measure": "Garantir un accès universel et gratuit aux soins",
+    "quote": "Nous appelons à garantir, dans tous les États, un accès universel et gratuit aux soins.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "roussel-34",
+    "theme": "Protection sociale et famille",
+    "measure": "Étendre les congés parentaux sur le modèle scandinave, dont trois mois réservés au second parent",
+    "quote": "De s’aligner sur les pays scandinaves pour les congés post-naissance et la mise en place de congés parentaux étendus, dont trois mois non transférables réservés au second parent",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 26,
+    "concrete": true
+  },
+  {
+    "id": "roussel-35",
+    "theme": "Protection sociale et famille",
+    "measure": "Verser un revenu aux étudiants, financé par une branche de la Sécurité sociale",
+    "quote": "Nous revendiquons la reconnaissance du travail des étudiants et étudiantes par un revenu. Celui-ci serait financé par une branche de la Sécurité sociale.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 23,
+    "concrete": true
+  },
+  {
+    "id": "roussel-36",
+    "theme": "Numérique, médias et culture",
+    "measure": "Faire financer les infrastructures Internet par les Gafam et plateformes au prorata des flux consommés",
+    "quote": "Nous nous battons pour la participation des grandes entreprises consommatrices de flux numérique (Gafam, plateformes de type Netflix ou Amazon Prime) au financement des infrastructures Internet dans chaque État-membre, au prorata des flux consommés.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 19,
+    "concrete": true
+  },
+  {
+    "id": "roussel-37",
+    "theme": "Numérique, médias et culture",
+    "measure": "Ratifier la Charte européenne des langues régionales et minoritaires",
+    "quote": "Nous entendons promouvoir la diversité culturelle. Cela implique notamment la ratification de la Charte européenne des langues régionales et minoritaires",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "roussel-38",
+    "theme": "Société et libertés",
+    "measure": "Promouvoir le modèle abolitionniste d'interdiction de la prostitution",
+    "quote": "Nous proposons de promouvoir le modèle abolitionniste d’interdiction de la prostitution, et de lutter contre l’exploitation sexuelle",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "roussel-39",
+    "theme": "Société et libertés",
+    "measure": "Empêcher la gestation pour autrui (GPA) au niveau européen et international",
+    "quote": "Nous en appelons à une action de l’UE auprès de tous les gouvernements, afin que soient prises toutes les mesures nécessaires, juridiques et autres, à même d’empêcher la maternité de substitution (GPA) au niveau européen et international.",
+    "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "roussel-40",
+    "theme": "Sécurité et justice",
+    "measure": "Rétablir la police de proximité et maintenir l'ensemble des gendarmeries",
+    "quote": "Assurer la sécurité de la population par le rétablissement de la police de proximité, la suppression de la réforme Darmanin qui a affaibli la police judiciaire, le maintien de l’ensemble des gendarmeries",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "roussel-41",
+    "theme": "Sécurité et justice",
+    "measure": "Interdire les LBD et les grenades mutilantes et démanteler les BRAV-M",
+    "quote": "Déployer de premières équipes de police de proximité, interdire les LBD et les grenades mutilantes, et démanteler les BRAV-M",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "roussel-42",
+    "theme": "Sécurité et justice",
+    "measure": "Remplacer l'IGPN et l'IGGN par un organisme indépendant rattaché au Défenseur des droits",
+    "quote": "supprimer l’IGPN et l’IGGN et les remplacer par un nouvel organisme indépendant, rattaché à la Défenseure des droits",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "roussel-43",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer la proportionnelle et abroger le 49.3",
+    "quote": "Instaurer la proportionnelle […] Abroger le 49.3",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "roussel-44",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne (RIC)",
+    "quote": "Instaurer le référendum d’initiative citoyenne (RIC) et renforcer le référendum d’initiative partagée en abaissant notamment le seuil de signatures citoyennes pour son déclenchement",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "roussel-45",
+    "theme": "Institutions et démocratie",
+    "measure": "Passer à une 6e République par une assemblée constituante citoyenne élue",
+    "quote": "Passer à une 6e République par la convocation d’une assemblée constituante citoyenne élue",
+    "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+    "page": 15,
+    "concrete": true
+  }
+]

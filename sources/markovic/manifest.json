@@ -1,0 +1,35 @@
+{
+  "slug": "markovic",
+  "sources": [
+    {
+      "id": "programme-du-parti-animaliste-lections-europ-ennes-2024-179df615",
+      "label": "Programme du Parti animaliste — élections européennes 2024",
+      "publisher": "Parti animaliste (parti-animaliste.fr)",
+      "url": "https://parti-animaliste.fr/wp-content/uploads/2024/05/programme-europeennes-2024.pdf",
+      "final_url": "https://parti-animaliste.fr/wp-content/uploads/2024/05/programme-europeennes-2024.pdf",
+      "year": "2024",
+      "kind": "pdf",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:16:59+00:00",
+      "sha256": "179df6159dc662812b19de2d5dda437a5077e3abe42f7a20aab7e7d8d891b5b8",
+      "raw": "sources/markovic/raw/programme-du-parti-animaliste-lections-europ-ennes-2024-179df615.pdf",
+      "text": "sources/markovic/text/programme-du-parti-animaliste-lections-europ-ennes-2024-179df615.txt",
+      "text_chars": 86988
+    },
+    {
+      "id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+      "label": "Programme national du Parti animaliste — « Sauver les animaux et nous sauver nous-mêmes » (élections nationales)",
+      "publisher": "Parti animaliste (parti-animaliste.fr)",
+      "url": "https://parti-animaliste.fr/programme-legislatives",
+      "final_url": "https://parti-animaliste.fr/programme-legislatives",
+      "year": "2022",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:16:59+00:00",
+      "sha256": "5e90dd2c255caefe04ad56d2c66a04f67545c589b64c2570a61d3d0b5cc0753d",
+      "raw": "sources/markovic/raw/programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c.html",
+      "text": "sources/markovic/text/programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c.txt",
+      "text_chars": 79150
+    }
+  ]
+}

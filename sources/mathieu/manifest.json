@@ -1,0 +1,35 @@
+{
+  "slug": "mathieu",
+  "sources": [
+    {
+      "id": "programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8",
+      "label": "Programme 2027 de Benoît Mathieu — programme démocratique (RIC et assemblée citoyenne constituante)",
+      "publisher": "Benoît Mathieu 2027 (benoitmathieu2027.fr)",
+      "url": "https://benoitmathieu2027.fr/programme",
+      "final_url": "https://benoitmathieu2027.fr/programme",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:19:58+00:00",
+      "sha256": "cb4fc3d8a7b36377961cdef489400b6eeeee6afb117477a8fa58af8f18087fb4",
+      "raw": "sources/mathieu/raw/programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8.html",
+      "text": "sources/mathieu/text/programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8.txt",
+      "text_chars": 4413
+    },
+    {
+      "id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+      "label": "Le candidat — constat et démarche de Benoît Mathieu pour 2027",
+      "publisher": "Benoît Mathieu 2027 (benoitmathieu2027.fr)",
+      "url": "https://benoitmathieu2027.fr/le-candidat",
+      "final_url": "https://benoitmathieu2027.fr/le-candidat",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:19:58+00:00",
+      "sha256": "04253470c31989fd1623442d3690cfe663c99e5dfc30f5446b6964a3e57fc3b1",
+      "raw": "sources/mathieu/raw/le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470.html",
+      "text": "sources/mathieu/text/le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470.txt",
+      "text_chars": 4559
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "le-pen",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer dans la Constitution un RIC législatif",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 8
+        }
+      ],
+      "note": "RIC législatif."
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Abroger la réforme des retraites de Macron et mettre en place un système de retraites progressif",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 8
+        },
+        {
+          "quote": "Les deux paramètres augmenteront ensuite progressivement, pour atteindre 62 ans et 168 trimestres à partir d’une entrée sur le marché du travail à 25 ans",
+          "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+          "page": 23
+        }
+      ],
+      "note": "Abrogation de la réforme de 2023 ; âge de départ modulé selon l'âge d'entrée dans l'emploi, jusqu'à 62 ans."
+    },
+    "q03": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Remplacement de l’Aide Médicale d’Etat par une Aide d’Urgence Vitale",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 4
+        }
+      ]
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "le développement de 20 EPR2 d’ici 2045, ainsi que le lancement sans délai d’une filière de SMR et de réacteurs de 4e génération",
+          "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+          "page": 10
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Remplacer l’impôt sur la fortune immobilière (IFI) […] par un impôt sur la fortune financière (IFF)",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 11
+        }
+      ],
+      "note": "Remplacement de l'IFI par un impôt sur la fortune financière."
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Restriction du regroupement familial par le durcissement des conditions (emploi stable, ressources précisément définies, etc.)",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 4
+        }
+      ]
+    },
+    "q13": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réformer une partie de la justice des mineurs (abaissement de la majorité pénale à 16 ans, possibilité de comparution immédiate…)",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 6
+        }
+      ],
+      "note": "Propose 16 ans."
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Le développement de l’énergie éolienne sera abandonné.",
+          "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+          "page": 10
+        }
+      ]
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Suspension de toutes les régularisations de clandestins par les préfets",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 4
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer un moratoire sur la négociation de nouveaux accords de libre-échange par l’UE.",
+          "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+          "page": 5
+        }
+      ],
+      "note": "Moratoire sur les nouveaux accords ; le Mercosur n'est pas cité."
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "le diplôme national du brevet deviendra donc un examen d’orientation post-3e",
+          "source_id": "livret-entreprise-du-groupe-rassemblement-national-84fcdf95",
+          "page": 12
+        }
+      ],
+      "note": "Brevet transformé en examen d'orientation après la 3e."
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "rétablissant un prix français de l’électricité, par la fin des règles absurdes du marché européen de l’énergie",
+          "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+          "page": 6
+        }
+      ]
+    },
+    "q22": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réserver les allocations familiales aux Français et conditionner à 5 années de travail en France l’accès aux prestations sociales non-contributives comme le RSA",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 6
+        }
+      ]
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer les Agences Régionales de Santé",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 7
+        }
+      ]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "la baisse de la TVA de 20 à 5,5% sur les énergies : électricité, gaz, fioul et carburants",
+          "source_id": "programme-du-rassemblement-national-europ-ennes-2024-d8ca9c4a",
+          "page": 7
+        }
+      ],
+      "note": "Baisse de la TVA sur les carburants à 5,5 %."
+    }
+  }
+}

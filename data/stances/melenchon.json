@@ -1,0 +1,229 @@
+{
+  "slug": "melenchon",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer le Référendum d’initiative citoyenne (RIC), par lequel les citoyens qui réunissent suffisamment de signatures peuvent révoquer des élus, proposer ou abroger une loi et modifier la Constitution",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 12
+        }
+      ]
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous abrogerons la réforme Borne qui a porté la retraite à 64 ans, ce qui occasionnera une dépense de 9 milliards d’euros. Cette abrogation immédiate sera un premier pas vers le retour à la retraite à 60 ans avec 40 annuités",
+          "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+          "page": 11
+        }
+      ],
+      "note": "Abrogation du report à 64 ans, objectif de la retraite à 60 ans avec 40 annuités."
+    },
+    "q03": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir l’accès à l’aide médicale d’État (AME)",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 62
+        }
+      ]
+    },
+    "q04": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Sortir du nucléaire : abandonner les projets d’EPR",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 49
+        }
+      ]
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "rétablissement d’un impôt sur la fortune renforcé",
+          "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+          "page": 13
+        }
+      ],
+      "note": "Propose aussi la taxe Zucman."
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Encadrer les loyers partout sur le territoire et à la baisse dans les grandes villes",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 30
+        }
+      ]
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous abrogerons Parcoursup et engagerons un plan d’ouverture de places massif à l’université",
+          "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+          "page": 9
+        }
+      ]
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Se retirer immédiatement du commandement intégré de l’OTAN puis, par étapes, de l’organisation elle-même",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 59
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Renationaliser les autoroutes, en revenant sur les hausses de prix passées, ainsi que les aéroports stratégiques",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 48
+        }
+      ],
+      "note": "Propose aussi de renationaliser la SNCF."
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mettre en oeuvre un plan d’urgence pour l’éolien maritime d’un point de vue énergétique et industriel",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 66
+        }
+      ]
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "régulariser les travailleurs, étudiants, parents d’enfants scolarisés",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 62
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Élire l’Assemblée nationale au scrutin proportionnel",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 11
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Utiliser le droit de veto de la France, par exemple pour refuser tous les nouveaux accords de libre-échange (avec le Mercosur,",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 65
+        }
+      ]
+    },
+    "q18": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir le droit de chaque élève à progresser au sein d’une même classe de niveau hétérogène tout au long de sa scolarité dans l’enseignement secondaire en mettant fin aux groupes de niveaux au collège",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 21
+        }
+      ]
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Une politique sérieuse de réindustrialisation implique de fixer un prix national de l’électricité, émancipé du marché européen libéralisé.",
+          "source_id": "plan-d-investissement-productif-2027-automobile-c97c3dbd",
+          "page": 13
+        }
+      ]
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Actionner tous les leviers pour combattre les déserts médicaux : régulation de l’installation des médecins",
+          "source_id": "plan-th-matique-2027-comment-nous-allons-garantir-l-galit-po-5d386999",
+          "page": 22
+        }
+      ]
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "interdire immédiatement les plus dangereux (glyphosate, néonicotinoïdes)",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 51
+        }
+      ]
+    },
+    "q25": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Rehausser le seuil de logements sociaux dans les villes (loi SRU) à 30 %",
+          "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+          "page": 17
+        }
+      ],
+      "note": "Propose de relever le seuil à 30 % et d'aggraver les sanctions."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Convoquer une Constituante pour passer à la 6e République",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 11
+        }
+      ]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "un décret de blocage des prix du carburant sera pris pour ramener le prix à la pompe à 1,70 euro par litre",
+          "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+          "page": 9
+        }
+      ]
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Appliquer un malus au financement public des établissements privés sous contrat contribuant à la […] ségrégation socio-scolaire",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 21
+        }
+      ]
+    },
+    "q30": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "les gouvernements d’Emmanuel Macron ont réduit les droits à l’assurance chômage en tous points : conditions d’accès, montant, durée et dégressivité de l’indemnité. Nous proposons, dès l’année prochaine, d’abroger ces réformes",
+          "source_id": "plan-2027-comment-nous-allons-remettre-de-l-ordre-dans-les-c-796b2e7a",
+          "page": 12
+        }
+      ]
+    }
+  }
+}

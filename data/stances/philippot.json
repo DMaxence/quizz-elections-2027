@@ -1,0 +1,171 @@
+{
+  "slug": "philippot",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Créer le référendum d’initiative citoyenne (RIC) sur tout sujet et l’inscrire dans la Constitution.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 2
+        }
+      ]
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Baisser l’âge de départ à la retraite. Délivrée de la menace bruxelloise, la France pourra souverainement déterminer les conditions d’accession à la retraite et baisser l’âge de départ si les Français le désirent.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 4
+        }
+      ],
+      "note": "Sans âge chiffré ; présenté comme possible après la sortie de l’UE, « si les Français le désirent »."
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Il faut non seulement préserver cet avantage stratégique, mais aussi le renforcer par un plan d’investissement massif dans le nucléaire de nouvelle génération et les infrastructures hydroélectriques.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 6
+        }
+      ]
+    },
+    "q06": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Favoriser un plan de paix entre la Russie et l’Ukraine et cesser les livraisons d’armes.",
+          "source_id": "profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff",
+          "page": 2
+        },
+        {
+          "quote": "Couper les financements de la guerre en Ukraine, qui disparaissent dans la corruption.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 8
+        }
+      ]
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Quitter l’OTAN. Quitter l’OTAN est l’une des conditions de notre indépendance sur la scène internationale.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 10
+        }
+      ]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Renationaliser les autoroutes.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 4
+        },
+        {
+          "quote": "Rétablir le monopole public national d’EDF.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        }
+      ]
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "En finir avec les éoliennes sur terre et en mer.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        },
+        {
+          "quote": "Il faut donc un moratoire total et définitif sur cette méthode de production d’électricité",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        }
+      ]
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Renvoyer les clandestins chez eux et appliquer les OQTF",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 10
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "En finir avec les traités de libre-échange imposés par la Commission européenne.",
+          "source_id": "profession-de-foi-de-la-liste-l-europe-a-suffit-les-patriote-ffdf84ff",
+          "page": 2
+        },
+        {
+          "quote": "se libérer des accords de libre-échange signés par l’UE contre nos intérêts.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        }
+      ]
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Il faut rompre avec le dogme du collège unique, qui nivelle par le bas, pour proposer dès 14 ans des parcours différenciés, y compris vers l’apprentissage.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 7
+        }
+      ]
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Quitter le marché européen de l’électricité.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        },
+        {
+          "quote": "Revenir à des règles nationales permettrait de faire baisser immédiatement le tarif des particuliers et des entreprises.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 3
+        }
+      ]
+    },
+    "q20": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "La France doit retrouver sa souveraineté nationale en quittant toutes les instances supranationales : UE, Euro, Schengen, CEDH, OTAN, OMS.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 2
+        }
+      ]
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Il faut supprimer les ARS (Agences régionales de santé).",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 5
+        }
+      ]
+    },
+    "q30": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 4
+        }
+      ]
+    }
+  }
+}

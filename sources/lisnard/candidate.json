@@ -1,0 +1,30 @@
+{
+  "slug": "lisnard",
+  "name": "David Lisnard",
+  "party": "Nouvelle Énergie",
+  "party_short": "NE",
+  "declared": true,
+  "declaration_note": "Candidature confirmée le 31 mars 2026 au journal de France 2, en annonçant son départ des Républicains (LCP, liste des candidats mise à jour le 14 octobre 2026).",
+  "declaration_source": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+  "official_sites": [
+    "https://www.unenouvelleenergie.fr/",
+    "https://www.lisnard2027.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Pages « Notre programme » de Nouvelle Énergie, complétées par des livrets thématiques.",
+  "blocked": [
+    {
+      "url": "https://www.unenouvelleenergie.fr/api/media/file/Nouvelle_energie_Livre_noir_pages_20_24_inversees.pdf",
+      "why": "PDF en colonnes : texte extrait entremêlé, citations verbatim inutilisables (« Le livre noir — en finir avec la bureaucratie », 24 p.)"
+    },
+    {
+      "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/05/Livret-Sante-Nouvelle-Energie.pdf",
+      "why": "PDF en colonnes (« Les carnets Santé 2026 ») : texte entremêlé ; contenu proche de la page Santé archivée"
+    },
+    {
+      "url": "https://nouvelle-energie-media-prod.s3.fr-par.scw.cloud/media/legacy/2026/06/AGRICULTURE.pdf",
+      "why": "PDF en colonnes (« Les carnets Agriculture 2026 ») : texte entremêlé ; contenu proche de la page Agriculture archivée"
+    }
+  ],
+  "notes": "lisnard2027.fr est le site de campagne mais n'est qu'une page d'attente (« Le site de campagne ouvre prochainement… En attendant, le projet est présenté sur unenouvelleenergie.fr »). La FAQ officielle de NE (« Où trouver le programme de David Lisnard ? ») désigne la page « Notre programme » comme son programme : d'où official_2027 = oui pour les 8 pages programme, bien que non datées et incomplètes — à confirmer par le lead (alternative : statut « partiel »). Les pages programme se terminent par une liste de liens FAQ (« Quel candidat à la présidentielle 2027… ? ») à ignorer. Discours de Bayeux (17 juin 2026, institutions) archivé comme complément (official_2027 = non). Discours de Saint-Raphaël (3 juillet 2026) cité par le parti mais pas trouvé en document autonome (seulement des articles d'actualité)."
+}

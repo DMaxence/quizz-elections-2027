@@ -1,0 +1,20 @@
+{
+  "slug": "bertrand",
+  "sources": [
+    {
+      "id": "nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d",
+      "label": "Nous France — « La vision » (manifeste du mouvement de Xavier Bertrand)",
+      "publisher": "nousfrance.fr — site du mouvement Nous France",
+      "url": "https://www.nousfrance.fr/vision/",
+      "final_url": "https://www.nousfrance.fr/vision/",
+      "year": "2021",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:27:20+00:00",
+      "sha256": "df8fe68dc321d33e499ab5b9b406fa925cc96ac5eee62cbe84533ba5aef3d50e",
+      "raw": "sources/bertrand/raw/nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d.html",
+      "text": "sources/bertrand/text/nous-france-la-vision-manifeste-du-mouvement-de-xavier-bertr-df8fe68d.txt",
+      "text_chars": 2212
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mathieu-01",
+    "theme": "Institutions et démocratie",
+    "measure": "Organiser une assemblée citoyenne chargée de réécrire la Constitution pendant que le Premier ministre gouverne",
+    "quote": "Le plan est simple : pendant que le premier ministre gouverne, j'organiserai une assemblée citoyenne pour réécrire la Constitution, loin des partis et des politiciens.",
+    "source_id": "programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-02",
+    "theme": "Institutions et démocratie",
+    "measure": "Composer cette assemblée constituante de 500 citoyens tirés au sort, avec quotas de représentativité",
+    "quote": "Tirage au sort 500 citoyens tirés au sort, avec quotas de représentativité.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-03",
+    "theme": "Institutions et démocratie",
+    "measure": "Soumettre la nouvelle Constitution au référendum",
+    "quote": "Référendum La nouvelle Constitution est soumise au vote de tous les Français.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-04",
+    "theme": "Institutions et démocratie",
+    "measure": "Démissionner une fois la nouvelle Constitution adoptée et organiser de nouvelles élections selon ses règles",
+    "quote": "Démission du président Sa mission de refonte des institutions est accomplie. Nouvelles élections Organisées selon les nouvelles règles de la nouvelle Constitution.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-05",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne (RIC) au moyen d'un article de loi prêt à l'emploi",
+    "quote": "Le Référendum d'Initiative Citoyenne (RIC) L'objectif : proposer un article de loi prêt à l'emploi, directement accessible sur ce site.",
+    "source_id": "programme-2027-de-beno-t-mathieu-programme-d-mocratique-ric--cb4fc3d8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-06",
+    "theme": "Institutions et démocratie",
+    "measure": "Adopter le vote par classement (vote unique transférable) pour toutes les élections",
+    "quote": "Vote par classement (scrutin à vote unique transférable) pour toutes les élections : les électeurs classent les candidats par ordre de préférence.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-07",
+    "theme": "Institutions et démocratie",
+    "measure": "Mettre en place des budgets participatifs où les habitants votent l'affectation d'une partie du budget public",
+    "quote": "Budgets participatifs : les habitants votent eux-mêmes l'affectation d'une partie du budget public.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-08",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer des comités d'audit citoyens des comptes et décisions publiques",
+    "quote": "Comités d'audit citoyens des comptes et décisions publiques, pour vérifier l'action de l'État.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-09",
+    "theme": "Institutions et démocratie",
+    "measure": "Publier systématiquement les données et décisions publiques (open data)",
+    "quote": "Open data Transparence étatique : publication systématique des données et décisions publiques.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "mathieu-10",
+    "theme": "Institutions et démocratie",
+    "measure": "Créer des plateformes collaboratives citoyennes pour coécrire les lois numériques, sur le modèle taïwanais",
+    "quote": "Plateformes collaboratives citoyennes (vTaiwan, Join.gov.tw) pour coécrire les lois numériques.",
+    "source_id": "le-candidat-constat-et-d-marche-de-beno-t-mathieu-pour-2027-04253470",
+    "page": null,
+    "concrete": true
+  }
+]

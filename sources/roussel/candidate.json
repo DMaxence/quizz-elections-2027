@@ -1,0 +1,17 @@
+{
+  "slug": "roussel",
+  "name": "Fabien Roussel",
+  "party": "Parti communiste français",
+  "party_short": "PCF",
+  "declared": true,
+  "declaration_note": "Candidature proposée par la conférence nationale du PCF (juillet 2026) puis approuvée par le vote des adhérents du 3 au 6 septembre 2026 (72,06 % pour).",
+  "declaration_source": "https://www.pcf.fr/presidentielle2027_fabien_roussel_designe_candidat",
+  "official_sites": [
+    "https://www.fabienroussel2027.fr/",
+    "https://www.pcf.fr/"
+  ],
+  "program_status": "officiel",
+  "program_status_note": "Plan jeunesse 2027-2032 et tracts de campagne, complétés par le programme européen 2024 de la liste PCF.",
+  "blocked": [],
+  "notes": "Les fichiers PDF du PCF et du site de campagne sont hébergés sur assets.nationbuilder.com/pcf/ (hébergeur NationBuilder du PCF, liés depuis pcf.fr et fabienroussel2027.fr) — considérés comme officiels. Le programme européen 2024 est en deux colonnes entrelacées ligne par ligne par pdfplumber (citations multi-lignes difficiles à vérifier) et pdfplumber émet des avertissements de couleur sans conséquence. Non archivés : programme présidentiel 2022 « La France des Jours heureux » (antérieur à 2024) ; brochure du 40e congrès (avril-mai 2026, po.pcf.fr) qui mêle le projet de base commune non amendé et des textes alternatifs non adoptés — si le texte adopté au 40e congrès (juillet 2026) est publié sur pcf.fr, il pourrait servir de source programmatique ; autres tracts (pompiers, lycées) et affiches. La liste « Gauche unie pour le monde du travail » (européennes 2024) était conduite par le PCF (Léon Deffontaines) avec quelques partenaires ; le label le précise."
+}

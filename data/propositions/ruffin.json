@@ -1,0 +1,407 @@
+[
+  {
+    "id": "ruffin-01",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Indexer les salaires sur l'inflation",
+    "quote": "Pour en finir avec cette érosion du pouvoir d’achat, nous indexerons les salaires sur l’inflation, comme cela a existé jusqu’en 1982.",
+    "source_id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-02",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Rémunérer double les heures de travail effectuées avant 8 h et après 18 h",
+    "quote": "LUTTER CONTRE LES HORAIRES ATYPIQUES EN RÉMUNÉRANT DOUBLE LES HEURES AVANT 8 H ET APRÈS 18 H.",
+    "source_id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+    "page": 16,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-03",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Accorder un trimestre de retraite supplémentaire pour quatre trimestres cotisés dans un métier pénible",
+    "quote": "en lui substituant l’octroi automatique de trimestres supplémentaires : pour quatre trimestres cotisés dans un métier exposé à la pénibilité, un trimestre supplémentaire de retraite sera accordé.",
+    "source_id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+    "page": 20,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Créer un statut des travailleurs essentiels (salaires, carrières, horaires, retraite avancée)",
+    "quote": "Nous construirons un « statut des travailleurs essentiels » pour les femmes de ménage, AVS, caristes, agriculteurs et tous les autres qui ont tenu le pays debout pendant le Covid : avec salaires, carrières, horaires et une retraite avancée.",
+    "source_id": "notre-programme-page-de-synth-se-de-la-campagne-2027-d274e950",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Donner aux salariés sous-traitants les mêmes droits que ceux de l'entreprise donneuse d'ordre",
+    "quote": "Nous voulons que les salariés sous-traitants puissent bénéficier des mêmes droits que les salariés de l’entreprise donneuse d’ordre (portabilité des droits).",
+    "source_id": "cahier-de-campagne-n-1-statut-des-travailleurs-essentiels-pr-11e7d698",
+    "page": 21,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-06",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 M€ (taxe Zucman)",
+    "quote": "Proposition 1 : Taxe Zucman (18,5 Md€) : Gabriel Zucman propose une taxe annuelle de 2 % sur les patrimoines supérieurs à 100 M€, après déduction des impôts déjà acquittés.",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 24,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-07",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Réformer les droits de succession : abattement porté à 200 000 € et taux marginal de 50 % au-delà de 6 M€",
+    "quote": "L’abattement passerait de 100 000 à 200 000 € et serait accompagné d’un élargissement de l’assiette aux transmissions patrimoniales reçues au cours de la vie […] Enfin, les taux des droits deviendraient plus progressifs avec un taux marginal de 50 % au-delà de 6 M€.",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 25,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-08",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer un « dividende climatique » de 2 % sur les dividendes de toutes les entreprises",
+    "quote": "nous proposons de mettre en place ce dividende à hauteur à 2 % pour toutes les entreprises.",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-09",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Supprimer l'abattement pour durée de détention sur les plus-values immobilières, hors résidence principale",
+    "quote": "Les plus-values sont une rente qui ne devrait pas bénéficier d’un abattement progressif, en dehors de la déduction de l’inflation moyenne et des « frais de notaires » (les travaux étant déjà déduits des revenus locatifs). Cette suppression de l’abattement sur les plus-values ne concerne pas les résidences principales, mais l’ensemble des autres logements et terrains",
+    "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+    "page": 31,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-10",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer une taxe flottante sur les carburants pour garantir un prix prévisible",
+    "quote": "Instaurer une taxe flottante sur les carburants pour limiter leur […] L’objectif serait d’ajuster l’accise sur les carburants pour garantir un prix prévisible et légèrement progressif dans le temps",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 55,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-11",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Adopter un « Buy French Act » visant 80 % de commande publique localisée en France",
+    "quote": "Favoriser les achats de produits « made in France » par tous les moyens : un « Buy French Act » pour aller vers 80% de commande publique localisée en France",
+    "source_id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-12",
+    "theme": "Santé",
+    "measure": "Créer un pôle public du médicament (production publique et participations majoritaires)",
+    "quote": "C’est notamment le cas pour la proposition de pôle public du médicament à « 2 étages » : une production publique à court terme pour les produits de base critiques et une participation majoritaire dans des pôles d’entreprises dédiés aux médicaments innovants pour le moyen terme.",
+    "source_id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+    "page": 48,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-13",
+    "theme": "École et jeunesse",
+    "measure": "Créer au collège un enseignement de « savoirs techniques et pratiques » (artisanat, cuisine, couture…)",
+    "quote": "Réparer, jardiner, cuisiner : créer au collège un enseignement disciplinaire des « Savoirs Techniques et Pratiques », articulé autour de l’artisanat (menuiserie, mécanique, jardinage) et des savoirs ménagers (cuisine, couture, entretien).",
+    "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "page": 26,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-14",
+    "theme": "École et jeunesse",
+    "measure": "Allonger le CAP à 3 ans et le bac professionnel à 4 ans",
+    "quote": "Repasser la durée d’un CAP en formation initiale à 3 ans (2 aujourd’hui), et celle d’un Bac professionnel à 4 ans (3 aujourd’hui).",
+    "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-15",
+    "theme": "École et jeunesse",
+    "measure": "Remplacer Parcoursup par un autre système d'orientation et d'affectation",
+    "quote": "il faut remplacer Parcoursup par un système plus juste, plus transparent, et qui traite les jeunes comme des humains, en prenant le temps de les écouter et de les guider.",
+    "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-16",
+    "theme": "École et jeunesse",
+    "measure": "Moduler les dotations publiques aux établissements privés sous contrat selon leur mixité sociale",
+    "quote": "Moduler les dotations publiques aux établissements privés en fonction de la mixité sociale : tout établissement sous contrat dont le taux d’élèves favorisés ou celui d’élèves boursiers s’écarte de la moyenne du territoire verra ses subventions réduites en proportion.",
+    "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "page": 42,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-17",
+    "theme": "École et jeunesse",
+    "measure": "Revaloriser les salaires des enseignants sans contrepartie",
+    "quote": "Mettre en place un grand plan de revalorisation des salaires. […] La revalorisation portera sur une hausse pérenne de la grille indiciaire, hors de toute logique de pacte ou de contreparties, en ciblant en priorité le milieu de carrière.",
+    "source_id": "cahier-de-campagne-n-8-ducation-une-cole-de-tous-les-savoirs-26af004b",
+    "page": 44,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-18",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Prolonger les centrales nucléaires existantes et construire six réacteurs EPR2",
+    "quote": "En matière de production nucléaire, nous prolongerons la durée de vie des centrales existantes, tant que l’Autorité de sûreté nucléaire et de radioprotection validera leur niveau de sûreté. […] Nous poursuivrons aussi la construction […] des six réacteurs EPR2 : ces six réacteurs permettront surtout de compenser les fermetures des centrales actuelles",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-19",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Sortir progressivement du marché de l'électricité et fixer les prix sur les coûts de production",
+    "quote": "nous organiserons une sortie progressive du marché de l’électricité. 1 / Nous supprimerons la concurrence sur la vente d’électricité aux consommateurs : fini la spéculation et le démarchage téléphonique abusif, retour à un service public dont les prix de vente seront basés sur les coûts réels de production.",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 40,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-20",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Soumettre à référendum l'interdiction de la publicité pour les produits les plus polluants",
+    "quote": "nous proposons de soumettre au vote des Français, par référendum, les mesures suivantes portées par la Convention citoyenne pour le climat : 1 / Interdiction de la publicité pour les produits les plus polluants, comme les voitures thermiques ou les billets d’avion.",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 28,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-21",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Soumettre à référendum l'interdiction des vols intérieurs quand le train fait le trajet en moins de 4 h",
+    "quote": "nous proposons de soumettre au vote des Français, par référendum, les mesures suivantes […] Interdiction des vols intérieurs là où existe une alternative en train avec un trajet de moins de 4 heures",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 28,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-22",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Déployer un leasing social public de 3 millions de voitures électriques",
+    "quote": "Nous proposons de changer d’échelle sur le leasing social, en déployant une flotte publique de 3 millions de voitures électriques […] Les mensualités seront modérées (100 à 200€/mois selon le type de véhicule) pour les classes moyennes et populaires qui parcourent de nombreux kilomètres pour aller travailler.",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 50,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-23",
+    "theme": "Numérique, médias et culture",
+    "measure": "Instaurer un moratoire de cinq ans sur les projets de centres de données non souverains",
+    "quote": "Nous proposons un moratoire de cinq ans sur les projets de centres de données non souverains, l’organisation de débats publics sur les projets existants, avec la garantie d’une information juste.",
+    "source_id": "plan-d-action-data-centers-programme-2027-174a1614",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-24",
+    "theme": "Agriculture et alimentation",
+    "measure": "Imposer aux acheteurs des prix minimums garantis pour les produits agricoles",
+    "quote": "Nous proposons d’aller au bout de cette logique, en imposant aux acheteurs, de manière réellement contraignante, des prix minimums garantis pour nos agriculteurs.",
+    "source_id": "cahier-de-campagne-n-4-exception-agriculturelle-fran-aise-pr-c5f5e124",
+    "page": 33,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-25",
+    "theme": "Agriculture et alimentation",
+    "measure": "Interdire les importations agricoles à des prix inférieurs aux prix planchers nationaux",
+    "quote": "Cette hypocrisie doit prendre fin, en favorisant clairement les produits locaux et durables dans le cadre de la commande publique, en interdisant toute importation à des prix inférieurs aux prix planchers fixés nationalement.",
+    "source_id": "cahier-de-campagne-n-4-exception-agriculturelle-fran-aise-pr-c5f5e124",
+    "page": 35,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-26",
+    "theme": "Agriculture et alimentation",
+    "measure": "Généraliser les paiements pour services environnementaux aux agriculteurs",
+    "quote": "Pour réconcilier l’agriculture et la nature, nous proposons de généraliser les mécanismes de paiement pour services environnementaux (PSE), qui permettent de rémunérer les exploitants pour le développement et la bonne gestion des structures paysagères",
+    "source_id": "cahier-de-campagne-n-4-exception-agriculturelle-fran-aise-pr-c5f5e124",
+    "page": 36,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-27",
+    "theme": "Agriculture et alimentation",
+    "measure": "Créer un fonds de garantie pour l'agriculture biologique",
+    "quote": "Nous proposons la mise en place d’un fonds de garantie pour l’agriculture bio.",
+    "source_id": "cahier-de-campagne-n-4-exception-agriculturelle-fran-aise-pr-c5f5e124",
+    "page": 38,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-28",
+    "theme": "Institutions et démocratie",
+    "measure": "Instaurer le référendum d'initiative citoyenne (RIC)",
+    "quote": "Les idées de référendum devront aussi et surtout venir des citoyens, avec le Référendum d’initiative citoyenne (RIC), enfin.",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 28,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-29",
+    "theme": "Institutions et démocratie",
+    "measure": "Supprimer la rente à vie des anciens présidents de la République et Premiers ministres",
+    "quote": "La rente post-mandat accordée aujourd’hui à vie aux anciens Présidents et aux anciens Premiers ministres sera supprimée.",
+    "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "page": 36,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-30",
+    "theme": "Institutions et démocratie",
+    "measure": "Obliger tout ministre mis en examen à quitter le gouvernement",
+    "quote": "Nous renouerons avec une pratique républicaine qui prévalait avant que l’exigence de probité ne s’affaiblisse : un ministre mis en examen quittera immédiatement le Gouvernement",
+    "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "page": 37,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-31",
+    "theme": "Institutions et démocratie",
+    "measure": "Supprimer la Cour de justice de la République et l'inviolabilité pénale et civile complète du président",
+    "quote": "Nous mettrons fin à l’inviolabilité pénale et civile complète du Président de la République et au privilège de juridiction des ministres. […] Nous supprimerons pour ce faire la Cour de justice de la République dont la légitimité ne cesse d’être remise en cause.",
+    "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "page": 37,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-32",
+    "theme": "Sécurité et justice",
+    "measure": "Retirer au gouvernement le pouvoir de nommer les magistrats du parquet",
+    "quote": "C’est pourquoi nous renforcerons l’indépendance du parquet, en abrogeant notamment le pouvoir de nomination des magistrats du parquet par le Gouvernement.",
+    "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "page": 51,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-33",
+    "theme": "Sécurité et justice",
+    "measure": "Supprimer la convention judiciaire d'intérêt public actuelle et la limiter à la corruption à l'étranger",
+    "quote": "Nous abrogerons cette possibilité laissée aux plus riches d’échapper à leur responsabilité. Nous la cantonnerons au rôle qui avait été pensé pour elle à ses débuts : sanctionner en France les entreprises françaises coupables d’atteinte à la probité à l’étranger.",
+    "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+    "page": 52,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-34",
+    "theme": "Sécurité et justice",
+    "measure": "Augmenter les effectifs de sapeurs-pompiers professionnels de 20 000 d'ici 2030",
+    "quote": "Nous proposons une augmentation des effectifs de 10 % par an, permettant d’atteindre +20 000 sapeurspompiers professionnels à l’horizon 2030.",
+    "source_id": "plan-d-action-urgence-climat-programme-2027-f9a099a1",
+    "page": 5,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-35",
+    "theme": "Sécurité et justice",
+    "measure": "Créer un délit de faute systémique pour les dirigeants d'entreprises responsables de pollutions",
+    "quote": "Nous créerons un délit de faute systémique, pour reconnaître le lien entre la pollution et les décisions budgétaires ou de rentabilité du dirigeant.",
+    "source_id": "cahier-de-campagne-n-5-travaillisme-cologique-programme-2027-1fce6c07",
+    "page": 33,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-36",
+    "theme": "Europe, international et défense",
+    "measure": "Mettre fin aux négociations d'accords de libre-échange et refuser la ratification du CETA",
+    "quote": "Dès notre arrivée au pouvoir, nous mettrons un terme aux négociations pour les accords de libre-échange avec la Malaisie, la Thaïlande, les Emirats Arabes Unis, ou encore les Philippines. Nous refuserons également la ratification du CETA",
+    "source_id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-37",
+    "theme": "Europe, international et défense",
+    "measure": "Déclencher les mesures de sauvegarde de l'accord UE-Mercosur",
+    "quote": "nous proposons aussi de déclencher, dès notre arrivée au pouvoir, les mesures de sauvegarde de l’accord commercial entre l’Union européenne et le Mercosur.",
+    "source_id": "cahier-de-campagne-n-7-industrie-relocaliser-100-produits-st-c1cef6ee",
+    "page": 30,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-38",
+    "theme": "Logement et territoires",
+    "measure": "Généraliser l'encadrement des loyers à l'ensemble du territoire",
+    "quote": "En plus d’étendre cet encadrement des loyers à l’ensemble des agglomérations, nous proposons de le généraliser à l’ensemble du territoire.",
+    "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+    "page": 27,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-39",
+    "theme": "Logement et territoires",
+    "measure": "Doubler les montants des prêts à taux zéro pour les accédants à la propriété",
+    "quote": "Doubler les montants possibles des prêts à taux zéro (PTZ) permettrait d’avoir un impact fort et rapide sur le pouvoir d’achat des accédants modestes et moyens",
+    "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+    "page": 29,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-40",
+    "theme": "Logement et territoires",
+    "measure": "Permettre aux intercommunalités de fixer des quotas de résidences secondaires",
+    "quote": "nous proposons de renforcer les régulations des résidences secondaires, en donnant la possibilité aux intercommunalités de fixer un quota « local » au-delà duquel l’ensemble des logements vendus doivent devenir des résidences principales",
+    "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+    "page": 33,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-41",
+    "theme": "Logement et territoires",
+    "measure": "Engager 3 millions de rénovations énergétiques d'ampleur de logements sur 5 ans",
+    "quote": "Cette nouvelle stratégie permettra d’engager 3 millions de rénovations d’ampleur sur 5 ans, complétées par au moins 2 millions de rénovations de logements déjà isolés",
+    "source_id": "plan-d-action-plan-de-redressement-2026-programme-2027-75a354b5",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-42",
+    "theme": "Logement et territoires",
+    "measure": "Plafonner le prix des billets d'avion entre l'Hexagone et les Outre-mer",
+    "quote": "C’est pourquoi nous plafonnerons le prix des billets d’avion à destination et en provenance des Outre-mer.",
+    "source_id": "cahier-de-campagne-n-3-renouer-avec-le-temps-des-loisirs-pro-e8120daa",
+    "page": 34,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-43",
+    "theme": "Logement et territoires",
+    "measure": "Mettre fin aux concessions autoroutières et baisser les tarifs des péages",
+    "quote": "Nous baisserons les tarifs des péages grâce à la reprise en main des autoroutes (fin des concessions, tarification publique).",
+    "source_id": "cahier-de-campagne-n-3-renouer-avec-le-temps-des-loisirs-pro-e8120daa",
+    "page": 32,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-44",
+    "theme": "Protection sociale et famille",
+    "measure": "Créer une « Sécurité climatique », nouvelle branche de la Sécurité sociale",
+    "quote": "nous lancerons un grand cycle de concertation sur l’organisation de la solidarité nationale, pour avancer vers la création d’une Sécurité climatique, nouvelle branche permanente de la Sécurité sociale.",
+    "source_id": "plan-d-action-urgence-climat-programme-2027-f9a099a1",
+    "page": 15,
+    "concrete": true
+  },
+  {
+    "id": "ruffin-45",
+    "theme": "Société et libertés",
+    "measure": "Créer un congé bénévole rémunéré ouvert à tous",
+    "quote": "Nous créerons un véritable congé bénévole, ouvert à toutes et tous, y compris sans mandat statutaire, et sans perte de revenus",
+    "source_id": "cahier-de-campagne-n-3-renouer-avec-le-temps-des-loisirs-pro-e8120daa",
+    "page": 25,
+    "concrete": true
+  }
+]

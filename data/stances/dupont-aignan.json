@@ -1,0 +1,238 @@
+{
+  "slug": "dupont-aignan",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer le référendum d’initiative citoyenne constituant (RIC) pour rendre les citoyens acteurs de l’élaboration des lois et maîtres de leur Constitution. Les Français pourront soumettre au référendum une modification de la loi ou de la Constitution dès qu’un million d’inscrits sur les listes électorales soutiendra leur pétition.",
+          "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+          "page": null
+        }
+      ],
+      "note": "Seuil d'un million d'inscrits."
+    },
+    "q03": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer l’Aide Médicale d’État (AME) et mettre en place dans chaque département un dispensaire d’urgence pour les étrangers en situation irrégulière, avant leur expulsion.",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        }
+      ]
+    },
+    "q04": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les programmes de construction des EPR2 et de déploiement des petits réacteurs modulaires français pour remplacer nos centrales en fin de vie seront accélérés.",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ]
+    },
+    "q06": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Mettre fin aux aides à l’Ukraine (7 milliards d’euros par an en comptant les aides de la France et la quote-part des aides de l’UE dues par la France).",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ],
+      "note": "Le texte vise les aides à l'Ukraine en général, sans distinguer l'aide militaire."
+    },
+    "q08": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Limiter strictement le regroupement familial et supprimer le régime d’exception accordé aux Algériens",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        },
+        {
+          "quote": "Nous proposons, par conséquent, la suppression du droit du sol, la suspension du regroupement familial",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        }
+      ]
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sortir du commandement intégré de l’OTAN pour regagner notre indépendance militaire et stratégique",
+          "source_id": "projet-2027-de-debout-la-france-d-fense-nationale-3d4d8c27",
+          "page": null
+        }
+      ],
+      "note": "Sortie du commandement intégré, pas de l'Alliance."
+    },
+    "q11": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Doter chaque nouveau-né français d’un capital de 10 000 euros qui sera bloqué jusqu’à sa retraite et qui sera géré par un fonds public de capitalisation français […] À 60 ans, le bénéficiaire disposerait ainsi d’un socle de retraite par capitalisation, qui viendrait en complément de la retraite par répartition.",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ],
+      "note": "Capital de 10 000 € par nouveau-né, placé dans un fonds public de capitalisation."
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Renationaliser les autoroutes (qui réalisent des bénéfices de l’ordre de 4 milliards d’euros par an) par une reprise de la gestion des autoroutes sans verser aucune indemnité",
+          "source_id": "projet-2027-de-debout-la-france-automobilistes-et-motards-4b9039b5",
+          "page": null
+        }
+      ],
+      "note": "Propose aussi de rétablir le monopole de production et de distribution d'EDF."
+    },
+    "q13": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Baisser la majorité pénale à 16 ans.",
+          "source_id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+          "page": null
+        }
+      ]
+    },
+    "q14": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Stopper les projets éoliens qui produisent une énergie intermittente pour un coût faramineux (9 milliards d’euros en 2025) et défigurent nos campagnes et nos littoraux.",
+          "source_id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+          "page": null
+        },
+        {
+          "quote": "Supprimer les aides de l’État à l’installation des éoliennes et des panneaux solaires en annulant le décret sur la PPE3 (12 milliards d’euros économisés).",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ]
+    },
+    "q15": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Rétablir le délit de séjour irrégulier puni d’emprisonnement ferme.",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        },
+        {
+          "quote": "supprimer la régularisation pour les étrangers en situation irrégulière",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        }
+      ]
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Refuser définitivement l’accord de libre-échange entre l’Union européenne et le Mercosur.",
+          "source_id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+          "page": null
+        }
+      ]
+    },
+    "q18": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Organiser, à la sortie du primaire, un examen sur le modèle du certificat d’études, dont les résultats conditionneront l’entrée au collège.",
+          "source_id": "projet-2027-de-debout-la-france-ducation-instruction-publiqu-d97d5516",
+          "page": null
+        },
+        {
+          "quote": "Organiser des classes de niveau tout en garantissant leur porosité.",
+          "source_id": "projet-2027-de-debout-la-france-ducation-instruction-publiqu-d97d5516",
+          "page": null
+        }
+      ]
+    },
+    "q19": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sortir du marché européen de l’électricité en rétablissant un prix national comme l’Espagne et le Portugal ont su le faire.",
+          "source_id": "projet-2027-de-debout-la-france-affaires-europ-ennes-7c3f93d7",
+          "page": null
+        }
+      ],
+      "note": "Propose un tarif réglementé national de 10 centimes/kWh."
+    },
+    "q20": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sortir de l’Union européenne pour rapatrier nos compétences au niveau national, seul cadre de l’exercice de notre démocratie.",
+          "source_id": "projet-2027-de-debout-la-france-refonder-et-moraliser-notre--78b25a88",
+          "page": null
+        }
+      ],
+      "note": "La sortie serait soumise à référendum au terme d'un moratoire d'un an de négociations."
+    },
+    "q22": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer les aides sociales non contributives pour les étrangers (RSA, allocations familiales, aides au logement…)",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        },
+        {
+          "quote": "conditionner les aides sociales non contributives à 5 ans de résidence pour tout étranger",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ]
+    },
+    "q23": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous nous engageons à augmenter notre budget de défense pour atteindre le chiffre raisonnable de 2,5% du PIB",
+          "source_id": "projet-2027-de-debout-la-france-d-fense-nationale-3d4d8c27",
+          "page": null
+        }
+      ],
+      "note": "Objectif de 2,5 % du PIB."
+    },
+    "q27": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer les Agences Régionales de Santé et répartir leurs compétences entre les directions départementales de la santé et le ministère compétent.",
+          "source_id": "projet-2027-de-debout-la-france-quilibre-du-territoire-9abf8ea0",
+          "page": null
+        }
+      ]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Baisser de 40 centimes le prix des carburants (suppression des certificats d’économies d’énergie (CEE) : 17 centimes ; suppression de la TVA sur la taxe (6 milliards d’euros de coût) : 13 centimes ; plafonnement des marges des raffineurs : 10 centimes).",
+          "source_id": "projet-2027-de-debout-la-france-conomie-5536feca",
+          "page": null
+        }
+      ]
+    },
+    "q31": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Interdire tous les signes religieux visibles dans le service public, notamment dans les universités et les hôpitaux, et refuser tout accommodement.",
+          "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
+          "page": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "lalanne",
+  "sources": [
+    {
+      "id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007",
+      "label": "Le Projet 2027 — programme de la campagne Dieudonné et Francis Lalanne",
+      "publisher": "Site officiel de campagne Dieudo Lalanne 2027 (dieudolalanne2027.com)",
+      "url": "https://dieudolalanne2027.com/programme/",
+      "final_url": "https://dieudolalanne2027.com/programme/",
+      "year": "2026",
+      "kind": "page",
+      "official_2027_program": true,
+      "retrieved_at": "2026-10-30T12:24:15+00:00",
+      "sha256": "10c3b007637215f886aa05c83a7b73ebd76dbb8de2732d848b292cdc3c58c87f",
+      "raw": "sources/lalanne/raw/le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007.html",
+      "text": "sources/lalanne/text/le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007.txt",
+      "text_chars": 3358
+    },
+    {
+      "id": "nos-th-mes-et-valeurs-france-libre-profession-de-foi-par-th--24079f3c",
+      "label": "Nos thèmes et valeurs — France Libre (profession de foi par thème, élections 2024, liste conduite par Francis Lalanne)",
+      "publisher": "France Libre (france-libre.fr), mouvement lié à la campagne",
+      "url": "https://france-libre.fr/nos-themes-et-valeurs/",
+      "final_url": "https://france-libre.fr/nos-themes-et-valeurs/",
+      "year": "2024",
+      "kind": "page",
+      "official_2027_program": false,
+      "retrieved_at": "2026-10-30T12:24:45+00:00",
+      "sha256": "24079f3c4e014f93f213afa282df53c836f9bea1ebf3cd4654ad5e6a8be0f646",
+      "raw": "sources/lalanne/raw/nos-th-mes-et-valeurs-france-libre-profession-de-foi-par-th--24079f3c.html",
+      "text": "sources/lalanne/text/nos-th-mes-et-valeurs-france-libre-profession-de-foi-par-th--24079f3c.txt",
+      "text_chars": 8392
+    }
+  ]
+}

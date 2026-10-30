@@ -1,0 +1,33 @@
+{
+  "slug": "lalanne",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [{ "quote": "RIC (Référendum d'Initiative Citoyenne) : Inscription du RIC en toutes matières dans la Constitution.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }],
+      "note": "RIC en toutes matières."
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [{ "quote": "Sortie de l'OTAN : Retrouver notre indépendance militaire et diplomatique, refuser de participer aux guerres impérialistes.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }]
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        { "quote": "Nationalisation des entreprises à vocation sociale et assurant un profit à l’État.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null },
+        { "quote": "Restauration du Service public et récupération du Patrimoine National cédé à des entreprises privées.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }
+      ]
+    },
+    "q20": {
+      "stance": "pour",
+      "quotes": [{ "quote": "Frexit organisé : Sortie de l'Union Européenne pour retrouver la maîtrise de nos lois et de nos frontières.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }]
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [{ "quote": "Inscription du RIC en toutes matières dans la Constitution. Création d’une assemblée constituante.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }]
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [{ "quote": "Baisse radicale des impôts et surtout des taxes sur les carburants.", "source_id": "le-projet-2027-programme-de-la-campagne-dieudonn-et-francis--10c3b007", "page": null }]
+    }
+  }
+}

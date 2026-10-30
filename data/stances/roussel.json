@@ -1,0 +1,225 @@
+{
+  "slug": "roussel",
+  "stances": {
+    "q01": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer le référendum d’initiative citoyenne (RIC)",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 15
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q02": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous continuerons ainsi à nous battre pour défendre la Sécurité sociale et le droit à une retraite à 60 ans",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 25
+        }
+      ],
+      "note": "Retraite à 60 ans."
+    },
+    "q05": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "En mettant à contribution les grandes fortunes et les revenus financiers",
+          "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+          "page": 2
+        }
+      ]
+    },
+    "q06": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "L’Ukraine a le droit de se défendre et doit continuer à être aidée pour ce faire, sur les plans humanitaire et militaire.",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 10
+        }
+      ],
+      "note": "Refuse en revanche la fourniture d’armes offensives capables de frapper le territoire russe et l’envoi de troupes au sol."
+    },
+    "q07": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "De mettre en place des instruments européens de plafonnement des loyers",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 21
+        }
+      ],
+      "note": "Plafonnement proposé au niveau européen."
+    },
+    "q09": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Parcoursup et MonMaster seront supprimés et la sélection à l'entrée de l'université prendra fin.",
+          "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+          "page": 8
+        }
+      ],
+      "note": "Remplacé par une plateforme publique d’orientation."
+    },
+    "q10": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "la France se doit de sortir du commandement militaire de l’organisation atlantique",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 11
+        }
+      ],
+      "note": "Sortie du commandement intégré dans l’immédiat ; l’OTAN « a vocation à être dissoute »."
+    },
+    "q12": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "il convient de relocaliser, renationaliser et socialiser des entreprises stratégiques fondamentales pour notre indépendance (énergie, eau, autoroutes…)",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 14
+        }
+      ]
+    },
+    "q14": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Cela permettra de développer sur le continent des filières intégrées de pompes à chaleur, de panneaux solaires, d’éoliennes",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 15
+        },
+        {
+          "quote": "Faire de la France le leader européen des énergies marines avec l’éolien en mer",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 10
+        }
+      ],
+      "note": "Les sources propres évoquent une filière industrielle européenne d’éoliennes ; le développement de l’éolien en mer figure dans le programme du Nouveau Front populaire (2024)."
+    },
+    "q15": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Les travailleuses et travailleurs migrants dits « sans papiers » doivent être régularisé·es",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 11
+        }
+      ]
+    },
+    "q16": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer la proportionnelle",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 15
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q17": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous appelons à la dénonciation des traités de libre-échange et à la suspension des négociations en cours (UE-Mercosur",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 9
+        }
+      ]
+    },
+    "q20": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "prôner un « Frexit » n’ouvrirait pas la moindre perspective positive.",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 6
+        }
+      ]
+    },
+    "q21": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réguler l’installation des médecins dans les déserts médicaux",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 9
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q23": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "3,5 Md€ passent du budget de la défense à celui de l'école",
+          "source_id": "plan-jeunesse-2027-2032-campagne-fabien-roussel-c965f6ce",
+          "page": 11
+        }
+      ],
+      "note": "Finance le recrutement d’enseignants par un redéploiement de crédits de la défense."
+    },
+    "q24": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rétablir le plan Ecophyto, interdire le glyphosate et les néonicotinoïdes",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 18
+        }
+      ],
+      "note": "Les sources propres proposent de limiter l’usage des pesticides sans nommer le glyphosate ; interdiction tirée du programme du Nouveau Front populaire (2024)."
+    },
+    "q25": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Aucune remise en cause de la loi SRU et l’aggravation des sanctions contre les communes hors la loi",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 14
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q26": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Passer à une 6e République par la convocation d’une assemblée constituante citoyenne élue",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 15
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q28": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Bloquer les prix des biens de première nécessité dans l’alimentation, l’énergie et les carburants par décret",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 4
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q29": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Moduler les dotations des établissements scolaires - y compris privés - en fonction de leur respect d’objectifs de mixité sociale",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 9
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    }
+  }
+}

@@ -1,0 +1,1115 @@
+
+
+[[page 1]]
+CARNET
+DE DOCTRINE
+NUMÉRIQUE
+
+Juillet 2026
+
+TECHNODIVERSITÉS
+
+REPRENDRE
+LA MAIN SUR
+LE NUMÉRIQUE
+
+1
+
+
+
+[[page 2]]
+2
+
+
+
+[[page 3]]
+TABLE DES MATIÈRES
+Préambule...............................................................................................4
+I. Dissiper les mythologies numériques . ...............................................6
+La machine ne pense pas. ........................................................................................... 7
+La fatalité technologique n’existe pas........................................................................ 8
+Le numérique est un monde matériel......................................................................... 9
+L’illusion solutionniste. ................................................................................................ 9
+
+II. Reprendre la main sur le cœur de l’infrastructure numérique......... 11
+
+Souveraineté technologique : résister à la tentation mimétique............................12
+Atteindre les points de contrôle invisibles................................................................13
+Refuser la privatisation de la règle commune. .........................................................14
+Ni surveillance d’État, ni course à la puissance. ......................................................15
+
+III. Briser les monopoles et les modèles toxiques................................ 16
+Le monopole radical....................................................................................................17
+Le modèle publicitaire et la surveillance de masse : aux sources de la toxicité
+numérique....................................................................................................................18
+Un triple extractivisme et un nouveau colonialisme................................................19
+La démesure érigée en modèle. .................................................................................19
+
+IV. Reconnaître le travail derrière la machine. .................................... 21
+
+Une longue histoire de dépossession. ...................................................................... 22
+Le travail caché derrière l’automatisation............................................................... 22
+L’ère de la plateformisation totale et du management algorithmique................... 23
+Rendre aux travailleur·euses le pouvoir sur leur travail.........................................24
+
+V. Reconstruire un écosystème fondé sur la diversité........................25
+
+Imposer des standards inclusifs............................................................................... 26
+La diversité plutôt que la domination....................................................................... 26
+Reconnaître les communs numériques comme les fondations d’une autre politique numérique. ........................................................................................................ 27
+La diversité plutôt que la domination....................................................................... 27
+Décentraliser, fédérer, interopérer........................................................................... 28
+L’Europe, lieu de déploiement d’une troisième voie................................................. 28
+
+VI. Remettre le numérique à sa juste place. ........................................30
+Assigner sa juste place au numérique.......................................................................31
+Conserver des alternatives non-numériques. ......................................................... 32
+Pour des espaces préservés du numérique............................................................. 32
+Déséquiper et assumer les communs négatifs........................................................ 33
+
+Conclusion. ...........................................................................................35
+
+3
+
+
+
+[[page 4]]
+TECHNODIVERSITÉS
+REPRENDRE
+LA MAIN SUR
+LE NUMÉRIQUE
+Ce carnet expose la doctrine des Écologistes en matière de numérique,
+c’est-à-dire les conceptions et les principes qui orientent notre action.
+Il est complété par un chapitre de notre plateforme programmatique,
+consacré au numérique, où les mesures concrètes que nous proposons
+sont explorées en détail.
+Notre doctrine numérique découle d’une conviction générale : la
+technologie doit servir la prospérité écologique, et non assujettir les
+êtres humains et le vivant à l’ordre de la machine et de ses maîtres.
+Le numérique nous avait été à l’origine promis comme un espace
+d’émancipation et de savoir partagé. Nul ne songe à en nier les apports
+réels. C’est précisément parce qu’ils existent que le détournement de
+cette promesse est si grave. Une suite de choix politiques et économiques
+nous a entraînés sur une toute autre pente, si bien que nous héritons
+aujourd’hui d’un monde de dépendances et de captation à grande
+échelle, où la course à la démesure tient lieu d’unique horizon, et où la
+quête permanente d’optimisation ne sert plus que la maximisation de la
+rentabilité d’une poignée d’acteurs du numérique plutôt que la robustesse
+de nos modes de vie et de nos institutions.
+Mais cette promesse trahie n’a rien d’une fatalité technique. D’autres
+chemins existaient hier, d’autres restent ouverts aujourd’hui.
+Ce carnet est structuré en six chapitres qui s’enchaînent de manière
+à construire, brique par brique, les modalités d’une reprise en main
+
+4
+
+
+
+[[page 5]]
+de notre destin technologique et numérique. Le premier dissipe les
+mythologies qui entourent le numérique et l’intelligence artificielle,
+entretenues par les oligarques de la tech qui y ont un intérêt direct,
+car aucune décision lucide n’est possible tant que ces écrans de fumée
+brouillent notre pensée (chapitre I). Vient ensuite la souveraineté
+démocratique, c’est-à-dire à une reprise en main sur les infrastructures
+et les points de contrôle aujourd’hui soustraits à la délibération publique
+(chapitre II). Cette reconquête suppose ensuite de briser les monopoles
+et les modèles toxiques, qui concentrent le pouvoir et prospèrent sur un
+extractivisme planétaire (chapitre III).
+Elle exige par ailleurs de reconnaître le travail humain dissimulé derrière
+la machine, et d’en repenser le cadre dans une perspective de justice
+sociale (chapitre IV). Nous traçons ensuite les contours d’un écosystème
+fondé sur la diversité plutôt que sur la domination, troisième voie
+européenne entre les empires numériques qui prétendent s’imposer sur
+toute la surface du globe (chapitre V). Nous remettons enfin le numérique
+à sa juste place, au service de ce qui compte et tenu à distance des
+domaines qui doivent en rester préservés (chapitre VI).
+La sobriété et la soutenabilité écologiques traversent ce parcours d’un
+bout à l’autre, parce que le numérique est aussi une affaire de matière
+et d’énergie. À l’inverse d’une « nouvelle frontière » , il se heurte partout
+aux limites planétaires.
+Cette doctrine a été pensée comme la boussole qui doit nous permettre
+d’orienter notre action et de structurer nos combats politiques présents
+et à venir.
+
+5
+
+
+
+[[page 6]]
+I.
+
+DISSIPER
+LES MYTHOLOGIES
+NUMÉRIQUES
+
+6
+
+
+
+[[page 7]]
+Aucune politisation effective des questions numériques n’est possible
+tant que des récits enchantés tiennent lieu de pensée dominante. Autour
+de l’informatique et de l’intelligence artificielle s’est en effet constituée
+une mythologie puissante, entretenue par celles et ceux qui en tirent
+profit autant que par la fascination qu’elle exerce.
+Ces récits ne sont pas neutres. Ils sont conçus pour désarmer la critique,
+naturaliser des choix qui sont politiques et présenter comme inévitable ce
+qui résulte de décisions humaines guidées par des enjeux de pouvoir. Ils
+nourrissent surtout un sentiment d’impuissance, comme si les sociétés
+n’avaient plus qu’à s’adapter à des vagues technologiques successives
+qu’elles ne maîtriseraient pas.
+C’est précisément ce que recherchent les acteurs qui dominent
+le monde numérique et prospèrent sur ces promesses. Les
+dissiper est le préalable à toute reconquête démocratique.
+
+La machine ne pense pas
+L’expression même d’« intelligence artificielle » est un argument
+commercial avant d’être la description d’un fait technologique. Elle
+prête aux machines une intériorité, une volonté et une compréhension
+qu’elles n’ont pas. Un grand modèle de langage ne connaît rien du monde :
+il calcule des régularités statistiques à partir de quantités massives de
+textes et d’images produits par des humains. Le récit de la machine qui
+s’éveille, de la superintelligence imminente ou de la singularité relève
+d’une forme dévoyée de pensée mystique et certainement pas de la
+science. Il remplit pourtant une fonction précise.
+En attribuant à la technique une autonomie qu’elle n’a pas, il efface
+les responsabilités et les motivations bien réelles des entreprises
+qui conçoivent ces systèmes, fixent leurs objectifs et encaissent les
+profits. Dire qu’une machine « hallucine » ou « apprend toute seule »,
+c’est masquer le travail humain, les données captées et les décisions
+d’ingénierie qui se tiennent derrière chaque résultat.
+La conséquence est politique : à force de vouloir encadrer des
+« robots » ou des « algorithmes » comme s’ils étaient des sujets,
+on oublie de tenir pour responsables les entreprises qui les
+déploient. Les interfaces conçues pour imiter une présence humaine,
+jusqu’aux agents conversationnels vendus comme des compagnons,
+accentuent cette illusion et brouillent le partage des responsabilités.
+
+7
+
+
+
+[[page 8]]
+Nous refusons cette confusion volontairement entretenue.
+Derrière toute prétendue intelligence artificielle, il y a des intérêts
+économiques bien compris et des personnes bien réelles qui
+prennent des décisions qui engagent l’ensemble de la collectivité.
+
+La fatalité technologique n’existe pas
+Un deuxième récit présente le cours du numérique comme un destin.
+Il y aurait un sens unique du progrès, une marche en avant qu’il serait
+vain de discuter et coupable de vouloir ralentir ou faire bifurquer. Si
+cette idée arrange bien évidemment ceux dont le modèle économique
+repose sur l’accélération permanente, elle souffre d’un défaut majeur :
+elle est absolument fausse. Le progrès porte son lot de catastrophes
+et d’ignorance. Le soi-disant “sens de l’histoire” est un argument pour
+imposer un état d’exception permanent.
+Au commencement, les réseaux portaient une promesse d’émancipation :
+l’accès de toutes et tous au savoir, la parole rendue à chacun ou encore la
+coopération par-delà les frontières qui a servi de principe directeur à la
+gouvernance d’Internet. Cette promesse a été retournée : la concentration
+du pouvoir entre quelques plateformes, la surveillance généralisée
+et l’optimisation et la prolifération des contenus pour maximiser le
+temps passé devant l’écran ont fait d’un bien commun naissant une
+infrastructure tout entière tournée vers l’objectif de captation. Au
+cœur de ce basculement opèrent des algorithmes de classement et
+de recommandation que l’on présente comme neutres. Ils trient et
+hiérarchisent pourtant l’information selon des critères choisis par ceux
+qui les conçoivent, et, parce qu’ils héritent des biais de leurs données
+d’entraînement, reproduisent à grande échelle des discriminations
+sociales, raciales ou de genre. Rien de tout cela n’était pourtant écrit.
+L’informatique en réseau a connu d’autres formes, plus ouvertes et plus
+coopératives, organisées autour du partage et des communs, et ces
+formes existent toujours. Les chemins qui ont été refermés l’ont été par
+des stratégies industrielles, non par une nécessité technique ; or, ce qui
+a été refermé peut être rouvert. Le numérique est un objet politique dont
+les architectures comme les finalités résultent de décisions.
+Le reconnaître, c’est rendre au débat démocratique un domaine que l’on
+prétendait soustraire à son autorité.
+
+8
+
+
+
+[[page 9]]
+Le numérique est un monde matériel
+Un troisième récit est celui de l’immatériel. On parle de « nuage », de
+« virtuel », de « dématérialisation », comme si le numérique flottait audessus du monde physique. C’est l’inverse qui est vrai. Chaque requête,
+chaque message et chaque calcul mobilise des infrastructures lourdes :
+des centres de données qui engloutissent électricité et eau, des réseaux
+de câbles qui maillent les fonds océaniques ou encore des milliards de
+terminaux fabriqués à partir de métaux extraits dans des conditions
+souvent désastreuses tant sur le plan humain que sur le plan écologique.
+Ce que nous nommons nuage repose en fait sur un substrat bien
+réel, fait d’eau prélevée pour refroidir les serveurs, de consommation
+énergétique démesurée et de métaux arrachés à la terre. Ces
+derniers le sont le plus souvent dans des conditions inhumaines et
+particulièrement destructrices pour l’environnement comme on peut
+le voir par exemple en République Démocratique du Congo. Et tout
+cela, c’est sans compter les déchets électroniques générés par un
+modèle d’obsolescence programmée et que nous expédions le plus
+loin possible de notre regard. La fabrication des terminaux porte une
+large part de cette empreinte, à laquelle s’ajoute le poids croissant
+des infrastructures qui font tourner le réseau, centres de données en
+première ligne. L’industrie de l’intelligence artificielle relance une fuite
+en avant énergétique, au moment précis où nous devrions réduire notre
+consommation et réserver l’électricité bas-carbone disponible à la
+décarbonation des activités qui dépendent encore des énergies fossiles.
+Bref, non seulement le numérique n’échappe pas aux limites planétaires,
+mais il précipite leur dépassement. Une doctrine écologiste part de ce
+substrat matériel. Elle fait de la sobriété une condition de soutenabilité, et
+refuse de tenir la croissance indéfinie des usages et des infrastructures
+pour un horizon naturel.
+
+L’illusion solutionniste
+Un dernier récit veut que la technologie, dont l’intelligence artificielle
+apparaîtrait comme la forme dernière, résolve les problèmes qu’un
+autre progrès technique a contribué à créer (à commencer par la crise
+écologique).
+Réseaux intelligents, optimisation algorithmique : tout serait affaire
+
+9
+
+
+
+[[page 10]]
+de pilotage plus fin. Cette promesse se heurte à une réalité tenace.
+Les gains d’efficacité obtenus par la technique, lorsqu’ils sont mis au
+service d’un rendement toujours accru, sont régulièrement absorbés
+par l’augmentation des usages, si bien que la consommation totale
+progresse au lieu de diminuer. La conscience écologique repose en
+partie sur la compréhension des effets rebond, où qu’ils émergent. Le
+solutionnisme repose en dernière instance sur une erreur de fond,
+qui confond systématiquement optimisation et robustesse. Optimiser
+un système, c’est en régler chaque rouage pour un rendement maximal
+dans des conditions données ; mais un monde optimisé à l’extrême
+devient rigide et fragile, incapable d’absorber l’imprévu. Le vivant, lui,
+tient par la diversité et la redondance, par ces marges de manœuvre
+que l’optimisation supprime une à une. Une écologie du numérique
+ne demande pas d’optimiser davantage. Elle cherche à préserver la
+robustesse de nos sociétés et de nos milieux de vie, quitte à renoncer au
+rendement maximal. Autrement dit, la transition écologique est d’abord
+une transformation politique et sociale, et la réduire à une sorte de mise
+à jour logicielle relève d’une dangereuse illusion.
+Une fois ces récits dissipés, le numérique se laisse voir tel qu’il est : fait
+de choix humains, de stratégies industrielles, de quêtes de puissance,
+d’énergie et de matière, et implique donc d’être ouvert à la décision
+collective.
+
+10
+
+
+
+[[page 11]]
+II.
+
+REPRENDRE
+LA MAIN SUR
+LE CŒUR DE
+L’INFRASTRUCTURE
+NUMÉRIQUE
+
+11
+
+
+
+[[page 12]]
+Par omission ou par décision, la puissance publique a progressivement
+laissé des acteurs privés décider de ce qui aurait dû relever du choix
+collectif. Les conditions de notre information, de nos échanges, de
+notre accès au savoir et jusqu’au fonctionnement de nos services
+publics sont aujourd’hui fixées par une poignée d’entreprises
+technologiques qui se comportent en puissances de plein droit. Cette
+abdication a un coût : elle livre nos sociétés au bon vouloir d’acteurs
+sur lesquels nous n’avons aucune prise, et elle extrait du champ
+de la démocratie des décisions qui la concernent au premier chef.
+Reconquérir la souveraineté, c’est retrouver la capacité d’évaluer, de
+décider et d’agir sans dépendre d’une autre puissance, de quelque nature
+qu’elle soit. La souveraineté s’entend donc au sens démocratique avant
+tout : elle doit rendre le pouvoir à la délibération publique et aux citoyens,
+plutôt que de le déplacer simplement des plateformes vers l’État.
+
+Souveraineté technologique : résister à la
+tentation mimétique
+La première tentation serait d’imiter : bâtir des champions européens sur le
+modèle des géants américains et chinois, avec les mêmes architectures de
+captation et la même logique de concentration sous un drapeau différent.
+Cela reviendrait à reproduire le mal en croyant le combattre. Ce serait aussi
+importer la démesure, les mêmes centres de données géants et la même
+fuite en avant énergétique simplement repeints aux couleurs de l’Europe.
+La souveraineté que nous défendons ne se résume pas à la taille
+d’un champion national ou européen. Elle se mesure à la capacité
+d’une société à ne dépendre d’aucun acteur unique et à pouvoir
+changer d’outil sans tout perdre, cette robustesse que seule procure
+la diversité. Elle tient à la pluralité des acteurs et à l’impossibilité,
+pour aucun d’eux, d’imposer ses conditions à tous les autres. Elle se
+construit avec des moyens concrets : des formats et des interfaces
+ouverts qui garantissent la portabilité réelle des données et la
+possibilité de migrer d’un service vers un autre sans tout reconstruire.
+Là où les plateformes dominantes érigent des domaines clos pour
+retenir leurs usager·es, l’interopérabilité rouvre les portes et redistribue
+le pouvoir. Ainsi conçue, la souveraineté ne peut être confondue
+avec l’autarcie. Nous cherchons à choisir nos interdépendances
+plutôt qu’à les subir, car une dépendance réversible et assumée
+n’a rien de commun avec une dépendance imposée et verrouillée.
+
+12
+
+
+
+[[page 13]]
+Atteindre les points de contrôle invisibles
+On cherche d’ordinaire le pouvoir numérique du côté des services que
+nous utilisons au quotidien. Il se tient en réalité dans des couches
+techniques généralement invisibles aux yeux du public : les normes et les
+protocoles qui régissent la circulation et l’adressage de l’information sur
+les réseaux, les câbles sous-marins qui charrient nos communications,
+les centres de données et les services d’informatique en nuage qui les
+hébergent, la fabrication des semi-conducteurs de pointe, concentrée
+dans une poignée de fonderies et tributaire des machines qu’un seul
+industriel au monde sait produire, enfin les magasins d’applications et les
+systèmes d’exploitation qui décident de ce qui peut ou non fonctionner
+sur nos appareils.
+Qui maîtrise ces points de contrôle exerce un pouvoir de fait que la loi, seule,
+peine à contenir lorsqu’elle s’en tient aux usages les plus visibles. Il faut
+comprendre que ces dépendances sont tout sauf abstraites. Lorsqu’un
+hôpital ou une école confie ses données à un opérateur de cloud étranger,
+une législation extraterritoriale comme le Cloud Act américain peut un
+jour contraindre l’hébergeur à les livrer. Lorsqu’un magasin d’applications
+décide seul de ce qu’un citoyen a le droit d’installer sur son téléphone,
+c’est un acteur privé qui borne notre liberté d’usage. Lorsqu’un fournisseur
+unique relève ses prix ou encadre l’accès de manière unilatérale, des
+pans entiers de la vie collective se retrouvent à sa merci. C’est pourquoi
+la régulation, si nécessaire soit-elle, ne suffit pas. Les grands textes
+européens encadrent les comportements visibles des plateformes, mais
+ils laissent intouchées les infrastructures qui déterminent leur puissance.
+Une souveraineté réelle se doit d’agir sur ces couches profondes : elle
+doit investir dans les infrastructures critiques, depuis l’hébergement
+jusqu’aux semi-conducteurs, et elle doit imposer l’interopérabilité, les
+normes ouvertes et le chiffrement de bout en bout. Les deux premières
+rendent aux usagers la liberté de changer de service sans renoncer à
+leurs données ; le troisième protège leurs communications de toute
+interception. Reprendre la main sur les tuyaux et les standards techniques
+compte autant que réguler les usages et encadrer juridiquement les
+pratiques des plateformes.
+
+13
+
+
+
+[[page 14]]
+Refuser la privatisation de la règle
+commune
+Les plateformes géantes qui dominent aujourd’hui le champ numérique
+prétendent s’ériger en puissances souveraines, édictant pour des
+milliards de personnes des règles d’expression, de visibilité et d’accès
+qu’aucun Parlement n’a votées. Nous refusons radicalement cette
+privatisation du pouvoir normatif. L’autorité légitime pour fixer les règles
+communes ne peut qu’être publique et démocratique. Cela commence
+par faire appliquer réellement le droit que nous avons déjà édicté. Les
+travaux parlementaires récents l’ont montré : le problème tient moins
+à l’absence de règles qu’à la faiblesse de leur mise en application. Nous
+disposons déjà d’un arsenal européen, du RGPD au règlement sur les
+services numériques (DSA) et à celui sur les marchés numériques
+(DMA), mais nos autorités de régulation manquent de moyens humains
+et financiers pour les faire appliquer, les procédures s’étirent sur des
+années et les amendes infligées demeurent bien trop faibles au regard du
+chiffre d’affaires d’entreprises capables d’aligner des bataillons d’avocats
+et de lobbyistes.
+Faire respecter le droit est l’apanage de la puissance publique, mais
+la souveraineté démocratique ne s’arrête pas pour autant au seuil de
+l’État. Elle se manifeste aussi dans les collectivités, les administrations
+et les communautés qui font le choix d’outils libres et partagés. La
+commande publique est à cet égard un levier décisif, car ce que l’argent
+public achète est ensuite capable d’orienter tout un écosystème. En
+équipant ses administrations et ses écoles de solutions ouvertes et
+interopérables, fondées autant que possible sur des logiciels libres,
+la puissance publique cesse de financer sa propre dépendance
+et permet de faire exister des alternatives, ce qui est absolument
+fondamental pour la diversité de l’écosystème numérique. Syndicats,
+associations et collectifs citoyens sont eux aussi en première ligne
+face aux empires numériques, documentant leurs abus et portant
+à l’agenda public des combats que l’État ne peut engager seul.
+C’est de cette mobilisation que dépend, en dernier ressort, le rapport
+de force : aucune règle commune ne s’imposera à ces empires
+sans une société civile organisée pour l’exiger et en surveiller
+l’application. Une société souveraine conserve enfin le pouvoir de
+se soustraire à un cadre qu’elle n’a pas choisi. Ce pouvoir de retrait,
+longtemps négligé, est au cœur de la souveraineté démocratique.
+
+14
+
+
+
+[[page 15]]
+Ni surveillance d’État, ni course à la
+puissance
+Le concept de souveraineté numérique est aujourd’hui surmobilisé dans le
+débat public, et pas toujours de la meilleure des façons. Brandie pour ellemême, la souveraineté peut servir de prétexte à l’extension du domaine
+de la surveillance d’État ou plus prosaïquement se réduire à une course
+à la compétitivité, où l’Europe se contenterait de chercher à rattraper
+ses rivaux (de façon improbable car ne disposant pas des volumes de
+capitaux équivalents) sur leur propre terrain, et donc selon leurs propres
+règles. L’enjeu n’est pas d’opposer un capitalisme numérique européen à
+un capitalisme américain ou chinois mais de changer de modèle.
+Nous lui assignons un autre but. La souveraineté que nous voulons sert
+les libertés, la vitalité démocratique et l’habitabilité de la planète. Elle
+protège le secret des communications et la vie privée, par le chiffrement
+et par la minimisation des données collectées, plutôt que d’en susciter
+la multiplication et d’organiser leur captation. Elle soutient une
+informatique sobre, dimensionnée à des usages définis par des besoins
+réels et collectivement établis. Une autonomie numérique qui viserait
+à reproduire la démesure du capitalisme de surveillance aujourd’hui
+dominant n’a pas de sens. À nos yeux, la détention de la machine est tout
+sauf neutre, mais son dimensionnement et le modèle économique qui le
+sous-tend sont plus déterminants encore : de cette architecture découle
+l’alternative entre un modèle de domination et un modèle de protection.
+
+15
+
+
+
+[[page 16]]
+III.
+
+BRISER
+LES MONOPOLES
+ET LES MODÈLES
+TOXIQUES
+
+16
+
+
+
+[[page 17]]
+Une fois la reprise en main de l’infrastructure actée, encore faut-il
+décider au service de quel projet de société la mettre. Or le numérique
+dominant repose sur des modèles économiques qui concentrent le
+pouvoir aux mains d’une infime minorité, captent l’attention à l’échelle
+industrielle et épuisent les ressources planétaires. Ces modèles ne sont
+ni des accidents ni des dérives qu’il serait possible de corriger à la marge :
+ils sont la manifestation de la logique intrinsèque d’un secteur organisé
+pour l’extraction de rente et la croissance sans limite. S’attaquer
+frontalement à ces modèles est la condition de possibilité d’un numérique
+au service du bien commun et de la transformation écologique de la
+société.
+
+Le monopole radical
+La concentration ne se réduit pas à une question de taille des
+entreprises. Les entreprises du numérique ont en effet réussi à imposer
+leurs outils, jusqu’à les rendre indispensables à des pans entiers de la
+vie économique et sociale. On ne peut plus accomplir une démarche
+administrative, candidater à un emploi ou même maintenir un lien social
+sans transiter par eux.
+Ce caractère d’obligation définit le monopole radical, phénomène qui
+excède de loin la simple domination d’une firme sur un marché : il désigne
+l’emprise d’une manière de faire qui s’impose comme indispensable et
+efface, ce faisant, ses propres alternatives. De même que l’automobile a
+imposé en son temps un monde taillé à sa mesure, où marcher et pédaler
+sont devenus malaisés et parfois périlleux, le numérique commercial
+façonne un monde où se passer de ses services revient à s’exclure soimême. La dématérialisation forcée des services publics en offre la
+manifestation la plus brutale : à mesure que les guichets ferment, celles
+et ceux qui maîtrisent mal ces outils ou n’y ont pas accès se trouvent
+privés de droits pourtant élémentaires. Pire, on a pu assister à la mise en
+place de traitement algorithmique des données des usagers de services
+publics avec des ciblages statistiques de profils considérés comme
+présentant des probabilités plus élevées de fraudes, ces ciblages étant
+basés par exemple sur des lieux de résidence, voire sur des origines.
+Ces contraintes tout comme ces ciblages sont rarement choisis par
+les citoyen·nes, ils s’installent à bas bruit, quand le smartphone devient
+l’unique guichet et que l’application se substitue à l’agent public.
+Combattre les monopoles suppose dès lors deux gestes complémentaires.
+Le premier relève du droit de la concurrence, qu’il faut appliquer avec une
+fermeté inédite, jusqu’au démantèlement lorsqu’une position dominante
+dégénère en rente. Le second consiste à préserver et à rouvrir des
+
+17
+
+
+
+[[page 18]]
+alternatives, y compris non numériques, afin que nul ne soit jamais
+contraint de passer par un outil unique.
+
+Le modèle publicitaire et la surveillance
+de masse : aux sources de la toxicité
+numérique
+Au cœur du numérique commercial réside un modèle d’affaires dont
+presque tous les vices procèdent. La plupart des grands services
+se présentent comme gratuits, mais ils se rémunèrent en captant
+l’attention et en collectant les données de leurs usagers, monétisées
+sous forme de ciblage publicitaire. Ce modèle commande la conception
+même des outils. Puisque le revenu dépend du temps passé devant
+l’écran et des interactions émises par les usagers, tout y est optimisé
+pour retenir, du défilement sans fin aux recommandations calibrées pour
+maximiser l’engagement. Les réseaux sociaux en sont l’expression la plus
+aboutie et la plus terrible.
+Leurs algorithmes favorisent ce qui provoque une réaction, c’est-à-dire
+souvent l’indignation et le conflit, parce que l’émotion forte retient plus
+efficacement l’usager que la nuance. Il en résulte une dégradation du
+débat public et une amplification de la désinformation, ainsi que des
+effets désormais documentés sur la santé mentale, en particulier
+celle des adolescent·es. Il faut bien comprendre que rien de tout cela
+ne relève du dommage collatéral : il s’agit de la suite logique d’un modèle
+qui transforme l’attention humaine en marchandise et la surveillance en
+martingale économique.
+Le capitalisme de surveillance installe une asymétrie radicale : ces
+entreprises savent presque tout de nous, quand nous ignorons presque
+tout de la manière dont elles nous orientent. Portée sur le terrain
+démocratique, cette puissance de profilage permet de cibler les
+électeurs-trices et de fragmenter le débat en autant de messages sur
+mesure, soustraits au regard commun. Réduire la toxicité du numérique
+impose dès lors de viser le modèle lui-même, en encadrant strictement
+la publicité fondée sur le profilage et en proscrivant les procédés
+de captation conçus pour exploiter nos vulnérabilités cognitives.
+
+18
+
+
+
+[[page 19]]
+Un triple extractivisme et un nouveau
+colonialisme
+La toxicité de ces modèles ne s’arrête pas aux bords des écrans sur lesquels
+ils se déploient. Elle repose sur un triple extractivisme, à la fois matériel,
+énergétique et informationnel. Les deux premiers prélèvements, sur les
+métaux et sur l’énergie, ont déjà été décrits : ces modèles économiques
+en sont le moteur le plus vorace. Ces deux prélèvements suffisent à eux
+seuls à compromettre la trajectoire de l’Accord de Paris, tout en aggravant
+la pollution et l’artificialisation des sols.
+Le troisième est propre au numérique commercial : tout ce que nous
+faisons et produisons en ligne est capté comme une matière première
+gratuite, raffinée pour entraîner les modèles d’intelligence artificielle
+et alimenter un ciblage publicitaire toujours plus implacable. Ce que
+ces modèles ajoutent à l’extraction, c’est surtout une géographie
+profondément inégale : les matières premières et le travail le moins payé
+se concentrent dans les pays du Sud, tandis que la valeur et le pouvoir
+refluent vers une infime poignée d’entreprises américaines et chinoises.
+Derrière les promesses d’automatisation, des centaines de milliers de
+travailleurs annotent les données et filtrent les pires contenus, le plus
+souvent pour quelques centimes et au prix de leur santé psychique. Cette
+structure relève d’un véritable colonialisme numérique.
+L’Europe elle-même n’y échappe pas : faute d’infrastructures et de
+plateformes propres, elle abandonne ses données et ses marchés à des
+puissances extérieures et se retrouve, à bien des égards, en situation
+de colonie numérique. Cet ordre prolonge dans le champ numérique la
+logique techno-fossile que nous combattons partout ailleurs.
+
+La démesure érigée en modèle
+Toutes ces lignes convergent vers une même démesure. Le secteur a
+érigé la taille en valeur cardinale : des modèles aux paramètres toujours
+plus nombreux, entraînés sur des masses de données et une puissance
+de calcul sans précédent, et des centres de données toujours plus vastes
+pour les héberger. La course à l’intelligence artificielle générative a porté
+cette logique à l’extrême, au point d’annoncer des investissements et des
+consommations d’énergie sans commune mesure avec les bénéfices ou
+les besoins réels. Ce gigantisme n’a rien de neutre, car il sert d’abord
+la concentration, seuls quelques acteurs disposant des moyens
+d’entrer dans la course, ce qui referme un peu plus le marché sur les plus
+
+19
+
+
+
+[[page 20]]
+puissants. Il se révèle ensuite écologiquement intenable, puisqu’il fait
+croître sans limite la consommation de matière et d’énergie au moment
+précis où nous devrions la réduire.
+Un système surdimensionné n’est pourtant pas plus solide : il n’est que
+plus fragile et plus vorace. Bien des besoins seraient mieux servis par
+des outils légers, durables et réparables que par cette inflation continue
+de moyens. À la fuite en avant, nous opposons la juste mesure, celle
+d’outils proportionnés aux besoins et ancrés dans les territoires plutôt
+que concentrés dans quelques infrastructures géantes.
+
+20
+
+
+
+[[page 21]]
+IV.
+
+RECONNAÎTRE
+LE TRAVAIL
+DERRIÈRE
+LA MACHINE
+
+21
+
+
+
+[[page 22]]
+Le mythe de la machine autonome, que nous avons dissipé d’entrée
+de jeu, masque le travail de millions de personnes à travers le monde.
+Derrière chaque système présenté comme intelligent se tient une
+main-d’œuvre fragmentée et sous-payée, méthodiquement tenue
+hors de vue. Ce constat n’est pas neuf en ce qu’il prolonge une histoire
+déjà ancienne, celle des révolutions industrielles successives, qui ont
+chaque fois dépossédé les travailleurs de la maîtrise de leur propre
+activité. Pouvons-nous accepter que ce mouvement de dépossession se
+perpétue sous les habits neufs de l’intelligence artificielle ? Reconnaître
+ce travail et rendre du pouvoir à celles et ceux qui l’accomplissent est une
+exigence de justice sociale. C’est aussi l’une des clés pour comprendre
+les véritables ressorts du numérique.
+
+Une longue histoire de dépossession
+On retient des révolutions industrielles leurs gains de productivité ; on
+oublie qu’elles ont d’abord déplacé le pouvoir au sein de l’atelier. L’artisan
+qui maîtrisait son métier de bout en bout a cédé la place à l’ouvrier soumis
+à la cadence de la machine. L’organisation scientifique du travail, le
+taylorisme, a ensuite décomposé chaque tâche en gestes élémentaires,
+retirant aux travailleurs leur savoir-faire pour le concentrer dans les
+bureaux des méthodes. La chaîne de montage fordiste a poussé cette
+logique plus loin encore, puis l’informatisation a permis de mesurer,
+tracer et standardiser le travail jusque dans les bureaux et les services.
+À chaque étape s’est creusée la séparation entre ceux qui conçoivent et
+ceux qui exécutent, et les gains de productivité ont nourri les profits bien
+davantage que l’amélioration de la condition des travailleurs.
+Le numérique, puis l’intelligence artificielle, en constituent la dernière
+étape en date. Le management algorithmique prescrit les gestes, les
+chronomètre et les évalue en continu, tandis que la plateforme impose
+le rythme et que l’évaluation permanente remplace le contremaître.
+Ces outils prolongent et raffinent une dépossession entamée il y a deux
+siècles, le plus souvent (et c’est sans doute le plus dramatique) sous
+couvert d’une prétendue libération du travail. Le rappeler, c’est refuser
+de voir dans l’intelligence artificielle une rupture sans précédent, et la
+replacer dans l’histoire longue des rapports de force qui traversent et
+structurent la société.
+
+Le travail caché derrière l’automatisation
+Ce que l’on nous présente comme automatique l’est rarement de bout
+
+22
+
+
+
+[[page 23]]
+en bout. Pour qu’un système d’intelligence artificielle fonctionne, des
+centaines de milliers de personnes annotent et étiquettent les données
+qui l’entraînent, vérifient ses résultats et filtrent les contenus les plus
+dérangeants avant qu’ils n’atteignent les écrans. Ce micro-travail est
+morcelé en tâches payées à la pièce, souvent quelques centimes, et
+délocalisé là où la main-d’œuvre coûte le moins. On le présente volontiers
+comme un échafaudage provisoire, appelé à disparaître une fois les
+systèmes perfectionnés ; c’est l’inverse qui se produit, car plus ces
+systèmes se répandent, plus ils réclament de mains pour les corriger et
+les entretenir.
+À ce travail explicite s’ajoute une appropriation plus diffuse : les textes,
+les images et le code produits par des millions de personnes ont été
+aspirés pour entraîner ces modèles, sans consentement ni rémunération.
+C’est dans le secteur culturel que cette dépossession est aujourd’hui
+la plus manifeste. Dans le cinéma comme dans la musique, les œuvres
+ainsi captées alimentent des productions synthétiques qui prétendent
+se substituer à leurs auteurs. Cette opération arrache au créateur son
+geste même, technique et imaginaire, et le pouvoir qu’il exerçait sur ses
+moyens de subsistance comme sur ses moyens d’expression.
+L’ensemble est rendu invisible à dessein, car l’illusion de la machine
+pensante ne tient qu’à la condition d’effacer les mains qui la font tourner.
+Certaines de ces tâches laissent des traces durables : les modérateurs
+exposés en continu à des images de violence et d’abus en sortent
+fréquemment traumatisés. La valeur, elle, est captée en amont par les
+entreprises qui commandent ce travail. Exposer cette face cachée rétablit
+une vérité simple : il n’existe pas, et n’a jamais existé, d’automatisation
+sans travailleur·euses.
+
+L’ère de la plateformisation totale et du
+management algorithmique
+Une autre forme de dépossession s’est généralisée avec les plateformes
+de mise en relation. Chauffeurs, livreurs et autres prestataires y travaillent
+formellement sous un statut d’indépendant, mais leur autonomie relève
+très largement de la fiction. C’est un algorithme qui leur attribue les
+courses, fixe les prix, évalue leur performance et peut les déconnecter
+du jour au lendemain. La surveillance s’exerce désormais en continu,
+depuis le minutage de chaque livraison jusqu’au suivi des cadences dans
+
+23
+
+
+
+[[page 24]]
+les entrepôts.
+Cette subordination réelle se double de l’absence des protections
+attachées au salariat : ni horaires garantis, ni congés payés, ni
+couverture en cas d’accident. L’innovation sert ici de paravent à une
+régression absolue du droit du travail. L’Union européenne a commencé
+à répondre, avec une directive sur le travail des plateformes qui pose une
+présomption de salariat ; encore faut-il la transposer avec ambition plutôt
+que la laisser se vider de sa substance. Nous y opposons une exigence
+claire : là où la subordination existe, le salariat et ses protections doivent
+s’appliquer, et les algorithmes qui organisent le travail doivent devenir
+transparents et contestables.
+
+Rendre aux travailleur·euses le pouvoir sur
+leur travail
+Reconnaître le travail partout où il se trouve est un point de départ ; il faut
+surtout lui restituer le pouvoir dont on l’a privé. Cela passe d’abord par des
+droits : requalification en salariat lorsque la subordination est avérée,
+protection sociale pour les travailleurs des plateformes, encadrement
+strict de la modération et accompagnement de celles et ceux qu’elle
+expose. Cela suppose ensuite la transparence : un·e travailleur·euse
+est fondé·e à comprendre l’algorithme qui le note, à contester ses
+décisions et à n’être jamais sanctionné·e par une machine sans recours
+humain possible. Cela exige aussi des droits collectifs, en soumettant le
+déploiement des systèmes automatisés dans l’entreprise à la négociation
+avec les représentants des salariés, au lieu de l’imposer d’en haut. Cela
+appelle encore une autre conception de l’outil.
+L’intelligence artificielle peut accroître le pouvoir d’agir de celles
+et ceux qui travaillent au lieu de le confisquer, à condition que les
+premier·es concerné·es prennent une part directe aux choix qui les
+engagent. Reste enfin la question du partage : les gains de productivité
+tirés de l’automatisation doivent profiter à celles et ceux qui travaillent,
+sous forme de temps libéré et de droits nouveaux, plutôt que de se
+résorber en suppressions d’emplois et en profits concentrés. C’est tout
+l’enjeu d’une politique du numérique pensée du point de vue du travail, et
+non du seul capital.
+
+24
+
+
+
+[[page 25]]
+V.
+
+RECONSTRUIRE
+UN ÉCOSYSTÈME
+FONDÉ SUR
+LA DIVERSITÉ
+
+25
+
+
+
+[[page 26]]
+Les monopoles doivent être démantelés et les modèles toxiques,
+défaits : c’est à cette double condition que nous pourrons rouvrir le
+champ des possibles en matière numérique. Il faut ensuite esquisser ce
+qui doit venir prendre leur place. À la monoculture numérique imposée
+par une poignée d’empires, nous opposons un écosystème vivant, fait
+d’une pluralité d’acteurs et d’une diversité de solutions. Le choix de
+la diversité ne doit pas être réduit à sa portée éthique, car c’est lui qui
+fonde la robustesse d’un écosystème (et c’est cette diversité qui, pendant
+des décennies, avant l’enclosure opérée par les grandes plateformes,
+a fait de l’écosystème numérique un espace d’innovation d’une vitalité
+exceptionnelle). C’est sur ce terrain que l’Europe peut tracer une troisième
+voie numérique.
+
+Imposer des standards inclusifs
+La diversité doit s’étendre aux données d’entraînement comme à la
+conception même des modèles d’intelligence artificielle. En effet, les
+modèles génératifs amplifient les stéréotypes racistes, de genre et de
+classe que recèlent les données dont on les nourrit autant que les choix
+de leurs concepteurices.
+De la même manière, une multitude de données établies dans des langues
+minoritaires sont tout bonnement invisibilisées car complètement
+extérieures aux circuits de collectes des IA génératives. Diffusée à
+l’échelle industrielle, cette partialité uniformise l’information et appauvrit
+la pluralité des points de vue sur le monde.
+Loin de permettre la diffusion des diversités de perceptions, des
+singularités et de l’altérité, la concentration du traitement des données
+tout comme leur sélection légitiment les dominations et leur offrent une
+caisse de résonance inédite.
+Remédier à cette situation suppose d’imposer une pluralité effective des
+données d’entraînement et de soumettre la conception des modèles à des
+standards qui empêchent la reproduction par défaut des stéréotypes.
+
+La diversité plutôt que la domination
+Un écosystème vivant se maintient par la variété de ses composantes.
+La nature nous l’enseigne : une monoculture est fragile, exposée au
+moindre choc, tandis qu’un milieu divers résiste et se régénère. Il en
+va de même dans la sphère numérique. Concentrer l’informatique
+
+26
+
+
+
+[[page 27]]
+mondiale entre les mains de quelques fournisseurs de cloud, de quelques
+systèmes d’exploitation et d’un nombre encore plus restreint de modèles
+d’intelligence artificielle revient à bâtir un système d’une fragilité extrême,
+où une défaillance ou une décision unilatérale se propagent à l’échelle de
+la planète.
+Les grandes pannes de fournisseurs de cloud, qui paralysent d’un
+coup des milliers de sites, d’applications et de services publics, nous
+en donnent un avant-goût régulier. Une pluralité d’acteurs, de tailles
+et de modèles, au contraire, cantonne les défaillances et permet de
+basculer d’une solution à une autre lorsque l’une vient à céder. C’est ce
+que nous nommons la technodiversité : un répertoire varié d’outils
+adaptés à des besoins et à des contextes différents, là où l’industrie
+dominante cherche à imposer partout les mêmes solutions. Appliquée
+à l’intelligence artificielle, cette exigence conduit à préférer des modèles
+plus petits, spécialisés et ouverts à l’inspection, plutôt qu’une poignée
+de systèmes géants et opaques. La diversité conditionne directement la
+robustesse de l’ensemble de l’infrastructure et la liberté de ses usager·es.
+
+Reconnaître les communs numériques
+comme les fondations d’une autre politique
+numérique
+À côté du marché et de l’État, une autre manière de produire existe
+déjà : les communs numériques, ces ressources qu’une communauté
+crée, gouverne et tient ouvertes à toutes et à tous. Le logiciel libre,
+l’encyclopédie Wikipédia ou les cartes d’OpenStreetMap prouvent que
+des biens essentiels peuvent naître hors de la logique de profit. Mais les
+communs ne se défendent pas seuls : les géants du numérique se sont
+largement bâtis sur du logiciel libre dont ils ont capté la valeur, et des
+pans critiques de l’Internet reposent encore sur quelques bénévoles
+épuisé·es. Nous voulons faire des communs numériques un pilier de
+notre politique numérique, en les finançant, en sécurisant leur entretien
+dans la durée, en les protégeant de l’accaparement et en leur donnant la
+priorité dans la commande publique.
+
+Décentraliser, fédérer, interopérer
+La forme technique de la technodiversité est la décentralisation. Là où
+
+27
+
+
+
+[[page 28]]
+une poignée de plateformes centralisées concentrent les données et
+le pouvoir, les architectures décentralisées et fédérées répartissent
+l’hébergement et la décision entre une multitude de serveurs
+indépendants, reliés par des protocoles ouverts. Le courrier électronique
+fonctionne ainsi depuis l’origine : nul ne possède le courriel, et l’on écrit
+d’un service à un autre sans difficulté. Il existe déjà des réseaux sociaux
+alternatifs, comme Mastodon ou PeerTube, qui appliquent ce principe
+à la conversation publique : chaque communauté y définit ses propres
+règles tout en restant reliée aux autres.
+L’interopérabilité, déjà évoquée, en est la clé : c’est elle qui permet
+aux outils de se parler et aux usagers de circuler librement. Le droit
+commence d’ailleurs à l’imposer, puisque le règlement sur les marchés
+numériques oblige les plus grandes plateformes à ouvrir certaines de
+leurs interfaces et à garantir la portabilité des données ; c’est un levier
+qu’il faut élargir et faire réellement respecter. Ce modèle laisse enfin
+toute leur place à des acteurs que la concentration étouffe : petites et
+moyennes entreprises, coopératives, structures de l’économie sociale et
+solidaire, qui peuvent y prospérer sans être absorbées.
+Soutenir ces architectures, c’est répartir le pouvoir tout en préservant
+et en maximisant notre capacité à innover.
+
+L’Europe, lieu de déploiement d’une
+troisième voie
+Ce modèle a besoin d’une échelle politique pour exister, et cette échelle
+ne peut qu’être européenne. Seule l’Europe réunit la taille, les moyens
+et le poids politique nécessaires pour faire émerger une alternative
+aux empires numériques. Dans sa configuration actuelle, elle n’y est
+malheureusement pas totalement prête. Son espace économique reste
+fragmenté, et son cadre, conçu pour intégrer un marché bien plus que
+pour cultiver un écosystème, joue souvent contre cet objectif : les règles
+d’aides d’État brident l’investissement public dans les communs, et le
+droit de la concurrence demeure pensé pour le prix au consommateur
+davantage que pour la diversité des acteurs. L’Europe doit donc réformer
+ce cadre autant qu’investir, et surtout cesser de se poser en imitatrice
+(avec des moyens capitalistiques inférieurs).
+Au lieu de concentrer ses moyens sur une poignée de champions
+
+28
+
+
+
+[[page 29]]
+fantasmés, elle gagnerait à investir massivement dans les communs,
+les logiciels libres, les infrastructures partagées et le tissu des petites
+entreprises et des coopératives qui font vivre cette diversité. Un
+cadre respectueux des limites planétaires, un fonds européen dédié
+aux communs numériques, le soutien au matériel ouvert et aux modèles
+d’intelligence artificielle libres, l’appui aux coopératives de plateforme
+constitueraient autant de leviers concrets. Au-delà de la commande
+publique déjà évoquée, ses financements de recherche et ses normes
+peuvent orienter tout un écosystème vers l’ouverture, l’interopérabilité et
+la sobriété, au lieu de récompenser la concentration et le gigantisme. Une
+telle politique industrielle assume une autre définition de la puissance,
+mesurée à la vitalité et à l’autonomie d’un écosystème plutôt qu’à la taille
+de ses champions. C’est à cette condition que l’Europe peut offrir au
+monde un contre-modèle désirable, au lieu de se contenter de résister
+(avec difficulté) à ceux que poussent les empires numériques.
+
+29
+
+
+
+[[page 30]]
+VI.
+
+REMETTRE
+LE NUMÉRIQUE
+À SA JUSTE
+PLACE
+
+30
+
+
+
+[[page 31]]
+Le numérique doit être vu comme un outil, jamais une fin en soi : il doit
+être mis au service des libertés, de la justice sociale et de l’habitabilité
+de la planète. Même repris en main, diversifié et débarrassé de ses
+modèles les plus nuisibles, il peut encore occuper dans nos vies une
+place que personne n’a choisie, s’imposer là où il n’apporte rien et
+coloniser des espaces où il serait absolument dispensable. Lui assigner
+sa juste place, c’est donc décider de manière collective à quel niveau il
+peut être pleinement utile et où il doit se retirer.
+
+Assigner sa juste place au numérique
+La première exigence est de cesser de voir dans le numérique la
+réponse à tout. Le solutionnisme technologique, ce réflexe qui oppose
+une application à chaque problème social, repose sur une confusion : il
+prend l’outil pour la fin et mesure le progrès à la quantité de technologie
+déployée. On le retrouve dans la promesse de la ville intelligente, dans
+les applications censées résoudre à elles seules l’isolement ou l’échec
+scolaire, ou dans l’automatisation de décisions administratives et
+judiciaires qui engagent pourtant des existences.
+Or un outil ne demeure convivial, c’est-à-dire au service de qui l’emploie,
+que jusqu’à un certain seuil ; au-delà, il se retourne contre sa propre
+promesse et accroît la dépendance de celles et ceux qu’il prétendait
+servir. La seule question qui vaille porte sur ce que le numérique améliore
+réellement, à quel prix et pour qui, plutôt que sur la manière de déployer
+toujours davantage de technologies. Nous proposons même d’inverser
+la charge de la preuve : avant d’introduire une technologie dans un
+domaine sensible, il devrait revenir à celui qui la promeut d’en établir le
+bénéfice réel et d’en mesurer les coûts sociaux et écologiques. De tels
+arbitrages relèvent du débat démocratique, et non de la seule initiative
+des fournisseurs de technologie ou de l’administration qui les achète.
+Décider de la place du numérique suppose enfin d’assumer deux libertés
+également politiques : celle d’y recourir là où il sert, et celle de s’en passer
+partout où il dessert. Le déploiement d’une technologie devrait toujours
+résulter d’un choix délibéré, sans jamais s’imposer comme un réglage par
+défaut.
+
+31
+
+
+
+[[page 32]]
+Conserver des alternatives
+non-numériques
+Or, cette liberté de ne pas numériser reste théorique si aucune alternative
+concrète ne subsiste. Nous défendons donc le maintien, partout où le
+numérique s’impose, d’une voie non numérique pleinement équivalente.
+L’accès à un droit, à un service public, à un compte bancaire ou à un
+transport ne peut être suspendu à la possession d’un smartphone ou
+à la maîtrise d’une application. Un guichet tenu par une personne, un
+formulaire papier, le paiement en espèces ou un interlocuteur que l’on
+peut joindre doivent demeurer accessibles, et pas seulement à titre
+résiduel. La dématérialisation, présentée comme une simplification,
+déplace en réalité le travail et le coût vers l’usager, sommé de devenir son
+propre agent administratif.
+Nous voulons donc inscrire dans la loi un droit effectif à une alternative
+non numérique, opposable et financé, pour chaque démarche
+essentielle. Cette exigence protège d’abord les millions de personnes
+que la bascule numérique laisse au bord du chemin, âgées, précaires ou
+simplement peu à l’aise avec ces outils. Mais cette exigence dépasse la
+seule protection de l’usager : elle vaut à l’échelle des organisations, qui
+doivent maintenir des procédures et des compétences indépendantes du
+numérique pour continuer d’agir lorsque l’outil fait défaut. Une armée qui
+n’apprendrait plus à s’orienter à la carte et à la boussole serait aveugle
+le jour où le signal satellite est brouillé ; un hôpital ou un service de
+secours privé de ses modes opératoires manuels se retrouverait démuni
+à la première panne. Cette autonomie a aussi une dimension éducative :
+l’école et la formation doivent transmettre les savoir-faire fondamentaux
+(calculer, écrire et raisonner sans assistance, etc.) pour qu’une société
+ne perde pas la capacité d’accomplir par elle-même ce qu’elle confie à la
+machine. Préserver les alternatives non numériques, c’est donc aussi
+préserver des compétences, faute de quoi la dépendance devient
+irréversible et la moindre défaillance, paralysante.
+
+Pour des espaces préservés du numérique
+Certains domaines de l’existence gagnent, eux, à être tenus franchement
+à l’écart du numérique. Il s’agit cette fois de soustraire délibérément des
+espaces et des temps à son emprise, plutôt que d’aménager une voie
+parallèle.
+
+32
+
+
+
+[[page 33]]
+L’enfance et l’école viennent en premier, car exposer les plus jeunes à des
+écrans conçus pour capter leur attention compromet leur développement
+et leur rapport au monde. Cela justifie des limites claires à l’usage des
+écrans dans les premières années de la scolarité et des établissements
+préservés de la sollicitation permanente. L’attention elle-même est
+devenue un bien à défendre, tant l’économie de la captation la fragmente
+et l’épuise ; lui ménager des temps de retrait et garantir un droit réel à
+la déconnexion relèvent d’une écologie de l’attention. D’autres sphères
+appellent la même retenue : l’intimité, la délibération démocratique, le
+contact direct avec le vivant. Aucune de ces sphères ne se prête à la
+logique de l’écran et de la mesure sans s’y appauvrir.
+Les protéger est un choix politique assumé : tracer les frontières que
+l’industrie de l’attention, dont le modèle vit de notre temps capté, ne
+tracera jamais d’elle-même.
+
+Déséquiper et assumer les communs
+négatifs
+Mettre le numérique à sa juste place suppose enfin d’assumer un geste
+que la religion du progrès linéaire ignore : la soustraction. Déséquiper,
+c’est retirer délibérément les dispositifs qui nuisent plus qu’ils ne servent,
+qu’il s’agisse d’objets connectés inutiles, de systèmes de surveillance
+ou d’automatisations qui dégradent un service au lieu de l’améliorer.
+Renoncer à une technologie relève d’une décision lucide, qui pèse ses
+effets réels au lieu de céder à l’attrait de la nouveauté. Cette lucidité
+oblige aussi à regarder ce que le numérique laisse derrière lui.
+Chaque vague d’équipements engendre des communs négatifs, ces
+héritages encombrants dont personne ne veut assumer la charge :
+montagnes de déchets électroniques, terminaux rapidement obsolètes
+ou encore centres de données à entretenir indéfiniment. Une politique
+écologiste prend en charge ce passif.
+À l’échelle des appareils, elle impose un droit à la réparation opposable,
+combat l’obsolescence programmée, allonge la durée de vie des matériels
+et finance des filières de réemploi et de recyclage à la hauteur des
+volumes en jeu.
+À l’échelle des infrastructures, l’enjeu est plus lourd encore. La course
+au gigantisme multiplie les centres de données surdimensionnés,
+gourmands en énergie, en eau et en terres, dont une part se révélera
+
+33
+
+
+
+[[page 34]]
+inutile et finira à l’abandon dès que l’emballement actuel retombera.
+Il faut conditionner toute nouvelle installation à un besoin démontré et à
+une sobriété réelle, planifier dès l’origine son démantèlement et la remise
+en état des sites, et refuser que la collectivité hérite d’infrastructures
+abandonnées dont nul ne veut payer la fermeture. La même exigence vaut
+pour les systèmes vieillissants des administrations, ces dépendances
+logicielles que l’on entretient à grands frais faute d’avoir prévu leur fin.
+Dans tous les cas, le coût de cet héritage doit peser sur ceux qui le
+produisent, et non sur la collectivité qui le subit.
+
+34
+
+
+
+[[page 35]]
+CONCLUSION
+La prospérité écologique est l’horizon que nous nous sommes
+donné pour élaborer ce carnet. Reconquérir l’infrastructure,
+briser les monopoles, reconnaître le travail, rebâtir un
+écosystème divers et rendre au numérique sa juste place
+convergent vers un seul but, mettre le numérique au service
+du vivant plutôt que de soumettre le vivant à l’ordre de la
+machine. Pour y parvenir, une exigence doit être mise au
+cœur de toute politique numérique conséquente : celle de la
+sobriété. Dans un monde aux ressources finies, tout ce que le
+numérique rend possible n’est pas pour autant souhaitable,
+et c’est, en définitive, à nous toutes et tous d’en décider.
+La sobriété fournit le critère qui distingue un numérique
+utile d’un numérique qui dévore. Elle préfère la robustesse à
+l’optimisation, le long terme à l’accumulation et la diversité
+à la concentration. À cette condition, le numérique cessera
+d’accélérer la marche vers l’effondrement pour servir la
+transition écologique. Reprendre la main sur le numérique
+et le plier aux exigences du vivant et de la démocratie,
+voilà le combat que portent les Écologistes.
+
+35
+
+
+
+[[page 36]]
+Pour suivre les actualités du mouvement,
+rendez-vous sur lesecologistes.fr
+
+36
+

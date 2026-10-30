@@ -1,0 +1,407 @@
+[
+  {
+    "id": "lisnard-01",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Instaurer une « règle d'or » limitant les déficits publics de fonctionnement, hors investissement",
+    "quote": "la France doit désormais s’astreindre à une règle institutionnelle de limitation des déficits publics. A la fois signal positif pour ses créanciers et garde-fou contre les errements politiques, cette « règle d’or » s’appliquerait aux dépenses de fonctionnement mais pas à l’investissement.",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-02",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Diminuer les impôts de production en supprimant notamment la C3S et la CVAE",
+    "quote": "L’allègement de la fiscalité des entreprises doit se poursuivre par la diminution des impôts de production à travers la suppression de plusieurs contributions (C3S, CVAE…) ainsi que la réforme des droits de succession sur les entreprises.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-03",
+    "theme": "Économie, fiscalité et dette",
+    "measure": "Diviser par deux les contraintes administratives imposées aux entreprises et aux citoyens",
+    "quote": "diviser par deux les contraintes administratives imposées aux entreprises et aux citoyens.",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-04",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Créer un contrat de travail unique fusionnant CDI et CDD, avec des indemnités de licenciement progressives",
+    "quote": "Une mesure essentielle sera l’instauration d’un contrat de travail unique pour les nouveaux emplois, fusionnant CDI et CDD avec des indemnités de licenciement qui seraient progressives.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-05",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Porter l'âge légal de départ à la retraite à 65 ans",
+    "quote": "Avant toute nouvelle option de réforme fondamentale, en l’occurrence une combinaison de la répartition avec la capitalisation, la norme de l’âge légal de 65 ans est un impératif national urgent pour des raisons d’équilibre financier.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-06",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Faire évoluer les régimes de retraite (hors socle minimal) vers la capitalisation",
+    "quote": "faire évoluer tous les autres régimes vers la capitalisation, à partir des cotisations obligatoires des salariés et des employeurs.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-07",
+    "theme": "Travail, salaires et retraites",
+    "measure": "Garantir un socle de pension par répartition dès 65 ans, complété par un minimum vieillesse de 1 000 € par mois",
+    "quote": "conserver un socle de pension minimale par répartition pour tous les retraités, attribué à tous sans condition dès l’âge de 65 ans, complété par un minimum-vieillesse à hauteur de 1000 euros par mois.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-08",
+    "theme": "Santé",
+    "measure": "Mieux rembourser les actes médicaux en zones sous-dotées qu'en zones saturées (conventionnement différencié)",
+    "quote": "Nous proposons un conventionnement différencié : la Sécurité sociale rembourse mieux les actes dans les zones sous-dotées que dans les zones saturées.",
+    "source_id": "programme-de-david-lisnard-sant-40f57772",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-09",
+    "theme": "Santé",
+    "measure": "Généraliser les maisons de santé par canton et permettre l'accès direct aux infirmiers, kinés et pharmaciens",
+    "quote": "Nous défendons aussi la généralisation des maisons de santé pluridisciplinaires à l’échelle de chaque canton, et l’accès direct aux infirmiers, kinés, pharmaciens, pour désengorger les généralistes et fluidifier les parcours.",
+    "source_id": "programme-de-david-lisnard-sant-40f57772",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-10",
+    "theme": "Santé",
+    "measure": "Supprimer les Agences régionales de santé (ARS) et confier aux maires la présidence des conseils d'administration des hôpitaux",
+    "quote": "Nous voulons supprimer les ARS, transférer les responsabilités aux préfets et aux élus, redonner aux maires la présidence des conseils d’administration des hôpitaux.",
+    "source_id": "programme-de-david-lisnard-sant-40f57772",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-11",
+    "theme": "Santé",
+    "measure": "Doubler le nombre d'étudiants en médecine d'ici 2030",
+    "quote": "Nous voulons doubler le nombre d’étudiants en médecine d’ici 2030, supprimer Parcoursup, simplifier la LAS/PASS, autoriser l’exercice sous supervision dès la 5e année, et ouvrir tous les lieux de stage, publics comme privés.",
+    "source_id": "programme-de-david-lisnard-sant-40f57772",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-12",
+    "theme": "École et jeunesse",
+    "measure": "Abroger la carte scolaire",
+    "quote": "Il faut abroger la carte scolaire qui enferme les familles dans leur quartier, souvent contre leur gré, et laisse aux plus aisés le monopole de l’évitement.",
+    "source_id": "programme-de-david-lisnard-ducation-763a671c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-13",
+    "theme": "École et jeunesse",
+    "measure": "Instaurer progressivement un chèque-éducation finançant l'école choisie, publique ou privée",
+    "quote": "Nous proposons un droit réel au libre choix de l’école, garanti par la transparence des résultats et l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé.",
+    "source_id": "programme-de-david-lisnard-ducation-763a671c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-14",
+    "theme": "École et jeunesse",
+    "measure": "Créer un certificat de fin de primaire conditionnant l'entrée au collège",
+    "quote": "Nous proposons l’instauration d’un certificat de fin de primaire, dont la validation conditionnera l’entrée au collège.",
+    "source_id": "programme-de-david-lisnard-ducation-763a671c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-15",
+    "theme": "École et jeunesse",
+    "measure": "Augmenter de 20 % en cinq ans la rémunération des enseignants, en contrepartie d'une réorganisation",
+    "quote": "Nous proposons une augmentation de 20 % des rémunérations en cinq ans, conditionnée à une réorganisation profonde : autonomie accrue, présence renforcée dans l’établissement, formation continue obligatoire, évaluation régulière.",
+    "source_id": "programme-de-david-lisnard-ducation-763a671c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-16",
+    "theme": "École et jeunesse",
+    "measure": "Mettre en place un corps unique d'enseignants contractuels recrutés sur concours national",
+    "quote": "Un corps unique d’enseignants contractuels, recrutés sur concours national, sera progressivement mis en place, avec des missions élargies et des perspectives de carrière attractives.",
+    "source_id": "programme-de-david-lisnard-ducation-763a671c",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-17",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Prolonger les réacteurs nucléaires jusqu'à 60 ans, construire des EPR et déployer des mini-réacteurs",
+    "quote": "les nouvelles technologies nucléaires : recherche et développement des technologies laser pour le traitement des déchets, prolongation de la durée de vie des réacteurs jusqu’à 60 ans, construction d’EPR de nouvelle génération, déploiement de mini-réacteurs nucléaires.",
+    "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-18",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Faire rentrer les projets d'énergies renouvelables dans le droit commun (prix de marché, règles d'urbanisme)",
+    "quote": "la France a développé ces dernières années une stratégie d’« énergies renouvelables » dérogatoires aux prix du marché et aux règles d’urbanisme. Il faut mettre un terme à cette gabegie en faisant rentrer ces projets dans le droit commun",
+    "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-19",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Facturer la pollution par un prix du carbone, à taxation totale constante",
+    "quote": "Pour donner un prix aux dommages infligés à la nature, il faut évaluer un coût à ces externalités négatives, pour facturer la pollution selon le principe pollueur-payeur. […] la fiscalité environnementale doit respecter trois règles : d’abord se faire à taxation totale constante",
+    "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-20",
+    "theme": "Écologie, climat et énergie",
+    "measure": "Remplacer le principe constitutionnel de précaution par un principe de responsabilité",
+    "quote": "le remplacement du principe constitutionnel de précaution par un principe de responsabilité",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-21",
+    "theme": "Agriculture et alimentation",
+    "measure": "Mettre fin aux surtranspositions et imposer des clauses miroirs aux produits agricoles importés",
+    "quote": "Nous proposons d’en finir avec les surtranspositions françaises, l’alignement réglementaire avec le marché commun, et la mise en œuvre de clauses miroirs obligatoires pour les produits importés.",
+    "source_id": "programme-de-david-lisnard-agriculture-e27903d3",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-22",
+    "theme": "Agriculture et alimentation",
+    "measure": "Autoriser les nouvelles techniques génomiques (NTG)",
+    "quote": "nous plaidons pour l’autorisation des nouvelles techniques génomiques (NTG), l’usage raisonné des phytosanitaires sur base scientifique, et une réduction de la part des aides conditionnées à des critères idéologiques.",
+    "source_id": "programme-de-david-lisnard-agriculture-e27903d3",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-23",
+    "theme": "Agriculture et alimentation",
+    "measure": "Autoriser les bassines lorsqu'elles sont techniquement justifiées et décidées localement",
+    "quote": "une gestion de l’eau fondée sur la subsidiarité : oui aux bassines, lorsqu’elles sont techniquement justifiées et localement décidées.",
+    "source_id": "programme-de-david-lisnard-agriculture-e27903d3",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-24",
+    "theme": "Immigration",
+    "measure": "Revenir sur l'accord franco-algérien de 1968",
+    "quote": "Revenir sur l’accord franco-algérien de 1968",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-25",
+    "theme": "Immigration",
+    "measure": "Diviser par huit la délivrance de titres de séjour",
+    "quote": "Diviser par huit la délivrance de titres de séjour",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-26",
+    "theme": "Immigration",
+    "measure": "Mettre fin à l'automaticité du droit du sol",
+    "quote": "Mettre fin à l’automaticité du droit du sol",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-27",
+    "theme": "Immigration",
+    "measure": "Supprimer l'aide médicale d'État (AME) et la remplacer par une aide d'urgence",
+    "quote": "Supprimer l’Aide Médicale d’État (AME) et la remplacer par une aide d’urgence : 700 millions d’euros d’économies",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-28",
+    "theme": "Immigration",
+    "measure": "Réserver les prestations sociales non contributives aux étrangers résidant régulièrement en France depuis au moins cinq ans",
+    "quote": "Conditionner les prestations sociales non contributives aux étrangers résidant régulièrement sur le territoire national depuis au moins cinq ans",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-29",
+    "theme": "Immigration",
+    "measure": "Rétablir le délit de séjour irrégulier",
+    "quote": "Rétablir le délit de séjour irrégulier",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-30",
+    "theme": "Sécurité et justice",
+    "measure": "Porter à 50 % minimum le temps de présence des forces de sécurité sur le terrain",
+    "quote": "ramener les forces de sécurité sur le terrain (50 % de présence minimum, contre 37 % aujourd’hui)",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-31",
+    "theme": "Sécurité et justice",
+    "measure": "Permettre aux communes volontaires d'armer leur police municipale",
+    "quote": "Il faut ainsi permettre aux communes volontaires d’armer leur police municipale et de disposer d’outils réels : accès aux fichiers, possibilité de verbalisation renforcée, procédures d’amendes forfaitaires délictuelles. Mais cela doit rester une liberté, jamais une obligation.",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-32",
+    "theme": "Sécurité et justice",
+    "measure": "Interdire les Frères musulmans et expulser les prêcheurs radicaux",
+    "quote": "Face à l’islamisme : désignation claire de l’ennemi idéologique, interdiction des Frères musulmans, contrôle des écoles hors contrat, expulsion des prêcheurs radicaux",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-33",
+    "theme": "Sécurité et justice",
+    "measure": "Supprimer les réductions de peine automatiques et rétablir les peines planchers pour les récidivistes",
+    "quote": "supprimer les réductions de peine automatiques, mettre fin aux aménagements dès l’audience, rétablir les peines planchers pour les récidivistes, appliquer systématiquement une sanction, même courte, dès la première infraction",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-34",
+    "theme": "Sécurité et justice",
+    "measure": "Abaisser la majorité pénale à 16 ans et inverser l'excuse de minorité dès 13 ans",
+    "quote": "Nous voulons abaisser la majorité pénale à 16 ans, inverser le principe de l’excuse de minorité dès 13 ans, créer un nouveau délit d’instrumentalisation de mineur, mettre en place des internats disciplinaires fermés",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-35",
+    "theme": "Institutions et démocratie",
+    "measure": "Transférer aux collectivités territoriales un pouvoir réglementaire d'application des lois",
+    "quote": "Le principe de base de la nouvelle décentralisation serait de transférer aux collectivités territoriales, outre l’essentiel des compétences aujourd’hui exercées par l’Etat […] un pouvoir normatif (décrets et arrêtés d’application des lois votées par le Parlement).",
+    "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-36",
+    "theme": "Institutions et démocratie",
+    "measure": "Réserver au Parlement un domaine législatif d'initiative propre",
+    "quote": "la définition d’un périmètre législatif sur lequel le Parlement disposerait d’un droit d’initiative réservé, afin de rééquilibrer la part des propositions de loi dans le total des textes définitivement adoptés.",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-37",
+    "theme": "Institutions et démocratie",
+    "measure": "Réformer les trois fonctions publiques et systématiser le contrat dans les fonctions non régaliennes",
+    "quote": "revoir l’organisation de l’Etat, en particulier de ses services déconcentrés, et réformer les trois fonctions publiques, pour développer une fonction publique de métier et systématiser le contrat dans les fonctions non-régaliennes",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-38",
+    "theme": "Europe, international et défense",
+    "measure": "Négocier un traité de démocratisation de l'Europe renforçant le Conseil européen et le Parlement",
+    "quote": "La négociation d’un Traité de démocratisation de l’Europe permettra de revoir la répartition des compétences entre les institutions européennes, et de renforcer les prérogatives des institutions ayant la plus forte légitimité démocratique : le Conseil Européen et le Parlement.",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-39",
+    "theme": "Europe, international et défense",
+    "measure": "Permettre un référendum quand des règles supranationales bloquent l'exercice de la souveraineté nationale",
+    "quote": "En cas d’impossibilité pour un Etat d’exercer sa souveraineté en raison de règles supranationales, il devra être possible, en cas de blocage, de demander aux citoyens d’arbitrer par référendum.",
+    "source_id": "programme-de-david-lisnard-axe-1-tre-ma-tre-de-notre-destin-bb339483",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-40",
+    "theme": "Europe, international et défense",
+    "measure": "Sortir de la Convention européenne des droits de l'homme (CEDH) en dernier recours",
+    "quote": "Entamer un bras de fer avec la Cour européenne des droits de l’Homme (CEDH) pour réaffirmer la primauté de la souveraineté nationale […] Sortir de la CEDH en dernier recours",
+    "source_id": "programme-de-david-lisnard-immigration-13a3b004",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-41",
+    "theme": "Logement et territoires",
+    "measure": "Supprimer l'article 55 de la loi SRU imposant 20 à 25 % de logements sociaux par commune",
+    "quote": "Dans ce domaine une mesure essentielle sera la suppression de l’article 55 de la loi SRU du 13 décembre 2000 obligeant les communes à disposer de 20% et bientôt 25% de logements sociaux.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-42",
+    "theme": "Logement et territoires",
+    "measure": "Remplacer départements et régions par une quarantaine à cinquantaine de Provinces, après référendum",
+    "quote": "Par une réforme fondamentale la future organisation territoriale devrait correspondre à un nouveau schéma institutionnel à trois niveaux : Etat/ Province/ Bloc communal selon un choix à faire valider par un référendum constitutionnel. […] une quarantaine ou cinquantaine de provinces […] qui remplaceront départements et régions actuels.",
+    "source_id": "programme-de-david-lisnard-axe-3-g-n-rer-un-renouveau-civiqu-93338605",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-43",
+    "theme": "Logement et territoires",
+    "measure": "Lancer un plan d'investissement dans les infrastructures routières, ferroviaires et numériques des zones enclavées",
+    "quote": "la lutte contre l’enclavement de certaines zones géographiques à l’écart du développement doit passer par un plan d’investissement dans les infrastructures routières et ferroviaires ainsi que le déploiement du réseau FFTH ou/et l’internet par satellite.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-44",
+    "theme": "Protection sociale et famille",
+    "measure": "Relancer la politique familiale, notamment par le déplafonnement du quotient familial",
+    "quote": "la France doit relancer sa politique familiale dans ses trois dimensions : des allocations financières, notamment par le déplafonnement du quotient familial, des investissements pour les structures d’accueil et une politique du logement familial.",
+    "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+    "page": null,
+    "concrete": true
+  },
+  {
+    "id": "lisnard-45",
+    "theme": "Société et libertés",
+    "measure": "Interdire le voile à l'université",
+    "quote": "Face à l’islamisme : […] interdiction du voile à l’université, campagne républicaine de contre-discours.",
+    "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+    "page": null,
+    "concrete": true
+  }
+]
