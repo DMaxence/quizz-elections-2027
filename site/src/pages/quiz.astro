@@ -1,21 +1,41 @@
 ---
 import Base from "../layouts/Base.astro";
-import questions from "../data/questions.json";
+import all from "../data/questions.json";
 // Only the questions ship to this page: no names, no quotes, no source links.
+// The short version's questions come first, so the full version simply continues it.
+const questions = [...all.filter((q) => q.core), ...all.filter((q) => !q.core)];
+const nCore = all.filter((q) => q.core).length;
 ---
 <Base title="Le quiz — Isoloir" current="quiz">
   <main class="quiz wrap" id="top">
     <div class="quiz__side">
       <h1 class="quiz__h" data-rise="0">Le quiz</h1>
       <p class="small muted">Répondez à chaque proposition pour elle-même. Vous pouvez revenir en arrière, passer une question, ou vous arrêter : vos réponses restent dans ce navigateur.</p>
-      <p class="quiz__pos nums" aria-live="polite"><span data-pos>1</span> sur {questions.length}</p>
+      <p class="quiz__pos nums" aria-live="polite"><span data-pos>1</span> sur <span data-total>{questions.length}</span></p>
       <div class="quiz__meter" aria-hidden="true"><span data-meter></span></div>
       <figure class="quiz__photo">
         <img src="/img/isoloirs-1919.jpg" width="1376" height="932" alt="Isoloirs à rideau dans un bureau de vote parisien, 1919." />
       </figure>
     </div>
 
-    <form class="ballot" data-questions={JSON.stringify(questions)} onsubmit="return false">
+    <section class="pick" data-pick hidden aria-labelledby="pick-h">
+      <h2 id="pick-h" class="pick__h" tabindex="-1">Combien de propositions&nbsp;?</h2>
+      <div class="pick__opts">
+        <button type="button" class="pick__opt" data-mode="court">
+          <span class="pick__n nums">{nCore}</span>
+          <span class="pick__name">Version courte</span>
+          <span class="pick__desc">Une dizaine de minutes. Dans chaque thème, les sujets sur lesquels le plus de programmes prennent position.</span>
+        </button>
+        <button type="button" class="pick__opt" data-mode="complet">
+          <span class="pick__n nums">{questions.length}</span>
+          <span class="pick__name">Version complète</span>
+          <span class="pick__desc">Une vingtaine de minutes. Toutes les propositions, pour un résultat plus précis.</span>
+        </button>
+      </div>
+      <p class="small muted">La version courte peut être prolongée à la fin, sans perdre vos réponses.</p>
+    </section>
+
+    <form class="ballot" data-core={nCore} data-questions={JSON.stringify(questions)} onsubmit="return false">
       <h2 class="sr-only">Proposition <span data-pos2>1</span></h2>
       <p class="ballot__text" data-text tabindex="-1">{questions[0]?.text}</p>
       <p class="ballot__help" data-help>{questions[0]?.help}</p>
@@ -45,6 +65,7 @@ import questions from "../data/questions.json";
       <p class="lead">Vous avez donné votre avis sur <span data-count>0</span> propositions. Les noms vont apparaître.</p>
       <div class="done__actions">
         <a class="btn" href="/resultats">Voir les résultats</a>
+        <button type="button" class="btn btn--quiet" data-more hidden>Répondre aux {questions.length - nCore} autres propositions</button>
         <button type="button" class="btn btn--quiet" data-review>Revoir mes réponses</button>
       </div>
     </section>
@@ -53,12 +74,14 @@ import questions from "../data/questions.json";
 
 <script>
   type Answer = { a: "accord" | "desaccord" | "neutre"; imp: boolean };
-  type State = { answers: Record<string, Answer>; at?: number };
+  type Mode = "court" | "complet";
+  type State = { answers: Record<string, Answer>; at?: number; mode?: Mode };
   type Q = { id: string; theme: string; text: string; help?: string };
   const KEY = "isoloir:v1";
 
   const form = document.querySelector<HTMLFormElement>(".ballot")!;
-  const qs: Q[] = JSON.parse(form.dataset.questions || "[]");
+  const all: Q[] = JSON.parse(form.dataset.questions || "[]");
+  const nCore = Number(form.dataset.core || all.length);
   const $ = <T extends HTMLElement>(s: string) => document.querySelector<T>(s)!;
   const load = (): State => { try { return JSON.parse(localStorage.getItem(KEY) || "") || { answers: {} }; } catch { return { answers: {} }; } };
   const save = (s: State) => { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch {} };
@@ -66,17 +89,35 @@ import questions from "../data/questions.json";
   let state = load();
   state.answers ??= {};
   const params = new URLSearchParams(location.search);
+  let qs: Q[] = [];
   let i = 0;
-  if (params.has("suite") || state.at) {
+  const firstOpen = () => { const f = qs.findIndex((q) => !state.answers[q.id]); return f === -1 ? qs.length : f; };
+  function setMode(m: Mode) {
+    state.mode = m;
+    qs = m === "court" ? all.slice(0, nCore) : all;
+    $("[data-total]").textContent = String(qs.length);
+  }
+  if (state.mode) {
+    setMode(state.mode);
     // resume at the first unanswered question
-    const first = qs.findIndex((q) => !state.answers[q.id]);
-    i = first === -1 ? qs.length : first;
+    if (params.has("suite") || state.at) i = firstOpen();
   }
 
   function render(focus = false) {
+    const picking = !state.mode;
+    $("[data-pick]").hidden = !picking;
+    $(".quiz__pos").hidden = picking;
+    $(".quiz__meter").hidden = picking;
+    if (picking) {
+      form.hidden = true;
+      $("[data-done]").hidden = true;
+      if (focus) $<HTMLElement>("#pick-h").focus();
+      return;
+    }
     const done = i >= qs.length;
     form.hidden = done;
     $("[data-done]").hidden = !done;
+    $("[data-more]").hidden = qs.length >= all.length;
     $("[data-pos]").textContent = String(Math.min(i + 1, qs.length));
     $("[data-pos2]").textContent = String(Math.min(i + 1, qs.length));
     const answered = qs.filter((q) => state.answers[q.id]).length;
@@ -124,6 +165,9 @@ import questions from "../data/questions.json";
   $("[data-prev]").addEventListener("click", () => go(i - 1));
   $("[data-skip]").addEventListener("click", () => go(i + 1));
   $("[data-review]").addEventListener("click", () => go(0));
+  document.querySelectorAll<HTMLButtonElement>("[data-mode]").forEach((b) =>
+    b.addEventListener("click", () => { setMode(b.dataset.mode as Mode); go(firstOpen()); }));
+  $("[data-more]").addEventListener("click", () => { setMode("complet"); go(firstOpen()); });
   document.addEventListener("keydown", (e) => {
     if (form.hidden || e.altKey || e.ctrlKey || e.metaKey) return;
     if ((e.target as HTMLElement).tagName === "INPUT") return;
@@ -163,13 +207,34 @@ import questions from "../data/questions.json";
   .ballot__nav { display: flex; justify-content: space-between; gap: 1rem; font-size: var(--step-small); color: var(--muted); }
   .ballot__nav button:disabled { opacity: 0.35; cursor: default; text-decoration: none; }
 
+  .pick { grid-column: 6 / -1; display: grid; gap: 1.5rem; }
+  .pick__h { font-size: var(--step-head); outline: none; }
+  .pick__opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+  .pick__opt {
+    display: grid; align-content: start; gap: 0.5rem; text-align: left;
+    background: var(--sheet); padding: clamp(1.25rem, 3vw, 2.25rem); min-height: 17rem;
+    transition: background var(--t-hover) var(--ease-out), transform var(--t-press) var(--ease-out);
+  }
+  .pick__opt:hover { background: #fff; }
+  .pick__opt:active { transform: translateY(1px) scale(0.99); }
+  .pick__n { font-size: var(--step-display); line-height: 0.85; letter-spacing: -0.03em; margin-bottom: 1rem; }
+  .pick__name { font-size: var(--step-lead); line-height: 1.2; }
+  .pick__desc { font-size: var(--step-small); line-height: 1.45; color: var(--muted); max-width: 34ch; }
+  .pick__opt[data-mode="complet"] { background: var(--night); color: var(--night-ink); }
+  .pick__opt[data-mode="complet"]:hover { background: #2c2c2a; }
+  .pick__opt[data-mode="complet"] .pick__desc { color: var(--night-muted); }
+
   .done { grid-column: 6 / -1; display: grid; gap: 1.5rem; padding-top: 1rem; }
   .done h2 { outline: none; }
   .done__actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 1rem; }
 
   @media (max-width: 52em) {
     .quiz { padding-top: 1.5rem; }
-    .quiz__side, .ballot, .done { grid-column: 1 / -1; }
+    .quiz__side, .ballot, .done, .pick { grid-column: 1 / -1; }
+    .pick { margin-top: 1.5rem; }
+    .pick__opts { grid-template-columns: 1fr; }
+    .pick__opt { min-height: 0; }
+    .pick__n { font-size: 4.5rem; margin-bottom: 0.25rem; }
     .quiz__side { max-width: none; grid-template-columns: 1fr auto; align-items: end; gap: 0.75rem; }
     .quiz__side > .small, .quiz__photo { display: none; }
     .quiz__h { grid-column: 1 / -1; }

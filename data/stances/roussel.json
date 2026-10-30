@@ -220,6 +220,72 @@
         }
       ],
       "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Assurer la sécurité de la population par le rétablissement de la police de proximité",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 15
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q42": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mettre en place une garantie d’autonomie qui complète les revenus des ménages situés sous le seuil de pauvreté (accessible dès 18 ans pour les personnes indépendantes fiscalement et dès 16 ans pour les élèves de l’enseignement professionnel)",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 10
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q44": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir la pérennité d’un service public de l’audiovisuel en instaurant un financement durable, lisible, socialement juste et en garantissant son indépendance",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 19
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous combattons les concentrations dans la presse, les médias, la culture.",
+          "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+          "page": 30
+        }
+      ],
+      "note": "Le programme européen 2024 du parti s’oppose aux concentrations dans la presse et les médias."
+    },
+    "q49": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "L’abrogation de la loi Kasbarian qui criminalise les locataires",
+          "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+          "page": 14
+        }
+      ],
+      "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+    },
+    "q50": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Recruter massivement, titulariser les contractuels et financer les formations dès le prérecrutement pour permettre aux agents de remplir leurs missions.",
+          "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+          "page": 2
+        }
+      ],
+      "note": "Mesure d’un tract consacré aux services publics et aux fonctionnaires."
     }
   }
 }

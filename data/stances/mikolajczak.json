@@ -44,6 +44,39 @@
         }
       ],
       "note": "Programme d'Équinoxe pour les législatives 2024."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Recréer une véritable police de proximité, promouvoir les initiatives de dialogue entre les forces de l’ordre et la population.",
+          "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+          "page": null
+        }
+      ],
+      "note": "Programme d’Équinoxe pour les législatives 2024."
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mettre en place des gouvernances à but non lucratif pour les médias afin de sortir le journalisme de l’actionnariat",
+          "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+          "page": null
+        }
+      ],
+      "note": "Programme d’Équinoxe pour les législatives 2024."
+    },
+    "q49": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Accélérer/faciliter les procédures anti-squat tout en préservant la trêve hivernale.",
+          "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+          "page": null
+        }
+      ],
+      "note": "Programme d’Équinoxe pour les législatives 2024 ; maintien de la trêve hivernale."
     }
   }
 }

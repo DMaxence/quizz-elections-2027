@@ -173,6 +173,78 @@
         }
       ],
       "note": "La Constitution permettrait d’étendre la neutralité aux usagers ; neutralité étendue aux accompagnateurs de sorties scolaires."
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Peines plancher pour les récidivistes",
+          "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+          "page": 17
+        }
+      ],
+      "note": "Soumises à référendum après une révision constitutionnelle."
+    },
+    "q41": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Fusionner 12 dispositifs pour les remplacer par un Revenu familial (RF) de 240 euros versé chaque mois à tous, dès le premier enfant, de la naissance jusqu’à 18 ans",
+          "source_id": "projet-pr-sidentiel-2027-famille-livret-92d669ef",
+          "page": 11
+        }
+      ],
+      "note": "Revenu familial unique remplaçant notamment les allocations familiales, conditionné à la résidence régulière et à une activité professionnelle."
+    },
+    "q43": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Revenu d’incitation à l’activité, fusionnant RSA, prime d’activité et ASS, avec quinze heures d’activité contrôlées",
+          "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+          "page": 10
+        }
+      ]
+    },
+    "q47": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Un jour de carence d’ordre public dans le secteur privé, que ni l’employeur ni la complémentaire ne pourront racheter",
+          "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+          "page": 9
+        }
+      ]
+    },
+    "q48": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Le DPE restera obligatoire et pleinement informatif pour les locataires et les acquéreurs, mais il ne pourra plus servir de fondement à une interdiction administrative de louer.",
+          "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+          "page": 30
+        }
+      ]
+    },
+    "q49": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "les situations de squat feront l’objet d’une procédure administrative d’expulsion accélérée. Dès qu’une occupation illégale sera constatée par les forces de l’ordre ou par un commissaire de justice, la procédure sera engagée immédiatement et l’expulsion interviendra dans un délai maximal de dix jours",
+          "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+          "page": 36
+        }
+      ]
+    },
+    "q50": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "400 000 départs en retraite non remplacés sur le quinquennat, trois versants, sans un seul licenciement",
+          "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+          "page": 5
+        }
+      ]
     }
   }
 }

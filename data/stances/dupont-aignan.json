@@ -233,6 +233,48 @@
           "page": null
         }
       ]
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
+          "source_id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+          "page": 1
+        }
+      ],
+      "note": "Pour les agressions contre policiers, gendarmes, pompiers, enseignants et soignants (aussi pour les violences faites aux femmes)."
+    },
+    "q34": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs.",
+          "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+          "page": 1
+        }
+      ]
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Créer 40 000 places de prison nouvelles",
+          "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+          "page": 1
+        }
+      ],
+      "note": "Propose 40 000 places."
+    },
+    "q48": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+          "source_id": "projet-2027-de-debout-la-france-logement-28d24a15",
+          "page": 1
+        }
+      ]
     }
   }
 }

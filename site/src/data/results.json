@@ -205,6 +205,58 @@
       "page": null
      }
     ]
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
+      "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "page": null
+     }
+    ],
+    "note": "Vise les auteurs récidivistes d’atteintes violentes aux personnes."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Sur le plan de la prévention, l’augmentation des budgets de la police permettra de remettre en place une police de proximité dans les quartiers, qui a prouvé son efficacité.",
+      "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "page": null
+     }
+    ]
+   },
+   "q41": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Pour ce faire, nous donnerons accès aux allocations familiales dès le premier enfant à charge",
+      "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "page": null
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous reconnaîtrons le rôle et la responsabilité des médias en tant que « quatrième pouvoir », et nous interdirons en conséquence la concentration des médias dans les mains de grands groupes.",
+      "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "page": null
+     }
+    ]
+   },
+   "q49": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Le droit de propriété et le droit à la préservation de son logement seront également défendus contre les abus de certains locataires, et contre les atteintes inacceptables comme le squat : le délai de flagrance pour expulser les squatters sur simple recours à la force publique sera prolongé pour passer de 48 heures à 7 jours.",
+      "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+      "page": null
+     }
+    ],
+    "note": "Prévoit aussi une procédure judiciaire accélérée pour l’expulsion des squatteurs."
    }
   },
   "attal": {
@@ -328,6 +380,68 @@
       "quote": "Les agences régionales de santé, elles, seront supprimées, leurs missions confiées aux préfets en lien avec les élus",
       "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-7d5d766e",
       "page": 3
+     }
+    ]
+   },
+   "q34": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous protégerons enfin les policiers agissant en légitime défense, pour qu’ils puissent exercer leur mission sans craindre d’être eux-mêmes mis en cause.",
+      "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+      "page": null
+     }
+    ],
+    "note": "Protection légale des policiers agissant en légitime défense, sans parler de présomption."
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "nous créerons davantage de places dans des prisons de haute sécurité",
+      "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+      "page": null
+     },
+     {
+      "quote": "accélérerons la construction de petites prisons modulaires",
+      "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+      "page": 5
+     }
+    ]
+   },
+   "q41": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous soutiendrons la natalité par des allocations familiales dès le premier enfant, mais plafonnées au-delà du cinquième",
+      "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+      "page": 3
+     }
+    ]
+   },
+   "q43": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Sans poste, le salaire de base est maintenu, mais la personne doit alors se former, ou, si l’emploi tarde malgré tout, consacrer vingt-cinq heures par semaine au service d’une collectivité ou d’une association.",
+      "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+      "page": 9
+     },
+     {
+      "quote": "le CDI universel remplace justement l’assurance chômage, le revenu de solidarité et les aides au logement",
+      "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+      "page": 9
+     }
+    ],
+    "note": "Le « CDI universel », qui remplacerait le RSA, prévoit formation ou 25 heures hebdomadaires d’activité en l’absence d’emploi."
+   },
+   "q49": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous autoriserons aussi les saisies civiles automatiques, comme au pénal, et le concours automatique de la force publique pour expulser les squatteurs.",
+      "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+      "page": 5
      }
     ]
    }
@@ -519,6 +633,56 @@
       "page": 30
      }
     ]
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Suppression des brigades anticriminalité (BAC) au profit d’une police de proximité.",
+      "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "page": 21
+     }
+    ]
+   },
+   "q42": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources et à condition d’une dissociation du foyer fiscal familial.",
+      "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "page": 29
+     }
+    ]
+   },
+   "q43": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
+      "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "page": 29
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Expropriation des propriétaires de médias oligarchiques, transformation de l’ensemble des médias en SCOP et redistribution du capital aux citoyens, travailleurs et abonnés.",
+      "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "page": 9
+     }
+    ]
+   },
+   "q46": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires (CSS, etc).",
+      "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+      "page": 40
+     }
+    ]
    }
   },
   "cazeneuve": {
@@ -596,6 +760,26 @@
      }
     ],
     "note": "Propose des réformes dans le cadre actuel (septennat, rôle du Premier ministre)."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "police de proximité dotée d’effectifs dédiés et formés",
+      "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+      "page": 79
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Médias : limites fixées par la loi à la concentration capitalistique.",
+      "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+      "page": 81
+     }
+    ]
    }
   },
   "dupont-aignan": {
@@ -829,6 +1013,48 @@
       "quote": "Interdire tous les signes religieux visibles dans le service public, notamment dans les universités et les hôpitaux, et refuser tout accommodement.",
       "source_id": "projet-2027-de-debout-la-france-immigration-et-assimilation-0f092ee5",
       "page": null
+     }
+    ]
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Réinstaurer et élargir les peines planchers pour toute agression contre policiers, gendarmes, pompiers, enseignants, soignants.",
+      "source_id": "projet-2027-de-debout-la-france-justice-343aa2ff",
+      "page": 1
+     }
+    ],
+    "note": "Pour les agressions contre policiers, gendarmes, pompiers, enseignants et soignants (aussi pour les violences faites aux femmes)."
+   },
+   "q34": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs.",
+      "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+      "page": 1
+     }
+    ]
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Créer 40 000 places de prison nouvelles",
+      "source_id": "projet-2027-de-debout-la-france-s-curit-cf1261ae",
+      "page": 1
+     }
+    ],
+    "note": "Propose 40 000 places."
+   },
+   "q48": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Abandonner l’interdiction de location de logements sur la base du DPE pour remettre sur le marché les petits logements qui bénéficient aux étudiants et aux plus modestes.",
+      "source_id": "projet-2027-de-debout-la-france-logement-28d24a15",
+      "page": 1
      }
     ]
    }
@@ -1094,6 +1320,111 @@
       "page": 21
      }
     ]
+   },
+   "q34": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Réviser la loi du 28 février 2017 relative à la sécurité publique qui encadre les conditions d’ouverture du feu par les forces de l’ordre en cas de refus d’obtempérer, afin qu’elles soient conformes aux conditions de la légitime défense",
+      "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+      "page": 1
+     }
+    ],
+    "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Rénover l’ensemble du parc pénitentiaire en plus d’un effort de construction de nouvelles places pour garantir la dignité de la détention.",
+      "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+      "page": 1
+     }
+    ],
+    "note": "Position tirée du Projet socialiste (document du PS) : Place publique évoque seulement des « prisons rénovées et dignes », sans parler de nouvelles places. Pas d’objectif chiffré."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Faire renaître une police de proximité moderne, ancrée localement, centrée sur la prévention, la médiation et la résolution de conflits.",
+      "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+      "page": 60
+     }
+    ]
+   },
+   "q37": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Garantir l’indépendance de l’autorité judiciaire en renforçant les pouvoirs de nomination et de discipline du Conseil Supérieur de la magistrature (CSM) à l’égard du Parquet et en substituant notamment l’avis simple par un avis conforme du CSM pour la nomination de tous les magistrats du parquet.",
+      "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+      "page": 1
+     }
+    ],
+    "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point. Porte sur la nomination des magistrats du parquet ; les instructions ne sont pas mentionnées."
+   },
+   "q39": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Adopter d’urgence la proposition de loi instaurant un droit à la fin de vie libre […] accompagner le corps médical durant tout le parcours d’aide à mourir",
+      "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+      "page": 1
+     }
+    ],
+    "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+   },
+   "q42": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Ouvrir une grande conférence sociale pour aller vers un minimum social unique, accessible à toutes et tous, y compris pour les moins de 25 ans",
+      "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+      "page": 53
+     }
+    ]
+   },
+   "q43": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Refonder le RSA pour en garantir l’inconditionnalité et l’automaticité.",
+      "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+      "page": 1
+     }
+    ],
+    "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+   },
+   "q44": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Renforcer le service public de l’audiovisuel et l’indépendance des médias",
+      "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+      "page": 47
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Garantir un véritable pluralisme des médias en réformant la loi de 1986 pour limiter leur concentration.",
+      "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+      "page": 47
+     }
+    ]
+   },
+   "q49": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "abroger la loi Kasbarian au profit d’un dispositif plus équilibré, combinant indemnisation rapide des bailleurs en cas d’impayés et accompagnement renforcé des locataires.",
+      "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+      "page": 64
+     }
+    ]
    }
   },
   "kazib": {
@@ -1203,6 +1534,22 @@
       "page": 2
      }
     ]
+   },
+   "q50": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois",
+      "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+      "page": 2
+     },
+     {
+      "quote": "Dans les hôpitaux, les écoles et tous les services publics, les emplois sont également supprimés par milliers, privant la population de services essentiels.",
+      "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+      "page": 2
+     }
+    ],
+    "note": "Refuse toute suppression d’emplois, y compris dans les services publics, et appelle à des embauches massives."
    }
   },
   "lalanne": {
@@ -1435,6 +1782,56 @@
      }
     ],
     "note": "Baisse de la TVA sur les carburants à 5,5 %."
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Mise en place des peines planchers pour les récidivistes, les atteintes aux personnes dépositaires d’une mission de services publics et le trafic de drogue",
+      "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "page": 4
+     }
+    ]
+   },
+   "q34": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Instituer une présomption de légitime défense pour les forces de l’ordre",
+      "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "page": 6
+     }
+    ]
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Lancer enfin la construction effective des places de prison dont la France a besoin",
+      "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "page": 6
+     }
+    ]
+   },
+   "q44": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Privatiser l’audiovisuel public",
+      "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "page": 10
+     }
+    ]
+   },
+   "q48": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Abroger toutes les interdictions et obligations liées aux DPE (travaux, mise en location...)",
+      "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+      "page": 7
+     }
+    ]
    }
   },
   "lisnard": {
@@ -1635,6 +2032,38 @@
      }
     ],
     "note": "Vise le voile à l'université."
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "rétablir les peines planchers pour les récidivistes",
+      "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+      "page": 1
+     }
+    ]
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "l’effectivité de la sanction devra être atteinte à la fois par le raccourcissement des délais de jugement, par l’augmentation des places de prison",
+      "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+      "page": 1
+     }
+    ],
+    "note": "Pas d’objectif chiffré."
+   },
+   "q48": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Supprimer l’interdiction de location des passoires thermiques et la remplacer par un bonus-malus incitatif.",
+      "source_id": "le-livre-noir-en-finir-avec-la-bureaucratie-nouvelle-nergie-a074a500",
+      "page": 7
+     }
+    ],
+    "note": "Proposition tirée du « Livre noir » de Nouvelle Énergie ; le programme 2027 n’en parle pas."
    }
   },
   "markovic": {
@@ -1669,6 +2098,16 @@
      }
     ],
     "note": "Mesure du programme européen 2024 du Parti animaliste."
+   },
+   "q40": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Interdire la corrida et les combats de coqs.",
+      "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+      "page": null
+     }
+    ]
    }
   },
   "mathieu": {
@@ -1918,6 +2357,139 @@
       "page": 12
      }
     ]
+   },
+   "q34": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Abroger la loi Cazeneuve sur le refus d’obtempérer, dite « permis de tuer »",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 18
+     }
+    ],
+    "note": "Propose d’abroger la loi encadrant l’usage des armes par les policiers en cas de refus d’obtempérer."
+   },
+   "q35": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "en finir avec la surpopulation carcérale par la mise en place d’un mécanisme contraignant de régulation carcérale",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 31
+     }
+    ],
+    "note": "Propose un mécanisme contraignant de régulation carcérale contre la surpopulation ; aucune construction de places mentionnée."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Rétablir la police de proximité et démanteler les BAC (brigades anticriminalité) et les BRAV-M",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 31
+     }
+    ]
+   },
+   "q38": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 56
+     }
+    ]
+   },
+   "q39": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Ajouter le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs dans la Constitution",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 17
+     }
+    ]
+   },
+   "q40": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Interdire les pratiques de chasse et de « loisirs » cruelles pour les animaux (déterrage, chasses à courre, corrida, exploitation des animaux sauvages dans les cirques et les delphinariums, etc.)",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 54
+     }
+    ]
+   },
+   "q42": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté",
+      "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+      "page": 13
+     }
+    ],
+    "note": "Garantie d’autonomie pour les jeunes détachés du foyer fiscal de leurs parents, au niveau du seuil de pauvreté."
+   },
+   "q43": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires contre le revenu de remplacement (allocation-chômage, RSA, ASS, etc.)",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 35
+     }
+    ]
+   },
+   "q44": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Garantir l’indépendance, le pluralisme et le financement de l’audiovisuel public en instaurant une contribution audiovisuelle dédiée, universelle et progressive",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 13
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 14
+     }
+    ]
+   },
+   "q46": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 55
+     }
+    ]
+   },
+   "q48": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Mettre fin aux situations de précarité énergétique : privilégier les rénovations complètes, interdire réellement la location des passoires thermiques",
+      "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+      "page": 17
+     }
+    ]
+   },
+   "q49": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Abroger la loi Kasbarian de criminalisation des locataires",
+      "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+      "page": 30
+     }
+    ]
    }
   },
   "mikolajczak": {
@@ -1964,6 +2536,39 @@
      }
     ],
     "note": "Programme d'Équinoxe pour les législatives 2024."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Recréer une véritable police de proximité, promouvoir les initiatives de dialogue entre les forces de l’ordre et la population.",
+      "source_id": "programme-d-quinoxe-l-gislatives-2024-coh-sion-e40c503f",
+      "page": null
+     }
+    ],
+    "note": "Programme d’Équinoxe pour les législatives 2024."
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Mettre en place des gouvernances à but non lucratif pour les médias afin de sortir le journalisme de l’actionnariat",
+      "source_id": "programme-l-gislatives-2024-d-mocratie-quinoxe-1e8efca0",
+      "page": null
+     }
+    ],
+    "note": "Programme d’Équinoxe pour les législatives 2024."
+   },
+   "q49": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Accélérer/faciliter les procédures anti-squat tout en préservant la trêve hivernale.",
+      "source_id": "programme-d-quinoxe-l-gislatives-2024-logement-6222b113",
+      "page": null
+     }
+    ],
+    "note": "Programme d’Équinoxe pour les législatives 2024 ; maintien de la trêve hivernale."
    }
   },
   "mlekuz": {
@@ -2120,6 +2725,57 @@
      }
     ],
     "note": "Propose de réécrire la loi et, si nécessaire, de la soumettre à référendum."
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique et des professeurs.",
+      "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+      "page": null
+     }
+    ],
+    "note": "Pour les infractions les plus graves."
+   },
+   "q37": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Renforcer l'autorité du Garde des Sceaux sur le parquet, notamment par la possibilité d'adresser des instructions individuelles aux procureurs.",
+      "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+      "page": null
+     }
+    ]
+   },
+   "q41": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
+      "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+      "page": null
+     }
+    ]
+   },
+   "q47": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Lutter contre l’open bar des arrêts maladies : 3 jours de carence pour tout le monde, dans le privé comme le public.",
+      "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+      "page": null
+     }
+    ]
+   },
+   "q50": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Supprimer un tiers des fonctionnaires partant à la retraite, soit plus de 250 000 postes sur le quinquennat.",
+      "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+      "page": null
+     }
+    ]
    }
   },
   "philippot": {
@@ -2286,6 +2942,36 @@
       "quote": "Les réformes récentes, exigées par la Commission européenne, visant à raboter les indemnités chômage, à fermer des lits à l’hôpital ou à arrêter le remboursement des médicaments pourront être supprimées.",
       "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
       "page": 4
+     }
+    ]
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
+      "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+      "page": 11
+     }
+    ]
+   },
+   "q35": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Construire les dizaines de milliers de places de prison qui manquent",
+      "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+      "page": 11
+     }
+    ]
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Recréer une police de proximité visible et permanente.",
+      "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+      "page": 11
      }
     ]
    }
@@ -2464,6 +3150,78 @@
      }
     ],
     "note": "La Constitution permettrait d’étendre la neutralité aux usagers ; neutralité étendue aux accompagnateurs de sorties scolaires."
+   },
+   "q33": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Peines plancher pour les récidivistes",
+      "source_id": "projet-pr-sidentiel-2027-institutions-manifeste-du-peuple-so-6d564c42",
+      "page": 17
+     }
+    ],
+    "note": "Soumises à référendum après une révision constitutionnelle."
+   },
+   "q41": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Fusionner 12 dispositifs pour les remplacer par un Revenu familial (RF) de 240 euros versé chaque mois à tous, dès le premier enfant, de la naissance jusqu’à 18 ans",
+      "source_id": "projet-pr-sidentiel-2027-famille-livret-92d669ef",
+      "page": 11
+     }
+    ],
+    "note": "Revenu familial unique remplaçant notamment les allocations familiales, conditionné à la résidence régulière et à une activité professionnelle."
+   },
+   "q43": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Revenu d’incitation à l’activité, fusionnant RSA, prime d’activité et ASS, avec quinze heures d’activité contrôlées",
+      "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+      "page": 10
+     }
+    ]
+   },
+   "q47": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Un jour de carence d’ordre public dans le secteur privé, que ni l’employeur ni la complémentaire ne pourront racheter",
+      "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+      "page": 9
+     }
+    ]
+   },
+   "q48": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Le DPE restera obligatoire et pleinement informatif pour les locataires et les acquéreurs, mais il ne pourra plus servir de fondement à une interdiction administrative de louer.",
+      "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+      "page": 30
+     }
+    ]
+   },
+   "q49": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "les situations de squat feront l’objet d’une procédure administrative d’expulsion accélérée. Dès qu’une occupation illégale sera constatée par les forces de l’ordre ou par un commissaire de justice, la procédure sera engagée immédiatement et l’expulsion interviendra dans un délai maximal de dix jours",
+      "source_id": "projet-pr-sidentiel-2027-logement-livret-c505459d",
+      "page": 36
+     }
+    ]
+   },
+   "q50": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "400 000 départs en retraite non remplacés sur le quinquennat, trois versants, sans un seul licenciement",
+      "source_id": "projet-pr-sidentiel-2027-comptes-publics-fiches-0a56ad9b",
+      "page": 5
+     }
+    ]
    }
   },
   "roussel": {
@@ -2686,6 +3444,72 @@
      }
     ],
     "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Assurer la sécurité de la population par le rétablissement de la police de proximité",
+      "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+      "page": 15
+     }
+    ],
+    "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+   },
+   "q42": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Mettre en place une garantie d’autonomie qui complète les revenus des ménages situés sous le seuil de pauvreté (accessible dès 18 ans pour les personnes indépendantes fiscalement et dès 16 ans pour les élèves de l’enseignement professionnel)",
+      "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+      "page": 10
+     }
+    ],
+    "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+   },
+   "q44": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Garantir la pérennité d’un service public de l’audiovisuel en instaurant un financement durable, lisible, socialement juste et en garantissant son indépendance",
+      "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+      "page": 19
+     }
+    ],
+    "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Nous combattons les concentrations dans la presse, les médias, la culture.",
+      "source_id": "programme-de-la-liste-gauche-unie-pour-le-monde-du-travail-c-0b109da5",
+      "page": 30
+     }
+    ],
+    "note": "Le programme européen 2024 du parti s’oppose aux concentrations dans la presse et les médias."
+   },
+   "q49": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "L’abrogation de la loi Kasbarian qui criminalise les locataires",
+      "source_id": "programme-du-nouveau-front-populaire-l-gislatives-2024-commu-1889625f",
+      "page": 14
+     }
+    ],
+    "note": "Les sources propres du candidat sont muettes sur ce point ; position tirée du programme du Nouveau Front populaire (législatives 2024)."
+   },
+   "q50": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Recruter massivement, titulariser les contractuels et financer les formations dès le prérecrutement pour permettre aux agents de remplir leurs missions.",
+      "source_id": "tract-de-campagne-services-publics-notre-richesse-notre-aven-ebe5d25c",
+      "page": 2
+     }
+    ],
+    "note": "Mesure d’un tract consacré aux services publics et aux fonctionnaires."
    }
   },
   "ruffin": {
@@ -2818,6 +3642,39 @@
       "page": 42
      }
     ]
+   },
+   "q37": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "C’est pourquoi nous renforcerons l’indépendance du parquet, en abrogeant notamment le pouvoir de nomination des magistrats du parquet par le Gouvernement.",
+      "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+      "page": 51
+     }
+    ],
+    "note": "Le garde des Sceaux continuerait à définir les grandes orientations de la politique judiciaire."
+   },
+   "q48": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "les obligations pesant sur les locations ordinaires (ex. interdiction de location des passoires énergétiques) devraient être identiques pour les meublés touristiques",
+      "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+      "page": 34
+     }
+    ],
+    "note": "Propose d’étendre aux meublés touristiques l’interdiction de louer les passoires énergétiques."
+   },
+   "q49": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "il est urgent d’abroger la loi « Kasbarian-Bergé » qui a fait exploser le nombre d’expulsions en abandonnant la prévention et en brutalisant la relation bailleur/locataire.",
+      "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+      "page": 37
+     }
+    ],
+    "note": "La loi Kasbarian-Bergé de 2023 est la loi dite « anti-squat »."
    }
   },
   "tondelier": {
@@ -3119,6 +3976,162 @@
       "page": 172
      }
     ]
+   },
+   "q34": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Abroger les dispositions de la loi Cazeneuve sur l’ouverture du feu pour que cessent les morts pour refus d’obtempérer et que soit respectée la condition d’absolue nécessité.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 165
+     }
+    ],
+    "note": "Propose d'abroger les règles d'ouverture du feu issues de la loi Cazeneuve."
+   },
+   "q35": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Adopter un moratoire sur la construction de nouvelles places de prison en dehors de celles destinées à remplacer les prisons insalubres.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 170
+     }
+    ],
+    "note": "Propose aussi un numerus clausus carcéral."
+   },
+   "q36": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Créer une police nationale de proximité visant à rétablir un lien quotidien et permanent avec la population",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 164
+     }
+    ]
+   },
+   "q37": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Rendre indépendant statutairement et fonctionnellement le parquet en alignant les conditions de nomination, d’avancement et les procédures disciplinaires des magistrats du parquet sur celles des magistrats du siège",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 160
+     }
+    ]
+   },
+   "q38": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 184
+     }
+    ],
+    "note": "Distribution réservée à des structures à but non lucratif."
+   },
+   "q39": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Instaurer un droit à mourir dans la dignité par l’adoption des deux lois sur la fin de vie. Permettre l’accès universel aux soins palliatifs et légaliser l’aide active à mourir",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 130
+     }
+    ]
+   },
+   "q40": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Interdire les pratiques cruelles pour les animaux : corrida, combats de coq, gavage, étourdissement des porcs au CO2… Interdire les écoles taurines.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 37
+     }
+    ]
+   },
+   "q41": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Réformer les allocations familiales pour attribuer un même montant dès le premier enfant.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 124
+     }
+    ]
+   },
+   "q42": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Rendre cette garantie accessible dès 18 ans pour les personnes indépendantes fiscalement.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 119
+     }
+    ],
+    "note": "« Garantie d'autonomie » remplaçant le RSA, ouverte dès 18 ans aux personnes indépendantes fiscalement."
+   },
+   "q43": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 119
+     }
+    ]
+   },
+   "q44": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Défendre l’indépendance de l’audiovisuel public. Instaurer des modalités de financement pérennes, justes et durables.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 175
+     }
+    ]
+   },
+   "q45": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Adopter une loi anti-concentration […] qui interdit à un groupe de détenir plus de deux titres de presse nationale, une chaîne de télévision nationale et une radio nationale",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 175
+     }
+    ]
+   },
+   "q46": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Garantir un remboursement total des soins essentiels nécessaires au maintien de l’autonomie et de la qualité de vie par la prise en charge à 100 % par l’Assurance maladie. Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 111
+     }
+    ],
+    "note": "Prise en charge à 100 % des soins essentiels ; les mutuelles limitées aux soins optionnels."
+   },
+   "q48": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 21
+     }
+    ],
+    "note": "Exceptions envisagées pour les petits propriétaires, sous condition de baisse de loyer et de travaux."
+   },
+   "q49": {
+    "stance": "contre",
+    "quotes": [
+     {
+      "quote": "Abroger la loi Kasbarian qui criminalise les locataires.",
+      "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+      "page": 20
+     }
+    ]
    }
   },
   "zemmour": {
@@ -3188,6 +4201,16 @@
     "quotes": [
      {
       "quote": "Baisser d’un tiers l’accise sur les carburants",
+      "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
+      "page": 2
+     }
+    ]
+   },
+   "q44": {
+    "stance": "pour",
+    "quotes": [
+     {
+      "quote": "Privatiser l’audiovisuel public : vous n’avez pas à financer la propagande contre vous.",
       "source_id": "tract-reconqu-te-nos-priorit-s-pour-les-fran-ais-octobre-202-a806871c",
       "page": 2
      }

@@ -23,7 +23,9 @@ who proposed what. Results reveal matching candidates (photo, name, party) and a
 1. `sources/<slug>/candidate.json` — who, party, declaration source, official sites, status.
 2. `tools/fetch.py` — archive each source: raw file + extracted text + sha256 in `manifest.json`.
 3. `data/propositions/<slug>.json` — concrete propositions with verbatim quotes, per theme.
-4. `data/questions.json` — ~30 questions derived from common/divergent propositions.
+4. `data/questions.json` — 50 questions derived from common/divergent propositions. The quiz offers a
+   short version (30, chosen by `tools/build_data.py`: in each theme the 2 questions with the most
+   candidate positions, then the best-covered ones) and a full version (50).
 5. `data/stances.json` — question × candidate → pour / contre / non_mentionne + quote + source.
 6. `tools/verify_quotes.py` — every quote must be found verbatim (whitespace/typography-normalised)
    in the archived text. Plus an independent agent pass checking the quote supports the stance.
@@ -35,8 +37,9 @@ glucksmann, kazib, labib, lalanne, le-pen, lisnard, markovic, mathieu, melenchon
 mlekuz, philippe, philippot, platret, polony, retailleau, roussel, ruffin, tondelier, zemmour
 
 ## État au 30 octobre 2026
-- 32 candidats (21 🟢, 10 🟠, 1 🔴), ~200 documents archivés, 32 questions avec explication,
-  287 positions / 315 citations vérifiées à 100 %, relecture indépendante (33 positions retirées).
+- 32 candidats (21 🟢, 10 🟠, 1 🔴), ~200 documents archivés, 50 questions avec explication
+  (version courte 30 / complète 50), 384 positions / 415 citations vérifiées à 100 %, relecture
+  indépendante (q01–q32 : 33 positions retirées ; q33–q50 ajoutées le 31 oct., 3 retirées).
 - Site construit (`site/dist`), testé desktop + mobile ; non déployé.
 - À revoir : Mikolajczak (programme annoncé le 2 nov.), Mélenchon (nouvelle édition 6 nov.),
   Becht (parties 9–11 du livre les 2, 5, 9 nov.), Asselineau (programme « prochainement »),

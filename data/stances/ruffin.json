@@ -130,6 +130,39 @@
           "page": 42
         }
       ]
+    },
+    "q37": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "C’est pourquoi nous renforcerons l’indépendance du parquet, en abrogeant notamment le pouvoir de nomination des magistrats du parquet par le Gouvernement.",
+          "source_id": "cahier-de-campagne-n-2-s-parer-l-argent-et-l-tat-programme-2-e1ca022a",
+          "page": 51
+        }
+      ],
+      "note": "Le garde des Sceaux continuerait à définir les grandes orientations de la politique judiciaire."
+    },
+    "q48": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "les obligations pesant sur les locations ordinaires (ex. interdiction de location des passoires énergétiques) devraient être identiques pour les meublés touristiques",
+          "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+          "page": 34
+        }
+      ],
+      "note": "Propose d’étendre aux meublés touristiques l’interdiction de louer les passoires énergétiques."
+    },
+    "q49": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "il est urgent d’abroger la loi « Kasbarian-Bergé » qui a fait exploser le nombre d’expulsions en abandonnant la prévention et en brutalisant la relation bailleur/locataire.",
+          "source_id": "cahier-de-campagne-n-6-crise-du-logement-programme-2027-e8568e89",
+          "page": 37
+        }
+      ],
+      "note": "La loi Kasbarian-Bergé de 2023 est la loi dite « anti-squat »."
     }
   }
 }

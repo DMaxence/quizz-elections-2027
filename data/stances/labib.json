@@ -21,6 +21,22 @@
           "page": 2
         }
       ]
+    },
+    "q50": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Imposer l’interdiction des licenciements, l’arrêt de toutes les suppressions d’emplois",
+          "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+          "page": 2
+        },
+        {
+          "quote": "Dans les hôpitaux, les écoles et tous les services publics, les emplois sont également supprimés par milliers, privant la population de services essentiels.",
+          "source_id": "tract-4-pages-de-campagne-pr-sidentielle-2027-c-est-aux-trav-2ee56502",
+          "page": 2
+        }
+      ],
+      "note": "Refuse toute suppression d’emplois, y compris dans les services publics, et appelle à des embauches massives."
     }
   }
 }

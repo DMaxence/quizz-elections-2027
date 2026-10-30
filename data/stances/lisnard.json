@@ -198,6 +198,38 @@
         }
       ],
       "note": "Vise le voile à l'université."
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "rétablir les peines planchers pour les récidivistes",
+          "source_id": "programme-de-david-lisnard-s-curit-d8e06b1a",
+          "page": 1
+        }
+      ]
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "l’effectivité de la sanction devra être atteinte à la fois par le raccourcissement des délais de jugement, par l’augmentation des places de prison",
+          "source_id": "programme-de-david-lisnard-axe-2-r-ussir-une-nouvelle-ambiti-068345e8",
+          "page": 1
+        }
+      ],
+      "note": "Pas d’objectif chiffré."
+    },
+    "q48": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer l’interdiction de location des passoires thermiques et la remplacer par un bonus-malus incitatif.",
+          "source_id": "le-livre-noir-en-finir-avec-la-bureaucratie-nouvelle-nergie-a074a500",
+          "page": 7
+        }
+      ],
+      "note": "Proposition tirée du « Livre noir » de Nouvelle Énergie ; le programme 2027 n’en parle pas."
     }
   }
 }

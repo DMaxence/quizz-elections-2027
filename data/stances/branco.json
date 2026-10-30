@@ -163,6 +163,56 @@
           "page": 30
         }
       ]
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Suppression des brigades anticriminalité (BAC) au profit d’une police de proximité.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 21
+        }
+      ]
+    },
+    "q42": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Extension du RSA aux jeunes à partir de 18 ans, sans condition de ressources et à condition d’une dissociation du foyer fiscal familial.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 29
+        }
+      ]
+    },
+    "q43": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Déconditionnalisation du RSA, attribution automatique des minima sociaux afin de sortir de la pauvreté ceux qui n’ont même pas les moyens de les réclamer.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 29
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Expropriation des propriétaires de médias oligarchiques, transformation de l’ensemble des médias en SCOP et redistribution du capital aux citoyens, travailleurs et abonnés.",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 9
+        }
+      ]
+    },
+    "q46": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Abolition des complémentaires santé et mutuelles publiques et privées, institutions de prévoyance, complémentaires collectives, etc et absorption au sein d’un grand système unique de sécurité sociale intégrale de tous les dispositifs compensatoires (CSS, etc).",
+          "source_id": "le-projet-programme-de-juan-branco-pour-2027-pdf-la-voie-3aa32778",
+          "page": 40
+        }
+      ]
     }
   }
 }

@@ -4,6 +4,7 @@ import candidates from "../data/candidates.json";
 import questions from "../data/questions.json";
 
 const themes = [...new Set(questions.map((q) => q.theme))];
+const nCore = questions.filter((q) => q.core).length;
 const nDocs = candidates.reduce((n, c) => n + c.sources.length, 0);
 ---
 <Base title="La méthode — Isoloir" description="Comment Isoloir choisit ses sources, écrit ses questions, vérifie ses citations et calcule les résultats." current="methode">
@@ -38,7 +39,7 @@ const nDocs = candidates.reduce((n, c) => n + c.sources.length, 0);
       </div>
       <div class="m-step" data-rise="0">
         <h3>Des questions issues des programmes</h3>
-        <p>Les propositions concrètes de tous les programmes ont été relevées, puis regroupées : les questions portent sur les sujets où plusieurs candidats prennent position et où leurs réponses divergent. La moitié environ sont formulées « pour », l'autre « contre », pour ne pas pousser vers un même réflexe. Le travail de lecture et de rédaction a été fait avec l'aide d'une intelligence artificielle, encadrée par ces règles, et chaque citation a été contrôlée mot pour mot. Sous chaque question, une courte explication définit les termes (sigles, dispositifs existants) sans argument pour ou contre : c'est le seul texte du quiz qui ne vient pas des programmes.</p>
+        <p>Les propositions concrètes de tous les programmes ont été relevées, puis regroupées : les questions portent sur les sujets où plusieurs candidats prennent position et où leurs réponses divergent. La moitié environ sont formulées « pour », l'autre « contre », pour ne pas pousser vers un même réflexe. Le travail de lecture et de rédaction a été fait avec l'aide d'une intelligence artificielle, encadrée par ces règles, et chaque citation a été contrôlée mot pour mot. Sous chaque question, une courte explication définit les termes (sigles, dispositifs existants) sans argument pour ou contre : c'est le seul texte du quiz qui ne vient pas des programmes. La version courte garde, dans chaque thème, les deux questions sur lesquelles le plus de programmes prennent position, complétées par les mieux couvertes jusqu'à {nCore} ; la version complète les pose toutes.</p>
       </div>
       <div class="m-step" data-rise="0">
         <h3>Un calcul simple et affiché</h3>
@@ -72,7 +73,7 @@ const nDocs = candidates.reduce((n, c) => n + c.sources.length, 0);
 
     <section id="sources" class="m-themes wrap" aria-labelledby="themes-h">
       <h2 id="themes-h" class="head">Les thèmes abordés</h2>
-      <p class="lead m-themes__lead">{questions.length} questions réparties sur {themes.length} thèmes. Les liens vers les documents sont donnés avec les résultats, pour que personne ne lise un programme avant d'avoir répondu.</p>
+      <p class="lead m-themes__lead">{questions.length} questions réparties sur {themes.length} thèmes, dont {nCore} dans la version courte. Les liens vers les documents sont donnés avec les résultats, pour que personne ne lise un programme avant d'avoir répondu.</p>
       <ul class="m-themes__list">
         {themes.map((t) => <li>{t} <span class="muted nums">{questions.filter((q) => q.theme === t).length}</span></li>)}
       </ul>

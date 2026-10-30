@@ -20,6 +20,7 @@ const stances = results.stances as Record<string, Record<string, { stance: strin
 const nQuotes = Object.values(stances).reduce(
   (n, st) => n + Object.values(st).reduce((m, s) => m + s.quotes.length, 0), 0);
 const nQuestions = questions.length;
+const nCore = questions.filter((q) => q.core).length;
 
 // the sample proposition for the live block: the first quiz question, with anonymous counts only
 const sample = questions[0];
@@ -34,8 +35,14 @@ if (sample) {
   }
 }
 const nWithProgram = candidates.filter((c) => c.status !== "aucun").length;
-const words = ["zéro", "un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix", "onze", "douze", "treize", "quatorze", "quinze", "seize", "dix-sept", "dix-huit", "dix-neuf", "vingt", "vingt et un", "vingt-deux", "vingt-trois", "vingt-quatre", "vingt-cinq", "vingt-six", "vingt-sept", "vingt-huit", "vingt-neuf", "trente", "trente et un", "trente-deux", "trente-trois", "trente-quatre", "trente-cinq", "trente-six", "trente-sept", "trente-huit", "trente-neuf", "quarante"];
-const say = (n: number) => words[n] ?? String(n);
+const units = ["zéro", "un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix", "onze", "douze", "treize", "quatorze", "quinze", "seize", "dix-sept", "dix-huit", "dix-neuf"];
+const tens = ["", "", "vingt", "trente", "quarante", "cinquante", "soixante"];
+const say = (n: number) => {
+  if (n < 20) return units[n] ?? String(n);
+  const t = Math.floor(n / 10), u = n % 10;
+  if (t >= tens.length) return String(n);
+  return u === 0 ? tens[t] : u === 1 ? `${tens[t]} et un` : `${tens[t]}-${units[u]}`;
+};
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
 ---
 <Base title="Isoloir — le quiz des programmes de la présidentielle 2027" bar={false}>
@@ -65,7 +72,7 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
         </figure>
         <div class="board__pair">
           <div class="tile tile--ink board__go">
-            <p>{cap(say(nQuestions || 30))} propositions tirées des programmes officiels. Vous ne savez pas qui les porte.</p>
+            <p>{cap(say(nCore))} propositions, ou {say(nQuestions)} pour aller plus loin, tirées des programmes officiels. Vous ne savez pas qui les porte.</p>
             <a class="btn btn--paper" href="/quiz">Commencer</a>
           </div>
           <p class="tile tile--field">Au dépouillement, les noms apparaissent. Premier tour le 18 avril 2027.</p>
@@ -107,7 +114,7 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
                 <span><strong>{counts.rien}</strong> n'en parlent pas</span>
               </p>
               <p class="small">Sur {nWithProgram} candidats dont au moins un document est archivé. Votre réponse est gardée pour la suite.</p>
-              <a class="btn btn--paper" href="/quiz?suite=1">Continuer avec les {Math.max(nQuestions - 1, 0)} autres</a>
+              <a class="btn btn--paper" href="/quiz?suite=1">Continuer le quiz</a>
             </div>
           </form>
         </div>
@@ -182,6 +189,10 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
       <div class="faq__row" data-rise="0">
         <h3 class="faq__q">Qui a écrit les questions ?</h3>
         <p>Elles ont été rédigées à partir des programmes avec l'aide d'une intelligence artificielle, en alternant formulations pour et contre. Chaque citation est ensuite vérifiée automatiquement, mot pour mot, dans le document d'origine. <a class="link" href="/methode">Voir la méthode</a></p>
+      </div>
+      <div class="faq__row" data-rise="0">
+        <h3 class="faq__q">Version courte ou complète ?</h3>
+        <p>Vous choisissez au début : {say(nCore)} propositions, une dizaine de minutes, ou les {say(nQuestions)}, pour un résultat plus précis. La version courte garde, dans chaque thème, les questions sur lesquelles le plus de programmes prennent position. Vous pouvez passer à la version complète à tout moment.</p>
       </div>
       <div class="faq__row" data-rise="0">
         <h3 class="faq__q">Mes réponses sont-elles enregistrées ?</h3>

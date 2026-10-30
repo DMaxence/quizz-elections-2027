@@ -166,6 +166,36 @@
           "page": 4
         }
       ]
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Il convient donc de réinstaurer les peines planchers et de généraliser les sanctions dès la première infraction.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 11
+        }
+      ]
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Construire les dizaines de milliers de places de prison qui manquent",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 11
+        }
+      ]
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Recréer une police de proximité visible et permanente.",
+          "source_id": "projet-pour-la-france-2026-v2-les-patriotes-90d07484",
+          "page": 11
+        }
+      ]
     }
   }
 }

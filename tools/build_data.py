@@ -14,6 +14,7 @@ import unicodedata
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "src" / "data"
 PHOTOS_OUT = ROOT / "site" / "public" / "photos"
+SHORT_LEN = 30
 
 
 def surname_key(name):
@@ -72,13 +73,28 @@ def main():
         d = json.loads(f.read_text())
         stances[f.stem] = d.get("stances", {})
 
+    # Short version: in each theme, the two questions on which the most programs take a position
+    # (ties: lower id), then the next best-covered questions overall up to SHORT_LEN.
+    coverage = {q["id"]: sum(1 for st in stances.values() if q["id"] in st) for q in questions}
+    rank = lambda q: (-coverage[q["id"]], q["id"])
+    core = set()
+    for theme in dict.fromkeys(q["theme"] for q in questions):
+        core.update(q["id"] for q in sorted((q for q in questions if q["theme"] == theme), key=rank)[:2])
+    for q in sorted(questions, key=rank):
+        if len(core) >= SHORT_LEN:
+            break
+        core.add(q["id"])
+    for q in questions:
+        q["core"] = q["id"] in core
+
     (OUT / "candidates.json").write_text(json.dumps(candidates, ensure_ascii=False, indent=1))
     (OUT / "questions.json").write_text(json.dumps(
-        [{k: q[k] for k in ("id", "theme", "text", "short", "help") if k in q} for q in questions],
+        [{k: q[k] for k in ("id", "theme", "text", "short", "help", "core") if k in q} for q in questions],
         ensure_ascii=False, indent=1))
     (OUT / "results.json").write_text(json.dumps({"stances": stances}, ensure_ascii=False, indent=1))
     n_quotes = sum(len(s.get("quotes", [])) for st in stances.values() for s in st.values())
-    print(f"{len(candidates)} candidates, {len(questions)} questions, {n_quotes} quotes")
+    print(f"{len(candidates)} candidates, {len(questions)} questions ({len(core)} in the short version), {n_quotes} quotes")
+    print("short version:", " ".join(sorted(core)))
 
 
 if __name__ == "__main__":

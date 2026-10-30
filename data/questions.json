@@ -254,5 +254,149 @@
     "short": "Réseaux sociaux interdits avant 15 ans",
     "scope": "pour = interdire l'accès aux réseaux sociaux avant 15 ans (ou un âge proche, à préciser en note). Vérification d'âge seule = non mentionné.",
     "help": "Il s'agit d'interdire l'inscription et l'usage des réseaux sociaux aux enfants de moins de 15 ans."
+  },
+  {
+    "id": "q33",
+    "theme": "Sécurité et justice",
+    "text": "Instaurer des peines minimales obligatoires (« peines planchers »), au moins pour les récidivistes.",
+    "short": "Peines planchers",
+    "scope": "pour = rétablir ou instaurer des peines planchers / peines minimales obligatoires (récidivistes, certaines infractions). contre = refuser explicitement les peines planchers ou les peines automatiques au nom de l'individualisation des peines. Seulement « sortir de la prison comme réponse par défaut » ou développer des peines alternatives = non mentionné.",
+    "help": "Une peine plancher est une peine minimale que le juge doit prononcer, sauf décision motivée. Elles ont existé en France de 2007 à 2014 pour les récidivistes ; aujourd'hui, le juge fixe la peine librement, sous le maximum prévu par la loi."
+  },
+  {
+    "id": "q34",
+    "theme": "Sécurité et justice",
+    "text": "Instaurer une présomption de légitime défense pour les policiers et les gendarmes.",
+    "short": "Présomption de légitime défense des forces de l'ordre",
+    "scope": "pour = présomption de légitime défense pour policiers / gendarmes / forces de l'ordre, ou protection légale renforcée des policiers qui font usage de leur arme en légitime défense. contre = refuser cette présomption, ou restreindre / abroger les règles d'usage des armes par les forces de l'ordre (loi du 28 février 2017 relative à la sécurité publique, souvent appelée « loi Cazeneuve », qui a créé l'article L435-1 du code de la sécurité intérieure ; textes qui la désignent comme « permis de tuer » ou qui visent le refus d'obtempérer inclus). Réformer l'IGPN ou encadrer les contrôles d'identité seulement = non mentionné.",
+    "help": "Aujourd'hui, un policier ou un gendarme qui utilise son arme doit, comme tout le monde, pouvoir montrer que les conditions de la légitime défense ou de l'usage autorisé des armes étaient réunies. Une présomption inverserait la charge : la légitime défense serait supposée, sauf preuve contraire."
+  },
+  {
+    "id": "q35",
+    "theme": "Sécurité et justice",
+    "text": "Construire un grand nombre de nouvelles places de prison.",
+    "short": "Nouvelles places de prison",
+    "scope": "pour = créer de nouvelles places de prison ou de nouveaux établissements pénitentiaires (chiffrés ou non). contre = refuser de construire de nouvelles prisons, moratoire sur les constructions, ou mécanisme de régulation carcérale (« numerus clausus ») présenté comme alternative aux constructions. Développer seulement des peines alternatives = non mentionné.",
+    "help": "Les prisons françaises comptent plus de détenus que de places, d'où une surpopulation. Deux réponses sont souvent opposées : construire davantage de places, ou réduire le recours à l'incarcération."
+  },
+  {
+    "id": "q36",
+    "theme": "Sécurité et justice",
+    "text": "Recréer une police de proximité, présente au quotidien dans les quartiers.",
+    "short": "Police de proximité",
+    "scope": "pour = (re)créer ou rétablir une police de proximité / de quartier, avec des agents attachés à un territoire. Plus d'effectifs ou plus de présence sur le terrain sans parler de proximité = non mentionné. contre = rejeter explicitement la police de proximité.",
+    "help": "La police de proximité, mise en place à partir de 1998 puis abandonnée pour l'essentiel à partir de 2003, affectait des agents à un quartier fixe pour y patrouiller, connaître les habitants et prévenir la délinquance, plutôt que d'intervenir surtout après les faits."
+  },
+  {
+    "id": "q37",
+    "theme": "Sécurité et justice",
+    "text": "Rendre les procureurs indépendants du gouvernement, pour leur nomination comme pour leurs instructions.",
+    "short": "Indépendance des procureurs",
+    "scope": "pour = retirer au gouvernement la nomination des magistrats du parquet, aligner leur statut sur celui des juges du siège, supprimer le lien hiérarchique avec le garde des Sceaux. contre = permettre ou rétablir des instructions individuelles du garde des Sceaux aux procureurs, ou renforcer l'autorité du gouvernement sur le parquet. Une « indépendance de la justice » générale sans mention du parquet = non mentionné.",
+    "help": "Les procureurs (le parquet) décident des poursuites. Ils sont nommés sur proposition du ministre de la Justice et lui sont rattachés hiérarchiquement, même si le ministre ne peut plus leur donner d'instruction dans une affaire précise depuis 2013. Les juges qui jugent (le siège) sont, eux, indépendants."
+  },
+  {
+    "id": "q38",
+    "theme": "Société et libertés",
+    "text": "Légaliser le cannabis, avec une production et une vente encadrées par l'État.",
+    "short": "Légalisation du cannabis",
+    "scope": "pour = légaliser le cannabis récréatif (avec ou sans monopole d'État). Organiser seulement une convention citoyenne ou un référendum sur la question = non mentionné avec une note. Cannabis thérapeutique seul = non mentionné. contre = refuser la légalisation ou la dépénalisation, ou durcir les sanctions contre les consommateurs. Un durcissement contre « la drogue » ou « les drogues » en général, sans que le cannabis ou sa légalisation soient nommés = non mentionné.",
+    "help": "La production, la vente et la consommation de cannabis sont interdites en France, hors usage médical encadré. Légaliser permettrait sa vente aux adultes dans un cadre fixé par la loi, comme pour l'alcool ou le tabac."
+  },
+  {
+    "id": "q39",
+    "theme": "Société et libertés",
+    "text": "Légaliser l'aide active à mourir (suicide assisté ou euthanasie), sous conditions strictes.",
+    "short": "Aide active à mourir",
+    "scope": "pour = légaliser l'aide active à mourir, le suicide assisté ou l'euthanasie, « droit de mourir dans la dignité » avec assistance. Développer seulement les soins palliatifs = non mentionné. contre = refuser explicitement l'euthanasie ou le suicide assisté.",
+    "help": "La loi Claeys-Leonetti de 2016 permet d'arrêter les traitements et, en toute fin de vie, une sédation profonde jusqu'au décès. L'aide active à mourir irait plus loin : permettre, sous conditions, qu'une personne malade reçoive ou s'administre un produit mortel."
+  },
+  {
+    "id": "q40",
+    "theme": "Société et libertés",
+    "text": "Interdire la corrida.",
+    "short": "Interdiction de la corrida",
+    "scope": "pour = interdire la corrida / la tauromachie (avec ou sans les combats de coqs). contre = protéger ou défendre explicitement la corrida ou les traditions taurines.",
+    "help": "Les sévices envers les animaux sont punis par la loi, mais la corrida reste autorisée dans les communes où existe une « tradition locale ininterrompue », surtout dans le sud de la France."
+  },
+  {
+    "id": "q41",
+    "theme": "Protection sociale et famille",
+    "text": "Verser des allocations familiales dès le premier enfant.",
+    "short": "Allocations familiales dès le premier enfant",
+    "scope": "pour = verser des allocations familiales, ou une allocation / un revenu familial unique, dès le premier enfant. Revaloriser seulement = non mentionné. contre = refuser explicitement de les verser dès le premier enfant.",
+    "help": "En métropole, les allocations familiales ne sont versées qu'à partir du deuxième enfant, et leur montant baisse pour les revenus les plus élevés."
+  },
+  {
+    "id": "q42",
+    "theme": "Protection sociale et famille",
+    "text": "Ouvrir le RSA, ou un revenu minimum, aux jeunes dès 18 ans.",
+    "short": "RSA dès 18 ans",
+    "scope": "pour = RSA, minimum social ou garantie de revenu accessible dès 18 ans / aux moins de 25 ans. Un revenu réservé aux seuls étudiants = non mentionné (note possible). contre = refuser explicitement d'ouvrir le RSA aux moins de 25 ans.",
+    "help": "Le RSA n'est en principe ouvert qu'à partir de 25 ans ; avant, seulement aux jeunes parents ou à ceux qui ont déjà beaucoup travaillé. Les jeunes ont accès à d'autres aides, comme le contrat d'engagement jeune, liées à un accompagnement."
+  },
+  {
+    "id": "q43",
+    "theme": "Protection sociale et famille",
+    "text": "Conditionner le RSA à des heures d'activité chaque semaine (travail, formation, insertion).",
+    "short": "Heures d'activité en échange du RSA",
+    "scope": "pour = conditionner le RSA (ou l'allocation qui le remplace) à des heures d'activité, de travail, de formation ou d'insertion, ou renforcer ces obligations. Conditions de nationalité ou de durée de résidence = non mentionné (autre question). contre = supprimer les contreparties, verser le RSA ou une garantie de revenu sans contrepartie d'activité, « déconditionner » le RSA.",
+    "help": "Depuis 2025, les allocataires du RSA sont inscrits à France Travail et doivent en principe faire au moins 15 heures d'activités par semaine (formation, stages, démarches), avec des aménagements selon leur situation. Certains veulent renforcer ces contreparties, d'autres les supprimer."
+  },
+  {
+    "id": "q44",
+    "theme": "Numérique, médias et culture",
+    "text": "Privatiser l'audiovisuel public (France Télévisions, Radio France…).",
+    "short": "Privatisation de l'audiovisuel public",
+    "scope": "pour = privatiser tout ou partie de l'audiovisuel public, ou supprimer son financement public. Fusionner seulement les entités publiques = non mentionné. contre = défendre, renforcer ou mieux financer l'audiovisuel public.",
+    "help": "France Télévisions, Radio France, France Médias Monde et l'INA appartiennent à l'État et sont financés par l'argent public depuis la suppression de la redevance en 2022. Les privatiser signifierait les vendre à des acteurs privés."
+  },
+  {
+    "id": "q45",
+    "theme": "Numérique, médias et culture",
+    "text": "Limiter par la loi la concentration des médias entre les mains de grands groupes.",
+    "short": "Anti-concentration des médias",
+    "scope": "pour = loi anti-concentration, limitation de la part d'un même actionnaire, interdiction aux groupes vivant de commandes publiques de posséder des médias, ou sortie des médias de l'actionnariat (gouvernance à but non lucratif, SCOP, expropriation). contre = assouplir les règles de concentration.",
+    "help": "Plusieurs grands médias privés appartiennent à quelques groupes industriels ou financiers. Une loi de 1986 limite déjà certaines concentrations, surtout à la télévision et à la radio ; la question est de la rendre plus stricte."
+  },
+  {
+    "id": "q46",
+    "theme": "Santé",
+    "text": "Rembourser intégralement les soins par la Sécurité sociale, en y intégrant les complémentaires santé (mutuelles).",
+    "short": "Sécurité sociale à 100 %",
+    "scope": "pour = remboursement à 100 % des soins prescrits par la Sécurité sociale, intégration des mutuelles / complémentaires dans la Sécurité sociale, régime unique remplaçant les complémentaires. Une « gratuité des soins » générale compte si le texte parle de prise en charge intégrale par la Sécurité sociale. contre = refuser explicitement cette intégration ou défendre le rôle des complémentaires.",
+    "help": "L'Assurance maladie rembourse une partie des soins ; le reste est payé par une complémentaire santé (mutuelle ou assurance) ou par le patient. L'idée est que la Sécurité sociale prenne tout en charge, ce qui rendrait les complémentaires inutiles pour ces soins."
+  },
+  {
+    "id": "q47",
+    "theme": "Travail, salaires et retraites",
+    "text": "Instaurer ou allonger les jours de carence (non indemnisés) en cas d'arrêt maladie.",
+    "short": "Jours de carence",
+    "scope": "pour = instaurer, allonger ou rendre non compensables des jours de carence, dans le public ou le privé. Limiter seulement la durée des arrêts prescrits en téléconsultation = non mentionné. contre = supprimer les jours de carence.",
+    "help": "En cas d'arrêt maladie, les premiers jours ne sont pas indemnisés par la Sécurité sociale : trois jours dans le privé, un jour dans la fonction publique. Dans le privé, beaucoup d'employeurs compensent ces jours."
+  },
+  {
+    "id": "q48",
+    "theme": "Logement et territoires",
+    "text": "Supprimer l'interdiction de louer les logements mal classés au diagnostic de performance énergétique (DPE).",
+    "short": "Fin de l'interdiction de louer les « passoires thermiques »",
+    "scope": "pour = supprimer, abroger, abandonner ou suspendre les interdictions de mise en location liées au DPE. contre = maintenir ou accélérer ces interdictions.",
+    "help": "La loi Climat et résilience de 2021 interdit progressivement de mettre en location les logements les moins bien classés au DPE : la classe G depuis 2025, puis F et E selon le calendrier prévu (2028 et 2034). L'objectif est de pousser à la rénovation énergétique."
+  },
+  {
+    "id": "q49",
+    "theme": "Logement et territoires",
+    "text": "Accélérer et faciliter l'expulsion des squatteurs.",
+    "short": "Expulsion des squatteurs",
+    "scope": "pour = expulsion administrative plus rapide ou plus large des occupants illégaux, durcissement des sanctions contre les squats. contre = abroger la loi « anti-squat » de 2023 (loi Kasbarian) ou refuser son durcissement.",
+    "help": "Depuis la loi « anti-squat » de 2023 (loi Kasbarian), le squat est puni plus sévèrement et le préfet peut, dans certaines conditions, faire évacuer un logement occupé illégalement sans passer par un juge. Cette loi a aussi accéléré les procédures contre les locataires en impayés."
+  },
+  {
+    "id": "q50",
+    "theme": "Économie, fiscalité et dette",
+    "text": "Ne pas remplacer une partie des fonctionnaires qui partent à la retraite, pour réduire leur nombre.",
+    "short": "Moins de fonctionnaires",
+    "scope": "pour = non-remplacement de départs à la retraite, réduction du nombre d'agents ou de postes publics. contre = refuser explicitement la baisse du nombre de fonctionnaires, ou prévoir une hausse globale des effectifs de la fonction publique. Créer des postes dans un seul secteur (soignants, enseignants, policiers) = non mentionné.",
+    "help": "La France compte près de 6 millions d'agents publics (État, collectivités, hôpitaux). Ne pas remplacer certains départs à la retraite réduit leur nombre sans licenciement."
   }
 ]

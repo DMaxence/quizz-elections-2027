@@ -9,7 +9,7 @@ les noms apparaissent avec les citations exactes et leurs sources. Règles et d�
 | Candidats, statut (pastille), sites | `sources/<slug>/candidate.json` | — |
 | Documents archivés (brut + texte + sha256) | `sources/<slug>/raw`, `text`, `manifest.json` | `tools/fetch.py` (`--from-file` pour un PDF téléchargé à la main, `--html-full` si l'extraction est tronquée) |
 | Propositions relevées | `data/propositions/<slug>.json` | brief : `tools/EXTRACTION_BRIEF.md` |
-| Questions (+ `scope` interne, `help` affiché) | `data/questions.json` | — |
+| Questions (+ `scope` interne, `help` affiché) | `data/questions.json` | la version courte (30) est choisie par `build_data.py` |
 | Positions (pour / contre + citations) | `data/stances/<slug>.json` | brief : `tools/STANCE_BRIEF.md` |
 | Relecture indépendante | `data/review/<slug>.md` | brief : `tools/REVIEW_BRIEF.md` |
 | Vérification mot pour mot | — | `tools/.venv/bin/python tools/verify_quotes.py` (doit afficher 100 %) |

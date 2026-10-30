@@ -75,6 +75,26 @@
         }
       ],
       "note": "Propose des réformes dans le cadre actuel (septennat, rôle du Premier ministre)."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "police de proximité dotée d’effectifs dédiés et formés",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 79
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Médias : limites fixées par la loi à la concentration capitalistique.",
+          "source_id": "tenir-la-promesse-de-la-france-lettre-de-bernard-cazeneuve-a-00f95d1a",
+          "page": 81
+        }
+      ]
     }
   }
 }

@@ -162,6 +162,56 @@
         }
       ],
       "note": "Baisse de la TVA sur les carburants à 5,5 %."
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mise en place des peines planchers pour les récidivistes, les atteintes aux personnes dépositaires d’une mission de services publics et le trafic de drogue",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 4
+        }
+      ]
+    },
+    "q34": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instituer une présomption de légitime défense pour les forces de l’ordre",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 6
+        }
+      ]
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lancer enfin la construction effective des places de prison dont la France a besoin",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 6
+        }
+      ]
+    },
+    "q44": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Privatiser l’audiovisuel public",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 10
+        }
+      ]
+    },
+    "q48": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Abroger toutes les interdictions et obligations liées aux DPE (travaux, mise en location...)",
+          "source_id": "programme-du-rassemblement-national-l-gislatives-2024-8bc4d891",
+          "page": 7
+        }
+      ]
     }
   }
 }

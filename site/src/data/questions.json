@@ -4,223 +4,399 @@
   "theme": "Institutions et démocratie",
   "text": "Créer un référendum d'initiative citoyenne (RIC), permettant aux citoyens de déclencher eux-mêmes un référendum.",
   "short": "Référendum d'initiative citoyenne (RIC)",
-  "help": "Un référendum est aujourd'hui lancé par le président de la République, ou par des parlementaires soutenus par une partie des électeurs. Le RIC permettrait à un nombre fixé de citoyens de provoquer eux-mêmes un vote, sur une loi ou sur la Constitution selon les versions."
+  "help": "Un référendum est aujourd'hui lancé par le président de la République, ou par des parlementaires soutenus par une partie des électeurs. Le RIC permettrait à un nombre fixé de citoyens de provoquer eux-mêmes un vote, sur une loi ou sur la Constitution selon les versions.",
+  "core": true
  },
  {
   "id": "q02",
   "theme": "Travail, salaires et retraites",
   "text": "Abaisser l'âge légal de départ à la retraite pour tous.",
   "short": "Abaisser l'âge légal de la retraite",
-  "help": "L'âge légal est l'âge minimum à partir duquel on peut toucher sa retraite. La question porte sur une baisse pour tout le monde, pas seulement pour les carrières longues ou les métiers pénibles."
+  "help": "L'âge légal est l'âge minimum à partir duquel on peut toucher sa retraite. La question porte sur une baisse pour tout le monde, pas seulement pour les carrières longues ou les métiers pénibles.",
+  "core": true
  },
  {
   "id": "q03",
   "theme": "Immigration",
   "text": "Supprimer l'aide médicale d'État (AME) ou la limiter aux soins urgents.",
   "short": "Supprimer ou réduire l'AME",
-  "help": "L'aide médicale d'État (AME) prend en charge les soins des étrangers en situation irrégulière qui ont de faibles ressources. « D'accord » : la supprimer, ou la réduire aux soins urgents ou essentiels."
+  "help": "L'aide médicale d'État (AME) prend en charge les soins des étrangers en situation irrégulière qui ont de faibles ressources. « D'accord » : la supprimer, ou la réduire aux soins urgents ou essentiels.",
+  "core": true
  },
  {
   "id": "q04",
   "theme": "Écologie, climat et énergie",
   "text": "Construire de nouveaux réacteurs nucléaires en France.",
   "short": "Construire de nouveaux réacteurs",
-  "help": "Il s'agit de construire de nouveaux réacteurs (EPR ou petits réacteurs modulaires), et non seulement de prolonger les centrales existantes."
+  "help": "Il s'agit de construire de nouveaux réacteurs (EPR ou petits réacteurs modulaires), et non seulement de prolonger les centrales existantes.",
+  "core": true
  },
  {
   "id": "q05",
   "theme": "Économie, fiscalité et dette",
   "text": "Rétablir un impôt sur la fortune ou taxer davantage les très grands patrimoines.",
   "short": "Impôt sur les grandes fortunes",
-  "help": "Il s'agit d'imposer chaque année le patrimoine des plus fortunés : rétablir un impôt sur la fortune (l'ISF, remplacé en 2018 par un impôt sur la seule fortune immobilière) ou créer une taxe sur les très grands patrimoines."
+  "help": "Il s'agit d'imposer chaque année le patrimoine des plus fortunés : rétablir un impôt sur la fortune (l'ISF, remplacé en 2018 par un impôt sur la seule fortune immobilière) ou créer une taxe sur les très grands patrimoines.",
+  "core": true
  },
  {
   "id": "q06",
   "theme": "Europe, international et défense",
   "text": "Continuer à fournir une aide militaire à l'Ukraine.",
   "short": "Aide militaire à l'Ukraine",
-  "help": "L'aide militaire désigne les livraisons d'armes, de munitions et d'équipements à l'Ukraine, envahie par la Russie en 2022."
+  "help": "L'aide militaire désigne les livraisons d'armes, de munitions et d'équipements à l'Ukraine, envahie par la Russie en 2022.",
+  "core": true
  },
  {
   "id": "q07",
   "theme": "Logement et territoires",
   "text": "Encadrer les loyers, au moins dans les villes où le logement manque.",
   "short": "Encadrer les loyers",
-  "help": "Encadrer les loyers, c'est fixer un plafond que le propriétaire ne peut pas dépasser quand il loue, calculé à partir de loyers de référence."
+  "help": "Encadrer les loyers, c'est fixer un plafond que le propriétaire ne peut pas dépasser quand il loue, calculé à partir de loyers de référence.",
+  "core": true
  },
  {
   "id": "q08",
   "theme": "Immigration",
   "text": "Réduire fortement ou suspendre le regroupement familial des étrangers.",
   "short": "Restreindre le regroupement familial",
-  "help": "Le regroupement familial permet à un étranger qui réside légalement en France de faire venir son conjoint et ses enfants mineurs, sous conditions de ressources et de logement."
+  "help": "Le regroupement familial permet à un étranger qui réside légalement en France de faire venir son conjoint et ses enfants mineurs, sous conditions de ressources et de logement.",
+  "core": true
  },
  {
   "id": "q09",
   "theme": "École et jeunesse",
   "text": "Supprimer Parcoursup, la plateforme d'admission dans l'enseignement supérieur.",
   "short": "Supprimer Parcoursup",
-  "help": "Parcoursup est la plateforme nationale où les lycéens formulent leurs vœux d'études supérieures et reçoivent les réponses des formations. « D'accord » : la supprimer ou la remplacer, pas seulement la modifier."
+  "help": "Parcoursup est la plateforme nationale où les lycéens formulent leurs vœux d'études supérieures et reçoivent les réponses des formations. « D'accord » : la supprimer ou la remplacer, pas seulement la modifier.",
+  "core": true
  },
  {
   "id": "q10",
   "theme": "Europe, international et défense",
   "text": "Faire sortir la France de l'OTAN, ou au moins de son commandement militaire intégré.",
   "short": "Sortir de l'OTAN",
-  "help": "L'OTAN est l'alliance militaire qui unit notamment les États-Unis, le Canada et la plupart des pays européens. Son commandement intégré est sa structure militaire commune, que la France a quittée en 1966 et rejointe en 2009."
+  "help": "L'OTAN est l'alliance militaire qui unit notamment les États-Unis, le Canada et la plupart des pays européens. Son commandement intégré est sa structure militaire commune, que la France a quittée en 1966 et rejointe en 2009.",
+  "core": true
  },
  {
   "id": "q11",
   "theme": "Travail, salaires et retraites",
   "text": "Développer une retraite par capitalisation en complément de la répartition, pour tous les salariés.",
   "short": "Retraite par capitalisation",
-  "help": "Les retraites françaises reposent surtout sur la répartition : les cotisations des actifs paient les pensions des retraités. La capitalisation consiste à épargner pour sa propre retraite dans un fonds placé sur les marchés financiers."
+  "help": "Les retraites françaises reposent surtout sur la répartition : les cotisations des actifs paient les pensions des retraités. La capitalisation consiste à épargner pour sa propre retraite dans un fonds placé sur les marchés financiers.",
+  "core": true
  },
  {
   "id": "q12",
   "theme": "Économie, fiscalité et dette",
   "text": "Nationaliser ou renationaliser des entreprises de secteurs stratégiques (énergie, autoroutes, eau, banques…).",
   "short": "Nationaliser des secteurs stratégiques",
-  "help": "Nationaliser, c'est faire passer une entreprise, ou une activité confiée au privé comme les autoroutes, sous le contrôle de l'État."
+  "help": "Nationaliser, c'est faire passer une entreprise, ou une activité confiée au privé comme les autoroutes, sous le contrôle de l'État.",
+  "core": true
  },
  {
   "id": "q13",
   "theme": "Sécurité et justice",
   "text": "Abaisser l'âge de la majorité pénale, par exemple à 16 ans.",
   "short": "Abaisser la majorité pénale",
-  "help": "La majorité pénale est fixée à 18 ans. Avant cet âge, les mineurs relèvent d'une justice spécifique et bénéficient en principe de peines atténuées (« l'excuse de minorité »)."
+  "help": "La majorité pénale est fixée à 18 ans. Avant cet âge, les mineurs relèvent d'une justice spécifique et bénéficient en principe de peines atténuées (« l'excuse de minorité »).",
+  "core": false
  },
  {
   "id": "q14",
   "theme": "Écologie, climat et énergie",
   "text": "Continuer à développer l'énergie éolienne.",
   "short": "Développer l'éolien",
-  "help": "La question porte sur la poursuite de l'installation d'éoliennes, sur terre ou en mer. « Pas d'accord » correspond à un moratoire, à leur démantèlement ou à la fin des aides publiques à l'éolien."
+  "help": "La question porte sur la poursuite de l'installation d'éoliennes, sur terre ou en mer. « Pas d'accord » correspond à un moratoire, à leur démantèlement ou à la fin des aides publiques à l'éolien.",
+  "core": true
  },
  {
   "id": "q15",
   "theme": "Immigration",
   "text": "Régulariser les travailleurs étrangers sans papiers.",
   "short": "Régulariser les sans-papiers",
-  "help": "Régulariser, c'est délivrer un titre de séjour à des étrangers qui vivent en France sans autorisation, par exemple parce qu'ils y travaillent."
+  "help": "Régulariser, c'est délivrer un titre de séjour à des étrangers qui vivent en France sans autorisation, par exemple parce qu'ils y travaillent.",
+  "core": true
  },
  {
   "id": "q16",
   "theme": "Institutions et démocratie",
   "text": "Élire les députés à la proportionnelle.",
   "short": "Proportionnelle aux législatives",
-  "help": "Aux législatives, chaque circonscription élit un député au scrutin majoritaire à deux tours. À la proportionnelle, les sièges sont répartis selon le pourcentage de voix obtenu par chaque liste. Une « dose » de proportionnelle compte comme « d'accord »."
+  "help": "Aux législatives, chaque circonscription élit un député au scrutin majoritaire à deux tours. À la proportionnelle, les sièges sont répartis selon le pourcentage de voix obtenu par chaque liste. Une « dose » de proportionnelle compte comme « d'accord ».",
+  "core": false
  },
  {
   "id": "q17",
   "theme": "Agriculture et alimentation",
   "text": "Refuser les accords de libre-échange, dont l'accord entre l'Union européenne et le Mercosur.",
   "short": "Refuser les accords de libre-échange",
-  "help": "Les accords de libre-échange réduisent les droits de douane entre l'Union européenne et d'autres pays. Celui avec le Mercosur concerne plusieurs pays d'Amérique du Sud (Brésil, Argentine, Uruguay, Paraguay) et porte notamment sur des produits agricoles."
+  "help": "Les accords de libre-échange réduisent les droits de douane entre l'Union européenne et d'autres pays. Celui avec le Mercosur concerne plusieurs pays d'Amérique du Sud (Brésil, Argentine, Uruguay, Paraguay) et porte notamment sur des produits agricoles.",
+  "core": true
  },
  {
   "id": "q18",
   "theme": "École et jeunesse",
   "text": "Mettre fin au collège unique, avec des groupes de niveau, un examen d'entrée ou une orientation plus précoce.",
   "short": "Fin du collège unique",
-  "help": "Le collège unique accueille tous les élèves dans le même parcours, de la 6e à la 3e. Y mettre fin peut passer par des groupes de niveau, un examen d'entrée ou une orientation plus précoce, dès 14 ans."
+  "help": "Le collège unique accueille tous les élèves dans le même parcours, de la 6e à la 3e. Y mettre fin peut passer par des groupes de niveau, un examen d'entrée ou une orientation plus précoce, dès 14 ans.",
+  "core": true
  },
  {
   "id": "q19",
   "theme": "Écologie, climat et énergie",
   "text": "Sortir du marché européen de l'électricité pour fixer un prix national.",
   "short": "Prix national de l'électricité",
-  "help": "Le prix de gros de l'électricité est aujourd'hui fixé en partie sur un marché européen interconnecté. La proposition consiste à en sortir pour fixer un prix national, calculé sur les coûts de production en France."
+  "help": "Le prix de gros de l'électricité est aujourd'hui fixé en partie sur un marché européen interconnecté. La proposition consiste à en sortir pour fixer un prix national, calculé sur les coûts de production en France.",
+  "core": false
  },
  {
   "id": "q20",
   "theme": "Europe, international et défense",
   "text": "Faire sortir la France de l'Union européenne.",
   "short": "Sortir de l'Union européenne",
-  "help": "Sortir de l'Union européenne (le « Frexit ») mettrait fin à l'application en France des traités et du droit européens, et à la participation aux institutions de l'Union. Proposer seulement un référendum sur la question n'est pas compté."
+  "help": "Sortir de l'Union européenne (le « Frexit ») mettrait fin à l'application en France des traités et du droit européens, et à la participation aux institutions de l'Union. Proposer seulement un référendum sur la question n'est pas compté.",
+  "core": false
  },
  {
   "id": "q21",
   "theme": "Santé",
   "text": "Obliger les médecins à s'installer là où l'offre de soins manque, en régulant leur liberté d'installation.",
   "short": "Réguler l'installation des médecins",
-  "help": "Il s'agit de limiter les installations de médecins là où ils sont déjà nombreux, ou de les obliger à exercer là où ils manquent. Les seules aides ou primes à l'installation ne sont pas comptées ici."
+  "help": "Il s'agit de limiter les installations de médecins là où ils sont déjà nombreux, ou de les obliger à exercer là où ils manquent. Les seules aides ou primes à l'installation ne sont pas comptées ici.",
+  "core": true
  },
  {
   "id": "q22",
   "theme": "Protection sociale et famille",
   "text": "Réserver certaines aides sociales aux Français, ou les conditionner pour les étrangers à plusieurs années de résidence.",
   "short": "Aides sociales conditionnées à la nationalité",
-  "help": "Les aides sociales non contributives sont versées sans avoir cotisé (RSA, allocations familiales, aides au logement…). La proposition : les réserver aux Français, ou exiger des étrangers plusieurs années de résidence ou de travail avant d'y avoir droit."
+  "help": "Les aides sociales non contributives sont versées sans avoir cotisé (RSA, allocations familiales, aides au logement…). La proposition : les réserver aux Français, ou exiger des étrangers plusieurs années de résidence ou de travail avant d'y avoir droit.",
+  "core": true
  },
  {
   "id": "q23",
   "theme": "Europe, international et défense",
   "text": "Augmenter fortement le budget de la défense.",
   "short": "Augmenter le budget de la défense",
-  "help": "Il s'agit d'augmenter nettement les dépenses militaires : équipements, munitions, effectifs, ou un objectif chiffré de budget."
+  "help": "Il s'agit d'augmenter nettement les dépenses militaires : équipements, munitions, effectifs, ou un objectif chiffré de budget.",
+  "core": true
  },
  {
   "id": "q24",
   "theme": "Agriculture et alimentation",
   "text": "Interdire le glyphosate.",
   "short": "Interdire le glyphosate",
-  "help": "Le glyphosate est un herbicide très utilisé en agriculture. « D'accord » : l'interdire, ou fixer une date de sortie de tous les pesticides de synthèse."
+  "help": "Le glyphosate est un herbicide très utilisé en agriculture. « D'accord » : l'interdire, ou fixer une date de sortie de tous les pesticides de synthèse.",
+  "core": true
  },
  {
   "id": "q25",
   "theme": "Logement et territoires",
   "text": "Supprimer l'obligation pour les communes d'avoir 20 à 25 % de logements sociaux (loi SRU).",
   "short": "Supprimer les quotas de logements sociaux",
-  "help": "La loi SRU impose à la plupart des communes urbaines d'atteindre 20 % ou 25 % de logements sociaux, sous peine de pénalités financières."
+  "help": "La loi SRU impose à la plupart des communes urbaines d'atteindre 20 % ou 25 % de logements sociaux, sous peine de pénalités financières.",
+  "core": false
  },
  {
   "id": "q26",
   "theme": "Institutions et démocratie",
   "text": "Changer de Constitution, par une assemblée constituante, pour passer à une nouvelle République.",
   "short": "Nouvelle Constitution par une constituante",
-  "help": "La Constitution actuelle date de 1958 (la Ve République). Une assemblée constituante, élue ou tirée au sort, serait chargée d'en écrire une nouvelle, généralement soumise ensuite à référendum. Réviser la Constitution actuelle ne compte pas ici."
+  "help": "La Constitution actuelle date de 1958 (la Ve République). Une assemblée constituante, élue ou tirée au sort, serait chargée d'en écrire une nouvelle, généralement soumise ensuite à référendum. Réviser la Constitution actuelle ne compte pas ici.",
+  "core": true
  },
  {
   "id": "q27",
   "theme": "Santé",
   "text": "Supprimer les agences régionales de santé (ARS).",
   "short": "Supprimer les ARS",
-  "help": "Les agences régionales de santé (ARS), créées en 2010, organisent l'offre de soins et pilotent les hôpitaux dans chaque région pour le compte de l'État."
+  "help": "Les agences régionales de santé (ARS), créées en 2010, organisent l'offre de soins et pilotent les hôpitaux dans chaque région pour le compte de l'État.",
+  "core": true
  },
  {
   "id": "q28",
   "theme": "Économie, fiscalité et dette",
   "text": "Faire baisser par décision de l'État le prix des carburants (blocage des prix ou baisse des taxes).",
   "short": "Baisser le prix des carburants",
-  "help": "Les taxes (accise sur l'énergie et TVA) représentent une large part du prix à la pompe. La proposition : faire baisser ce prix par une décision publique, en le bloquant ou en réduisant ces taxes."
+  "help": "Les taxes (accise sur l'énergie et TVA) représentent une large part du prix à la pompe. La proposition : faire baisser ce prix par une décision publique, en le bloquant ou en réduisant ces taxes.",
+  "core": false
  },
  {
   "id": "q29",
   "theme": "École et jeunesse",
   "text": "Faire entrer les écoles privées sous contrat dans la carte scolaire, ou moduler leurs financements selon leur mixité sociale.",
   "short": "Écoles privées et mixité sociale",
-  "help": "Les écoles privées sous contrat sont largement financées par l'État, qui paie leurs enseignants, mais elles choisissent leurs élèves en dehors de la carte scolaire, qui affecte les élèves du public selon leur domicile."
+  "help": "Les écoles privées sous contrat sont largement financées par l'État, qui paie leurs enseignants, mais elles choisissent leurs élèves en dehors de la carte scolaire, qui affecte les élèves du public selon leur domicile.",
+  "core": false
  },
  {
   "id": "q30",
   "theme": "Travail, salaires et retraites",
   "text": "Réduire la durée d'indemnisation du chômage, ou la supprimer après des refus d'offres d'emploi.",
   "short": "Durcir l'assurance chômage",
-  "help": "L'assurance chômage verse une allocation aux personnes qui ont perdu leur emploi, pendant une durée liée à leur temps de travail passé. Il s'agit de raccourcir cette durée, de réduire l'allocation avec le temps, ou de la supprimer après des refus d'offres d'emploi."
+  "help": "L'assurance chômage verse une allocation aux personnes qui ont perdu leur emploi, pendant une durée liée à leur temps de travail passé. Il s'agit de raccourcir cette durée, de réduire l'allocation avec le temps, ou de la supprimer après des refus d'offres d'emploi.",
+  "core": false
  },
  {
   "id": "q31",
   "theme": "Société et libertés",
   "text": "Interdire les signes religieux visibles aux usagers de certains services publics, comme l'université ou l'hôpital.",
   "short": "Signes religieux à l'université, à l'hôpital",
-  "help": "Depuis 2004, les élèves des écoles, collèges et lycées publics ne peuvent pas porter de signes religieux ostensibles. Les étudiants et les patients des hôpitaux le peuvent. La proposition étendrait l'interdiction à ces usagers."
+  "help": "Depuis 2004, les élèves des écoles, collèges et lycées publics ne peuvent pas porter de signes religieux ostensibles. Les étudiants et les patients des hôpitaux le peuvent. La proposition étendrait l'interdiction à ces usagers.",
+  "core": true
  },
  {
   "id": "q32",
   "theme": "Numérique, médias et culture",
   "text": "Interdire les réseaux sociaux aux moins de 15 ans.",
   "short": "Réseaux sociaux interdits avant 15 ans",
-  "help": "Il s'agit d'interdire l'inscription et l'usage des réseaux sociaux aux enfants de moins de 15 ans."
+  "help": "Il s'agit d'interdire l'inscription et l'usage des réseaux sociaux aux enfants de moins de 15 ans.",
+  "core": false
+ },
+ {
+  "id": "q33",
+  "theme": "Sécurité et justice",
+  "text": "Instaurer des peines minimales obligatoires (« peines planchers »), au moins pour les récidivistes.",
+  "short": "Peines planchers",
+  "help": "Une peine plancher est une peine minimale que le juge doit prononcer, sauf décision motivée. Elles ont existé en France de 2007 à 2014 pour les récidivistes ; aujourd'hui, le juge fixe la peine librement, sous le maximum prévu par la loi.",
+  "core": false
+ },
+ {
+  "id": "q34",
+  "theme": "Sécurité et justice",
+  "text": "Instaurer une présomption de légitime défense pour les policiers et les gendarmes.",
+  "short": "Présomption de légitime défense des forces de l'ordre",
+  "help": "Aujourd'hui, un policier ou un gendarme qui utilise son arme doit, comme tout le monde, pouvoir montrer que les conditions de la légitime défense ou de l'usage autorisé des armes étaient réunies. Une présomption inverserait la charge : la légitime défense serait supposée, sauf preuve contraire.",
+  "core": false
+ },
+ {
+  "id": "q35",
+  "theme": "Sécurité et justice",
+  "text": "Construire un grand nombre de nouvelles places de prison.",
+  "short": "Nouvelles places de prison",
+  "help": "Les prisons françaises comptent plus de détenus que de places, d'où une surpopulation. Deux réponses sont souvent opposées : construire davantage de places, ou réduire le recours à l'incarcération.",
+  "core": true
+ },
+ {
+  "id": "q36",
+  "theme": "Sécurité et justice",
+  "text": "Recréer une police de proximité, présente au quotidien dans les quartiers.",
+  "short": "Police de proximité",
+  "help": "La police de proximité, mise en place à partir de 1998 puis abandonnée pour l'essentiel à partir de 2003, affectait des agents à un quartier fixe pour y patrouiller, connaître les habitants et prévenir la délinquance, plutôt que d'intervenir surtout après les faits.",
+  "core": true
+ },
+ {
+  "id": "q37",
+  "theme": "Sécurité et justice",
+  "text": "Rendre les procureurs indépendants du gouvernement, pour leur nomination comme pour leurs instructions.",
+  "short": "Indépendance des procureurs",
+  "help": "Les procureurs (le parquet) décident des poursuites. Ils sont nommés sur proposition du ministre de la Justice et lui sont rattachés hiérarchiquement, même si le ministre ne peut plus leur donner d'instruction dans une affaire précise depuis 2013. Les juges qui jugent (le siège) sont, eux, indépendants.",
+  "core": false
+ },
+ {
+  "id": "q38",
+  "theme": "Société et libertés",
+  "text": "Légaliser le cannabis, avec une production et une vente encadrées par l'État.",
+  "short": "Légalisation du cannabis",
+  "help": "La production, la vente et la consommation de cannabis sont interdites en France, hors usage médical encadré. Légaliser permettrait sa vente aux adultes dans un cadre fixé par la loi, comme pour l'alcool ou le tabac.",
+  "core": false
+ },
+ {
+  "id": "q39",
+  "theme": "Société et libertés",
+  "text": "Légaliser l'aide active à mourir (suicide assisté ou euthanasie), sous conditions strictes.",
+  "short": "Aide active à mourir",
+  "help": "La loi Claeys-Leonetti de 2016 permet d'arrêter les traitements et, en toute fin de vie, une sédation profonde jusqu'au décès. L'aide active à mourir irait plus loin : permettre, sous conditions, qu'une personne malade reçoive ou s'administre un produit mortel.",
+  "core": true
+ },
+ {
+  "id": "q40",
+  "theme": "Société et libertés",
+  "text": "Interdire la corrida.",
+  "short": "Interdiction de la corrida",
+  "help": "Les sévices envers les animaux sont punis par la loi, mais la corrida reste autorisée dans les communes où existe une « tradition locale ininterrompue », surtout dans le sud de la France.",
+  "core": false
+ },
+ {
+  "id": "q41",
+  "theme": "Protection sociale et famille",
+  "text": "Verser des allocations familiales dès le premier enfant.",
+  "short": "Allocations familiales dès le premier enfant",
+  "help": "En métropole, les allocations familiales ne sont versées qu'à partir du deuxième enfant, et leur montant baisse pour les revenus les plus élevés.",
+  "core": false
+ },
+ {
+  "id": "q42",
+  "theme": "Protection sociale et famille",
+  "text": "Ouvrir le RSA, ou un revenu minimum, aux jeunes dès 18 ans.",
+  "short": "RSA dès 18 ans",
+  "help": "Le RSA n'est en principe ouvert qu'à partir de 25 ans ; avant, seulement aux jeunes parents ou à ceux qui ont déjà beaucoup travaillé. Les jeunes ont accès à d'autres aides, comme le contrat d'engagement jeune, liées à un accompagnement.",
+  "core": false
+ },
+ {
+  "id": "q43",
+  "theme": "Protection sociale et famille",
+  "text": "Conditionner le RSA à des heures d'activité chaque semaine (travail, formation, insertion).",
+  "short": "Heures d'activité en échange du RSA",
+  "help": "Depuis 2025, les allocataires du RSA sont inscrits à France Travail et doivent en principe faire au moins 15 heures d'activités par semaine (formation, stages, démarches), avec des aménagements selon leur situation. Certains veulent renforcer ces contreparties, d'autres les supprimer.",
+  "core": true
+ },
+ {
+  "id": "q44",
+  "theme": "Numérique, médias et culture",
+  "text": "Privatiser l'audiovisuel public (France Télévisions, Radio France…).",
+  "short": "Privatisation de l'audiovisuel public",
+  "help": "France Télévisions, Radio France, France Médias Monde et l'INA appartiennent à l'État et sont financés par l'argent public depuis la suppression de la redevance en 2022. Les privatiser signifierait les vendre à des acteurs privés.",
+  "core": true
+ },
+ {
+  "id": "q45",
+  "theme": "Numérique, médias et culture",
+  "text": "Limiter par la loi la concentration des médias entre les mains de grands groupes.",
+  "short": "Anti-concentration des médias",
+  "help": "Plusieurs grands médias privés appartiennent à quelques groupes industriels ou financiers. Une loi de 1986 limite déjà certaines concentrations, surtout à la télévision et à la radio ; la question est de la rendre plus stricte.",
+  "core": true
+ },
+ {
+  "id": "q46",
+  "theme": "Santé",
+  "text": "Rembourser intégralement les soins par la Sécurité sociale, en y intégrant les complémentaires santé (mutuelles).",
+  "short": "Sécurité sociale à 100 %",
+  "help": "L'Assurance maladie rembourse une partie des soins ; le reste est payé par une complémentaire santé (mutuelle ou assurance) ou par le patient. L'idée est que la Sécurité sociale prenne tout en charge, ce qui rendrait les complémentaires inutiles pour ces soins.",
+  "core": false
+ },
+ {
+  "id": "q47",
+  "theme": "Travail, salaires et retraites",
+  "text": "Instaurer ou allonger les jours de carence (non indemnisés) en cas d'arrêt maladie.",
+  "short": "Jours de carence",
+  "help": "En cas d'arrêt maladie, les premiers jours ne sont pas indemnisés par la Sécurité sociale : trois jours dans le privé, un jour dans la fonction publique. Dans le privé, beaucoup d'employeurs compensent ces jours.",
+  "core": false
+ },
+ {
+  "id": "q48",
+  "theme": "Logement et territoires",
+  "text": "Supprimer l'interdiction de louer les logements mal classés au diagnostic de performance énergétique (DPE).",
+  "short": "Fin de l'interdiction de louer les « passoires thermiques »",
+  "help": "La loi Climat et résilience de 2021 interdit progressivement de mettre en location les logements les moins bien classés au DPE : la classe G depuis 2025, puis F et E selon le calendrier prévu (2028 et 2034). L'objectif est de pousser à la rénovation énergétique.",
+  "core": false
+ },
+ {
+  "id": "q49",
+  "theme": "Logement et territoires",
+  "text": "Accélérer et faciliter l'expulsion des squatteurs.",
+  "short": "Expulsion des squatteurs",
+  "help": "Depuis la loi « anti-squat » de 2023 (loi Kasbarian), le squat est puni plus sévèrement et le préfet peut, dans certaines conditions, faire évacuer un logement occupé illégalement sans passer par un juge. Cette loi a aussi accéléré les procédures contre les locataires en impayés.",
+  "core": true
+ },
+ {
+  "id": "q50",
+  "theme": "Économie, fiscalité et dette",
+  "text": "Ne pas remplacer une partie des fonctionnaires qui partent à la retraite, pour réduire leur nombre.",
+  "short": "Moins de fonctionnaires",
+  "help": "La France compte près de 6 millions d'agents publics (État, collectivités, hôpitaux). Ne pas remplacer certains départs à la retraite réduit leur nombre sans licenciement.",
+  "core": false
  }
 ]

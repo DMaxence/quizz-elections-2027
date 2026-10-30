@@ -125,6 +125,57 @@
         }
       ],
       "note": "Propose de réécrire la loi et, si nécessaire, de la soumettre à référendum."
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Mettre en place des peines planchers pour les infractions les plus graves, en particulier lorsqu'elles portent atteinte à l'intégrité physique des personnes dépositaires de l'autorité publique et des professeurs.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+          "page": null
+        }
+      ],
+      "note": "Pour les infractions les plus graves."
+    },
+    "q37": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Renforcer l'autorité du Garde des Sceaux sur le parquet, notamment par la possibilité d'adresser des instructions individuelles aux procureurs.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-s-dbcc966a",
+          "page": null
+        }
+      ]
+    },
+    "q41": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Créer une allocation familiale unique dès le premier enfant, à hauteur de 350€, en fusionnant les dispositifs existants trop complexes et trop éparpillés, dégressive avec le revenu.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-a-18f636b4",
+          "page": null
+        }
+      ]
+    },
+    "q47": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Lutter contre l’open bar des arrêts maladies : 3 jours de carence pour tout le monde, dans le privé comme le public.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ]
+    },
+    "q50": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Supprimer un tiers des fonctionnaires partant à la retraite, soit plus de 250 000 postes sur le quinquennat.",
+          "source_id": "priorit-s-pour-la-pr-sidentielle-2027-pour-une-france-plus-p-e9a8533c",
+          "page": null
+        }
+      ]
     }
   }
 }

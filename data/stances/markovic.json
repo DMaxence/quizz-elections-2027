@@ -32,6 +32,16 @@
         }
       ],
       "note": "Mesure du programme européen 2024 du Parti animaliste."
+    },
+    "q40": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Interdire la corrida et les combats de coqs.",
+          "source_id": "programme-national-du-parti-animaliste-sauver-les-animaux-et-5e90dd2c",
+          "page": null
+        }
+      ]
     }
   }
 }

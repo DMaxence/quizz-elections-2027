@@ -140,6 +140,58 @@
           "page": null
         }
       ]
+    },
+    "q33": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous rétablirons des peines planchers pour les auteurs récidivistes de ces mêmes infractions, avec des planchers augmentant à chaque nouvelle récidive",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Vise les auteurs récidivistes d’atteintes violentes aux personnes."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sur le plan de la prévention, l’augmentation des budgets de la police permettra de remettre en place une police de proximité dans les quartiers, qui a prouvé son efficacité.",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q41": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Pour ce faire, nous donnerons accès aux allocations familiales dès le premier enfant à charge",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous reconnaîtrons le rôle et la responsabilité des médias en tant que « quatrième pouvoir », et nous interdirons en conséquence la concentration des médias dans les mains de grands groupes.",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ]
+    },
+    "q49": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Le droit de propriété et le droit à la préservation de son logement seront également défendus contre les abus de certains locataires, et contre les atteintes inacceptables comme le squat : le délai de flagrance pour expulser les squatters sur simple recours à la force publique sera prolongé pour passer de 48 heures à 7 jours.",
+          "source_id": "programme-de-lib-ration-nationale-de-l-upr-et-de-fran-ois-as-2b00218e",
+          "page": null
+        }
+      ],
+      "note": "Prévoit aussi une procédure judiciaire accélérée pour l’expulsion des squatteurs."
     }
   }
 }

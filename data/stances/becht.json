@@ -84,6 +84,68 @@
           "page": 3
         }
       ]
+    },
+    "q34": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous protégerons enfin les policiers agissant en légitime défense, pour qu’ils puissent exercer leur mission sans craindre d’être eux-mêmes mis en cause.",
+          "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+          "page": null
+        }
+      ],
+      "note": "Protection légale des policiers agissant en légitime défense, sans parler de présomption."
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "nous créerons davantage de places dans des prisons de haute sécurité",
+          "source_id": "le-projet-france-2027-les-5-refondations-la-s-curit-99085195",
+          "page": null
+        },
+        {
+          "quote": "accélérerons la construction de petites prisons modulaires",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+          "page": 5
+        }
+      ]
+    },
+    "q41": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous soutiendrons la natalité par des allocations familiales dès le premier enfant, mais plafonnées au-delà du cinquième",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+          "page": 3
+        }
+      ]
+    },
+    "q43": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Sans poste, le salaire de base est maintenu, mais la personne doit alors se former, ou, si l’emploi tarde malgré tout, consacrer vingt-cinq heures par semaine au service d’une collectivité ou d’une association.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+          "page": 9
+        },
+        {
+          "quote": "le CDI universel remplace justement l’assurance chômage, le revenu de solidarité et les aides au logement",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-ff675a9e",
+          "page": 9
+        }
+      ],
+      "note": "Le « CDI universel », qui remplacerait le RSA, prévoit formation ou 25 heures hebdomadaires d’activité en l’absence d’emploi."
+    },
+    "q49": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Nous autoriserons aussi les saisies civiles automatiques, comme au pénal, et le concours automatique de la force publique pour expulser les squatteurs.",
+          "source_id": "le-projet-france-livre-programme-d-olivier-becht-2026-partie-1edc8488",
+          "page": 5
+        }
+      ]
     }
   }
 }

@@ -224,6 +224,139 @@
           "page": 12
         }
       ]
+    },
+    "q34": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger la loi Cazeneuve sur le refus d’obtempérer, dite « permis de tuer »",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 18
+        }
+      ],
+      "note": "Propose d’abroger la loi encadrant l’usage des armes par les policiers en cas de refus d’obtempérer."
+    },
+    "q35": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "en finir avec la surpopulation carcérale par la mise en place d’un mécanisme contraignant de régulation carcérale",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 31
+        }
+      ],
+      "note": "Propose un mécanisme contraignant de régulation carcérale contre la surpopulation ; aucune construction de places mentionnée."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rétablir la police de proximité et démanteler les BAC (brigades anticriminalité) et les BRAV-M",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 31
+        }
+      ]
+    },
+    "q38": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Légaliser et encadrer par un monopole d’État la consommation, la production et la vente de cannabis à des fins récréatives",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 56
+        }
+      ]
+    },
+    "q39": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Ajouter le droit de mourir dans la dignité (y compris avec assistance) et l’accès garanti à des soins palliatifs dans la Constitution",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 17
+        }
+      ]
+    },
+    "q40": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Interdire les pratiques de chasse et de « loisirs » cruelles pour les animaux (déterrage, chasses à courre, corrida, exploitation des animaux sauvages dans les cirques et les delphinariums, etc.)",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 54
+        }
+      ]
+    },
+    "q42": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Créer une garantie d’autonomie pour tous les jeunes détaché·es du foyer fiscal de leurs parents afin qu’aucun·e ne vive en dessous du seuil de pauvreté",
+          "source_id": "plan-th-matique-2027-comment-nous-allons-refonder-l-enseigne-63312f8d",
+          "page": 13
+        }
+      ],
+      "note": "Garantie d’autonomie pour les jeunes détachés du foyer fiscal de leurs parents, au niveau du seuil de pauvreté."
+    },
+    "q43": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger la loi France Travail et l’obligation de réaliser 15h d’activités hebdomadaires contre le revenu de remplacement (allocation-chômage, RSA, ASS, etc.)",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 35
+        }
+      ]
+    },
+    "q44": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Garantir l’indépendance, le pluralisme et le financement de l’audiovisuel public en instaurant une contribution audiovisuelle dédiée, universelle et progressive",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 13
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Adopter une loi anti-concentration dans les médias et engager leur démocratisation",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 14
+        }
+      ]
+    },
+    "q46": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits et en intégrant les mutuelles dans la Sécurité sociale",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 55
+        }
+      ]
+    },
+    "q48": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Mettre fin aux situations de précarité énergétique : privilégier les rénovations complètes, interdire réellement la location des passoires thermiques",
+          "source_id": "plan-d-investissement-productif-2027-btp-et-logement-39c0f0e8",
+          "page": 17
+        }
+      ]
+    },
+    "q49": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger la loi Kasbarian de criminalisation des locataires",
+          "source_id": "l-avenir-en-commun-programme-de-la-france-insoumise-4e-ditio-da9f7340",
+          "page": 30
+        }
+      ]
     }
   }
 }

@@ -224,6 +224,111 @@
           "page": 21
         }
       ]
+    },
+    "q34": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Réviser la loi du 28 février 2017 relative à la sécurité publique qui encadre les conditions d’ouverture du feu par les forces de l’ordre en cas de refus d’obtempérer, afin qu’elles soient conformes aux conditions de la légitime défense",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+          "page": 1
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q35": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rénover l’ensemble du parc pénitentiaire en plus d’un effort de construction de nouvelles places pour garantir la dignité de la détention.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+          "page": 1
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS) : Place publique évoque seulement des « prisons rénovées et dignes », sans parler de nouvelles places. Pas d’objectif chiffré."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Faire renaître une police de proximité moderne, ancrée localement, centrée sur la prévention, la médiation et la résolution de conflits.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 60
+        }
+      ]
+    },
+    "q37": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Garantir l’indépendance de l’autorité judiciaire en renforçant les pouvoirs de nomination et de discipline du Conseil Supérieur de la magistrature (CSM) à l’égard du Parquet et en substituant notamment l’avis simple par un avis conforme du CSM pour la nomination de tous les magistrats du parquet.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+          "page": 1
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point. Porte sur la nomination des magistrats du parquet ; les instructions ne sont pas mentionnées."
+    },
+    "q39": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Adopter d’urgence la proposition de loi instaurant un droit à la fin de vie libre […] accompagner le corps médical durant tout le parcours d’aide à mourir",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-81c8ca4c",
+          "page": 1
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q42": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Ouvrir une grande conférence sociale pour aller vers un minimum social unique, accessible à toutes et tous, y compris pour les moins de 25 ans",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 53
+        }
+      ]
+    },
+    "q43": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Refonder le RSA pour en garantir l’inconditionnalité et l’automaticité.",
+          "source_id": "projet-socialiste-adopt-par-les-militants-ps-le-25-juin-2026-d4fac8d0",
+          "page": 1
+        }
+      ],
+      "note": "Position tirée du Projet socialiste (document du PS), les textes de Place publique étant muets sur ce point."
+    },
+    "q44": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Renforcer le service public de l’audiovisuel et l’indépendance des médias",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 47
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Garantir un véritable pluralisme des médias en réformant la loi de 1986 pour limiter leur concentration.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 47
+        }
+      ]
+    },
+    "q49": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "abroger la loi Kasbarian au profit d’un dispositif plus équilibré, combinant indemnisation rapide des bailleurs en cas d’impayés et accompagnement renforcé des locataires.",
+          "source_id": "l-acte-i-projet-de-place-publique-pour-la-france-3898722a",
+          "page": 64
+        }
+      ]
     }
   }
 }

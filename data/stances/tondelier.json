@@ -299,6 +299,162 @@
           "page": 172
         }
       ]
+    },
+    "q34": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger les dispositions de la loi Cazeneuve sur l’ouverture du feu pour que cessent les morts pour refus d’obtempérer et que soit respectée la condition d’absolue nécessité.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 165
+        }
+      ],
+      "note": "Propose d'abroger les règles d'ouverture du feu issues de la loi Cazeneuve."
+    },
+    "q35": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Adopter un moratoire sur la construction de nouvelles places de prison en dehors de celles destinées à remplacer les prisons insalubres.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 170
+        }
+      ],
+      "note": "Propose aussi un numerus clausus carcéral."
+    },
+    "q36": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Créer une police nationale de proximité visant à rétablir un lien quotidien et permanent avec la population",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 164
+        }
+      ]
+    },
+    "q37": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rendre indépendant statutairement et fonctionnellement le parquet en alignant les conditions de nomination, d’avancement et les procédures disciplinaires des magistrats du parquet sur celles des magistrats du siège",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 160
+        }
+      ]
+    },
+    "q38": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Légaliser et encadrer la production, la vente et la consommation de cannabis.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 184
+        }
+      ],
+      "note": "Distribution réservée à des structures à but non lucratif."
+    },
+    "q39": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Instaurer un droit à mourir dans la dignité par l’adoption des deux lois sur la fin de vie. Permettre l’accès universel aux soins palliatifs et légaliser l’aide active à mourir",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 130
+        }
+      ]
+    },
+    "q40": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Interdire les pratiques cruelles pour les animaux : corrida, combats de coq, gavage, étourdissement des porcs au CO2… Interdire les écoles taurines.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 37
+        }
+      ]
+    },
+    "q41": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Réformer les allocations familiales pour attribuer un même montant dès le premier enfant.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 124
+        }
+      ]
+    },
+    "q42": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Rendre cette garantie accessible dès 18 ans pour les personnes indépendantes fiscalement.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 119
+        }
+      ],
+      "note": "« Garantie d'autonomie » remplaçant le RSA, ouverte dès 18 ans aux personnes indépendantes fiscalement."
+    },
+    "q43": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "En finir avec la logique de stigmatisation en supprimant la contrepartie de 15 heures d’activités hebdomadaires.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 119
+        }
+      ]
+    },
+    "q44": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Défendre l’indépendance de l’audiovisuel public. Instaurer des modalités de financement pérennes, justes et durables.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 175
+        }
+      ]
+    },
+    "q45": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Adopter une loi anti-concentration […] qui interdit à un groupe de détenir plus de deux titres de presse nationale, une chaîne de télévision nationale et une radio nationale",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 175
+        }
+      ]
+    },
+    "q46": {
+      "stance": "pour",
+      "quotes": [
+        {
+          "quote": "Garantir un remboursement total des soins essentiels nécessaires au maintien de l’autonomie et de la qualité de vie par la prise en charge à 100 % par l’Assurance maladie. Supprimer les franchises. Concentrer la couverture par les mutuelles aux seuls soins optionnels.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 111
+        }
+      ],
+      "note": "Prise en charge à 100 % des soins essentiels ; les mutuelles limitées aux soins optionnels."
+    },
+    "q48": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Maintenir l'interdiction de la remise en location des logements classés F en 2028 et E en 2034",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 21
+        }
+      ],
+      "note": "Exceptions envisagées pour les petits propriétaires, sous condition de baisse de loyer et de travaux."
+    },
+    "q49": {
+      "stance": "contre",
+      "quotes": [
+        {
+          "quote": "Abroger la loi Kasbarian qui criminalise les locataires.",
+          "source_id": "projet-2027-programme-des-cologistes-557-mesures-2fafd160",
+          "page": 20
+        }
+      ]
     }
   }
 }
