@@ -268,6 +268,8 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
     .board__name { min-height: 34svh; padding: 18px; }
     .board__word { font-size: 22vw; }
     .board__photo { aspect-ratio: 4 / 3; }
+    /* on a phone the start button comes before the photograph, on the first screen */
+    .board__photo--a { order: 1; }
     .board__photo--b { display: none; }
     .board__pair { gap: 6px; }
     .board__pair > p, .board__go { min-height: 44vw; padding: 16px; }

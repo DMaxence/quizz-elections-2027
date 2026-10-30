@@ -44,6 +44,12 @@ const {
     )}
     <slot />
     <Footer />
+    {import.meta.env.PROD && (
+      <script is:inline>
+        // offline copy of the site for the metro: see public/sw.js
+        if ("serviceWorker" in navigator) navigator.serviceWorker.register("/sw.js").catch(() => {});
+      </script>
+    )}
     <script>
       // Staggered entrance for anything marked [data-rise]; content stays visible if this never runs.
       const els = document.querySelectorAll<HTMLElement>("[data-rise]");

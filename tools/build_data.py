@@ -11,6 +11,8 @@ import pathlib
 import shutil
 import unicodedata
 
+from PIL import Image
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "src" / "data"
 PHOTOS_OUT = ROOT / "site" / "public" / "photos"
@@ -43,7 +45,11 @@ def main():
         for ext in ("jpg", "png"):
             src = ROOT / "data/photos" / f"{c['slug']}.{ext}"
             if src.exists():
-                shutil.copy(src, PHOTOS_OUT / src.name)
+                # largest use is the top-match card (~22rem wide); 480px covers it on a phone at 2x
+                with Image.open(src) as im:
+                    im = im.convert("RGB")
+                    im.thumbnail((480, 640))
+                    im.save(PHOTOS_OUT / src.name, "JPEG", quality=72, optimize=True, progressive=True)
                 photo = f"/photos/{src.name}"
         cr = credits.get(c["slug"])
         candidates.append({
