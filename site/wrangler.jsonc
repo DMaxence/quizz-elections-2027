@@ -1,0 +1,9 @@
+// Cloudflare deploy (`npx wrangler deploy`, run from this folder after `npm run build`):
+// a static site, served as-is from dist/, no server code.
+{
+  "name": "isoloir",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist"
+  }
+}

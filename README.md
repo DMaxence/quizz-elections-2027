@@ -27,7 +27,7 @@ Aucun serveur, aucun cookie, aucune mesure d'audience : les réponses restent da
 (clé `isoloir:v1`). La page du quiz n'embarque que les questions ; noms, citations et liens ne sont
 chargés que sur `/resultats`.
 
-## Déploiement Cloudflare Pages
+## Déploiement Cloudflare
 Projet relié au dépôt Git : *Root directory* `site`, *Build command* `npm run build`,
-*Output directory* `dist`, variable `NODE_VERSION=22`. Ou en direct :
-`npx wrangler pages deploy site/dist --project-name isoloir`.
+*Deploy command* `npx wrangler deploy` (lit `site/wrangler.jsonc` : site statique servi depuis `dist`),
+variable `NODE_VERSION=22`. Chaque push sur `main` redéploie.
