@@ -4,6 +4,8 @@
   "name": "isoloir",
   "compatibility_date": "2026-10-01",
   "assets": {
-    "directory": "./dist"
+    "directory": "./dist",
+    // /quiz serves quiz/index.html directly, without a redirect to /quiz/
+    "html_handling": "drop-trailing-slash"
   }
 }
