@@ -28,6 +28,6 @@ Aucun serveur, aucun cookie, aucune mesure d'audience : les réponses restent da
 chargés que sur `/resultats`.
 
 ## Déploiement Cloudflare
-Projet relié au dépôt Git : *Root directory* `site`, *Build command* `npm run build`,
-*Deploy command* `npx wrangler deploy` (lit `site/wrangler.jsonc` : site statique servi depuis `dist`),
-variable `NODE_VERSION=22`. Chaque push sur `main` redéploie.
+Projet relié au dépôt Git, à la racine du dépôt : *Build command* `npm run build` (installe puis construit
+`site/`), *Deploy command* `npx wrangler deploy` (lit `wrangler.jsonc` : site statique servi depuis
+`site/dist`). Version de Node fixée par `.node-version`. Chaque push sur `main` redéploie.

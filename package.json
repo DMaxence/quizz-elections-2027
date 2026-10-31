@@ -1,0 +1,8 @@
+{
+  "name": "isoloir",
+  "private": true,
+  "description": "Builds the static site in site/ so Cloudflare can deploy from the repository root.",
+  "scripts": {
+    "build": "npm ci --prefix site && npm run build --prefix site"
+  }
+}

@@ -1,0 +1,10 @@
+// Cloudflare deploy from the repository root (`npm run build` then `npx wrangler deploy`):
+// a static site, served as-is from site/dist/, no server code. site/wrangler.jsonc does the
+// same when the Cloudflare project uses `site` as its root directory.
+{
+  "name": "isoloir",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./site/dist"
+  }
+}
