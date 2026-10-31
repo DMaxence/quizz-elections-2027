@@ -1,6 +1,8 @@
 ---
 import Base from "../layouts/Base.astro";
 import all from "../data/questions.json";
+import meta from "../data/meta.json";
+import { frDate } from "../lib/date";
 // Only the questions ship to this page: no names, no quotes, no source links.
 // The short version's questions come first, so the full version simply continues it.
 const questions = [...all.filter((q) => q.core), ...all.filter((q) => !q.core)];
@@ -11,6 +13,7 @@ const nCore = all.filter((q) => q.core).length;
     <div class="quiz__side">
       <h1 class="quiz__h" data-rise="0">Le quiz</h1>
       <p class="small muted">Répondez à chaque proposition pour elle-même. Vous pouvez revenir en arrière, passer une question, ou vous arrêter : vos réponses restent dans ce navigateur.</p>
+      <p class="small muted">Version du <time datetime={meta.version}>{frDate(meta.version)}</time>.</p>
       <p class="quiz__pos nums" aria-live="polite"><span data-pos>1</span> sur <span data-total>{questions.length}</span></p>
       <div class="quiz__meter" aria-hidden="true"><span data-meter></span></div>
       <figure class="quiz__photo">
@@ -32,7 +35,7 @@ const nCore = all.filter((q) => q.core).length;
           <span class="pick__desc">Une vingtaine de minutes. Toutes les propositions, pour un résultat plus précis.</span>
         </button>
       </div>
-      <p class="small muted">La version courte peut être prolongée à la fin, sans perdre vos réponses.</p>
+      <p class="small muted">La version courte peut être prolongée à la fin, sans perdre vos réponses. Questions et positions des candidats à jour au <time datetime={meta.version}>{frDate(meta.version)}</time>.</p>
     </section>
 
     <form class="ballot" data-core={nCore} data-questions={JSON.stringify(questions)} onsubmit="return false">

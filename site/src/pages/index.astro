@@ -3,6 +3,8 @@ import Base from "../layouts/Base.astro";
 import candidates from "../data/candidates.json";
 import questions from "../data/questions.json";
 import results from "../data/results.json";
+import meta from "../data/meta.json";
+import { frDate, frDateShort } from "../lib/date";
 
 const STATUS = {
   officiel: "Programme 2027 publié",
@@ -75,7 +77,7 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
             <p>{cap(say(nCore))} propositions, ou {say(nQuestions)} pour aller plus loin, tirées des programmes officiels. Vous ne savez pas qui les porte.</p>
             <a class="btn btn--paper" href="/quiz">Commencer</a>
           </div>
-          <p class="tile tile--field">Au dépouillement, les noms apparaissent. Premier tour le 18 avril 2027.</p>
+          <p class="tile tile--field">Au dépouillement, les noms apparaissent. Premier tour le 18 avril 2027.<span class="board__version small">Version du <time datetime={meta.version}>{frDate(meta.version)}</time></span></p>
         </div>
       </div>
     </section>
@@ -142,6 +144,9 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
                 <li class="roll__row">
                   <span class="roll__who"><span class={`dot dot--${c.status}`} aria-hidden="true"></span>{c.name}</span>
                   <span class="roll__party">{c.party}</span>
+                  {c.latest_year && c.checked && (
+                    <span class="roll__date">Dernier document : {c.latest_year} · consulté le <time datetime={c.checked}>{frDateShort(c.checked)}</time></span>
+                  )}
                   <span class="sr-only">, {STATUS[g.status]}</span>
                 </li>
               ))}
@@ -334,6 +339,8 @@ const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
   .roll__row { display: grid; gap: 0.1rem; padding-block: 9px; break-inside: avoid; }
   .roll__who { display: flex; gap: 0.7rem; align-items: baseline; font-size: 1.1875rem; }
   .roll__party { color: var(--muted); font-size: 1rem; padding-left: 1.32rem; }
+  .roll__date { color: var(--muted); font-size: 0.875rem; padding-left: 1.32rem; font-variant-numeric: lining-nums; }
+  .board__version { display: block; margin-top: 0.75rem; font-size: var(--step-small); }
   @media (max-width: 60em) {
     .roll__h { text-indent: 0; font-size: 9.5vw; }
     .roll__body { margin-top: 48px; }

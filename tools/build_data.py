@@ -6,6 +6,8 @@
 
 Usage: tools/.venv/bin/python tools/build_data.py
 """
+import datetime
+import hashlib
 import json
 import pathlib
 import shutil
@@ -52,6 +54,7 @@ def main():
                     im.save(PHOTOS_OUT / src.name, "JPEG", quality=72, optimize=True, progressive=True)
                 photo = f"/photos/{src.name}"
         cr = credits.get(c["slug"])
+        years = [int(s["year"]) for s in sources if str(s.get("year", "")).isdigit()]
         candidates.append({
             "slug": c["slug"],
             "name": c["name"],
@@ -62,6 +65,9 @@ def main():
             "photo": photo,
             "photo_credit": (f"{cr['author']}, {cr['licence']}" if cr and photo else None),
             "photo_page": (cr["commons_page"] if cr and photo else None),
+            # year of the most recent archived document, and the last day the sources were consulted
+            "latest_year": max(years) if years else None,
+            "checked": max((s["retrieved_at"][:10] for s in sources), default=None),
             "sources": [
                 {"id": s["id"], "label": s["label"], "year": s["year"], "url": s["url"],
                  "official_2027": s["official_2027_program"], "retrieved_at": s["retrieved_at"][:10],
@@ -98,7 +104,17 @@ def main():
         [{k: q[k] for k in ("id", "theme", "text", "short", "help", "core") if k in q} for q in questions],
         ensure_ascii=False, indent=1))
     (OUT / "results.json").write_text(json.dumps({"stances": stances}, ensure_ascii=False, indent=1))
+    # The quiz's version date moves only when what users see changes (questions, positions, candidates).
+    meta_path = OUT / "meta.json"
+    content = "".join((OUT / f).read_text() for f in ("candidates.json", "questions.json", "results.json"))
+    digest = hashlib.sha256(content.encode()).hexdigest()
+    meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+    if meta.get("digest") != digest:
+        meta = {"version": datetime.date.today().isoformat(), "digest": digest}
+        meta_path.write_text(json.dumps(meta, indent=1) + "\n")
+
     n_quotes = sum(len(s.get("quotes", [])) for st in stances.values() for s in st.values())
+    print(f"version {meta['version']}")
     print(f"{len(candidates)} candidates, {len(questions)} questions ({len(core)} in the short version), {n_quotes} quotes")
     print("short version:", " ".join(sorted(core)))
 
